@@ -1,0 +1,6 @@
+.DS_Store
+data_stage1/zhwiki-20141009-pages-articles-multistream.xml
+*.o
+main
+*.swp
+questions/*.swp
