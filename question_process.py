@@ -1,16 +1,42 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 
-tf = open("stop_words.txt", "r")
-stop_words = []
-lines = tf.readlines()
-for line in lines:
-    stop_words.append(line[:-1])
-tf.close()
+from sklearn import *
 
-stop_words.append("是")
+stop_words = []
+
+num_category = 6
+
+words2num = {}
 
 wh_words = ["什么", "谁", "哪", "何时", "第几", "多少", "几", "为什么"]
+
+def build_w2n_mapping():
+    ''' build a mapping from 'word' to 'number'
+    return mapping dict to global variable words2num
+    '''
+    f = open("questions/q_all.txt", "r")
+    content_lines = f.readlines()
+    f.close()
+
+    global words2num
+    words2num = {"": 0}
+    cnt_words = 1
+    for content in content_lines:
+        for word in content.split(" "):
+            if words2num.get(word) == None:
+                words2num[word] = cnt_words
+                cnt_words += 1
+
+    print "total %d words" % cnt_words
+
+def read_stop_words():
+    global stop_words
+    tf = open("stop_words.txt", "r")
+    lines = tf.readlines()
+    tf.close()
+    stop_words = [line[:-1] for line in lines]
+    stop_words.append("是")
 
 def read_Qs(filename):
     ''' read questions from a file
@@ -19,9 +45,7 @@ def read_Qs(filename):
     f = open(filename, "r")
     lines = f.readlines()
     f.close()
-    res = []
-    for line in lines:
-        res.append(line.split(" ")[:-1])
+    res = [line.split(" ")[:-1] for line in lines]
     return res
 
 def find_wh_word_pos(line):
@@ -65,7 +89,8 @@ def gen_cent_word(line):
     return ""
 
 def gen_keywords(line):
-    '''generate keywords for a question
+    ''' generate keywords for a question
+    return a list of keywords
     '''
     l = len(line)
 
@@ -94,20 +119,88 @@ def gen_keywords(line):
     # other words
     for i in range(l):
         word = line[i].split("/")[0]
-        if not (line[i] in ret) and not (word in stop_words):
+        if not line[i] in ret and not word in stop_words:
             ret.append(line[i])
 
     return ret
 
-def main():
-    Qs = read_Qs("questions/q_facts_segged.txt")
+def gen_q_features(line):
+    ''' generate feature vectors of a question
+    return a list of numeric values
+    '''
+    global words2num
+
+    # wh-word
+    wh_pos = find_wh_word_pos(line)[0]
+    ret = [words2num[line[wh_pos]] if wh_pos > -1 else 0]
+
+    # central word
+    ret.append(words2num[gen_cent_word(line)])
+
+    # # other words
+    # words = [w for w in line]
+    # num_words = len(words2num)
+    # for i in range(num_words):
+    #     if words2num.items()[i][0] in words:
+    #         ret.append(1)
+    #     else:
+    #         ret.append(0)
+
+    return ret
+
+def init():
+    read_stop_words()
+    build_w2n_mapping()
+
+def train_clf():
+    f = open("questions/q_classified_label.txt")
+    lines = f.readlines()
+    f.close()
+    num_trainset = len(lines)
+    lbls = [[] for i in range(num_category)]
+    for line in lines:
+        for i in range(num_category):
+            lbls[i].append(1 if eval(line) == i else 0)
+    print "trainging set of size %d" % num_trainset
+
+    tQs = read_Qs("questions/q_classified_train.txt")
+    fs = [gen_q_features(Q) for Q in tQs[:num_trainset]]
+
+    clfs = [svm.SVC() for i in range(num_category)]
+    for i in range(num_category):
+        clfs[i].fit(fs, lbls[i])
+
+    return clfs
+
+def process(clfs, filename):
+
+    # keyword generation
+    Qs = read_Qs(filename)
     for Q in Qs:
         keywords = gen_keywords(Q)
         for word in keywords:
             print word,
         print
 
-    # TODO: Question Classification
+    # Question Classification
+    features = [gen_q_features(Q) for Q in Qs]
+    res = [clf.predict(features).tolist() for clf in clfs]
+    num = len(res[0])
+    f = open(filename.split(".")[0] + "_clf.txt", "w")
+    for i in range(num):
+        j = 0
+        for j in range(num_category):
+            if res[j][i] == 1:
+                break
+        print j
+    f.close()
+
+
+def main():
+    init()
+    clfs = train_clf()
+
+    process(clfs, "questions/q_facts_segged.txt")
 
 if __name__ == "__main__":
     main()

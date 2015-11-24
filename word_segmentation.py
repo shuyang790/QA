@@ -25,8 +25,8 @@ def segmentation(filename, output_filename):
     out.close()
 
 def main():
-    segmentation("questions/q_facts.txt", "questions/q_facts_segged.txt")
-    segmentation("questions/q_yesno.txt", "questions/q_yesno_segged.txt")
+    segmentation("questions/provided/q_facts.txt", "questions/q_facts_segged.txt")
+    segmentation("questions/provided/q_yesno.txt", "questions/q_yesno_segged.txt")
 
 if __name__ == "__main__":
     main()
