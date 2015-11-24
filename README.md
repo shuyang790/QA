@@ -32,9 +32,10 @@ A Chinese Question and Answer System
 ### Question Processing
 #### Query formulation
 
-- segmentalize words
-- use names, times, locations, other nouns, etc as Keywords (excluding stop words)
-- another step: maybe use word2vec to discover synonyms (5 words for example) and add them to keywords as well
+- 中心词
+- 其它名词
+- 非停用动词
+- 其它（序数词，状语等）
 
 #### Question Classification
 
@@ -51,6 +52,7 @@ Use `Scikit-learn`
         - （非停用词的？）动词
         - 词，词性
     - 构造
-        - 中心词／中心动词
-            - “是”出现，则为之前的名词（中心词），否则，为中心动词
+        - 疑问词
+        - 中心词
+            - “是”出现，则为之前的名词（中心词），否则，为疑问词后的名词
         - 词（含词性）列表（出现／没出现）
