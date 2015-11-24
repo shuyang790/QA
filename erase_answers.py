@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 filename = "data_stage1/sample_questions.txt"
-filename = "sample_q_yn.txt"
+filename = "questions/qa_facts.txt"
 
 f = open(filename, "r")
 lines = f.readlines()

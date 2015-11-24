@@ -38,9 +38,10 @@ A Chinese Question and Answer System
 
 #### Question Classification
 
+Use `Scikit-learn`
 
 - 学习－分类
-    - 类别：人名，时间，地点，数字，专有名词，其它名词，一句话
+    - 类别：名字，时间，地点，数字（序数），其它名词，一句话
 - 学习－聚类
 - 学习－特征
     - ![](img/Q_classification_L.png)
@@ -49,3 +50,7 @@ A Chinese Question and Answer System
         - 命名实体
         - （非停用词的？）动词
         - 词，词性
+    - 构造
+        - 中心词／中心动词
+            - “是”出现，则为之前的名词（中心词），否则，为中心动词
+        - 词（含词性）列表（出现／没出现）
