@@ -5,3 +5,4 @@ main
 *.swp
 questions/*.swp
 data_stage1/.DS_Store
+wikis/*

@@ -39,6 +39,33 @@ A Chinese Question and Answer System
 
 #### Question Classification
 
+Classification Process: Rules + Learning
+- 规则 Rules
+    - Prejudge and construct training set
+- 学习 Learning
+    - Training use 'rules result'
+    - Use word2vec vectors of `中心词`,`疑问词` as features
+    - Use classifiers to decide categories
+
+LDA?
+
+规则
+2. 疑问词“谁”－0
+4. 疑问词“哪一年”－1
+9. 疑问词“哪里”－2
+3. 疑问词“多少”－3
+1. 疑问词“第几”－3
+3. 疑问词“多少倍”－3
+4. 中心词“作者”－0
+5. 中心词“校长”－0
+5. 中心词“国家”－2
+6. 中心词“城市”－2
+6. 中心词“地点”－2
+7. 中心词“海拔”－3
+7. 中心词“大学”－4
+8. 中心词“少数民族”－5
+8. 中心词“语言”－5
+
 Use `Scikit-learn`
 
 - 学习－分类
@@ -49,7 +76,6 @@ Use `Scikit-learn`
         - 3-数字（含序数），
         - 4-学校及其它机构，
         - 5-其它名词
-- 学习－聚类
 - 学习－特征
     - ![](img/Q_classification_L.png)
     - 中文情况考虑因素
@@ -61,4 +87,3 @@ Use `Scikit-learn`
         - 疑问词
         - 中心词
             - “是”出现，则为之前的名词（中心词），否则，为疑问词后的名词
-        - 词（含词性）列表（出现／没出现）
