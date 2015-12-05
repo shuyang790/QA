@@ -17,8 +17,7 @@
     - 中心词判断 e.g. “国家”，“城市”
     - 中心词POS判断 e.g. "nr", "ns"
 - 学习 Learning
-    - Training use 'rules result'
-    - Use word2vec vectors of `中心词`,`疑问词` as features
+    - Train using 'rules result'
     - Use classifiers to decide categories
 
 ### 相关具体
