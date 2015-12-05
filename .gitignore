@@ -6,3 +6,4 @@ main
 questions/*.swp
 data_stage1/.DS_Store
 wikis/*
+*.pyc

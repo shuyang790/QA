@@ -2,6 +2,8 @@
 # -*- coding:utf-8 -*-
 
 from sklearn import *
+import string
+import os
 
 stop_words = []
 
@@ -9,7 +11,73 @@ num_category = 6
 
 words2num = {}
 
-wh_words = ["什么", "谁", "哪", "何时", "第几", "多少", "几", "为什么"]
+wh_words = [
+    "什么",
+    "谁",
+    "哪",
+    "何时",
+    "第几",
+    "多少",
+    "几",
+    "为什么"
+]
+
+category_names = [
+    "Q_person",
+    "Q_time",
+    "Q_place",
+    "Q_number",
+    "Q_organization",
+    "Q_other"
+]
+
+category_name2index = {
+    "Q_person": 0,
+    "Q_time": 1,
+    "Q_place": 2,
+    "Q_number": 3,
+    "Q_organization": 4,
+    "Q_other": 5
+}
+
+clf_rules_wh_words = {
+    "谁": "Q_person",
+    "哪一年": "Q_time",
+    "哪年": "Q_time",
+    "哪个月": "Q_time",
+    "哪一天": "Q_time",
+    "哪里": "Q_place",
+    "哪儿": "Q_place",
+    "多少": "Q_number",
+    "第几": "Q_number",
+    "多少倍": "Q_number",
+}
+
+clf_rules_cent_words = {
+    "作者": "Q_person",
+    "诗人": "Q_person",
+    "作家": "Q_person",
+    "校长": "Q_person",
+    "国家": "Q_place",
+    "省份": "Q_place",
+    "地区": "Q_place",
+    "城市": "Q_place",
+    "地点": "Q_place",
+    "海拔": "Q_number",
+    "年龄": "Q_number",
+    "大学": "Q_organization",
+    "少数民族": "Q_other",
+    "语言": "Q_other"
+}
+
+clf_rules_cent_word_pos = {
+    "nr": "Q_person",
+    "ns": "Q_place",
+    "nt": "Q_organization",
+    "t": "Q_time",
+    "nz": "Q_other",
+    "nl": "Q_other",
+}
 
 def build_w2n_mapping():
     ''' build a mapping from 'word' to 'number'
@@ -55,14 +123,8 @@ def find_wh_word_pos(line):
     for wh in wh_words:
         for word_pos in range(len(line)):
             word = line[word_pos]
-            flag = 1
-            for i in range(len(wh)):
-                if len(word) == i \
-                or word[i]!=wh[i]:
-                    flag = 0
-                    break
-            if flag:
-                return (word_pos, wh)
+            if word.startswith(wh):
+                return (word_pos, word.split("/")[0])
     return (-1, "")
 
 def gen_cent_word(line):
@@ -158,7 +220,7 @@ def train_clf():
     lbls = [[] for i in range(num_category)]
     for line in lines:
         for i in range(num_category):
-            lbls[i].append(1 if eval(line) == i else 0)
+            lbls[i].append(1 if category_name2index[line.rstrip()] == i else 0)
     print "trainging set of size %d" % num_trainset
 
     tQs = read_Qs("questions/q_classified_train.txt")
@@ -182,27 +244,70 @@ def process(clfs, filename):
         f.write('\n')
     f.close()
 
-    print "question keywords generated for '%s' in '%s'" % (filename, filename.split(".")[0] + "_kwd.txt")
+    print "question keywords generated for '%s' in '%s'" \
+        % (filename, filename.split(".")[0] + "_kwd.txt")
 
-    # Question Classification
+    # Question Classification by Rules
+    flag = [-1 for i in range(len(Qs))]
+    for idx in range(len(Qs)):
+        for (wh_word, c) in clf_rules_wh_words.items():
+            if find_wh_word_pos(Qs[idx])[1].startswith(wh_word):
+                flag[idx] = category_name2index[c]
+                break
+        if flag[idx] != -1:
+            continue
+        for (cword, c) in clf_rules_cent_words.items():
+            if gen_cent_word(Qs[idx]).split("/")[0] == cword:
+                flag[idx] = category_name2index[c]
+                break
+
+    # Question Classification by Central Word POS
+    for idx in range(len(Qs)):
+        if flag[idx] != -1 \
+                or find_wh_word_pos(Qs[idx])!= -1\
+                or not "是/v" in Qs[idx]:
+            continue
+        pos = gen_cent_word(Qs[idx]).split("/")[1]
+        for (p, c) in clf_rules_cent_word_pos.items():
+            if pos.startswith(p):
+                flag[idx] = category_name2index[c]
+                break
+
+    for idx in range(len(Qs)):
+        if flag[idx] != -1:
+            q_st = string.join(Qs[idx])
+            l_st = category_names[flag[idx]]
+            os.system('echo "' + q_st + '" >> questions/q_classified_train.txt')
+            os.system('echo "' + l_st + '" >> questions/q_classified_label.txt')
+
+    # Question Classification by SVM
     features = [gen_q_features(Q) for Q in Qs]
     res = [clf.predict(features).tolist() for clf in clfs]
     num = len(res[0])
-    f = open(filename.split(".")[0] + "_clf.txt", "w")
     for i in range(num):
+        if flag[i] != -1:
+            continue
         j = 0
-        for j in range(num_category-1):
+        while j < num_category - 1:
             if res[j][i] == 1:
                 break
-        f.write(str(j)+"\n")
+            j += 1
+        flag[i] = j
+
+    # Question Classification result printing
+    f = open(filename.split(".")[0] + "_clf.txt", "w")
+    for i in range(num):
+        f.write(category_names[flag[i]]+"\n")
     f.close()
 
-    print "question classified for '%s' in '%s'" % (filename, filename.split(".")[0] + "_clf.txt")
+    print "question classified for '%s' in '%s'" \
+        % (filename, filename.split(".")[0] + "_clf.txt")
 
 def main():
     init()
     clfs = train_clf()
 
+#    process(clfs, "questions/debug_question.txt")
     process(clfs, "questions/q_facts_segged.txt")
 
 if __name__ == "__main__":
