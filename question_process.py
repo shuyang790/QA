@@ -70,19 +70,17 @@ def gen_cent_word(line):
     in a question sentence
     '''
     l = len(line)
-    pos = 0
-    if "是/v" in line:
-        while (line[pos]!="是/v"):
-            pos += 1
-        for i in range(pos, -1, -1):
+    pos = find_wh_word_pos(line)[0]
+    if pos != -1:
+        for i in range(pos, l):
             attr = line[i].split("/")[1]
             if attr[0]=='n':
                 return line[i]
-    else:
-        pos = find_wh_word_pos(line)[0]
-        if pos == -1:
-            return ""
-        for i in range(pos, l):
+    if "是/v" in line:
+        pos = 0
+        while (line[pos]!="是/v"):
+            pos += 1
+        for i in range(pos, -1, -1):
             attr = line[i].split("/")[1]
             if attr[0]=='n':
                 return line[i]
@@ -119,7 +117,7 @@ def gen_keywords(line):
     # other words
     for i in range(l):
         word = line[i].split("/")[0]
-        if not line[i] in ret and not word in stop_words:
+        if not line[i] in ret:
             ret.append(line[i])
 
     return ret

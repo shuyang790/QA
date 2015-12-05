@@ -7,17 +7,18 @@ A Chinese Question and Answer System
     - Word segmentation
     - Output:
         1. **Query formulation**
-            - Keywords
+            - Keywords: 中心词，名词，其他词
         2. Question **Classification**
-            - Learning? Rules?
+            - Rules / Template matching
+            - Learning (SVM)
 
 - Passage Retrieval
-    - Passage word segmentation
-    - Passage index (perhaps not necessary)
+    - 篇章分词
+    - 建立倒排索引
     - Input: Keywords
-    - Output: Possible paragraphs / sentences
-        - Filter according to entities and question classification
-        - Sort using rules or learning
+    - Output: Related Passages
+        - 计算篇章的权重
+        - 排序，输出前面的篇章
 
 - Answer Extraction
     - Algorithm
@@ -29,8 +30,6 @@ A Chinese Question and Answer System
     - Rank (answer, passage) pairs
     - Produce final answer(s)
 
-- (Optional) Answer Refinement
-    - Perhaps another filtering and sorting of answer candidates
 
 ## Specific
 
