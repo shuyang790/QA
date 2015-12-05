@@ -13,9 +13,9 @@ A Chinese Question and Answer System
 
 - Passage Retrieval
     - Passage word segmentation
-    - Passage index (perhpas not necessary)
+    - Passage index (perhaps not necessary)
     - Input: Keywords
-    - Output: Possible paragraphs / sentences (with order of possibilities?)
+    - Output: Possible paragraphs / sentences
         - Filter according to entities and question classification
         - Sort using rules or learning
 
@@ -23,6 +23,11 @@ A Chinese Question and Answer System
     - Algorithm
         - N-gram?
         - Template matching? **Template learning** using Search Engines?
+    - Output: set of pairs {(answer, passage), ...}
+
+- Answer Filtering
+    - Rank (answer, passage) pairs
+    - Produce final answer(s)
 
 - (Optional) Answer Refinement
     - Perhaps another filtering and sorting of answer candidates
@@ -50,6 +55,7 @@ Classification Process: Rules + Learning
 LDA?
 
 规则
+
 2. 疑问词“谁”－0
 4. 疑问词“哪一年”－1
 9. 疑问词“哪里”－2
@@ -70,11 +76,11 @@ Use `Scikit-learn`
 
 - 学习－分类
     - **类别**
-        - 0-名字，
+        - 0-人名，
         - 1-时间（含年份），
         - 2-地点（含国家、省份）
         - 3-数字（含序数），
-        - 4-学校及其它机构，
+        - 4-机构名，
         - 5-其它名词
 - 学习－特征
     - ![](img/Q_classification_L.png)

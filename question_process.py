@@ -176,11 +176,15 @@ def process(clfs, filename):
 
     # keyword generation
     Qs = read_Qs(filename)
+    f = open(filename.split(".")[0] + "_kwd.txt", "w")
     for Q in Qs:
         keywords = gen_keywords(Q)
         for word in keywords:
-            print word,
-        print
+            f.write(word + " ")
+        f.write('\n')
+    f.close()
+
+    print "question keywords generated for '%s' in '%s'" % (filename, filename.split(".")[0] + "_kwd.txt")
 
     # Question Classification
     features = [gen_q_features(Q) for Q in Qs]
@@ -189,12 +193,13 @@ def process(clfs, filename):
     f = open(filename.split(".")[0] + "_clf.txt", "w")
     for i in range(num):
         j = 0
-        for j in range(num_category):
+        for j in range(num_category-1):
             if res[j][i] == 1:
                 break
-        print j
+        f.write(str(j)+"\n")
     f.close()
 
+    print "question classified for '%s' in '%s'" % (filename, filename.split(".")[0] + "_clf.txt")
 
 def main():
     init()
