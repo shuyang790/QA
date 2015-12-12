@@ -136,7 +136,7 @@ def gen_cent_word(line):
     if pos != -1:
         for i in range(pos, l):
             attr = line[i].split("/")[1]
-            if attr[0]=='n':
+            if len(attr)>0 and attr[0]=='n':
                 return line[i]
     if "是/v" in line:
         pos = 0
@@ -163,7 +163,7 @@ def gen_keywords(line):
     for i in range(l):
         #print ("#%s#" % (line[i]))
         attr = line[i].split("/")[1]
-        if attr[0]=='n' and line[i]!=cent_word:
+        if len(attr)>0 and attr[0]=='n' and line[i]!=cent_word:
             nouns.append(line[i])
     ret += nouns
 
@@ -172,7 +172,7 @@ def gen_keywords(line):
     for i in range(l):
         word = line[i].split("/")[0]
         attr = line[i].split("/")[1]
-        if attr[0]=='v' and not (line[i] in stop_words):
+        if len(attr) > 0 and attr[0]=='v' and not (line[i] in stop_words):
             verbs.append(line[i])
     ret += verbs
 
