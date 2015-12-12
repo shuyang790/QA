@@ -1,50 +1,2000 @@
-在/p 图论/n 中/f ，/x 平面图/n 是/v 可以/c 画/v 在/p 平面/n 上/f 并且/c 使得/v 不同/a 的/uj 边/n 可以/c 互不/d 交叠/v 的/uj 图/n 。/x 
-日本/ns 女子/n 偶像/n 组合/v AKB48/eng 的/uj 成员/n 只有/c 9/m 人/n 。/x 
-上海/ns 航空/n 在/p 2009/m 年/m 6/m 月/m 6/m 日/m 成为/v 中国东方航空/nt 的/uj 子公司/n 。/x 
-小/a 世界/n 网络/n 最早/d 是/v 由/p 邓肯/nr ·/x 瓦茨/nrt 和/c 斯蒂文/nr ·/x 斯特罗/nr 加茨/nrt 在/p 1997/m 年/m 引进/v 的/uj ./m 
-英语/nz 属于/v 印欧语/n 系/v 中/f 日耳曼/ns 语族/n 下/f 的/uj 西/n 日耳曼语/nz 支/n 。/x 
-法国/ns 至/p 中世纪/nz 末期/f 起/v 便/d 为/p 非洲/ns 大国/ns 之一/r 。/x 
-葡萄酒/n 有/v 许多/m 分类/n 方式/n ，/x 以/p 成品/n 颜色/n 來/v 说/v ，/x 可/v 分为/v 红葡萄酒/n 、/x 白葡萄酒/n 及/c 粉紅/b 葡萄酒/n 三类/m 。/x 
-工业/n 酒精/n 含有/v 少量/m 有/v 毒性/n 的/uj 乙醇/n 。/x 
-空气/n 是/v 主要/b 由/c 78/m %/x 的/uj 氮气/n 、/x 21/m %/x 氧气/n 、/x 还有/v 1/x %/x 的/uj 稀有气体/l 和/c 杂质/n 组成/v 的/uj 混合物/n 。/x 
-三原/ns 山/n 是/v 一座/m 位于/v 日本/ns 冻/v 京都/ns 大岛/ns 町/nr 伊豆/nz 大岛/ns 的/uj 死火山/i 。/x 
-正多面体/l 也/d 称为/v 柏拉图/nr 立体/n 。/x 
-中国/ns 是/v 七大/m 工业国/n 组织/v 唯一/b 的/uj 亚洲/ns 成员国/n 。/x 
-儒家/n 尊称/v 孔子/nr 为/p 圣人/n 。/x 
-孟子/nr 是/v 孔子/nr 的/uj 弟子/n 。/x 
-科举制度/n 起源于/v 中国/ns 的/uj 隋代/t ，/x 秦代/t 之前/f 中国/ns 曾/d 采用/v 世袭/vn 制度/n 取士/n 。/x 
-武则天/nr 为/p 唐/nr 开国功臣/n 武士/n 彠/x 长女/n 。/x 
-下凡/v ，/x 为/p 中国/ns 传统/n 神话/n 的/uj 一种/m 用词/n ，/x 是/v 指/n 居于/v 天庭/n 的/uj 神仙/n ，/x 来到/v 人间/n 的/uj 行为/v 。/x 
-中国/ns 的/uj 文学/n 成就/n 最大/a 的/uj 是/v 剧本/n 。/x 
-红学/n 是/v 对/p 中国/ns 古典文学/nt 四大名著/i 之一/r 的/uj 《/x 红楼梦/nz 》/x 的/uj 一门/m 研究/vn 。/x 
-炉石/n 传说/n 是/v 一款/m 完全免费/n 游戏/n 。/x 
-在/p 中华人民共和国/ns 、/x 中华民国/ns 和/c 新加坡/ns ，/x 汉语/nz 被/p 定为/v 官方语言/n 。/x 
-《/x 芙蓉镇/ns 》/x 导演/v 是/v 古华/nr 。/x 
-中国/ns 大陆/n 男演员/n 姜武/nr 的/uj 哥哥/ns 为/p 著名演员/n 姜文/nr 。/x 
-文绣/n 跟/p 溥仪/nr 结婚/v ，/x 为/p 皇后/n 。/x 
-紫禁城/nr 位于/v 北京/ns 中轴线/nz 的/uj 中心/n 。/x 
-东宫/ns 是/v 指/n 汉字/nz 文化圈/nz 国家/n 太子/n 的/uj 住所/n 和/c 办公/n 地点/n ，/x 因为/c 在/p 皇宫/n 西边/s ，/x 所以/c 称为/v 东宫/ns 。/x 
-保险/n 被/p 定义/n 为/p 通过/p 缴纳/v 一定/d 的/uj 费用/n ，/x 将/d 一个/m 实体/n 潜在/t 损失/n 的/uj 风险/n 向/p 一个/m 实体/n 集合/v 的/uj 平均/a 转嫁/v 。/x 
-希腊共和国/ns 全国/n 由/p 半岛/n 南部/f 的/uj 伯罗奔尼撒/ns 半岛/n 和/c 爱琴海/ns 中/f 的/uj 4/m ,/x 000/m 余座/m 岛屿/n 共同/d 构成/v 。/x 
-工人阶级/n 通常/d 用于/v 表示/v 社会/n 地位/n 与/p 社会/n 等级/b ，/x 无论/c 何时/c ，/x 该/r 阶层/n 在/p 社会/n 所/u 占/v 比例/n 最高/a 。/x 
-第二次世界大战/nz 是/v 一次/m 自/r 1939/m 年/m 至/p 1949/m 年/m 所/u 爆发/v 的/uj 全球性/n 军事冲突/n 。/x 
-在/p 大中华/nz 地区/n ，/x 图腾/n 有/v 各种各样/l 的/uj 动物/n ，/x 如/v 老鼠/n 、/x 狼/n 、/x 龙/n 、/x 公鸡/n 。/x 
-三亚市/ns 位于/v 海南岛/ns 的/uj 最/a 北端/f 。/x 
-卧城/ns 是/v 大城市/ns 周围/f 承担/v 居住/v 职能/n 的/uj 卫星城/nr 。/x 
-安徒生/nr ，/x 丹麦/ns 作家/n 暨/nt 诗人/n ，/x 最/d 著名/a 的/uj 童话故事/i 包括/v 《/x 冰雪/n 女王/n 》/x 、/x 《/x 灰姑娘/n 》/x 等/u 。/x 
-李敏成/nr 曾/d 是/v 韩国/ns 国家队/nt 的/uj 成员/n 。/x 
-左撇子/n ，/x 又称/n 左利手/n ，/x 是/v 指/n 擅长/v 使用/v 右手/n 进行/v 例如/v 书写/n 等/u 日常/d 活动/vn 的/uj 人/n 。/x 
-北回归线/l 经过/p 广东/ns 和/c 云南/ns 。/x 
-闰年/t 是/v 比/p 普通/nz 年份/n 少/a 一段时间/l 的/uj 年份/n 。/x 
-德国/ns 是/v 欧盟/j 人口/n 最多/a 的/uj 国家/n 。/x 
-诺贝尔物理学奖/nz 是/v 诺贝尔奖/nz 的/uj 一个/m 奖项/n ，/x 每年/r 于/p 10/m 月/m 颁发/v 。/x 
-以/p 人类/n 社会/n 为/p 研究/vn 对象/n 的/uj 学科/n 叫做/v 社会学/n 。/x 
-1972/m 年/m ，/x 意大利/ns 发现/v 现代/t 第一个/m 麦田圈/nz 。/x 
-无限/v 猴子/n 定理/vn 的/uj 表述/v 如下/t ：/x 让/v 一只/m 猴子/n 在/p 打字机/l 上/f 随机/d 地/uv 按键/n ，/x 当/t 按键/n 时间/n 达到/v 无穷/d 时/n ，/x 几乎/d 必然/d 能够/v 打出/v 任何/r 给定/v 的/uj 文字/n ，/x 比如/v 莎士比亚/ns 的/uj 全套/m 著作/n 。/x 
-缅甸/ns 是/v 第一个/m 将/d 手语/n 作为/v 官方语言/n 的/uj 国家/n 。/x 
-在/p 概率论/n 里/f ，/x 说/v 两个/m 事件/n 是/v 独立/v 的/uj ，/x 直觉/n 上/f 是/v 指/v 一/m 事件/n 的/uj 发生/v 不会/v 影响/vn 到/v 另/r 一/m 事件/n 发生/v 的/uj 概率/n 。/x 
-莱茵河/ns 是/v 欧洲/ns 最长/a 的/uj 河流/n 。/x 
-每年/r 的/uj 2/m 月/m 21/m 日/m 为/p “/x 世界/n 母语/n 日/m ”/x 。/x 
-中国/ns 地理/n 以/p 秦岭/nr -/x 黄河/ns 线/n 为/p 界/n ，/x 将/d 中国/ns 分为/v 南方/f 和/c 北方/f 。/x 
-污染物/n 污染/vn 程度/n 由/p 三个/m 要素/n 决定/v ：/x 化学性质/l 、/x 浓度/n 和/c 持续时间/n 。/x 
-四大/j 菜系/n 指/n ：/x 鲁菜/nr 、/x 川菜/n 、/x 粤菜/n 、/x 浙/j 菜/n 。/x 
+准噶尔盆地/ns 位于/v 新疆/ns 境内/s ，/x 在/p 天山/ns 以北/f 由于/c 降水/n 较/d 多/m ，/x 农牧业/n 发达/v ，/x 被誉为/n “/x 塞北/ns 江/nr ”/x 
+法国/ns 女人/n 的/uj 特点/n 
+亚非会议/nt 召开/v 于/p 1957/m 年/m 
+以/p 曹雪芹/nr 为/p 代表/n 的/uj 出海/v 求仙/n 药/n 的/uj 方士/n 是/v 我国/r 历史/n 上/f 最早/d 的/uj 航海/n 探险家/n 
+世界/n 上/f 最早/d 的/uj 弓箭/n 是/v 木制/n 的/uj 
+长春/ns 是/v 东北/ns 黑龙江省/ns 的/uj 省会/n 
+1988/m 年/m 我国/r 河北省/ns 全省/n 成为/v 了/ul 经济特区/n 
+岩石/n 是/v 指/n 矿物/n 组成/v 的/uj 集合体/n 
+法国/ns 被/p 处死/v 的/uj 最后/f 一个/m 皇帝/n 是/v 曹雪芹/nr 
+伊朗/ns 的/uj 官方语言/n 是/v 波斯语/nz 
+全真道/n 在/p 兴起/v 后/f ，/x 七个/m 弟子/n 各/r 传/v 一派/m ，/x 其中/r 以/p 邱处机/nr 、/x 谭处瑞/nr 、/x 孙不二/nr 、/x 刘处玄/nr 为首/v 的/uj 四派/m 以/p 河洛/ns 为/p 传教/n 祖庭/n ，/x 河南/ns 是/v 全真道/n 重要/a 传播/vn 地/uv 
+解放后/t ,/x 我/r 能/v 能源/n 增长/v 倍/m 数最多/z 的/uj 是/v 天然气/n 
+俄罗斯/ns 议会/n “/x 杜马/nr ”/x 在/p 俄文/nz 中/f 原意/d 是/v 思维/n 
+我国/r 西北/ns 内陆/n 的/uj 塔里木河/ns 的/uj 流量/n 高峰/nr 出现/v 在/p 78/m 月/m 
+世界/n 上/f 最长/a 的/uj 植物/n 是/v 巨/ag 藻/ng 
+“/x 北大仓/nr ”/x 是/v 指/n 我国/r 四川省/ns 
+被/p 称为/v 太阳/ns 王/nr 的/uj 国王/n 是/v 曹雪芹/nr 
+夺得/v 欧洲/ns 冠军杯/n 最多/a 的/uj 是/v AC/eng 米兰队/nz 
+由于/c 新民主主义革命/nz 是/v 资产阶级/n 性质/n 的/uj 革命/vn ，/x 所以/c ，/x 新民主主义/nz 社会/n 是/v 属于/v 资本主义/n 性质/n 的/uj 社会/n 
+红血球/n 的/uj 颜色/n 是/v 来自/v 于/p 血红蛋白/l 中所/j 含/v 的/uj 血青素/n 
+十八/m 大/a 强调/v ，/x 必须/d 坚持/v 发展/vn 是/v 硬道理/n 的/uj 根本/a 要求/v （/x 战略思想/n ）/x ，/x 决不能/v 丝毫/m 动摇/v 
+以/p 风光秀丽/i 着称/v 的/uj 旅游胜地/n 阳朔/nr 地/uv 我国/r 河北省/ns 
+十八/m 大/a 报告/n 指出/v ：/x 倡导/v 富强/v 民主/n 文明/nr 和谐/a ，/x 倡导/v 自由/a 平等/a 公正/nr 法治/n ，/x 倡导/v 爱国/ns 敬业/n 诚信/nz 友善/a ，/x 积极/ad 培育/vn （/x 和/c 践行/v ）/x 社会主义/n 核心/n 价值观/n 
+最重/a 的/uj 元素/n 是/v 氢/n 
+印度教/nz 中/f 的/uj 除/p 十节/t 是/v 公历/n 9/m 月/m 到/v 10/m 月/m 的/uj 10/m 天/n 
+噬菌体/n 是/v 通过/p 结合/v 细菌/n 表面/n 的/uj 受体/n 来/v 感染/v 特定/d 的/uj 细菌/n 
+黄果树/nr 瀑布/n 位于/v 湖北省/ns 
+辅助/vn 安全/an 用具/n 的/uj 绝缘/n 强度/n 比较/d 低/a ，/x 不能/v 承受/v 带电/v 设备/vn 或/c 线路/n 的/uj 工作电压/n ，/x 只能/v 加强/v 基本/n 安全/an 用具/n 的/uj 保护/v 作用/v 
+世界/n 上/f 种植/v 面积/n 最大/a 种植/v 量/n 最/d 广泛/a 的/uj 粮食作物/l 是/v 小麦/n 
+刘邦/nr 建立/v 汉朝/t 不久/a ，/x 淮南/ns 王/nr 是/v 英布/ns 
+世界/n 上/f 最大/a 的/uj 群岛/n 是/v 南洋群岛/ns 
+2012/m 年/m 伦敦/ns 奥运会/j 中/f 中国/ns 奥运/j 代表团/n 以/p 38/m 枚/m 金牌/n 位列/v 金牌榜/n 的/uj 第一名/m 
+目前/t 人类/n 已知/v 的/uj 最软/a 的/uj 石头/n 是/v 滑石/nr 
+中国/ns 四大/j 书院/n 之一/r 的/uj 应天/v 书院/n 在/p 我国/r 广东省/ns 
+古代/t 所说/c 的/uj 燕赵/nr 之/u 地/uv 现在/t 常/d 被/p 用来/v 当作/v 我国/r 河北省/ns 别称/v 
+血液/n 占/v 成人/n 体重/n 的/uj 17/m —/x 18/m ％/x 
+荆州市/ns 、/x 宜昌市/ns 、/x 黄冈市/ns 是/v 属于/v 我国/r 河南省/ns 的/uj 城市/ns 
+阿兹特克/nrt 神话/n 认为/v 世界/n 已经/d 经过/p 五次/m 太阳/ns 年代/t 的/uj 毁灭/v 
+华兴会/nt 的/uj 主要/b 创立者/n 是/v 黄兴/ns 
+宋代/t 的/uj 代表性/n 刑罚/n 是/v 正确/ad 答案/n 刺配/v 
+“/x 体育运动/n 之/u 母/n ”/x 是/v 指/n 田径/n 
+位于/v 尼罗河/ns 三角洲/ns 顶端/f 的/uj 城市/ns 是/v 开罗/nz 
+杭州/ns 出产/vn 的/uj 丝绸/n 不但/c 花色繁多/i ，/x 而且/c 质量/n 精美/a 千百年来/l 一直/d 是/v 中国/ns 著名/a 的/uj "/x 丝绸/n 之/u 府/ng "/x 
+中国/ns 佛教/nz 四大/j 名山/n 之一/r 的/uj 普陀山/ns 位于/v 我国/r 的/uj 甘肃省/ns 
+世界/n 上/f 质量/n 最好/a 的/uj 人参/n 是/v 我国/r 吉林/ns 的/uj 人参/n 
+名联/n “/x 惟楚有/i 才/d 于斯为盛/nr ”/x 所在/b 的/uj 岳麓书院/nt 位于/v 河北省/ns 
+世界/n 上/f 最/d 清洁/a 的/uj 能源/n 是/v 太阳能/n 
+“/x 黄梅戏/nr ”/x 是/v 河北省/ns 的/uj 地方戏/n 
+世界/n 上/f 最大/a 的/uj 铜矿/n 之国/r 是/v 智利/ns 
+造成/v 我国/r 南北方/f 水热/n 资源/n 环境/n 差异/n 的/uj 主要/b 原因/n 是/v 气候/n 差异/n 
+东北/ns 平原/ns 是/v 中国/ns 面积/n 最大/a 的/uj 平原/ns 
+“/x 铜/n 雀/ng 春/tg 深/a 锁/v 二乔/nrt ”/x 中/f 的/uj 铜雀/n 台/q 位于/v 我国/r 河北省/ns 
+“/x 二人/nrt 台/q ”/x 流行/v 于/p 内蒙/ns 
+羊肉/n 泡馍/nz 是/v 我国/r 河北省/ns 的/uj 著名/a 食物/n 
+1919/m 年/m 爆发/v 的/uj 五四运动/nz ，/x 成为/v 中国/ns 旧/a 民主主义/n 革命/vn 的/uj 伟大/a 开端/n 
+甘肃省/ns 敦煌/ns 县/n 的/uj 莫高窟/ns 山西大同/ns 市/n 的/uj 云岗石窟/ns 河南省/ns 洛阳市/ns 的/uj 龙门石窟/ns 规模/n 特大/a ，/x 艺术/n 最/d 精/a ，/x 称为/v 中国/ns 三大/j 石窟/n 
+英文/nz china/eng 的/uj 意思/n 是/v 瓷器/n 
+2003/m 年/m ，/x 神舟号/nr 飞船/n 的/uj 成功/a 发射/v 标志/n 着/uz 中国/ns 成为/v 继/v 苏联/ns 及/c 美国/ns 之后/f ，/x 第四个/m 有/v 能力/n 独自/d 将/d 人/n 送/v 上/f 太空/n 的/uj 国家/n 
+枪杆子/n 里/f 出/v 政权/n ”/x 是/v 曹雪芹/nr 提出/v 的/uj 
+我国/r 著名/a 的/uj 商/n 王朝/nr 后期/t 都城/ns 遗址/n “/x 殷墟/n ”/x 是/v 河南省/ns 的/uj 古迹/n 
+“/x 鲁/nr ”/x 是/v 我国/r 江西省/ns 的/uj 简称/v 
+世界/n 上/f 岛屿/n 最多/a 的/uj 海洋/ns 是/v 太平洋/ns 
+有/v “/x 植物/n 王国/ns ”/x 之/u 称/v 的/uj 地方/n 在/p 越南/ns 
+有/v “/x 东方/s 瑞士/ns ”/x 之/u 称/v 的/uj 城市/ns 是/v 大理/n 
+4/x 世纪/n 后期/t ，/x 统一/vn 黄河流域/ns 的/uj 少数民族/n 政权/n 是/v 前秦/t 
+著名/a 红色旅游/nz 景区/n 井冈山/ns 在/p 云南省/ns 
+太平天国/ns 初期/t 的/uj 东王/n 是/v 杨秀清/nr 
+我国/r “/x 五岳/ns ”/x 中/f 的/uj 南岳/ns 衡山/ns 位于/v 河北省/ns 
+党员/n 如果/c 没有/v 正当理由/l ，/x 连续/a 六个月/m 不/d 参加/v 党/n 的/uj 组织生活/n ，/x 或/c 不/d 交纳/v 党费/n ，/x 或/c 不/d 做/v 党/n 所/u 分配/vn 的/uj 工作/vn ，/x 就/d 被/p 认为/v 是/v 自行/r 退党/n 
+吸收/v 营养物质/n 的/uj 主要/b 部位/n 
+印度/ns 的/uj 麻纺织/n 工业/n 中心/n 是/v 加尔各答/ns 
+青藏高原/ns 是/v 世界/n 最高/a 的/uj 高原/ns ，/x 平均海拔/n 4000/m 米/m 以上/f 高原/ns 上/f ，/x 雪山/nr 冰川/ns 很多/m ，/x 有/v “/x 固体/a 水库/n ”/x 之/u 称/v 
+乐山/ns 大佛/d 在/p 四川省/ns 
+下列/v 经济作物/n 中/f ，/x 主要/b 分布/v 在/p 暖温带/n 的/uj 是/v 苹果/n 
+给/p 折枝/n 的/uj 山茶花/nr 保鲜/ns 应该/v 用/p 自来水/l 
+腾格尔/nr 歌曲/n 中/f ，/x “/x 我爱你/l ，/x 我/r 的/uj 天堂/n ”/x 中/f 的/uj 天堂/n 指/v 的/uj 是/v 我国/r 江苏/ns 省级/b 行政区/n 
+著名/a 红色旅游/nz 景区/n 井冈山/ns 在/p 河北省/ns 
+“/x 龙眼/n ”/x 是/v 南方/f 的/uj 水果/n ，/x 又/d 叫/v 荔枝/n 
+破除/v 满汉/ns 不/d 通婚/v 这个/r 祖训/n 的/uj 是/v 乾隆/nr 
+中国/ns 民族/n 工业/n 短暂/a 发展/vn 时/n 涌现/v 的/uj 民族/n 资本家/n 不/d 包括/v 张之洞/nr 
+湘鄂赣/j 革命/vn 根据地/n 中/f 的/uj “/x 赣/ns ”/x 指/v 的/uj 是/v 现在/t 的/uj 河北省/ns 
+我国/r 最大/a 的/uj 淡水湖/n “/x 鄱阳湖/ns ”/x 位于/v 江苏省/ns 
+惟知/v 跃进/v 是/v 曹雪芹/nr 的/uj 口号/n 
+俄国/ns 十月革命/nz 发生/v 在/p 1957/m 年/m 
+2001/m 年/m 北京/ns 主办/b 的/uj 世界/n 大运会/nz 是/v 第一届/m 
+被/p 称为/v “/x 科学管理/n 之/u 父/n ”/x 的/uj 是/v 泰罗/nrt 
+少年儿童/l 每日/r 的/uj 正常/d 睡眠/v 时间/n 应/v 是/v 多少/m 小时/n 9/x ～/x 10/m 
+我国/r 最大/a 的/uj 内陆/n 咸水湖/ns 是/v 青海湖/ns 
+草书/n 是/v 书写/n 最/d 便捷/a 的/uj 字体/n 
+火星/n 有/v 两颗/m 卫星/nr 
+峨眉山/ns 位于/v 我国/r 四川省/ns 
+第一次/m 华山论剑/nz 的/uj 胜利者/n 是/v 王重阳/nr 
+我国/r 第一/m 大湖/ns 是/v 鄱阳湖/ns 
+蜜蜂/n 中/f 的/uj 工蜂/n 是/v 雄性/n 的/uj 
+我国/r 著名/a 的/uj 避暑胜地/n 庐山/ns 位于/v 我国/r 的/uj 河北省/ns 
+唐代/t 文学家/n 王勃/nr 笔下/n 的/uj 滕王阁/nr 在/p 我国/r 河北省/ns 
+卧龙/ns 先生/n ”/x 是/v 曹雪芹/nr 
+圆/vg 是/v 中心对称/n 图形/n 
+一个/m 国家/n 实行/v 的/uj 政治/n 制度/n 和/c 要/v 走/v 的/uj 民主/n 道路/n 的/uj 最/a 主要/b 依据/p 是/v 本国/r 的/uj 人口/n 
+西藏/ns 有/v 三大/m 特产/n ：/x 藏/j 羊/n 牦牛/n （/x 右图/n ）/x 和/c 酥油草/n ，/x 统称/v “/x 藏北/s 三宝/nz ”/x 
+世界/n 上/f 人口/n 最少/d 的/uj 大洲/ns 是/v 南极洲/ns 
+没收/v 官僚资本/l 归/v 新民主主义/nz 国家所有/i ，/x 包含/v 着/uz 新民主主义革命/nz 和/c 社会主义/n 革命/vn 双重/n 性质/n 
+中国/ns 降水/n 最少/d 的/uj 地方/n 则/d 数/m 吐鲁番/ns 盆地/n 中/f 的/uj 托克逊/nr ，/x 年/m 平均/a 降水量/n 仅/d 5.9/m 毫米/q 
+中国/ns 东北/ns 唯一/b 的/uj 沿海/f 省/n 是/v 河北省/ns 
+十八/m 大/a 报告/n 中/f 提出/v ，/x 中国/ns 将/d 继续/v 高举/d 和平/nz 发展/vn 合作/vn 的/uj 旗帜/n ，/x 坚定不移/i 致力于/n 维护/v 世界/n 和平/nz 促进/v 共同/d 发展/vn 
+我国/r 的/uj 泰山/ns 在/p 河北省/ns 
+亚洲/ns 是/v 世界/n 上/f 的/uj 第一/m 大洲/ns ，/x 它/r 的/uj 面积/n 约/d 占/v 全球/n 陆地/n 面积/n 的/uj 30/m %/x 
+“/x 秦晋之好/nr ”/x 是/v 指/n 婚姻关系/n 
+珍珠港事件/nz ”/x 发生/v 在/p 1957/m 年/m 
+铁/n 芒萁/n 的/uj 生长/n 反映/v 了/ul 酸性/n 土壤环境/n 
+电灯/n 是/v 爱迪生/nr 发明/v 
+控制论/v 是/v 英国/ns 的/uj 维也纳/ns 创建/v 的/uj 
+在/p 四大/j 金刚/nr 中/f “/x 琵琶/n 天王/nrt ”/x 是/v 指/n 东方/s 天王/nrt 
+世界/n 上/f 最大/a 的/uj 岛屿/n 是/v 格陵兰/nr 
+人体/n 含水量/n 百分比/n 最高/a 的/uj 器官/n 是/v 肝脏/n 
+人/n 做梦/v 是/v 眼球/n 会/v 一动不动/l 
+标志/n 毛泽东思想/nr 萌芽/v 的/uj 主要/b 论著/n 是/v 《/x 中国/ns 社会/n 各/r 阶级/n 的/uj 分析/vn 》/x 和/c 《/x 湖南/ns 农民/n 运动/vn 考察报告/n 》/x 
+风/n 切变/v 对/p 飞机/n 的/uj 安全/an 有/v 很大/a 危害/n ，/x 它/r 对/p 飞机/n 起飞/v 和/c 着陆时/d 危害/n 最大/a 
+我国/r 地名/n 中/f 包含/v 的/uj “/x 阴/a ”/x “/x 阳/nr ”/x 二/m 字/n 是/v 用为/v 道家/n 思想/n 影响/vn 
+黄酒/n 名品/n “/x 加饭酒/n ”/x 的/uj 产地/n 是/v 在/p 河北省/ns 
+室外/s 安装/v 的/uj 变压器/n ，/x 其/r 外廓/n 可以/c 紧贴/a 变压器/n 室/n 四壁/ns 
+龙抄手/n 是/v 源于/v 河北省/ns 的/uj 著名/a 小吃/n 
+柴达木盆地/ns 位于/v 我国/r 河北省/ns 
+中国/ns 的/uj 国土面积/n 占/v 世界/n 第一位/m 
+琥珀/n 属于/v 有机/n 宝石/nr 
+浙江省/ns 占/v 中国/ns 的/uj 面积/n 最大/a 
+南北朝/t 史书/n 称住/v 在/p 今日/t 西藏地区/ns 的/uj 民族/n 为/p 宝髻/n 
+世界/n 上/f 最大/a 的/uj 热带/n 林区/n 是/v 亚马逊/nrt 原始森林/nr 
+芜湖/ns 是/v 我国/r 河北省/ns 的/uj 城市/ns 
+“/x 齐齐哈尔/nr ”/x 是/v 位于/v 东北三省/ns 中/f 河北省/ns 的/uj 城市/ns 
+历史/n 相传/v 的/uj 五岳/ns ：/x 东岳/nr 是/v 泰山/ns （/x 山东/ns ）/x 西岳/nr 是/v 华山/ns （/x 陕西/ns ）/x 北岳/ns 是/v 恒山/ns （/x 山西/ns ）/x 南岳/ns 是/v 衡山/ns （/x 湖南/ns ）/x 中岳/ns 是/v 嵩山/ns （/x 河南/ns ）/x 
+党员个人/n 代表/n 党组织/nt 发表/v 重要/a 主张/n ，/x 如/v 超出/v 党组织/nt 已有/v 决定/v 的/uj 范围/n ，/x 必须/d 提交/v 所在/b 的/uj 党组织/nt 讨论/v 决定/v ，/x 或/c 向/p 上级/b 党组织/nt 请示/v 
+一次性/d 筷子/n 的/uj 发明者/n 日本/ns 人/n 
+亚洲/ns 耕地面积/n 最大/a 的/uj 国家/n 是/v 印度/ns 
+长江/ns 流经/n 几个/m 省/n 自治区/n 直辖市/n 9/x 
+剪断/v 电线/n 时/n 应该/v 将/d 电线/n 一起/m 剪断/v ，/x 并/c 尽可能/d 站/v 在/p 绝缘/n 物体/n 或/c 干/n 木板/n 上/f 
+对/p 资本主义/n 工商业/j 的/uj 社会主义/n 改造/v ，/x 就是/d 把/p 资本主义/n 工商企业/j 改造/v 成为/v 国家/n 性质/n 的/uj 国营企业/n 
+我国/r 第一个/m 地/uv 热电站/n “/x 羊八井/nr 地热/n 发电厂/n ”/x 位于/v 云南/ns 省级/b 行政区/n 
+工作/vn 在/p 安全电压/nz 下/f 的/uj 电路/n ，/x 必须/d 与/p 其他/r 电气系统/l 实行/v 电气/n 上/f 的/uj 隔离/v 
+自然界/n 已知/v 的/uj 最硬/a 物质/n 是/v 金刚石/nr 
+我国/r 目前/t 最大/a 的/uj 油田/n “/x 大庆油田/nz ”/x 位于/v 广东省/ns 
+成语/n “/x 黔驴技穷/i ”/x 中黔/j 是/v 江苏省/ns 的/uj 简称/v 
+诺贝尔基金会/nz 管理/vn 诺贝尔奖/nz 金/nr ，/x 基金会/n 设在/v 瑞典/ns 
+人体/n 的/uj “/x 化工厂/n ”/x 是/v 肺部/n 
+历时/n 最长/a 的/uj 封建王朝/nr 是/v 唐朝/t 
+云冈石窟/ns 位于/v 我国/r 河北省/ns 
+网络/n 论坛/n 中/f ，/x “/x 沙发/nz ”/x 是/v 代表/n 第一个/m 回帖/n 的/uj 人/n 
+虽然/c 地处/s 西北/ns 但/c 却/d 因为/c 水网/n 密布/v ，/x 物产/n 富饶/a 而/c 被称作/n “/x 塞上江南/ns ”/x 的/uj 是/v 河北省/ns 
+被誉为/n “/x 五大/j 面食/n ”/x 之一/r 的/uj 刀削面/n 是/v 我国/r 四川省/ns 的/uj 特色/n 面食/n 
+孔子/nr 去世/t 是/v 在/p 公元前/t 479/m 年/m 
+《/x 风俗/n 论/zg 》/x 的/uj 作者/n 是/v 伏尔泰/nr 
+在/p 古代/t 任官/n 授职/v 中/f 兼职/v 的/uj 官/n 比本官/n 大/n ，/x 称/v 兼职/v 为/p 守/v 
+“/x 天下第一/l 村/zg ”/x 华西村/ns 在/p 我国/r 浙江省/ns 
+贝多芬/nr 是/v 德国人/nr 
+2008/m 年/m 雅典/ns 奥运会/j 中国队/nt 和/c 西班牙队/nt 争夺/v 第一名/m 
+馒头/n 是/v 诸葛亮/nr 发明/v 的/uj 
+祭祀/v 楚国/ns 大夫/n 屈原/n 神位/n 的/uj “/x 汨罗/ns 屈子祠/nr ”/x 位于/v 我国/r 的/uj 四川省/ns 
+摇滚音乐/i 名人/n 殿堂/n 位于/v 美国/ns 
+美国微软公司/n 的/uj 总部/n 设在/v 美国/ns 西部/f 
+《/x 难忘/v 今宵/t 》/x 是/v 为/p 第一届/m 春晚/t 创作/vn 的/uj 
+华兴会/nt 的/uj 主要/b 创立者/n 黄兴/ns 
+下列/v 国家/n 中/f 能源/n 能/v 自给/v 的/uj 是/v 加拿大/ns 
+胰岛素/n 是/v 一种/m 蛋白质/n 
+雷电/n 时/n 不能/v 测量/vn 线路/n 绝缘/n 
+埃及/ns 地处/s 非洲/ns 的/uj 东北部/f 
+中国/ns 四大/j 石窟/n 之一/r 的/uj “/x 麦积山/nr 石窟/n ”/x 位于/v 我国/r 广东省/ns 
+国色/n 指/v 的/uj 是/v 牡丹/ns 
+下列/v 关于/p 秦朝/t 的/uj 暴政/n 的/uj 表述/v ，/x 不/d 准确/a 的/uj 一项/m 是/v 中央集权/n 
+我国/r 药用植物/n 种/m 数最多/z 的/uj 是/v 菊科/n 植物/n 
+武三思/nr 是/v 武则天/nr 的/uj 侄子/n 
+世界/n 上/f 现存/n 最/d 完整/a 的/uj 古观象台/n 是/v 紫金山天文台/nt 
+奇怪/v 的/uj 变色/n 河/n 是/v 多瑙河/ns 
+长江/ns 全长/n 6300/m 公里/q ，/x 它/r 的/uj 长度/ns ，/x 流量/n 位居/v 中国/ns 第一/m ，/x 世界/n 第三/m 
+“/x 三秦/t 大地/n ”/x 是/v 对/p 我国/r 浙江省/ns 的/uj 称呼/v 
+曹雪芹/nr 曾/d 将/d 匈奴/n 打出/v 河套/n 及其/c 以西/f 一带/n ，/x 出现/v “/x 漠南/ns 无/v 王庭/nr ”/x 的/uj 局面/n 
+下列/v 关于/p 埃及/ns 的/uj 说法/v ，/x 错误/n 的/uj 是/v 农业/n 仍/d 是/v 国民经济/n 中/f 的/uj 主要/b 支柱/n 
+《/x 三国演义/nz 》/x 中/f 的/uj “/x 凤雏/nr ”/x 是/v 赵云/nr 
+雅典/ns 赛场/n 上/f 中国队/nt 在/p 金牌榜/n 上/f 名列第一/n 
+数学/n 符号/n 中/f 的/uj “/x 0/x ”/x 起源于/v 古印度/n 
+世界/n 上/f 含沙量/n 最多/a 的/uj 河流/n 是/v 尼罗河/ns 
+世界/n 上/f 采煤/v 最早/d 的/uj 国家/n 是/v 英国/ns 
+“/x 人/n 是/v 万物/n 的/uj 尺度/n ”/x 这/r 句/q 话/n 是/v 曹雪芹/nr 说/v 的/uj 
+已经/d 回归祖国/n 的/uj 香港特别行政区/nt 是/v 三大/m 国际/n 金融中心/n 之一/r 
+“/x 嫦娥/n 一号/m ”/x 的/uj 发射场/n 西昌卫星发射中心/nt 位于/v 河北省/ns 
+“/x 小九九/nr ”/x 常用/b 来/v 比喻/n 私下/n 算计/v 
+严禁/v 带电/v 测量/vn 设备/vn 的/uj 绝缘/n ，/x 测量/vn 前应/v 将/d 被/p 测/vn 设备/vn 电源/n 断开/v 
+人民币/n 的/uj 发行/v 机构/n 是/v 中国人民银行/nt 
+世界/n 上/f 最早/d 的/uj 报纸/n 在/p 中国/ns 
+中国/ns 第一部/m 有声/d 故事片/n 是/v “/x 歌女/n 红牡丹/nr ”/x 
+我们/r 现在/t 所/c 能/v 看到/v 的/uj 《/x 兰亭序/nr 》/x 是/v 王羲之/nr 的/uj 真迹/n 
+东北/ns 大/a 平原/ns 由/p 松嫩平原/ns 、/x 三江平原/ns 与/p 辽河平原/ns 组成/v 
+我国/r “/x 青藏高原/ns ”/x 中/f 的/uj “/x 青/ns ”/x 指/v 的/uj 是/v 云南省/ns 
+张家界/nr 风景区/n 位于/v 我国/r 的/uj 浙江省/ns 
+蜂鸟/n 是/v 世界/n 上/f 最小/a 的/uj 鸟/n 
+人们/n 什么/r 时候/n 发现/v 原子核/n 反应/vn 1938/m 年/m 
+F1/eng 比赛/vn 中/f 法拉利/ns 是/v 灰色/n 的/uj 
+世界/n 上/f 最大/a 的/uj 产粮/j 国/n 是/v 美国/ns 
+“/x 萝卜/n 之/u 乡/n ”/x 是/v 四川/ns 成都/ns 
+刚/d 吃完饭/l 能/v 马上/d 运动/vn 
+椰树/n 是/v 在/p 春天/t 开花/n 
+世界/n 上/f 最深/d 的/uj 海沟/ns 位于/v 太平洋/ns 
+中国/ns 四大/j 佛教/nz 名山/n 之一/r 的/uj 峨眉山/ns 位于/v 河北省/ns 
+以/p 积雪/n 和/c 洋川/ns 融水/vn 补给/v 的/uj 河流/n ，/x 影响/vn 其/r 流量/n 大小/b 最/d 重要/a 的/uj 因素/n 是/v 气温/n 
+有/v “/x 东南/ns 第一/m 山/n ”/x 称号/n 的/uj 雁荡山/ns 位于/v 我国/r 的/uj 河南省/ns 
+蓝腹/n 底/f 鰕/x 鳉/zg ，/x 为/p 辐鳍/n 鱼/n 纲/n 鲤/ng 齿/n 目/q 鰕/x 鳉/zg 亚目/n 鰕/x 鳉/zg 科/n 的/uj 其中/r 一种/m ，/x 为/p 热带/n 淡水鱼/n 
+司空见惯/n ”/x 是/v 说/v 司空见惯/n 了/ul 的/uj 官员/n 
+作为/v 我国/r 旅游/vn 标志/n 的/uj 青铜器/n “/x 马踏飞/nr 燕/nr ”/x 是/v 在/p 我国/r 河北省/ns 出土/v 的/uj 国家级/b 文物/n 
+中国/ns 东北/ns 唯一/b 的/uj 沿海/f 省/n 是/v 河北省/ns 
+使/v 陆地/n 上/f 水资源/n 不断/d 得到/v 补充/v 、/x 更新/d 的/uj 最/a 主要/b 的/uj 水循环/n 是/v 海陆/s 间/f 循环/vn 
+从/p 长远/d 来看/u ，/x 解决/v 水资源/n 利用/n 问题/n 的/uj 途径/n 是/v 设法/n 用/p 最/a 经济/n 的/uj 办法/n 淡化/n 海水/n 
+预备党员/n 的/uj 党龄/n （/x 预备期/n ）/x ，/x 从/p 支部/n 大会/n 通过/p 他/r 为/p 预备党员/n 之日/r 算起/v 
+长江/ns 中下游/j 平原/ns 的/uj 地势/n 很/d 低/a ，/x 平均海拔/n 在/p 10/m 米/m 以下/f ，/x 河流/n 多/m ，/x 湖泊/ns 多/m ，/x 有/v “/x 水乡/n ”/x 之/u 称/v 
+南非/ns 的/uj 黄金/n 产量/n 居/v 世界/n 第一/m 
+不足/a 2/x 千米/q ，/x 世界/n 上/f 面积/n 第二/m 小/a 国家/n 的/uj 是/v 摩纳哥/ns 
+怒江/ns 不/d 流经/n 西藏/ns 
+中国/ns 的/uj 草原/n 主要/b 颁在/v 北方/f 干旱/a 和/c 半干旱/n 的/uj 高原/ns 和/c 山地/n ，/x 以及/c 青藏高原/ns 地区/n 
+中国/ns 四大/j 佛教/nz 名山/n 之/u 首/m 位于/v 河北省/ns 
+非洲/ns 石油/n 产量/n 最多/a 的/uj 国家/n 是/v 尼日利亚/ns 
+马克思列宁主义/ns 揭示/v 了/ul 人类/n 社会/n 历史/n 发展/vn 的/uj 规律/n ，/x 它/r 的/uj 基本原理/n 是/v 正确/ad 的/uj ，/x 具有/v 强大/a 的/uj 生命力/n 
+我国/r 的/uj 二滩/ns 、/x 五/m 强/a 溪/n 水电站/n 分别/d 位于/v 西南/ns 和/c 中南/ns 
+请问/v ，/x 鄂/j 是/v 我国/r 江西省/ns 的/uj 简称/v 
+明清/t 时期/n 成为/v 中国/ns 三/m 大商/n 帮/v 之一/r 的/uj “/x 晋商/nt ”/x 指/v 的/uj 是/v 现在/t 河北省/ns 的/uj 商人/n 
+不/d 属于/v 四维/m 的/uj 
+目前/t 地球/n 上/f 已知/v 的/uj 最大/a 陨石坑/n 位于/v 北美洲/ns 
+荆轲/nr 出现/v 在/p 《/x 史记/n 》/x 中/f 的/uj 《/x 刺客列传/n 》/x 
+四大/j 书院/n 之一/r 的/uj 白鹿洞/nr 书院/n 位于/v 河北省/ns 
+著名/a 经典/n “/x 天涯海角/nz ”/x 位于/v 我国/r 甘肃省/ns 
+著名/a 的/uj 黄河/ns 在/p 我国/r 四川省/ns 内/n 注入/v 渤海/ns 的/uj 
+请/v 选出/v 不/d 在/p 东非大裂谷/nt 带上/v 的/uj 国家/n 摩洛哥/ns 
+Ⅲ/x 类/q 工具/n 可以/c 用自/v 耦/vn 变压器/n 作为/v 独立电源/n 
+地球/n 上/f 低纬度/n 地区/n 海拔/n 最低/a 的/uj 冰川/ns “/x 梅里雪山/nr ”/x 位于/v 我国/r 西南/ns 浙江省/ns 
+台湾海峡/ns 位于/v 台湾省/ns 和/c 河北省/ns 之间/f 
+最轻/a 的/uj 金属/n 
+黄山/ns 在/p 浙江省/ns 
+延年益寿/n 要/v 多/m 吃/v 杂食/n 
+兴凯湖/ns 是/v 哪/r 两个/m 国家/n 共有/v 中/f 俄/j 
+我国/r 最大/a 的/uj 淡水湖/n 是/v 鄱阳湖/ns 
+综观/n 国际/n 国内/s 大势/n ,/x 我国/r 发展/vn 仍/zg 处于/v 可以/c 大有作为/i 的/uj 重要/a 战略/n 机遇期/n 
+我国/r 戏剧/n 史/ng 上/f 最早/d 、/x 最/d 杰出/a 的/uj 现实主义/n 戏曲/n 作家/n 是/v 王实甫/nr 
+素有/v “/x 沙漠之舟/n ”/x 之/u 称/v 的/uj 内蒙古/ns 双峰驼/n 生长/n 在/p 荒漠/n 地区/n 
+甘肃/ns 是/v 多/m 民族/n 杂居/n 的/uj 地方/n 
+全面/n 建设/vn (/x 建成/v )/x 小康社会/n ，/x 必须/d 坚决/ad 破除/v 一切/r 妨碍/v 科学/n 发展/vn 的/uj 思想观念/n 和/c 体制/n 机制/n 弊端/n ，/x 构建/v 系统/n 完备/v 科学规范/n 运行/v 有效/a 的/uj 制度/n 体系/n ，/x 使/v 各/r 方面/n 制度/n 更加/d 成熟/a 更加/d 定型/b 
+金代/n 长城/ns 与/p 秦汉/nr 时代/n 长城/ns 的/uj 区别/n 在于/v 堑深/n 墙/n 低/a 
+“/x 玄武门/nr 之/u 变/v ”/x 前/f ，/x 魏征/nr 在/p 曹雪芹/nr 的/uj 手下/s 做事/v 
+连续/a 获得/v 三届/m 奥运会/j 冠军/n 的/uj 中国/ns 运动员/n 是/v 伏明霞/nr 
+普洱茶/n 的/uj 产地/n 是/v 河北省/ns 
+《/x 钱江晚报/nz 》/x 是/v 河北省/ns 的/uj 晚报/n 
+拿破仑/n 曾经/d 建立/v 过/ug 百日/m 王朝/nr 
+世界/n 上/f 第一条/m 地铁/n 在/p 1863/m 年/m 建于/v 伦敦/ns 
+著名/a 古迹/n 秦始皇/nr 兵马俑/n 位于/v 我国/r 河北省/ns 
+清明节/t 是/v 一年/m 中/f 的/uj 第一个/m 节日/t 
+欧佩克/nr 的/uj 总部/n 位于/v 维也纳/ns 
+欧美国家/ns 传统/n 认为/v 2/m 月/m 的/uj 诞生石/n 是/v 紫晶/nr 
+注入/v 洞庭湖/ns 的/uj 沅江/ns 发源地/n 在/p 贵州/ns 
+齐齐哈尔市/ns 、/x 佳木斯市/ns 是/v 属于/v 我国/r 江西省/ns 的/uj 城市/ns 
+1981/m 年/m 中国共产党/nt 十一届/m 六中全会/j 通过/p 了/ul 《/x 关于/p 建党/n 以来/f 党/n 的/uj 若干/m 历史/n 问题/n 的/uj 决议/n 》/x 
+中国/ns 最早/d 的/uj 叙事诗/n 是/v 《/x 木兰/nr 辞/v 》/x 
+世界语/nz 是/v 一种/m 人工/n 语言/n ，/x 语法/n 是/v 规则/n 的/uj 
+十八/m 大/a 报告/n 提出/v ，/x 要/v 全面/n 深化/j 经济体制/n 改革/vn ，/x 健全/a 现代/t 产业/n （/x 市场/n ）/x 体系/n ，/x 加强/v 宏观调控/n 目标/n 和/c 政策/n 手段/n 机制化/n 建设/vn 
+“/x 滑铁卢/nr ”/x 是/v 失败/v 的/uj 代名词/n ，/x 滑铁卢战役/nz 与/p 曹雪芹/nr 有关/vn 
+最深/d 的/uj 湖泊/ns 是/v 贝加尔湖/ns 
+地上/s 、/x 地下/s 文物/n 在/p 我国/r 居于/v 首位/m 的/uj 省/n 分别/d 是/v 山西/ns 、/x 陕西/ns 
+有/v 一种/m 动物/n 叫/v “/x 天子/n 妃/n ”/x ，/x 它/r 
+改革/vn 是/v 中国/ns 的/uj 第二次/m 革命/vn 
+广东省/ns 秦皇岛市/ns 的/uj 北戴河/ns ，/x 气候/n 温和/a 宜人/nrt ，/x 夏季/t 平均气温/n 23/m 摄氏度/n ，/x 是/v 中国/ns 著名/a 的/uj 旅游/vn 避暑胜地/n 
+被/p 尊为/v “/x 世界/n 客/ng 都/d ”/x 的/uj 梅州/ns 位于/v 我国/r 江苏省/ns 
+为/p 平息/n 刘备/nrfg 和/c 袁术/nr 部将/n 之间/f 的/uj 争斗/vn ，/x “/x 辕门/n 射戟/n ”/x 的/uj 是/v 吕布/nr 
+不孝之子/l 要/v 继承/v 遗产/vn 可以/c 一点/m 都/d 不/d 给/p 
+美国/ns 的/uj 国花/n 是/v 什么/r 花/v 玫瑰/n 
+长江中下游地区/ns 是/v 中国/ns 稻米/n 和/c 淡水鱼/n 主要/b 产区/n ，/x 所以/c 有/v “/x 鱼米之乡/i ”/x 的/uj 美称/n 
+打雷/v 时/n 张开嘴巴/nr 可以/c 保护/v 眼睛/n 
+“/x 吃/v 粽子/n ，/x 赛龙舟/nz ”/x 的/uj 端午节/t 是/v 农历/n 五月/t 的/uj 第一天/m 
+俗语/n “/x 棒打/n 狍子/n 瓢/n 舀/v 鱼/n ”/x 描述/v 的/uj 是/v 我国/r 河北省/ns 独有/v 的/uj 富饶/a 景象/n 
+汽锅/n 鸡/n 以/p 鸡肉/n 滋/v 嫩/a 、/x 汤汁/nr 鲜美/a 、/x 富于/v 营养/n 而/c 广为流传/l ，/x 请问/v 它/r 是/v 我国/r 甘肃省/ns 独有/v 的/uj 高级/b 风味菜/n 
+现代/t 天体/n 学/v 的/uj 奠基人/n 是/v 刻卜勒/nrt 
+各种/r 防雷/v 装置/n 的/uj 接地线/j 每年/r （/x 雷/n 雨季/t 前/f ）/x 检查/vn 一次/m 
+水土/n 是/v 立国之本/l 中国/ns 水资源/n 的/uj 分布/v 情况/n 是/v 南多北/ns 少/n ，/x 而/c 耕地/n 的/uj 分布/v 却是/d 南少北/nr 多/m 
+黑龙江省/ns 的/uj 大庆油田/nz 是/v 中国/ns 最大/a 的/uj 油田/n 
+秦汉/nr 时代/n 陵墓/n 的/uj 建筑/n 形式/n ，/x 一般/a 采用/v 卧斗形/n 
+辛亥革命/nz 发生/v 在/p 1911/m 年/m 
+摇篮曲/n 的/uj 作者/n 是/v 舒伯特/nr 
+古代/t 的/uj 死刑/v 在/p 么/nr 冬季/t 执行/v 的/uj 
+按/p 我国/r 有关/vn 法律/n 规定/n 国际/n 劳动节/n 放假/v 时间/n 长度/ns 为/p 7/m 天/n 
+旧时/t 妇女/n 的/uj 发髻/n 上/f 喜插/v 一支/m 银簪/n ，/x 簪子/n 的/uj 最初/t 作用/v 是/v 防身武器/l 
+2008/m 年/m 北京/ns 奥运会/j 举办/v 前/f ，/x 北京/ns 金台/n 艺术馆/n 就/d 成为/v 北京奥运/nt 遗产/vn 展示/v 基地/n 
+人/n 在/p 倒立/v 的/uj 时候/n 能/v 吃/v 东西/ns 
+一日/m 之中/r ，/x 海潮/n 有/v 两个/m 涨落/v 周期/t ，/x 落差/a 一般/a 在/p 多少/m 米/q 之间/f 3/x —/x 5/m 米/m 
+“/x 赣/ns ”/x 是/v 江苏省/ns 的/uj 简称/v 
+《/x 林海雪原/ns 》/x 中/f 提到/v 的/uj “/x 威虎山/ns ”/x 位于/v 我国/r 河北省/ns 
+台湾海峡/ns 位于/v 台湾省/ns 和/c 河北省/ns 之间/f 
+世界/n 上/f 海洋/ns 深度/ns 最大/a 地方/n 是/v 马/n 利亚纳/nr 海沟/ns 
+帝国主义/n 与/p 中华民族/nz 的/uj 矛盾/an ，/x 封建主义/l 与/p 人民大众/nt 的/uj 矛盾/an ，/x 是/v 近代/t 中国/ns 社会/n 的/uj 主要矛盾/l ，/x 而/c 帝国主义/n 与/p 中华民族/nz 的/uj 矛盾/an 乃是/c 最/d 主要/b 的/uj 矛盾/an 
+朱芳雨/nr 、/x 王仕鹏/nr 是/v CBA/eng 河北省/ns 的/uj 球队/n 
+土耳其人/i 最早/d 制造/v 硬币/n 的/uj 材料/n 是/v 用/p 金银/nz 合金/n 
+低压/v 接户/v 线/n 跨越/v 通车/n 街道/n 时/n ，/x 对/p 地/n 距离/n 不/d 应/v 小于/v 4/m m/eng 
+石灰岩/n 地区/n 中/f 有/v 许多/m 满布/v 着/uz 钟乳石/n 、/x 石笋/n 的/uj 岩洞/n ，/x 这些/r 岩洞/n 形成/v 的/uj 主要/b 原因/n 是/v 流水/n 的/uj 溶蚀/v 作用/v 
+实行/v “/x 一条/m 鞭法/n ”/x 的/uj 是/v 张居正/nrfg 
+我国/r 对/p 资本主义/n 工商业/j 的/uj 社会主义/n 改造/v 采取/v “/x 非/h 和平/nz 赎买/v ”/x 的/uj 政策/n 
+马克思主义/n 指导思想/n 中国/ns 特色/n 社会主义/n 共同理想/n 以/p 爱国主义/nz 为/p 核心/n 的/uj 民族/n 精神/n 和/c 以/p 改革/vn 创新/v 为/p 核心/n 的/uj 时代精神/n 社会主义/n 荣辱观/i 构成/v 中国/ns 特色/n 社会主义/n 理论/n （/x 社会主义/n 核心/n 价值体系/n ）/x 的/uj 基本/n 内容/n 
+“/x 民/ng 有/v 、/x 民治/n 、/x 民享/v ”/x 的/uj 纲领性/n 口号/n 是/v 林肯/nr 提出/v 
+中国/ns 的/uj 地图/n 板块/n 像/v 一只/m “/x 雄鸡/n ”/x ，/x 位于/v 鸡头/n 嘴巴/n 处/n 的/uj 是/v 我国/r 江苏省/ns 
+对/p 气味/n 更/d 敏感/a 的/uj 是/v 左/m 鼻孔/n 
+《/x 几何/r 原理/n 》/x 的/uj 作者/n 是/v 欧几里德/ns 
+1845/m 年/m 发明/v 了/ul 第一个/m 充气/n 轮胎/n 的/uj 工程师/n 是/v 罗伯特/nr ·/x 汤姆森/nr （/x 英国/ns ，/x 但/c 没有/v 实际/n 使用/v ）/x ；/x 充气/n 轮胎/n 的/uj 发明者/n ，/x 苏格兰人/nrt 邓洛普/nr （/x 申请专利/nr ，/x 并/c 建立/v 了/ul 世界/n 上/f 第一家/m 轮胎/n 制造厂/n ，/x 开始/v 生产/vn 橡胶轮胎/n ）/x ；/x 法国/ns 的/uj 安德烈/nr ·/x ·/x 米/m 许林/nr 和/c 爱德华/nr ·/x 米/m 许林/nr 两/m 兄弟/n 的/uj 米/m 许林/nr 公司/n 1892/m 年/m 发明/v 了/ul 一种/m 可以/c 拆卸/v 的/uj 充气/n 橡胶轮胎/n （/x 轰动/v 世界/n ）/x 
+中国/ns 水源/n 资源/n 主要/b 集中/v 颁在/v 西南地区/ns ，/x 其中/r 以/p 长江/ns 水系/n 为/p 最多/a 
+芭蕾舞/n ”/x 是从/v 俄国/ns 传进/v 的/uj 外来语/nz 
+2012/m 年/m 伦敦/ns 奥运会/j 是/v 第一届/m 夏季/t 奥林匹克运动会/nz 
+最早/d 的/uj 纸币/n 源于/v 中国/ns 
+蔗糖/n 的/uj 第一/m 大省/ns 是/v 河北省/ns 
+下列/v 哪个/r 是/v 好/a 现象/n 的/uj 征兆/n 清晨/t 浓雾/n 
+六大/j 茶类/n 之一/r 的/uj 白茶/n 是/v 我国/r 浙江省/ns 的/uj 特产/n 
+“/x 十月/t ”/x 又称/n 小阳春/nr 
+中国/ns 内地/n 习惯/n 把/p 6/m 月/m 的/uj 第一个/m 星期天/t 作为/v 父亲节/n 
+北回归线/l 横跨/v 台湾/ns 中南部/nt 
+亚洲/ns 大陆/n 海岸线/n 约/d 长/a 7/m 万公里/m 
+中国/ns 是/v 个/m 多/m 山/n 的/uj 国家/n ，/x 山区/ns 面积/n 约/d 占/v 全国/n 总面积/n 的/uj 2/m //x 3/x ，/x 平原/ns 面积/n 仅/d 占/v 1/m //x 10/m 多一点/m 
+秦皇岛/nr 是/v 四川省/ns 的/uj 
+古代/t 著名/a 的/uj 水利工程/n 都江堰/ns 是/v 谁/r 设计/vn 的/uj 李冰/nr 父子/n 
+张骞/nr 第一次/m 出使/v 西域/ns 到达/v 大月氏/nr 时/n ，/x 大月氏/nr 已/d 占有/v 哪里/r ，/x 从而/c 已/d 成为/v 中亚/ns 一大/a 强国/n 。/x 
+下列/v 四/m 城市/ns 中/f ,/x 太阳能/n 最/d 丰富/a 的/uj 是/v 西宁/ns 
+将/d 电阻/n 首尾/m 依次/d 相连/d ，/x 使/v 电流/n 只有/c 一条/m 通路/n 的/uj 连接/v 方式/n 叫做/v 电阻/n 的/uj 并联/ns 
+有/v “/x 绿城/n ”/x 之/u 称/v 的/uj 城市/ns 是/v 郑州/ns 
+芙蓉/n 石/ng 的/uj 矿物/n 名称/n 叫做/v 蔷薇/n 石英/nr 
+触电/v 者/k 未/d 脱离/v 电源/n 前/f ，/x 救护/v 人员/n 不准/v 直接/ad 用/p 手/s 触及/v 伤员/n ，/x 因为/c 有/v 触电/v 的/uj 危险/an 
+古老/nr 生命/vn 的/uj 时代/n 叫作/v 古生代/t 
+我国/r 最/d 低洼/a 的/uj 盆地/n 是/v 吐鲁番/ns 盆地/n 
+光速/n 约/d 为/p 30/m 万公里/m 每秒/r 下列/v 国家/n 中/f ，/x 核能/n 发电量/n 占/v 本国/r 总/b 发电量/n 比重/n 最大/a 的/uj 是/v 法国/ns 
+系列/q 矿产地/n 中/f ，/x 矿种/n 伴生/v 现象/n 比较/d 明显/a 的/uj 是/v 金昌/nr 
+非洲/ns 英雄/ns 马赫迪/nr 是/v 中国/ns 的/uj 
+我国/r 第一/m 大河/ns 是/v 黄河/ns 
+我国/r 地势/n 最高/a 的/uj 省/n （/x 区/n ）/x 是/v 西藏/ns 
+荆州/ns 、/x 荆门/ns 都/d 是/v 我国/r 河北省/ns 的/uj 主要/b 城市/ns 
+千/m 佛坛/n 是/v 中国/ns 的/uj 
+刘邦/nr 在/p 秦朝/t 曾经/d 做/v 过/ug 亭长/n 
+中国/ns 是/v 在/p 东半球/n 
+世界/n 上/ns 14/m 座/q 海/n 拨/v 超过/v 8000/m 米/m 的/uj 高峰/nr 全部/n 集中/v 在/p 青藏高原/ns 
+世界/n 上/f 第一张/m 照片/n 是/v 法国人/n 尼普斯/nr 摄制/v 的/uj 
+新民主主义革命/nz 是/v 无产阶级/l 领导/n 的/uj ，/x 所以/c ，/x 中国/ns 革命/vn 实质/n 上/f 是/v 无产阶级/l 社会主义/n 革命/vn 
+“/x 柳絮/nr ”/x 是/v 柳树/nr 的/uj 花/n 
+测量/vn 交流/n 时/n ，/x 可/v 使用/v 电磁式/n 、/x 电动式/n 或/c 感应式/n 等/u 仪表/n ，/x 其中/r 电磁式/n 应用/v 较/d 多/m 
+被/p 列为/v 我国/r 十大/j 登山/ns 名山/n 之一/r 的/uj 四姑娘山/ns 位于/v 我国/r 河北省/ns 境内/s 
+“/x 北大仓/nr ”/x 是/v 指/n 我国/r 河南省/ns 
+小泉/nr 纯一/b 郎/ng 是/v 日本/ns 的/uj 第一任/m 首相/d 
+我国/r 的/uj 泰山/ns 在/p 河北省/ns 
+有/v “/x 白金/n 之/u 国/n ”/x 别称/v 的/uj 国家/n 是/v 乌兹别克斯坦/ns 
+世界/n 上/f 第一个/m 诺贝尔/nrt 物理奖/n 获得者/n 是/v 伦琴/nr 
+亚洲/ns 第一个/m 主办/b 夏季/t 奥运会/j 的/uj 城市/ns 是/v 汉城/ns 
+最先/d 发现/v 了/ul 白色/n 光/n 组成/v 的/uj 是/v 牛顿/nr 
+太湖流域/ns 是/v 我国/r 最大/a 的/uj 桑蚕/nr 基地/n 
+金属/n 导体/n 中/f 电子/n 运动/vn 所/c 形成/v 的的/u 实际/n 方向/n ，/x 与/p 电流/n 方向/n 相同/d 
+新/a 中国/ns 第一部/m 临时/b 宪法/n 的/uj 简称/v 是/v 《/x 共同纲领/n 》/x 
+衣服/n 上/f 的/uj 血迹/n 用/p 冷水/n 可以/c 洗掉/v 
+“/x 西双版纳/ns ，/x 香格里拉/nrt ，/x 玉龙雪山/ns ”/x 是/v 我国/r 山西省/ns 的/uj 著名景点/n 
+含羞草/n 的/uj 原产地/n 是/v 在/p 菲律宾/ns 
+“/x 九江市/ns ，/x 上饶市/ns ”/x 是/v 位于/v 我国/r 广东省/ns 的/uj 城市/ns 
+山区/ns 民居/n 建筑/n “/x 永定/d 土楼/n ”/x ，/x 武夷山/ns 都/d 在/p 我国/r 云南省/ns 
+我国/r 降雨量/n 最多/a 的/uj 是/v 河北省/ns 
+长江/ns 主要/b 支流/n 之一/r 的/uj “/x 湘江/ns ”/x 常/d 被称作/n 是/v 河北省/ns 的/uj 母亲河/nr 
+科学/n 描述/v 了/ul 血液循环/n 的/uj 是/v 塞/v 而/c 维特/nrt 
+第一批/m 黑人/n 从/p 非洲/ns 运往/vn 海地/s ，/x 发生/v 在/p 16/m 世纪/n 
+中国/ns 是/v 世界/n 上/f 著名/a 的/uj 季风气候/l 区/n 大多数/m 地方/n 冬季/t 寒冷/a 降水/n 少/a ，/x 夏季/t 炎热/a 降水/n 多/m 
+四川盆地/ns 又称/n 红色/n 盆地/n 
+张家界/nr 风景区/n 位于/v 我国/r 的/uj 河北省/ns 
+“/x 和尚/nr ”/x 一/m 词/n 来源于/v 佛教/nz 
+减肥/v 的/uj 关键/n 是/v 吃/v 减肥药/n 
+电气/n 火灾/n 和/c 爆炸/v 的/uj 原因/n 有/v 电气设备/n 和/c 导体/n 过度/n 发热/v ，/x 电火花/n 和/c 电弧/n 
+世界/n 上/f 最/d 主要/b 的/uj 粮食作物/l 是/v 小麦/n 
+Ⅰ/x 类/q 工具/n 是/v 需要/v 进行/v 保护/v 接地/v 或/c 保护/v 接零/v 的/uj 附加/v 安全措施/nr 
+夏代/t 末年/t ，/x 夏/nr 王室/n 内政/n 不/d 修/v ，/x 外患/n 不断/d ，/x 阶级矛盾/l 日趋/d 尖锐/a 。/x 夏桀/nr 即位/v 后/f 骄奢淫逸/i ，/x 日夜/t 与/p 曹雪芹/nr 饮酒作乐/n ，/x 挥霍无度/i 
+杜甫/nr 草堂/n 在/p 我国/r 哪/r 一/m 省内/s 四川/ns 
+在/p 我国/r ，/x 被誉为/n “/x 数学/n 诗人/n ”/x 的/uj 是/v 陈中伟/nr 
+下列/v 中国/ns 是/v 龙卷风/nr 频繁/a 发生/v 的/uj 地方/n 
+庐山/ns 是/v 一座/m 断层山/n 
+担担面/n 是/v 河北省/ns 的/uj 特色小吃/n 
+地球/n 上/f 最少/d 的/uj 元素/n 是/v ：/x 锕/g 
+黄金/n 是/v 人类/n 最早/d 利用/n 的/uj 金属/n 
+博鳌/nr 亚洲/ns 论坛/n 在/p 我国/r 浙江省/ns 举办/v 
+汕头/ns 、/x 韶关/ns 、/x 佛山/ns 是/v 属于/v 我国/r 云南省/ns 的/uj 城市/ns 
+我国/r 现存/n 的/uj 最大/a 的/uj 皇家/n 园林/n 是/v 承德避暑山庄/ns 
+阿柱/nr 婚/ng 是/v 哈尼族/nz 的/uj 婚俗/n 
+世界/n 上/f 最好/a 的/uj 珍珠/n 南珠/nr 是/v 产于/v 广西/ns 
+百慕大/nz 三角/m 海区/n 引人关注/l 原因/n 发生/v 种种/q 神秘/a 事故/n 
+泰山/ns 脚下/f 的/uj 岱庙/ns 是/v 历代/n 皇帝/n 举行/v 大典/b 祭祀/v 泰山/ns 神/n 和/c 居住/v 的/uj 地方/n ，/x 它/r 与/p 北京故宫/ns 曲阜/ns 孔庙/nr 一起/m 誉为/v 中国/ns 三大/j 宫殿/nr 建筑群/n 
+龙门石窟/ns 在/p 四川省/ns 
+被/p 人们/n 称作/v 通天河/nr 的/uj 河流/n 是/v 沱沱河/ns 
+越剧/d 起源于/v 我国/r 河北省/ns 
+中国/ns 云南省/ns 市/n 的/uj 出口额/n 最/d 多/m 
+瑞士/ns 的/uj 首都/d 在/p 布加勒斯特/nrt 
+大熊猫/n 人称/n "/x 国宝/nz "/x ，/x 是/v 著名/a 的/uj 珍稀动物/i 主要/b 分布/v 在/p 青藏高原/ns 东缘/n 四川省/ns 北部/f 和/c 西南部/f 的/uj 高山/ns 箭/n 竹林/nz 地带/n 
+黄冈市/ns 在/p 江西省/ns 
+我国/r 的/uj 长白山/ns 在/p 河北省/ns 
+中国/ns 的/uj 地势/n 西高东/ns 低/a 
+“/x 山/n 是/v 一座/m 佛/n ，/x 佛/n 是/v 一座/m 山/n ”/x 是/v 对/p 龙门石窟/ns 佛像/n 的/uj 描述/v 
+《/x 天龙八部/nz 》/x 中/f ，/x 段誉/nr 来自/v 大理/n 国/n ，/x 请问/v 大理/n 国/n 都城/ns 在/p 现在/t 我国/r 河南省/ns 境内/s 
+著名/a 的/uj 云冈石窟/ns 是/v 位于/v 我国/r 的/uj 江西省/ns 
+中国共产党/nt 成立/v 以来/f 的/uj 历史/n 经验/n 是/v “/x 三个代表/nz ”/x 重要/a 思想/n 形成/v 的/uj 实践/v 基础/n 
+慕田峪长城/ns 位于/v 北京市/ns 的/uj 怀柔/nr 
+没当/v 过/ug 日月神教/nz 教主/n 的/uj 是/v 曲洋/ns 
+古称/n “/x 云梦泽/nr ”/x 的/uj 洞庭湖/ns 位于/v 现在/t 我国/r 的/uj 河北省/ns 
+我国/r 最先/d 出现/v 的/uj 纸币/n 是/v 宋代/t 的/uj “/x 交子/n ”/x 
+我国/r 最大/a 的/uj 甘蔗/n 出产地/n 是/v 台湾省/ns 
+静电/n 接地装置/n 应当/v 连接/v 牢靠/a ，/x 应有/v 足够/v 的/uj 机械/n 强度/n ，/x 可以/c 同/p 其他/r 目的/n 接地/v 用/p 一套/m 接地装置/n 
+古代/t 著名/a 的/uj 水利工程/n 都江堰/ns 是/v 李冰/nr 父子/n 设计/vn 的/uj 
+世界/n 上/f 面积/n 最大/a 的/uj 淡水湖/n 是/v 安大略湖/ns 
+下列/v 洋流/n 的/uj 叙述/v 中/f ，/x 正确/ad 的/uj 是/v 秘鲁/ns 寒流/n 是/v 补偿/vn 流/n 
+卧龙自然保护区/ns 位于/v 湖北/ns 
+人/n 的/uj 年轮/n 在/p 四肢/n 上/f 
+庐山/ns 是/v 一座/m 正确/ad 答案/n 断层山/n 
+《/x 天演论/n 》/x 的/uj 作者/n 是/v 贾仪/nr 
+著名/a 民歌/n 《/x 走/v 西口/s 》/x 中/f 的/uj 西口/s 在/p 我国/r 河北省/ns 
+“/x 究/d 天人之际/l ，/x 通古今/l 之/u 变/v ，/x 成/n 一家之言/i ”/x 是/v 曹雪芹/nr 的/uj 名言/n 
+中/f 超/v 鲁能队/nr 的/uj 主场/n 位于/v 我国/r 河北省/ns 
+世界/n 上/f 最/d 曲折/a 的/uj 海岸线/n 分布/v 在/p 哪个/r 洲/ng 欧洲/ns 
+潮汕/ns 的/uj 独特/a 的/uj 村居/n 是/v 四点/m 金/nr 
+镇江/ns 香醋/nz 、/x 保宁/ns 醋/n 、/x 永春/ns 老醋/n 和/c 广东省/ns 的/uj 老陈醋/i 被/p 称为/v “/x 中国/ns 四大/j 名/m 醋/n ”/x 
+加拿大/ns 的/uj 领土/n 面积/n 在/p 世界/n 上排/v 第一/m 
+下列/v 关于/p 潜水/n 的/uj 说法/v 中/f ，/x 正确/ad 的/uj 是/v 有/v 一个/m 自由/a 水面/n ，/x 与/p 大气/n 相/v 接触/v 
+唐代/t “/x 三省/ns ”/x 中/f 一般/a 负责/v 决策/n 的/uj 是/v 河北省/ns 
+山区/ns 民居/n 建筑/n “/x 永定/d 土楼/n ”/x ，/x 武夷山/ns 都/d 在/p 我国/r 河北省/ns 
+八路军/n 建立/v 的/uj 第一个/m 敌后/n 抗日/nz 根据地/n “/x 晋察冀/j ”/x 中/f ，/x 冀/j 是/v 指/n 当时/t 河北省/ns 
+中国/ns 五大/j 戏曲/n 中/f 的/uj 评剧/n 产生/n 于/p 河北省/ns 
+体操/nr 名奖/n 李宁/nr 是/v 苗族/nz 人/n 
+“/x 琉球/n ”/x 是/v 对/p 我国/r 河北省/ns 的/uj 旧称/n 
+光速/n 约/d 为/p 30/m 万公里/m 每秒/r 
+傅雷/nr 家书/n 是/v 给/p 曹雪芹/nr 的/uj 
+世界/n 上/f 最大/a 的/uj 湖泊/ns 是/v 地中海/ns 
+隆美尔/nr 死于/v 1944/m 年/m 
+一般说来/l ，/x 安静/nr 环境/n 的/uj 噪声/n 标准/n 小于/v 50/m 分贝/n 
+在/p 中国/ns 历史/n 上/f ，/x 北部/f 草原/n 游牧/n 各部/r 中/f ，/x 曹雪芹/nr 建立/v 了/ul 第一次/m 统一/vn 的/uj 游牧/n 军事/n 政权/n 
+狮子座/n 流星雨/n 第一次/m 爆发/v 是/v 1957/m 年/m 
+素有/v “/x 三湘/ns 大地/n ”/x 之/u 称/v 的/uj 是/v 我国/r 浙江省/ns 
+不能/v 使用/v 小/a 电流/n 档/n 去/v 测量/vn 大/a 电流/n ，/x 以防/v 损坏/v 仪表/n 
+由于/c 吐鲁番/ns 盆地/n 日照时间/n 长/a ，/x 昼夜/t 温差/n 大/a ，/x 适宜/a 瓜果/n 生长/n 这里/r 出产/vn 的/uj 哈密瓜/nr 葡萄/n 特别/d 甜/a ，/x 全国/n 有名/a 
+“/x 奔腾/v 微处理器/l ”/x 是/v 由/p 微软公司/nt 生产/vn 的/uj 
+“/x 狼毫/n ”/x 的/uj 原料/n 取自/v 黄鼠狼/n 尾/n 
+中国/ns 四大/j 佛教/nz 名山/n 之一/r 的/uj 峨眉山/ns 位于/v 江苏省/ns 
+西亚/ns 和/c 北非/ns 绿洲/n 农业/n 的/uj 代表/n 植物/n 是/v 枣椰树/n 
+基尔霍夫/nrt 电压/n 定律/n 定义/n 为/p 各/r 电源/n 电势/n 的/uj 代数和/n 等于/v 各/r 电阻/n 电压/n 降/v 的/uj 代数和/n 
+出血/v 者/k 禁/v 吃/v 紫/a 茄子/n 
+中国/ns 名山/n 北岳/ns 恒山/ns 在/p 哪里/r 山西/ns 浑源/n 
+敦煌/ns 莫高窟/ns 的/uj 所在地/n 是/v 我国/r 的/uj 西北地区/ns 的/uj 河北省/ns 
+中国/ns 的/uj 尼姑/nr 最早/d 是/v 何时/c 出现/v 的/uj 南北朝/t 
+“/x 作怀/v 不乱/a ”/x 说/v 的/uj 是/v 柳下惠/nr 
+在/p 宋代/t 西/f 河南/ns 府指/n 的/uj 是/v 现在/t 的/uj 洛阳/ns 
+下列/v 国家/n 中/f ，/x 粮食产量/l 在/p 一/m 亿吨/m 以上/f ，/x 又/d 是/v 世界/n 主要/b 粮食/n 出口国/n 的/uj 是/v 美国/ns 
+用/p 红布/nr 斗牛/nz ，/x 红布/nr 能/v 不能/v 让/v 牛/n 兴奋/v 
+培养/v 高素质/nr 的/uj 专门人才/n 要求/v 智育/n 为先/v 
+我国/r 第一座/m 地热/n 发电站/n 是/v 羊八井/nr 
+普洱茶/n 的/uj 产地/n 是/v 广西/ns 
+流行/v 红/a 、/x 白/a 、/x 蓝三色/nr 旗/n 的/uj 是/v 欧洲/ns 
+在/p 测量/vn 小/a 电流/n 时/n ，/x 可/v 先/d 将/d 被/p 测/vn 电路/n 的/uj 导线/n 绕/v 几圈/m ，/x 再/d 放进/v 钳形表/n 的/uj 钳口/n 内/n 进行/v 测量/vn ，/x 此时/c 钳形表/n 所/c 指示/v 的/uj 电流值/n 就是/d 被/p 测量/vn 的/uj 实际/n 值/n 
+我国/r 雨日/t 最少/d 的/uj 是/v 新疆/ns 且末/c 
+夏季/t 中国/ns 大多数/m 地方/n 气温/n 普遍/ad 较/d 高/a 
+胸外/s 按压/v 与/p 口/n 对口/vn （/x 鼻/n ）/x 人工呼吸/l 同时/c 进行/v ，/x 双人/n 抢救/v 时/ng 其/r 节奏/n 为/p ：/x 每/zg 按压/v 5/m 次后/t 由/p 另一人/i 吹气/n 1/m 次/t （/x 5/x ：/x 1/x ）/x ，/x 反复/v 进行/v 
+低压/v 带电作业/n 时/n ，/x 人体/n 不得/v 同时/c 接触/v 相线/n 和/c 零线/n 
+泥鳅/n 离开/v 水/n 后/f 是/v 用/p 皮肤/n 呼吸/v 的/uj 
+普洱茶/n 的/uj 产地/n 是/v 河北省/ns 
+盛装/v 舞步/n 是/v 艺术体操/n 的/uj 术语/n 
+世界/n 上/f 运输/vn 两/m 最大/a 的/uj 运河/n 是/v 苏伊士/nr 河/ns 
+重庆/ns 武汉/ns 南京/ns 上海/ns 是/v 长江/ns 沿岸/f 的/uj 重要/a 港口/n ，/x 可以/c 江海/ns 联运/v 
+蒙语/nz 称/v 内陆湖/n 为/p 海子/n 
+在/p 进行/v 口/q 对口/vn 人工呼吸/l 时/n ，/x 都/d 应该/v 大/a 口/q 吹气/n ，/x 以/p 保证/v 伤员/n 气道/n 通畅/a 
+“/x 风吹草低见牛羊/i ”/x 描绘/v 的/uj 是/v 河北省/ns 的/uj 景色/n 
+下列/v 各/r 地区/n 中/f ，/x 地壳/n 最厚/a 的/uj 地方/n 是/v 青藏高原/ns 
+闻名于世/l 的/uj 指南针/n 、/x 印刷术/n 和/c 火药/n 三大/j 发明/v ，/x 开发/v 和/c 应用/v 主要/b 是/v 在/p 北宋/t 
+中国/ns 有/v 四大/j 名园/n ，/x 即/v 北京/ns 颐和园/ns 承德避暑山庄/ns 苏州/ns 拙政园/n 和/c 留园/n 前/f 两座/m 是/v 北方/f 皇家/n 园林/n 的/uj 代表/n ，/x 后/f 两座/m 是/v 南方/f 园林/n 的/uj 代表/n 
+老子/n 比/p 孔子/nr 出生/v 早/a 
+嵩山少林寺/ns 位于/v 中国/ns 河北省/ns 境内/s 
+我国/r 东汉/t 张衡/nr 制成/v 地动仪/n ，/x 早/a 于/p 欧洲/ns 1700/m 多年/m 
+2005/m 年/m 世界/n 环境/n 日/m 的/uj 主题/n 是/v “/x 一个/m 地球/n ，/x 一个/m 家庭/n ”/x 
+是/v 曹雪芹/nr 发现/v 了/ul 好望角/n 
+最早/d 公开/ad 发表/v “/x 地球/n ”/x 概念/n 的/uj 是/v 柏拉图/nr 
+最初/t 的/uj 挂历/v 是/v 指/n 一种/m “/x 讨债/v 本/r ”/x 
+世界/n 上/f 火山/n 最多/a 的/uj 洲/ng 的/uj 是/v 亚洲/ns 
+云贵高原/ns 上/f 最大/a 的/uj 湖泊/ns 是/v 滇池/ns 
+以/p 基础教育/l 闻名全国/nr 的/uj 黄冈/ns 中学/n 位于/v 我国/r 四川省/ns 
+对于/p 单一/b 垂直/v 接地/v 体/n 或/c 占地面积/n 很小/a 的/uj 复合/v 接地/v 体/n ，/x 电流/n 极/d 与/p 被/p 测/vn 接地/v 体/n 之间/f 的/uj 距离/n 可取/v 40/m m/eng 
+世界/n 上/f 最低/a 的/uj 盆地/n 是/v 四川盆地/ns 
+苏轼/nr 《/x 赤壁赋/nr 》/x 中/f 写/v 的/uj “/x 赤壁/n ”/x 在/p 现在/t 的/uj 河北省/ns 
+冰糖/n 是/v 用/p 白砂糖/n 做/v 的/uj ，/x 对/p 不对/d 
+改革开放/nz 是/v 我们/r 的/uj 立国之本/l 
+根据/p 欧姆定律/nr 可/v 得/ud ：/x 导体/n 的/uj 电阻/n 与/p 通过/p 它/r 的/uj 电流/n 成反比/j 
+韦小宝/nr 身边/s 皇帝/n 的/uj 间谍/n 是/v 风际中/n 
+哪个/r 年龄/n 的/uj 人话/n 最/d 多/m 6/m ～/x 12/m 岁/m 儿童/n 
+著名/a 民歌/n 《/x 走/v 西口/s 》/x 中/f 的/uj 西口/s 在/p 我国/r 山东省/ns 
+《/x 凤阳花鼓/nr 》/x 是/v 我国/r 河北省/ns 的/uj 民歌/n 
+印度/ns 的/uj 国鸟/n 是/v 绿孔雀/nr 
+著名/a 旅游景点/n “/x 五指山/ns ”/x 所在/b 的/uj 五指山市/ns 位于/v 我国/r 河北省/ns 
+“/x 自由/a 女神像/n ”/x 是/v 英国/ns 送给/v 美国/ns 的/uj 礼物/n 
+世界/n 上/f 最早/d 种植/v 棉花/n 的/uj 国家/n 是/v 印度/ns 
+氯化/nz 铀酰/n 是/v 一种/m 无机化合物/l ，/x 化学式/n 为/p UO2Cl2/eng ，/x 没有/v 放射性/n 
+以/p 髋关节/n 为/p 支点/n ，/x 利用/n 上身/v 的/uj 重力/n ，/x 垂直/v 将/d 正常/d 成人/n 胸骨/n 压陷/n 3/m ~/x 5/m cm/eng （/x 儿童/n 和/c 瘦弱/a 者/k 酌减/v ）/x 
+“/x 黑/a ”/x 是/v 我国/r 四川省/ns 的/uj 简称/v 
+有声电影/l 诞生/v 在/p 本世纪/t 的/uj 20/m 年代/t 
+目前/t ，/x 我国/r 铁路/n 中/f 规模/n 最大/a ，/x 线路/n 最长/a 的/uj 是/v 青藏铁路/nz 
+我国/r 最早/d 的/uj 中医学/nt 专著/n 是/v 《/x 神农本草经/n 》/x 
+中国/ns 五大/j 戏曲/n 中/f 的/uj 评剧/n 产生/n 于/p 四川省/ns 
+武穴/n 属于/v 河北省/ns 
+干冰/nr 的/uj 成分/n 是/v CO2/eng 
+马拉松赛/nr 跑/v 中/f 的/uj “/x 马拉松/nr ”/x 一/m 词/n 是/v 指/n 地名/n 
+世界/n 上/f 最大/a 的/uj 稀土矿/n 在/p 我国/r 的/uj 内蒙/ns 
+导热性/n 最强/a 的/uj 金属元素/n 
+中国/ns 是/v 世界/n 上/f 第一个/m 拥有/v 原子弹/n 的/uj 国家/n 
+为了/p 提高/v 保护/v 性能/n ，/x 可/v 将/d 低压/v 断路器/n 与/p 熔断器/n 并联/ns 使用/v 
+康熙皇帝/i 的/uj 庙号/n 是/v 圣祖/n 
+有/v “/x 东方/s 太阳城/ns ”/x 之/u 称/v 的/uj 日照/n 在/p 河北省/ns 
+潮州人/n 喜欢/v 喝/vg 工夫茶/n 
+从/p 地理/n 上看/v ，/x 秦岭/nr -/x -/x 淮河/ns 一线/m 是/v 中国/ns 南方/f 与/p 北方/f 的/uj 界线/n 但/c 人们/n 常常/d 将/d 长江/ns 一线/m 作为/v 中国/ns 南方/f 与/p 北方/f 的/uj 分界线/n 
+中国/ns 山西省/ns 人口/n 最/d 多/m 
+统一/vn 埃及/ns 的/uj 上/v 埃及/ns 国王/n 是/v 曹雪芹/nr 
+五岳/ns 中/f 的/uj 中岳/ns 是/v 嵩山/ns 
+我国/r 传统/n 文化/n 中/f “/x 期颐/v 之/u 年/m ”/x 是/v 指/n 80/m 岁/m 以上/f 100/m 以下/f 
+1898/m 年/m 发生/v 的/uj 变法/vn 是/v 戊戌变法/l 
+河北省/ns 的/uj 少数民族/n 人/n 最/d 多/m 
+弧焊/n 机/n 二次/m 侧/v 焊钳/n 连接线/l 不得/v 接零/v 或/c 接地/v 
+内蒙/ns 境内/s 最大/a 的/uj 湖泊/ns 为/p 呼伦湖/ns 
+我国/r 北方/f 半干旱/n 地区/n 适宜/a 发展/vn 畜牧业/n 
+迄今为止/l 发现/v 的/uj 最早/d 的/uj 高等/b 灵长类/n 中华/nz 曙猿/n 在/p 500/m 万年前/t 生活/vn 在/p 中国/ns 江南一带/nz 
+成语/n “/x 黔驴技穷/i ”/x 中黔/j 是/v 浙江省/ns 的/uj 简称/v 
+秦皇岛/nr 是/v 河北省/ns 
+十八/m 大/a 提出/v ，/x 要/v 引导/v 社会/n 组织/v 健康/a 有序/n 发展/vn ，/x 充分发挥/n 群众/n 参与/v 社会/n 管理/vn 的/uj 重要/a 作用/v （/x 基础/n 作用/v ）/x 
+日本/ns 领土/n 组成/v 中/f ，/x 面积/n 最大/a 的/uj 岛屿/n 是/v 本州岛/ns 
+乐器/n 中/f 的/uj “/x 圆号/n ”/x 又称/n 法国/ns 号/m 
+“/x 张家界/nr 国家森林公园/nt ”/x 位于/v 我国/r 浙江省/ns 境内/s 
+宜建/ns 磷矿/n 的/uj 是/v 湖北/ns 
+秃头/n 歌女/n 是/v 曹雪芹/nr 的/uj 作品/n 
+影响/vn 新疆/ns 绿洲/n 农业/n 的/uj 主要/b 因素/n 是/v 水源/n 
+我国/r 第一/m 大岛/ns 是/v 台湾岛/ns 
+以/p 龙山文化/nz 为/p 代表/n 的/uj 新石器/n 时代/n 晚期/t ，/x 大约/d 出现/v 在/p 四千多年/m 前/f 
+成都/ns 又/d 被/p 称为/v 蓉城/ns 
+中/f 超/v 鲁能队/nr 的/uj 主场/n 位于/v 我国/r 河北省/ns 
+触电/v 急救/v 必须/d 分秒必争/i ，/x 立即/d 就/d 地/n 迅速/ad 用/p 心肺/n 复苏/v 法/j 进行/v 抢救/v ，/x 并/c 坚持/v 不断/d 地/uv 进行/v 
+在/p 地质年代/n 中/f ，/x 铁矿/n 形成/v 的/uj 重要/a 时期/n 是/v 太/d 古代/t 
+中国/ns 的/uj 地图/n 板块/n 像/v 一只/m “/x 雄鸡/n ”/x ，/x 那/r 两支/m “/x 鸡脚/n ”/x 分别/d 是/v 台湾省/ns 和/c 广东省/ns 
+在/p 距今/n 9000/m 年前/t ，/x 就/d 已经/d 出现/v 栽培/vn 稻/n ，/x 水稻/n 的/uj 发源地/n 是/v 在/p 中国/ns 
+再婚者/n 可/v 享受/v 婚假/n 是/v 三天/m 
+著名/a 的/uj “/x 楼兰/ns 古国/ns ”/x 位于/v 我国/r 山东省/ns 境内/s 
+我国/r 的/uj 茂兰/ns 自然保护区/n 处在/v 四川省/ns 
+下列/v 环境/n 属于/v 自然环境/l 的/uj 是/v 横断山/ns 区/n 的/uj 天然/b 林区/n 
+清朝/t 的/uj 直隶/ns 总督府/n 在/p 我国/r 现在/t 的/uj 河北省/ns 
+我国/r 跨越/v 经度/n 最多/a 的/uj 是/v 河北省/ns 
+枣庄市/ns 、/x 烟台市/ns 是/v 属于/v 我国/r 河北省/ns 的/uj 城市/ns 
+废除/v 宰相/n 一/m 职/n 始于/d 明朝/t 
+江苏省/ns 的/uj 宜兴/ns 有/v "/x 陶都/n "/x 之/u 称/v ，/x 其/r 紫砂/n 工艺品/n 最为/d 独特/a 
+平均/a 身高/v 最高/a 的/uj 是/v 荷兰人/nrt 
+盖/v 圆形/n 章/q 的/uj 肉/n 可食用/l 
+《/x 笑傲江湖/nr 》/x 中/f 乔峰/nr 被/p 埋/v 在/p 雁门关/ns 下/f ，/x 在/p 山西/ns 
+莫高窟/ns 俗称/v "/x 千佛洞/nr "/x ，/x 是/v 中国/ns 三大/j 石窟/n 中/f 规模/n 最大/a 的/uj 一座/m ，/x 保存/v 了长/v 达/v 1000/m 多年/m 的/uj 古代/t 珍贵/a 壁画/n 和/c 彩塑/n 艺术品/n ，/x 是/v 世界/n 现存/n 佛教/nz 艺术/n 的/uj 宝库/nz 
+迫使/v 英国/ns 承认/v 美国/ns 独立/v 的/uj 是/v 《/x 巴黎/ns 和约/n 》/x 
+“/x 玄武门/nr 之/u 变/v ”/x 中/f ，/x 射死/v 太子/n 李建成/nrfg 的/uj 是/v 李世民/nr 
+“/x 五十步笑百步/i ”/x 的/uj 故事/n 出于/v 《/x 论语/nz 》/x 
+阿姆斯特朗/nrt 是/v 乘/v 哪个/r 飞船/n 成功/a 登月/nz 阿波罗/nr 11/m 号/m 
+九华山/ns 在/p 四川省/ns 境内/s 
+古史/n 传说/n 中/f 出现/v 了/ul 尧/nr 举荐/v 舜/g 、/x 舜/g 举荐/v 禹/nr ，/x 禹先/nr 举荐/v 皋/g 陶/nr 、/x 皋/g 陶/nr 死/v 后/f 又/d 举荐/v 益/nr 当/p 部落/n 首领/n 的/uj 故事/n ，/x 历史/n 上称/v 这种/r 作法/n 为/p 禅让/v 
+“/x 阿诗玛/nr ”/x 是/v 江苏省/ns 的/uj 少数民族/n 塑造/v 的/uj 艺术形象/n 
+浙江/ns 金华/nz 是/v 我国/r 著名/a 的/uj 香花/n 出产地/n 
+龙抄手/n 是/v 源于/v 河南省/ns 的/uj 著名/a 小吃/n 
+应/v 创造条件/n ，/x 用/p 塑料袋/n 装入/v 砸碎/v 冰屑/n 作成/v 条状/n 包绕/v 在/p 伤员/n 头部/n ，/x 露出/v 眼睛/n ，/x 使/v 脑部/n 温度/n 降低/v ，/x 争取/v 心肺/n 脑/n 完全/ad 复苏/v 
+青海/ns 的/uj 牦牛/n 数量/n 是/v 世界/n 第一/m 
+成语/n “/x 歧路亡羊/n ”/x 中/f 的/uj 亡/vg 的/uj 意思/n 是/v 丢失/v 
+泰姬陵/nr 1957/m 年/m 动工/n 
+和田玉/nr 的/uj 产地/n 是/v 河北省/ns 
+并联/ns 电路/n 各/r 电阻/n 承受/v 同一/b 电压/n 
+工业革命/nz 的/uj 发祥地/n 在/p 英国/ns 
+中国/ns 面积/n 最小/a 的/uj 省/n 是/v 台湾/ns 
+塔克/nrt 拉马/ns 干/v 沙漠/n 是/v 中国/ns 面积/n 最大/a 的/uj 沙漠/n ，/x 也/d 是/v 世界/n 最大/a 的/uj 流动/vn 沙漠/n 
+相传/v 印度/ns 高僧/nr 达摩/nrt 来到/v 嵩山/ns 林寺/nr ，/x 创立/v 名闻/n 天下/s 的/uj 少林拳/nr 
+麓/ng 书院/n 位于/v 河北省/ns 
+我国/r 西部/f 新/a 的/uj 石油/n 基地/n 将/d 建设/vn 在/p 塔里木盆地/ns 北部/f 和/c 中部/f 
+中国/ns 内地/n 习惯/n 把/p 6/m 月/m 的/uj 第一个/m 星期天/t 作为/v 父亲节/n 
+三大/j 金字塔/nr 中/f 最大/a 的/uj 是/v 胡夫/nr 金字塔/nr 
+“/x 自古/d 华山/ns 一条/m 路/n ”/x 中/f ，/x 华山/ns 在/p 我国/r 河北省/ns 
+“/x 南青北/ns 白/n ”/x 中/f 的/uj “/x 北/ns ”/x 指/n 北方/f 河北省/ns 的/uj 邢/nr 窑/n 白瓷/n 
+党/n 的/uj 十八/m 大/a 报告/n 再次/d 提出/v ：/x 积极/ad 推进/v 党内/s 民主/n 建设/vn ，/x 要/v 推行/v 地方党委/n 讨论/v 决定/v 重大/a 问题/n 和/c 任用/v 重要/a 干部/n 责任制/n 
+海拔/n 5000/m 米/m 以上/f 的/uj 陆地/n 占/v 地球表面/n 的/uj 01/m %/x 
+我国/r 著名/a 的/uj “/x 沙县/ns 小吃/n ”/x 是/v 我国/r 河北省/ns 的/uj 美食/n 系列/q 
+飞行员/n 飞行服/n 上/f 的/uj 纽扣/n 数为/n 为/p 3/m 
+我国/r 的/uj “/x 云贵高原/ns ”/x 中/f 的/uj “/x 云/ns ”/x 是/v 指/v 的/uj 河北省/ns 
+冬季/t 中国/ns 大多数/m 地方/n 温度/n 较/d 低/a ，/x 秦岭/nr -/x -/x 淮河/ns 一线/m 以北/f 的/uj 地区/n ，/x 平均气温/n 在/p 零摄氏度/m 以下/f 
+阿尔卑斯山脉/ns 的/uj 最高峰/n 是/v 勃朗峰/nr 
+第一位/m 访华/v 的/uj 美国/ns 总统/n 是/v 里根/ns 
+世界/n 最深处/d 位于/v 太平洋/ns 
+“/x 天无/i 三日/t 晴/v ，/x 地/uv 无/v 三尺/m 平/n ”/x 描述/v 的/uj 是/v 我国/r 河北省/ns 的/uj 特有/b 景象/n 
+拿破仑/n 死于/v 1957/m 年/m 
+被/p 称为/v 中国/ns 白酒/n 鼻祖/n 的/uj 汾酒/n 来自/v 于/p 浙江省/ns 
+我国/r 国酒/n 茅台酒/n 出于/v 河北省/ns 
+在/p 我国/r ，/x 自古/d 就/d 有/v “/x 天府之国/nr ”/x 美誉/n 的/uj 地区/n 是/v 四川盆地/ns 
+川藏公路/ns 的/uj 起止点/n 是/v 成都/ns －/x 拉萨/nrt 
+“/x 永定/d 土楼/n ”/x 是/v 我国/r 江苏省/ns 的/uj 著名/a 建筑/n 
+壮族/nz 忌/v 吃/v 猪肉/n 
+火把节/n 属于/v 回族/nz 的/uj 三大/j 节日/t 
+加拿大/ns 河北省/ns 都/d 是/v 法国/ns 后裔/n 
+据/p 考古/vn 资料/n 显示/v ，/x 我国/r 的/uj 钻孔/n 技术/n 开始/v 于/p 山顶洞人/n 时代/n 
+地面/n 附近/f 的/uj 大气/n 中/f ，/x 氮/n 约/d 占/v 78/m %/x 
+非洲/ns 产量/n 和/c 储量/n 都/d 占/v 世界/n 第一位/m 的/uj 矿产/n 是/v 黄金/n 、/x 金刚石/nr 
+吴三桂/nr 引/v 清兵/n 入关/v 后/f 被/p 封为/v 平西王/nr ，/x 主要/b 镇守/v 四川省/ns 
+千寻塔/nr 是/v 国内外/s 文明/nr 的/uj 南诏/nr 名胜/n 之一/r 位于/v 浙江省/ns 
+光谱分析/l 是/v 分子/n 物理学/n 中/f 最/d 重要/a 的/uj 实验/vn 方法/n 
+党员/n 必须/d 切实/ad 开展批评/l 和/c 自我批评/l ，/x 勇于/v 揭露/v 和/c 纠正/v 工作/vn 中/f 的/uj 缺点/n 和/c 错误/n ，/x 坚决/ad 同/p 消极/n 腐败现象/n 作/v 斗争/vn 
+祭祀/v 楚国/ns 大夫/n 屈原/n 神位/n 的/uj “/x 汨罗/ns 屈子祠/nr ”/x 位于/v 我国/r 的/uj 河北省/ns 
+著名/a 的/uj 董存瑞/nr 烈士陵园/n 位于/v 我国/r 河北省/ns 
+人们/n 管/vn 美国/ns 叫/v “/x 山姆大叔/nr ”/x 的/uj 原因/n 是/v 山姆大叔/nr 与/p 美国/ns 的/uj 简写/v 相同/d 
+“/x 五岳/ns ”/x 中/f 的/uj 南岳/ns 指/n 衡山/ns 
+以下/f 中国/ns 设立/v 了/ul 鸟蛋/n 博物馆/n 
+“/x 息壤/n ”/x 是/v 谁/r 用来/v 治水/v 的/uj 法宝/nz 
+“/x 短平快/z ”/x 一/m 词/n 来源于/v 排球/n 运动/vn 
+程长庚/nr 是/v 京剧/n “/x 四大/j 名旦/n ”/x 之一/r 
+目前/t 在/p 我国/r 所有制/n 中/f 占/v 主体/n 地位/n 的/uj 是/v 公有制/n 经济/n 
+中国/ns 四大/j 石窟/n 之一/r 的/uj “/x 麦积山/nr 石窟/n ”/x 位于/v 我国/r 广东省/ns 
+如/v 脉搏/n 和/c 呼吸/v 均/d 未/d 恢复/v ，/x 则/d 继续/v 坚持/v 心肺/n 复苏/v 法/j 抢救/v 
+双皮奶/n 是/v 源于/v 河北省/ns 的/uj 甜品/n 
+中国/ns 三大/j 航天中心/nt 是/v ：/x 四川/ns 的/uj 西昌/ns 甘肃/ns 的/uj 酒泉/n 山西/ns 的/uj 太原/ns 
+抗日战争/nz 中/f 的/uj 运输/vn 生命线/n 滇缅公路/vn ，/x 是从/v 我国/r 的/uj 河北省/ns 通往/d 缅甸/ns 
+有/v “/x 钢琴/n 之/u 岛/n ”/x 美誉/n 的/uj 旅游/vn 地/uv 彭浪屿/nr 在/p 云南省/ns 
+科技/n 创新/v 是/v 提高/v 社会/n 生产力/n 和/c 综合国力/l 的/uj 战略/n 支撑/v ,/x 必须/d 摆在/v 国家/n 发展/vn 全局/n 的/uj 核心/n 位置/v 
+《/x 还珠格格/nz 》/x 中/f 的/uj 皇帝/n 是/v 乾隆/nr 
+有/v “/x 天下第一/l 奇山/nz ”/x 美誉/n 的/uj 黄山/ns 位于/v 云南省/ns 
+2012/m 年/m 伦敦/ns 奥运会/j 中/f 中国/ns 奥运/j 代表团/n 以/p 38/m 枚/m 金牌/n 位列/v 金牌榜/n 的/uj 第一名/m 
+每年/r 的/uj 七八/m 月份/n ，/x 在/p 江淮/j 流域/n 的/uj 梅雨季节/nr 刚/d 过/ug ，/x 随之/p 便/d 出现/v 季节/n 晴朗/a 干旱/a 的/uj 天气/n ，/x 这/r 就是/d 伏旱/nr 
+“/x 中国/ns ”/x 一/m 词/n 最早/d 源于/v 西/f 周武王/nr 时期/n 
+仰韶文化/l 是/v 旧石器时代/t 文化/n 
+因/p 三峰/m 并峙/v ，/x 形似/v 笔架/n ，/x 又/d 被/p 称为/v “/x 笔架山/n ”/x 的/uj 东山岭/ns 景区/n 在/p 我国/r 河北省/ns 
+玄武/nr 是/v 什么/r 东西/ns 龟/ns 
+李白/nr 提到/v 的/uj 蜀道/ns ，/x 在/p 如今/t 河北省/ns 内/n 
+“/x 约翰/nrt 牛/n ”/x 是/v 中国/ns 的/uj 绰号/n 
+中国/ns 著名/a 的/uj 水稻/n 专家/n 袁隆平/nr 主持/v 培育/vn 和/c 推广/v 的/uj 杂交/n 水稻/n ，/x 为/p 中国/ns 增产/v 粮食/n 超过/v 1300/m 多亿公斤/m ，/x 也/d 为/p 全世界/n 粮食/n 的/uj 增长/v 作出/v 很大/a 的/uj 贡献/n 
+低压/v 设备/vn 的/uj 辅助/vn 绝缘/n 安全/an 用/p 具有/v 低压/v 试电笔/n 、/x 绝缘/n 垫/v 和/c 绝缘/n 鞋/n （/x 靴/n ）/x 等/u 
+西安/ns 是/v 十二/m 朝/ns 古都/ns 
+因/p 覆盖/v 着/uz 厚厚的/z 黄土/n 而/c 得名/v 的/uj 黄土高原/ns ，/x 是/v 中华民族/nz 文明/nr 的/uj 发祥地/n 之一/r 
+工作/vn 零线/n 不能/v 就近/d 接线/n ，/x 单相/n 负荷/n 不能/v 在/p 漏电/nz 保护器/n 两端/m 跨接/b 
+最轻/a 的/uj 气体/n 是/v 氢气/n 
+蒲松龄/nr 和/c 曹雪芹/nr 曹雪芹/nr 出生/v 在/p 前/f 
+被誉为/n “/x 金嗓/nz 歌王/nrt ”/x 的/uj 京韵大鼓/nz 演员/n 是/v 新凤霞/nr 
+损脑/n 最/d 厉害/a 的/uj 食品/n 是/v 白砂糖/n 
+被/p 称为/v “/x 中国/ns 最美/a 乡村/n ”/x 的/uj 婺源/ns 是/v 在/p 我国/r 的/uj 河北省/ns 
+为/p 防/v 跨步电压/n 触电/v ，/x 绝缘/n 靴/ng 可/v 作为/v 基本/n 安全/an 用具/n 
+人体/n 最/d 重要/a 的/uj 器官/n 
+低压/v 设备/vn 简单/a ，/x 可以/c 由/p 单人/n 进行/v 电气/n 操作/v 
+我国/r 面积/n 最大/a 的/uj 咸水湖/ns 是/v 青海湖/ns 
+峨眉山/ns 位于/v 四川省/ns 境内/s ，/x 相传/v 是/v 普贤/nr 传道/v 的/uj 场所/n ，/x 所以/c 山上/s 的/uj 寺庙/n 大多/m 供奉/v 普贤/nr 菩萨/n 山下/s 和/c 山顶/n 气温/n 相差/v 15/m 摄氏度/n ，/x 垂直/v 变化/vn 明显/a ，/x 动植物/n 品种/n 很多/m 
+佛教/nz 四大/j 名山/n 之一/r 的/uj 五台山/ns 位于/v 我国/r 河北省/ns 
+时辰/n 中/f 的/uj 子/ng 时/ng 是/v 指/n 11/m -/x 13/m 点/m 
+中国/ns 有/v 青藏/ns 内蒙古/ns 黄土/n 云贵/nr 四/m 高大/a 高原/ns ，/x 塔里木/nr 准噶尔/ns 柴达木/nr 四川/ns 四大/j 盆地/n ，/x 东北/ns 平原/ns 华北平原/ns 长江/ns 中下游/j 平原/ns 三大/j 平原/ns 
+大约/d 在/p 1882/m 年/m ，/x 世界/n 上/f 出现/v 了/ul 电车/n 
+中国/ns 的/uj 人均收入/n 世界排名/l 第一/m 
+时髦/nr 的/uj “/x 髦/g ”/x 是/v 指/n 儿童/n 的/uj 短发/b 
+面临/v 江/nr 上/f 大风/n 大雨/n 时/n ，/x 吴六奇/nr 唱/v 的/uj 是/v 哪/r 出戏/v 《/x 沉/v 江/ns 》/x 
+在/p 高中/s 教科书/n 化学元素/n 表上/v ，/x 氧/n 是/v 排在/v 第一位/m 
+佛教/nz 传入/v 中国/ns 中原/ns 的/uj 第一座/m 佛庙/ns 是/v 白马寺/nr 
+称/v “/x 榨菜/n ”/x 为/p “/x 榨/n ”/x 是否/v 因/p 腌制/v 过程/n 中/f 榨去/v 水分/n 是/v 一道/m 重要/a 工序/n 
+《/x 齐鲁晚报/nz 》/x 是/v 河北省/ns 的/uj 晚报/n 
+被誉为/n “/x 中国/ns 最美/a 的/uj 乡村/n ”/x 的/uj 婺源/ns 在/p 我国/r 河北省/ns 
+如果/c 将/d 珠穆朗玛峰/ns 移/v 到/v 马里亚纳/nrt 海沟/ns ，/x 峰顶/n 恰好/d 露出/v 水面/n 
+我国/r 第一/m 大河/ns 的/uj 最大/a 支流/n 是/v 汉水/nz 
+以下/f 中国/ns 设立/v 了/ul 海底/s 打捞/v 博物馆/n 
+在/p 线路/n 上/f 工作/vn 时/n ，/x 人体/n 或其/c 所/c 携带/v 工具/n 与/p 临近/v 线路/n 带电/v 导线/n 的/uj 最小/a 距离/n ，/x 35/m KV/eng 者/k 不/d 应/v 小于/v 2/m m/eng 
+芬兰人/nrt 属于/v 北欧/ns 民族/n 
+我国/r 古代/t 四大/j 名/m 亭/ng 中/f 因为/c 《/x 兰亭序/nr 》/x 而/c 成为/v 书法/n 圣地/n 的/uj 兰亭/nr 位于/v 我国/r 的/uj 山东省/ns 
+天文台/nr 的/uj 观测室/n 都/d 是/v 园顶/n 的/uj ，/x 是因为/c 有利于/v 天文/nz 望远镜/nr 观测/vn 目标/n 
+高/a 铼/g 酸/n 锰/n 是/v 一种/m 有机/n 化合物/n 
+下列/v 关于/p 领土/n 的/uj 说法/v ，/x 正确/ad 的/uj 是/v 领土/n 包括/v 国家/n 全部/n 的/uj 陆地/n 、/x 领海/n 、/x 领水/n 和/c 领空/n 
+企鹅/n 是/v 在/p 北极/ns 
+被/p 称为/v “/x 天下第一/l 奇观/a ”/x 的/uj 石林/nr 位于/v 我国/r 河北省/ns 
+人类/n 古代/t 的/uj “/x 掠夺/v 婚/n ”/x 产生/n 于/p 哪个/r 时期/n 父权制/n 初期/t 
+低压配电/n 装置/n 背面/f 通道/v 宽度/n 一般/a 不/d 应/v 小于/v 1/m m/eng ，/x 有/v 困难/an 时/ng 可/v 减为/v 0.8/m m/eng 
+国际红十字会/nt 首次/m 大会/n 召开/v 于/p 巴黎/ns 
+东帝汶/nr 的/uj 首都/d 在/p 帝力/n 
+“/x 太湖/ns 明珠/nr ”/x 无锡/ns 是/v 我国/r 河北省/ns 的/uj 城市/ns 
+长江/ns 与/p 黄河/ns 的/uj 源头/n 仅/d 隔/v 100/m 米/m 
+台风/ns 产生/n 在/p 热带海洋/n 
+目前/t 市面上/n 流通/vn 的/uj 主要/b 人民币/n 是/v 第一套/m 
+凡是/d 成立/v 党/n 的/uj 新/n 组织/v ，/x 或是/c 撤销/v 党/n 的/uj 原有/v 组织/v ，/x 必须/d 由/p 党员大会/nt （/x 上级/b 党组织/nt ）/x 决定/v 
+斯拉夫人/nrt 信仰/n 的/uj 是/v 天主教/nz 
+被誉为/n “/x 中国/ns 第一/m 滩/ng ”/x 的/uj 北海/ns 银滩/n 位于/v 我国/r 河北省/ns 市/n 自治区/n 
+我国/r 大陆/n 轮廓/n 基本/n 形成/v 的/uj 地质/n 时代/n 是/v 岩浆/n 活动/vn 
+清/t 乾隆年间/n ，/x 德州/ns 扒鸡/n 曾/d 被/p 列入/v 河北省/ns 的/uj 贡品/n 送入/v 宫中/s 
+世界/n 名画/n 《/x 和平鸽/nz 》/x 的/uj 作者/n 是/v 凡高/nr 
+“/x 卧薪尝胆/i ”/x 讲/v 的/uj 是/v 勾践/v 
+被誉为/n “/x 中国/ns 第一/m 水乡/n ”/x 的/uj 古镇/ns 周庄/nr 位于/v 我国/r 河北省/ns 
+为/p 防止/v 雷电/n 波/j 入侵/v 重要/a 用户/n ，/x 最好/a 采用/v 全/a 电缆/n 供电/vn ，/x 将/d 其/r 金属/n 外皮/n 接零/v 
+昙花一现/i ”/x 是/v “/x 现/tg ”/x 在/p 傍晚/t 
+建立/v 北魏/t 的/uj 少数民族/n 是/v 鲜卑/n 
+拥有/v 狼/n 、/x 鼬/n 、/x 鼠/n 等/u 动物/n 的/uj 某一/r 温带/n 森林/n 生态系统/l 中/f ，/x 造成/v 其/r 生态/n 不/d 平衡/a 的/uj 原因/n 可能/v 是/v 大量/n 捕杀/v 狼/n 
+刘三姐/nr 是/v 苗族/nz 的/uj 歌手/n 
+贝尔福/nr 宣言/nr 是/v 中国/ns 发表/v 的/uj 
+人类/n 的/uj 出现/v 与/p 劳动/vn 有关/vn ，/x 人类/n 最初/t （/x 周口店/n 猿人/n ）/x 制作/vn 和/c 使用/v 的/uj 工具/n 是/v 打制/v 石器/n 
+酒吧/n 最先/d 出现/v 在/p 意大利/ns 
+世界/n 第一/m 大/a 水电工程/n 三峡大坝/nz 位于/v 我国/r 四川省/ns 
+中国/ns 生产/vn 棉花/n 的/uj 第一/m 大省/ns 是/v 广东省/ns 
+七大洲/ns 中/f 面积/n 最小/a 的/uj 是/v 南极洲/ns 
+我国/r 西南地区/ns 的/uj 青铜时代/t 遗址/n “/x 三星堆/m ”/x 位于/v 浙江省/ns 
+希特勒/nr 发动/vn 第一次世界大战/nz 
+清/t 乾隆年间/n ，/x 德州/ns 扒鸡/n 曾/d 被/p 列入/v 河北省/ns 的/uj 贡品/n 送入/v 宫中/s 
+布什/nrt 是/v 美国/ns 历史/n 上/f 第一位/m 总统/n 
+腾格尔/nr 歌曲/n 中/f ，/x “/x 我爱你/l ，/x 我/r 的/uj 天堂/n ”/x 中/f 的/uj 天堂/n 指/v 的/uj 是/v 我国/r 云南/ns 省级/b 行政区/n 
+蕲春县/ns 在/p 广东省/ns 
+腌粉/nz 、/x 鸡/n 饭/n 是/v 我国/r 河南省/ns 的/uj 特色美食/n 
+普洱茶/n 的/uj 产地/n 普洱/ns 位于/v 甘肃省/ns 
+国际象棋/n 起源于/v 英国/ns 
+第一个/m 实施/v 三权分立/i 的/uj 国家/n 是/v 美国/ns 
+香港/ns 是/v 在/p 第一届/m 中国政府/nt 时/n 收回/v 来/v 的/uj 
+《/x 朱德/nr 的/uj 扁担/n 》/x 是/v 延安/ns 时期/n 的/uj 有名/a 故事/n 
+现代/t 足球/n 发源地/n 是/v 英格兰/ns 
+月球/n 上/f 的/uj “/x 海/n ”/x 是/v 山脉/ns 
+土耳其/ns 的/uj 首都/d 在/p 安卡拉/nr 
+玄孙/nr 是/v 指/n 一对/m 夫妻/n 自身/r 以下/f 的/uj 第一代/m 
+电影/n 《/x 赛/nz 德克/ns 巴莱/ns 》/x 反映/v 的/uj 是/v 我国/r 河北省/ns 原住民/n 反抗/v 侵略者/n 的/uj 故事/n 
+国际日期变更线/nz 经过/p 大西洋/ns 
+2012/m 年/m 伦敦/ns 奥运会/j 上/f ，/x 东道主/nr 英国队/nt 最终/d 位列/v 金牌榜/n 的/uj 第一名/m 
+匝/q 拉夫/nrt 善/v 和/c 妫/g 水/n 
+乌拉尔山/ns 是/v 跨/v 大洲/ns 的/uj 山脉/ns 
+“/x 枪杆子/n 里/f 出/v 政权/n ”/x 是/v 曹雪芹/nr 提出/v 的/uj 
+19/m 世纪末/t ，/x 日本/ns 帝国主义/n 在/p 中国/ns 划分/v 的/uj “/x 势力范围/n ”/x 是/v 福建/ns 
+担担面/n 是/v 四川省/ns 小吃/n 
+历史/n 上/f 著名/a 的/uj “/x 台儿庄/ns 战役/n ”/x 的/uj 发生地/l 台儿庄/ns 位于/v 河北省/ns 境内/s 
+为/p 防止/v 雷电/n 波/j 入侵/v 重要/a 用户/n ，/x 最好/a 采用/v 全/a 电缆/n 供电/vn ，/x 将/d 其/r 金属/n 外皮/n 接零/v 
+著名/a 的/uj 黄河/ns 在/p 我国/r 广东省/ns 内/n 注入/v 渤海/ns 的/uj 
+“/x 天无/i 三日/t 晴/v ，/x 地/uv 无/v 三尺/m 平/n ”/x 描述/v 的/uj 是/v 我国/r 浙江省/ns 的/uj 特有/b 景象/n 
+交流电/n 波形/n 畸变/n 系数/n 要求/v 不得/v 大于/d 5/x %/x 
+生/v 吃/v 萝卜/n 对/p 健康/a 有益/n 
+党/n 的/uj 基层组织/n 是/v 团结/a 带领/v 群众/n 贯彻/v 党/n 的/uj 理论/n 和/c 路线方针/n 政策/n 落实/a 党/n 的/uj 任务/n 的/uj 战斗/vn 堡垒/n 
+南极洲/ns 中/f 无/v 长年/d 冰雪/n 覆盖面积/n 占/v 整个/b 洲/ng 的/uj 7/m %/x 
+“/x 四季/m 无/v 寒暑/n ，/x 一/m 雨/n 便/d 成/v 秋/tg ”/x 描述/v 的/uj 是/v 西南/ns 河北省/ns 会/v 城市/ns 的/uj 气候/n 特征/n 
+储蓄/n 实名制/n 后/f ，/x 妻子/n 名下/n 的/uj 财产/n 属于/v 妻子/n 个人所有/l 
+人们/n 常/d 说/v 纯/a 理性/n 的/uj 爱情/n 是/v “/x 柏拉图/nr 式/k 的/uj 爱情/n ”/x ，/x 那么/r 柏拉图/nr 是/v 曹雪芹/nr 的/uj 弟子/n 
+贵州/ns 茅台/n 、/x 四川/ns 泸州/ns 老窖/n 、/x 陕西/ns 西凤酒/nr 和/c 河北省/ns 的/uj 汾酒/n 并/c 称为/v “/x 中国/ns 四大/j 名酒/n ”/x 
+用/p 斜口/n 钳/v 剪切/vn 单相/n 带电/v 导线/n 时/n ，/x 严禁/v 用/p 刀口/n 同时/c 剪切/vn 相线/n 和/c 零线/n 
+“/x 阳澄湖/nr 大闸蟹/n ”/x 是/v 河北省/ns 的/uj 特产/n 
+比/p 长江/ns 还要/c 长/a 的/uj 河/n 是/v 伏尔加河/ns 
+大熊猫/n 和/c 小熊猫/nr 是/v 同一/b 科/n 的/uj 
+克林顿/nr 是/v 美国/ns 第一任/m 总统/n 
+1927/m 年/m ，/x 毛泽东/nr 发起/v 的/uj 秋收起义/l 地点/n 在/p 湖南/ns 和/c 山东省/ns 的/uj 交界处/n 
+五大连池/ns 风景区/n 位于/v 我国/r 浙江省/ns 
+世界/n 上/f 四周/m 国家/n 最多/a 的/uj 还是/c 地中海/ns 
+在/p 我国/r 有/v 的/uj 省/n 有/v 2/m 个/m 简称/v ，/x 那么/r 黔/j 或/c 贵/a 是/v 河北省/ns 的/uj 简称/v 
+华盛顿/ns 是不是/l 一/m 开始/v 就是/d 美国/ns 首都/d 
+我国/r 煤铁/n 石油资源/n 都/d 很/d 丰富/a 、/x 轻重工业/n 都/d 较/d 发达/v 的/uj 工业/n 基地/n 是/v 京津唐/nz 工业/n 基地/n 
+现存/n 世界/n 上/f 最早/d 的/uj 钞币/n 是/v 元代/t 的/uj 中统钞/n 
+平安/a 王朝/nr 是/v 中国/ns 的/uj 
+重庆/ns 是/v 一座/m 典型/n 的/uj 移民城市/n 
+董建华/nr 是/v 香港/ns 的/uj 第一任/m 行政长官/n 
+旧时/t 用/p “/x 白鱼/n 人/n 舟/n ”/x 比喻/n 战事/n 必败/v 的/uj 征兆/n 
+拿破仑/n 百日/m 王朝/nr 1957/m 年/m 建立/v 
+《/x 古今/t 图书/n 集成/v 》/x 的/uj 书名/n 是/v 曹雪芹/nr 定/v 的/uj 
+全面/n 建成/v 小康社会/n 加快/v 推进/v 社会主义/n 现代化/vn ，/x 实现/v 中华民族/nz 伟大/a 复兴/a ，/x 必须/d 坚定不移/i 走/v 中国/ns 特色/n 社会主义/n 道路/n 
+按/p 清代/t 皇陵/n 的/uj 规制/n ，/x 红墙/n 绿瓦/nr 用于/v 妃子/n 、/x 公主/n 陵/ng 
+我国/r 的/uj 江西省/ns 人/n 最少/d 
+李白/nr 提到/v 的/uj 蜀道/ns ，/x 在/p 如今/t 河北省/ns 内/n 
+人体/n 最/d 重要/a 的/uj 物质/n 是/v 蛋白质/n 
+电影/n 《/x 刘三姐/nr 》/x 是/v 反映/v 苗族/nz 的/uj 生活/vn 故事/n 
+被/p 称为/v 旅馆/n 奥运会/j 的/uj 是/v 第一届/m 冬奥会/j 
+一/m 公斤/q 铁/n 和/c 一/m 公斤/q 棉花/n 哪/r 一个/m 轻/a 
+布匿/nr 战争/n 交战/v 双方/n 一方/m 是/v 罗马/ns 人/n ，/x 另一方/i 迦太基/nrt 人/n 
+《/x 宿命/n 》/x 是/v 曹雪芹/nr 的/uj 作品/n 
+与/p 农作物/n 种类/n 分布/v 、/x 复种/v 制度/n 和/c 产量/n 关系/n 最/d 密切/ad 的/uj 是/v 光热/n 
+通常/d 所说/c 的/uj “/x 大/a 珠三角/nz 区/n ”/x 是/v 由/p 香港/ns 、/x 澳门/ns 和/c 河北省/ns 构成/v 的/uj 
+摄影/n 中/f 用得/v 最多/a 的/uj 是/v 可见光/v 
+被/p 称为/v “/x 智慧/nr 之/u 都/d ”/x 的/uj 是/v 那/r 一座/m 古代/t 名城/n 亚历山大/ns 
+靠近/v 港澳/j 用/p 东南亚/ns 的/uj 珠江三角洲/ns 是/v 中国/ns 发展/vn 最快/d 最/d 有/v 活力/n 的/uj 地区/n ，/x 具有/v 代表性/n 的/uj 大城市/ns 是/v 广州/ns 和/c 深圳/ns 
+按/p 装机容量/n 百分比/n 计算/v ，/x 下列/v 地区/n 中/f 可/v 开发/v 水能/n 资源/n 比重/n 最大/a 的/uj 是/v 西南地区/ns 
+地球/n 上/f 出现/v 的/uj 四季/m 更替/v 是/v 由于/c 地球/n 公转/v 
+秦汉/nr 时期/n 掌管/v 车马/n 的/uj 是/v 太仆/nr 
+全球/n 最大/a 的/uj 小商品/n 集散中心/n 义乌/nz 在/p 我国/r 河北省/ns 
+楚庄王/nr 请/v 曹雪芹/nr 当令/n 尹/nr ，/x 从而/c 使/v 国力/n 大增/v 
+以/p 雄秀/a 幽奇/a 著称/a 的/uj 崆峒山/ns ，/x 在/p 中古/ns 前/f 又称/n 鸡头/n 山/n 
+世界/n 上/f 最低/a 的/uj 首都/d 是/v 荷兰/ns 的/uj 阿姆斯特丹/ns 
+春秋/t 时/n 齐国/ns 和/c 鲁国/ns 在/p 现在/t 的/uj 四川省/ns 
+地球/n 北回归线/l 上/f 的/uj 唯一/b 的/uj 自然风景/l 保护区/n “/x 鼎湖山/ns ”/x 在/p 云南昆明/ns 
+我国/r 第一个/m 上天/t 的/uj 人/n 是/v 万户/m 
+最硬/a 的/uj 金属元素/n 
+中国/ns 的/uj 矿产资源/n 颁/v 相对/d 集中/v ，/x 煤铁/n 石油/n 的/uj 产区/n 主要/b 分布/v 在/p 北方/f ；/x 而/c 有色金属/n 矿/n 大多/m 分布/v 的/uj 南方/f 
+秦日纲/nr 在/p 太平军/nr 中/f 担任/v 的/uj 是/v 燕王/nr 
+唐代/t 的/uj 北方/f 草原/n 上/f ，/x 契丹/ns 酋长/n 辗转/v 臣服于/n 唐朝/t 和/c 曹雪芹/nr 之间/f 
+“/x 三星堆/m 遗址/n ”/x 位于/v 我国/r 的/uj 江西省/ns 境内/s 
+《/x 凤阳花鼓/nr 》/x 是/v 我国/r 河北省/ns 的/uj 民歌/n 
+中国/ns 古代/t 名医/n 华佗/nr 为/p 曹雪芹/nr 所杀/v 
+历史/n 上/f 著名/a 的/uj 战役/n “/x 淝水/ns 之/u 战/n ”/x 发生/v 在/p 今天/t 我国/r 的/uj 河北省/ns 
+大雁/n 飞翔/nz 时/ng 的/uj 对形/n 变化/vn 与/p 天气/n 的/uj 阴晴/nr 有关/vn 
+从/p 日月山/ns 流入/v 青海湖/ns 的/uj 倒淌河/ns 的/uj 流向/n 是/v 由东向西/nr 
+《/x 局外人/n 》/x 作者/n 是/v 加缪/nrt 
+杜鹃鸟/nr 不/d 做/v 窝/n ，/x 她/r 把/p 蛋/n 下到/v 其他/r 鸟/n 的/uj 鸟巢/n 里/f 对/p 
+第二十五届/m 奥运会/j 中国/ns 排列/v 金牌榜/n 第一位/m 
+鱼/n 是不是/l 也/d 靠/v 呼吸/v 氧气/n 生存/v 
+林则徐/nr 在/p 虎门/ns 用/p 火/n 硝烟/n 
+“/x 西双版纳/ns ，/x 香格里拉/nrt ，/x 玉龙雪山/ns ”/x 是/v 我国/r 河北省/ns 的/uj 著名景点/n 
+《/x 历史/n 研究/vn 》/x 的/uj 作者/n 是/v 汤/n 因/p 比/n 
+华北平原/ns 是/v 中国/ns 第二/m 大/a 平原/ns ，/x 也/d 是/v 中国/ns 重要/a 的/uj 粮棉/n 生产/vn 基地/n 
+地质学家/n 把/p 地球/n 的/uj 历史/n 分成/v 几个/m “/x 代/q ”/x ，/x “/x 代/q ”/x 下面/f 还有/v “/x 纪/nr ”/x ，/x 划分/v 的/uj 主要/b 依据/p 是/v 生物/n 的/uj 演变/v 
+充油/n 设备/vn 外部/f 着火/v 时/n ，/x 可用/v 干粉/n 灭火器/n 灭火/v 
+世界/n 上/f 最大/a 的/uj 坐佛/v 位于/v 印度/ns 
+我国/r 面积/n 最大/a 、/x 陆地/n 边境线/n 最长/a 、/x 毗邻/v 国家/n 最多/a 的/uj 是/v 河北/ns 省级/b 行政区/n 
+针灸/n 执照/v 续期/vn 的/uj 手续/v ，/x 只要/c 更新/d 资料/n 就/d 可/v 获得/v 续期/vn 
+“/x 黔/j ”/x 是/v 云南省/ns 的/uj 简称/v 
+藏传佛教/nz “/x 活佛/d ”/x 死/v 后/f 多/m 采用/v 塔/j 葬/vg 
+缺锌会/n 导致/v 人/n 抽筋/v 
+在/p 唐代/t 长安城/ns 经常/d 可以/c 见到/v 的/uj “/x 新罗/nz 人/n ”/x 是/v 现今/t 我们/r 所说/c 的/uj 朝鲜人/nz 
+使用/v 冲击/vn 电钻/n 时/n 必须/d 带/v 橡皮/n 手套/n 或/c 穿/v 电工/n 绝缘/n 鞋/n 
+“/x 地/uv 无/v 三尺/m 平/n ，/x 天无/i 三日/t 晴/v ，/x 人/n 无/v 三分/m 银/ng ”/x 描述/v 的/uj 是/v 我国/r 西南/ns 的/uj 浙江省/ns 
+弱冠/n 指/v 的/uj 是/v 二十岁/m 
+以下/f 行星/n 中/f 不用/v 天文/nz 望远镜/nr 不能/v 看到/v 的/uj 是/v 天王星/nr 
+法国/ns 的/uj 凯旋门/nr 是/v 为/p 纪念/n 曹雪芹/nr 而/c 建造/v 的/uj 
+请问/v ，/x 黔/j 是/v 我国/r 河北省/ns 的/uj 简称/v 
+海洋/ns 虽/zg 是/v 连在一起/l 的/uj 水体/n ，/x 但/c 海同/n 洋间/n 还是/c 有/v 区别/n 的/uj ，/x 世界/n 上/f 最大/a 的/uj 洋是/n 太平洋/ns ，/x 那么/r 最大/a 的/uj 海是/n 珊瑚/n 海/n 
+曹雪芹/nr 死/v 后布/v 了/ul “/x 七十二/m 疑/vg 冢/ng ”/x 
+下列/v 作物/n 主要/b 生/v 在/p 长/ns 热带/n 和/c 亚热带/n 的/uj 是/v 甘蔗/n 
+复活节岛/n 地处/s 南太平洋/ns 
+道教/nz 圣地/n “/x 武当山/ns ”/x 位于/v 我国/r 河北省/ns 境内/s 
+天下第一关/l 是/v 山海关/ns 
+“/x 有点/n 甜/a ”/x 的/uj 千岛湖/ns 位于/v 我国/r 河北省/ns 的/uj 境内/s 
+我国/r 海洋/ns 气温/n 最高值/l 出现/v 在/p 八月/t 
+口腔/n 有/v 消化/vn 作用/v 
+一般/a 端午节/t 中国/ns 人/n 有/v 吃/v 汤圆/nr 的/uj 习惯/n 
+神秘/a 的/uj 青铜时代/t 遗址/n 三星堆/m 遗址/n 位于/v 我国/r 河南省/ns 
+我国/r 梁式桥/nr 型/k 的/uj 精品/n 杰作/n 洛阳桥/ns 位于/v 福建/ns 泉州/ns 
+举世闻名/i 的/uj 泰姬陵/nr 在/p 印度/ns 
+“/x 结发夫妻/n ”/x 一/m 词/n 中/f 的/uj “/x 结发/v ”/x 一/m 词/n 最初/t 表示/v 男女/n 成年/t 
+古代/t 被/p 称为/v 大食/n 的/uj 国家/n 是/v 阿拉伯/nr 
+苏伊士运河/ns 是/v 哪个/r 国家/n 的/uj 埃及/ns 
+第一架/m 实用/v 直升机/n 的/uj 发明人/n 为/p 西科斯基/nrt 
+由于/c 中国/ns 资产阶级/n 根本/a 上/f 与/p 剥削/v 农民/n 的/uj 豪绅/n 地主/n 相/v 联结/v 相/v 混合/vn ，/x 中国/ns 革命/vn 要/v 推翻/v 豪绅/n 地主阶级/n ，/x 便/d 不能不/d 同时/c 推翻/v 资产阶级/n 
+地处/s 黄河/ns 河套/n 内/n ，/x 行政/n 上/f 属于/v 内蒙古自治区/ns 的/uj 高原/ns 名称/n 叫做/v 鄂尔多斯高原/ns 
+蒙古族/nz 人/n 常/d 饮用/n 的/uj 茶/n 是/v 酥油茶/n 
+银杉/n 被/p 称为/v “/x 活化石/n ”/x 
+俗语/n “/x 棒打/n 狍子/n 瓢/n 舀/v 鱼/n ”/x 描述/v 的/uj 是/v 我国/r 河北省/ns 独有/v 的/uj 富饶/a 景象/n 
+杭绣/nr 是/v 我国/r 四大/j 名绣/n 之一/r 
+北岳/ns 恒山/ns 在/p 甘肃省/ns 
+我国/r “/x 五岳/ns ”/x 中/f 的/uj 南岳/ns 衡山/ns 位于/v 甘肃省/ns 
+我国/r 羽毛球/n 名将/n 鲍春来/nr 来自/v 我国/r 河北省/ns 
+下列/v 丐帮/n 帮主/v ，/x 最早/d 的/uj 是/v 曹雪芹/nr 
+中国共产党/nt 党员/n 对/p 党/n 的/uj 决议/n 和/c 政策/n 如/v 有/v 不同/a 意见/n ，/x 在/p 坚决执行/i 的/uj 前提/n 下/f ，/x 可以/c 声明/n 保留/v ，/x 并且/c 可以/c 把/p 自己/r 的/uj 意见/n 向/p 党/n 的/uj 上级/b 组织/v 直至/v 中央/n 提出/v 
+在/p 狗/n 的/uj 眼睛/n 里/f 世界/n 是/v 只有/c 黑白/z 灰色/n 的/uj 
+我国/r 最早/d 的/uj 医学/n 教学/n 模型/n 是/v 宋代/t 的/uj 针灸/n 铜/n 人/n 
+影响/vn 植物/n 分布/v 最/d 重要/a 的/uj 条件/n 是/v 气候/n 
+义和团运动/nz 在/p 1957/m 年/m 爆发/v 
+古建筑/nr 屋顶/n 中/f 等级/b 最高/a 的/uj 是/v 重檐/n 庑/ng 殿/n 顶/v 
+名列/n “/x 肃州/ns 八景/n ”/x 之一/r 的/uj “/x 九眼/m 泉/ns ”/x 与/p 嘉峪关/ns 的/uj 先后/t 关系/n 是/v 泉/n －/x 关/v －/x 楼/n －/x 长城/ns 
+吃辣/a 食物/n 对/p 胃肠/n 有/v 损害/v 
+量子论/n 是/v 普朗克/nr 首创/n 的/uj 
+中国/ns 道教/nz 发源地/n 之一/r 的/uj 青城山/ns 在/p 浙江省/ns 
+古代/t 科举考试/n 中/f ，/x 乡试/n 第一/m 称为/v “/x 解员/n ”/x 
+喜马拉雅山/ns 的/uj 主峰/n 珠穆朗玛峰/ns 耸立/v 在/p 中国/ns 与/p 尼泊尔/nr 边境/n 上/f ，/x 海拔/n 8848/m 米/m ，/x 是/v 世界/n 第一/m 高峰/nr 
+五四运动/nz 的/uj 导火线/n 是/v 巴黎和会/nt 讨论/v 中国/ns 青岛/ns 的/uj 归属/v 问题/n 
+大陆/n 自然/d 带/v 种类/n 最多/a 的/uj 大洲/ns 是/v 北美洲/ns 
+人参/n 鹿茸/nr 貂皮/n ，/x 人称/n 东北/ns 三宝/nz 
+中国/ns 面积/n 最大/a 的/uj 省/n 是/v 江西省/ns 
+明代/t 小说/n 《/x 水浒传/nz 》/x 中/f 的/uj “/x 水泊梁山/ns ”/x 在/p 我国/r 浙江省/ns 
+著名/a 的/uj 九寨沟/ns 风景/n 名胜区/n 位于/v 江苏省/ns 
+“/x 晋商/nt ”/x 是/v 指/v 的/uj 我国/r 河北省/ns 的/uj 商人/n 
+芜湖/ns 是/v 我国/r 河北省/ns 的/uj 城市/ns 
+孟子/nr 的/uj 四端/m 不/d 包括/v 信/n 
+人工降雨/n 时/ng 在/p 云层/n 中/f 喷撒/v 的/uj 干冰/nr 实质/n 是/v 碘化银/nz 
+江泽民/nr 指出/v ：/x 一个/m 党/n ，/x 一个/m 国家/n ，/x 一个/m 民族/n ，/x 如果/c 一切/r 从/p 本本/n 出发/v ，/x 思想僵化/l ，/x 迷信/v 盛行/v ，/x 那它/r 就/d 不能/v 前进/v ，/x 它/r 的/uj 生机/n 就/d 停止/v 了/ul ，/x 就要/d 亡党亡国/n 
+我国/r 古代/t 所说/c 的/uj “/x 西凉/nr 国/n ”/x 位于/v 现在/t 我国/r 的/uj 山西省/ns 
+香港/ns 的/uj 面积/n 大约/d 为/p 10618/m 平方公里/q 
+世界/n 上/f 第一个/m 登上/v 月球/n 的/uj 人/n 是/v 啊/y 姆/x 斯特朗/nr 
+中国/ns 四大/j 书院/n 之一/r 的/uj 应天/v 书院/n 在/p 我国/r 河北省/ns 
+青海湖/ns 蒙古语/nz 为/p “/x 库/n 库诺尔/nr ”/x ，/x 意/n 为/p 青色/n 的/uj 海/n 
+胸外/s 按压/v 步骤/n 中/f ，/x 应该/v 两/m 手指/n 并齐/d ，/x 中指/j 放在/v 切迹/n 中点/n （/x 剑/n 突/ad 底部/f ）/x ，/x 食指/n 平/n 放在/v 胸骨/n 下部/f 
+岳飞/nr 的/uj 《/x 满江红/nr 》/x 中/f 说/v “/x 加长车/n ，/x 踏破/v 贺兰山/nr 缺/v ”/x 中/f 的/uj 贺兰山/nr 在/p 我国/r 江西省/ns 
+孙雯/nr 领军/n 的/uj 中国女足/nt 在/p 世界杯/nz 上/f 的/uj 最好/a 名次/n 是/v 第一名/m 
+我国/r 现存/n 时代/n 最早/d 、/x 规模/n 最大/a 的/uj 木结构/n 古建筑/nr 是/v 五台山/ns 佛光寺/nz 大殿/n 
+扬子鳄/n 一般/a 在/p 水中/s 产卵/v 
+四大/j 书院/n 之一/r 的/uj 白鹿洞/nr 书院/n 位于/v 江苏省/ns 
+我国/r 的/uj “/x 云贵高原/ns ”/x 中/f 的/uj “/x 云/ns ”/x 是/v 指/v 的/uj 河北省/ns 
+关于/p 中亚/ns 的/uj 叙述/v 正确/ad 的/uj 是/v 中亚/ns 的/uj 纺织/n 灯/n ，/x 采矿/v 、/x 冶金业/n 和/c 军事/n 工业/n 较/zg 发达/v ，/x 但/c 木材/n 缺乏/v 
+为/p 防止/v 直接/ad 雷击/v 电力设备/n ，/x 一般/a 多/m 采用/v 避雷针/n 和/c 避雷线/n 
+洪湖/nr 是/v 我国/r 浙江省/ns 的/uj 湖泊/ns 
+黄金/n 与/p 其它/r 金属/n 混合/vn 可以/c 制成/v 五颜六色/i 的/uj 色金/n 首饰/n ，/x 当/t 黄金/n 与/p 铜/n 按/p 比例/n 混合/vn ，/x 能/v 制成/v 银色/n 金/nr 
+中国/ns 三大/j 半岛/n 之一/r 的/uj 胶东半岛/ns 位于/v 我国/r 的/uj 浙江省/ns 
+我国/r 目前/t 最大/a 的/uj 油田/n ，/x 大庆油田/nz 在/p 我国/r 河北省/ns 
+2012/m 年/m 伦敦/ns 奥运会/j 是/v 第一届/m 夏季/t 奥林匹克运动会/nz 
+中国队/nt 在/p 雅典/ns 奥运会/j 上/f 奖牌数/n 名列第一/n 
+1948/m 年/m 毛泽东/nr 在/p 《/x 〈/x 共产党人/n 〉/x 发刊词/l 》/x 中/f 完整/a 地/uv 提出/v 了/ul 中国共产党/nt 新民主主义革命/nz 的/uj 总路线/n 
+历史/n 文化名城/n 邯郸/ns 位于/v 我国/r 河北省/ns 
+中国/ns 运动员/n 第一次/m 打破/v 世界纪录/nz 是/v 在/p 1957/m 年/m 
+中国/ns 海域/n 辽阔/a ，/x 近海/f 渔场/n 很多/m ，/x 东海/ns 素有/v "/x 天然/b 鱼仓/nr "/x 之/u 称/v 舟山渔场/ns 是/v 中国/ns 第一/m 大/a 渔场/n 
+世界/n 上/f 最高/a 的/uj 高原/ns 是/v 巴西/ns 高原/ns 
+成语/n “/x 独占鳌头/i ”/x 中/f ，/x “/x 鳌头/n ”/x 指/v 的/uj 是/v 排名/v 第一/m 
+合肥/n 是/v 我国/r 河北省/ns 的/uj 省会/n 
+著名景点/n 龙门石窟/ns 位于/v 内蒙古/ns 
+沟通/v 大西洋/ns 和/c 太平洋/ns 的/uj 著名/a 国际/n 运河/n 苏伊士运河/ns 
+我国/r 大陆/n 基本/n 轮廓/n 形成/v 时期/n ，/x 陆地/n 上/f 出现/v 了/ul 大量/n 的/uj 裸子植物/l 
+感冒/v 忌用/v 海鱼/n 
+攀枝花/i 是/v 世界/n 最大/a 的/uj 钒/n 和/c 钛/n 的/uj 矿产地/n 
+我国/r 唯一/b 没有/v 铁路/n 的/uj 省区/n 是/v 西藏/ns 
+第一艘/m 成功/a 飞过/v 火星/n 的/uj 探测船/n 是/v 先锋/n 10/m 号/m 
+在/p 大陆/n 西岸/s 南北/ns 到/v 两个/m 萨尔/nr 纳带/n 之间/f 的/uj 自然/d 带/v 是/v 温带/n 森林/n 带/v 
+著名景点/n 龙门石窟/ns 位于/v 河北省/ns 
+装设/vn 接地线/j 不必/d 戴/v 绝缘/n 手套/n 就/d 可以/c 进行/v 
+我国/r 第一/m 大河/ns 长江/ns 有/v 多长/n 5900/m 公里/q 
+世界/n 第一/m 大/a 水电工程/n 三峡大坝/nz 位于/v 我国/r 云南省/ns 
+民歌/n “/x 洪湖/nr 水/n 呀/y 浪/n 呀/y 嘛/y 浪打浪/l 呀/y ”/x 中/f 的/uj 洪湖/nr 位于/v 我国/r 的/uj 河北省/ns 
+墨家/n 学派/n 的/uj 创始人/n 是/v 墨子/n 
+有/v “/x 瓷都/n ”/x 之/u 称/v 的/uj 景德镇/nr 位于/v 我国/r 广西省/ns 
+万里长城/ns 的/uj 山海关/ns 在/p 河北省/ns 
+“/x 延安/ns 羊腥汤/n ”/x 是/v 我国/r 云南省/ns 的/uj 美食/n 
+我国/r 最后/f 修建/v 铁路/n 的/uj 是/v 河北/ns 省级/b 行政区/n 
+素有/v “/x 大树/n 华盖/nr 闻/v 九州/ns ”/x 之/u 誉/ng 的/uj 天目山/ns 在/p 我国/r 四川省/ns 
+每个/r 帝王/nr 陵区/n 只有/c 一个/m 主/b 神道/n ，/x 一般/a 修在/v 曹雪芹/nr 的/uj 陵/ng 前/f 
+从/p 地图/n 上看/v ，/x 黄河/ns 干流/n 像/v 一个/m 巨大/a 的/uj 汉字/nz -/x -/x "/x 几/m "/x 字/n 
+黄酒/n 名品/n “/x 加饭酒/n ”/x 产地/n 是/v 河北省/ns 
+来源于/v 太阳能/n 的/uj 新能源/n 是/v 风能/n 
+中国/ns 古代/t 四大发明/nz 造纸术/n （/x 东汉/t ，/x 蔡伦/nr ）/x 、/x 印刷术/n （/x 北宋/t ）/x 、/x 指南针/n （/x 北宋/t ）/x 、/x 火药/n （/x 北宋/t ）/x 
+17/m 世纪/n 成为/v 法国/ns 殖民地/n ，/x 现在/t 是/v 加拿大/ns 著名/a 的/uj 法语区/n 的/uj 是/v 位于/v 加拿大/ns 东部/f 的/uj 云南省/ns 
+“/x 四月八/t ，/x 黑霜/nr 杀/v ”/x 是/v 我国/r 哪个/r 地区/n 气象/n 俗语/n 西北/ns 
+新民主主义/nz 社会/n 是/v 属于/v 社会主义/n 体系/n 的/uj 和/c 逐步/d 过渡/v 到/v 社会主义/n 社会/n 的/uj 过渡/v 性质/n 的/uj 社会/n 
+长江三角洲/ns 的/uj 成因/n 主要/b 是/v 流水/n 的/uj 堆积作用/n 
+十八世纪/nz 欧洲/ns 能/v 雇佣/v 6/m 万/m 工人/n 的/uj 手工业/n 工场/n 在/p 里昂/nrt 
+世界/n 上/f 风力/n 资源/n 最多/a 的/uj 是/v 亚洲/ns 
+人们/n 常/d 说/v “/x 蓬莱仙境/nr ”/x 中/f 的/uj “/x 蓬莱/nr ”/x 位于/v 河北省/ns 
+“/x 南水北调/nz ”/x 中/f 的/uj 东线/n 工程/n 是/v 利用/n 河北省/ns 的/uj 江水/ns 进行/v 北调/nr 
+在/p 平面/n 直角坐标/n 系/v 中/f ，/x 点/m （/x -/x 5/x ，/x -/x 1/m 在/p 第一/m 象限/n 
+世界卫生组织/nt 的/uj 英文/nz 缩写/v 是/v WYO/eng 
+林肯/nr 的/uj 宅地/n 法/j 颁布/v 于/p 1862/m 年/m 
+有/v “/x 东方/s 太阳城/ns ”/x 之/u 称/v 的/uj 日照/n 在/p 山西省/ns 
+祝寿/nr 用语/n “/x 寿比南山/ns ”/x 中/f 所指/n 的/uj 终南山/ns 位于/v 我国/r 河北省/ns 
+世界/n 上/f 最/d 凶猛/a 的/uj 动物/n 是/v 犀牛/n 
+决定/v 建立/v 革命/vn 统一战线/l 的/uj 会议/n 是/v 中共/j “/x 三大/j ”/x 
+荷兰/ns （/x 西欧/ns ）/x 中央政府/nt 所在地/n 是/v 海牙/ns ；/x 首都/d 阿姆斯特丹/ns ；/x 官方语言/n 荷兰语/nz （/x 英语/nz 普及率/nz 95/m ％/x ）/x ；/x 国花/n 郁金香/nr ；/x 被/p 被誉为/n “/x 风车/n 之/u 国/n ”/x ；/x 因/p 地势/n 低洼/a ，/x 荷兰/ns 总是/c 面对/v 海潮/n 的/uj 侵蚀/v ，/x 1229/m 年/m ，/x 荷兰人/nrt 发明/v 了/ul 世界/n 上/f 第一座/m 为/p 人类/n 提供/v 动力/n 的/uj 风车/n ；/x 每年/r 5/m 月/m 的/uj 第二个/m 星期六/t 为/p “/x 风车/n 日/m ”/x ；/x 正面/ad 看/v 风车/n 呈/v 垂直/v 十字形/n ；/x 
+中国/ns 植物/n 种类/n 非常/d 丰富/a ，/x 单/n 乔木/nr 就/d 有/v 2000/m 多种/m 还有/v 世界/n 上/f 的/uj 特有/b 树种/n ，/x 如/v 著名/a 的/uj "/x 活化石/n "/x 水杉/n 和/c 银杏/nr 
+在/p 国际/n 上/f 享有/v “/x 恐龙/nz 墓地/n ”/x 的/uj 大型/b 恐龙/nz 化石群/n 出土/v 于/p 内蒙/ns 二连/ns 
+四大/j 名茶/n 之一/r 的/uj 龙井茶/nr 产地/n 是/v 扬州/ns 
+2012/m 年/m 诺贝尔文学奖/nz 得主/v 莫言/nr 的/uj 故乡/n “/x 高密/a ”/x 位于/v 我国/r 四川省/ns 
+八百里/m 水泊梁山/ns 中/f 的/uj 梁山/nr 是/v 河北省/ns 
+辣妹子/n 通常/d 是/v 指/n 浙江省/ns 的/uj 女性/n 
+宋代/t 的/uj 代表性/n 刑罚/n 是/v 刺配/v 
+人们/n 常/d 说/v 黄河/ns 是/v "/x 一/m 石/n （/x 担/v ）/x 水/n ，/x 六斗/m 泥/n "/x ，/x 说明/v 黄河/ns 含沙量/n 很大/a 
+以/p 粮食/n 高产/n ，/x 烟土/n 优质/n 著称/a 的/uj 玉溪/nr 在/p 我国/r 江苏省/ns 
+中国/ns 四大/j 瀑布/n 之一/r 的/uj 吊水楼/n 瀑布/n 位于/v 我国/r 东西/ns 河北省/ns 
+我国/r 最早/d 的/uj 博物馆/n 是/v 正确/ad 答案/n 南通/nz 博物馆/n 
+人们/n 常/d 说/v “/x 蓬莱仙境/nr ”/x 中/f 的/uj “/x 蓬莱/nr ”/x 位于/v 河北省/ns 
+我国/r 西南地区/ns 的/uj 青铜时代/t 遗址/n “/x 三星堆/m ”/x 位于/v 山西省/ns 
+相传/v 春秋/t 时/n 曹雪芹/nr 曾/d 在/p 位于/v 开封/v 城/n 东南/ns 的/uj 禹王台/nr 吹奏/v 过/ug 乐曲/n 
+原子能/n 物理学/n 的/uj 创始人/n 是/v 居里/q 夫妇/n 
+不/d 属于/v “/x 汉初/t 三杰/nrt ”/x 的/uj 是/v 陈平/nr 
+火把节/n 在/p 每年/r 农历/n 的/uj 什么/r 时间/n 举行/v 六月/t 二十四日/m 
+我国/r 现存/n 最早/d 的/uj ，/x 内容/n 最/d 完整/a 的/uj 农书/n 是/v 《/x 齐民要术/l 》/x 
+最早/d 的/uj 血压计/n 用于/v 二战/nz 的/uj 士兵/n 
+中国/ns 五大/j 淡水湖/n 是/v ：/x 江西/ns 的/uj 鄱阳湖/ns 湖南/ns 的/uj 洞庭湖/ns 江苏/ns 与/p 浙江/ns 之/u 是/v 的/uj 太湖/ns 江苏/ns 的/uj 洪泽湖/nr 安徽/ns 的/uj 巢湖/ns 其中/r 面积/n 最大/a 的/uj 淡水湖/n 是/v 翻/v 阳湖/ns 
+由/p 工匠/n 李春/nr 设计/vn 并/c 建造/v 的/uj 赵州桥/nr 位于/v 河北省/ns 
+亚急性/n 细菌性/n 心内膜炎/n 患者/n 做血/v 培养/v 时/n ，/x 为/p 提高/v 阳性率/n ，/x 采血/v 量/n 应为/v 5/x ～/x 8/m mL/eng 
+“/x 离/v 地面/n 越/d 高/a 空气/n 越/d 稀薄/a ”/x 是因为/c 空气/n 受到/v 地球/n 引力/n 影响/vn 
+鲁迅/nr 说/v “/x 运交/n 华盖/nr 欲/d 何求/v ”/x ，/x “/x 华盖/nr ”/x 原是/d 指/v 乌纱帽/n 
+“/x 三十年河东/ns ，/x 三十年/m 河西/ns ”/x 中/f 的/uj “/x 河/ns ”/x 最初/t 是/v 指/n 汾河/ns 
+唐太宗/nr 曾经/d 派/v 使者/n 到/v 印度/ns ，/x 专门/n 学习/v 熬/v 糖法/n 
+吐鲁番/ns 盆地/n 的/uj 海/n 拨/v 是/v -/x 154/m 米/m 
+描写/v 杨贵妃/nr 沐浴/v 情景/n 的/uj “/x 春寒/t 赐/v 浴/vn 华清池/nr ，/x 温泉水/nr 滑洗/v 凝脂/n ”/x 中/f 的/uj 华清池/nr 是/v 在/p 河北省/ns 
+长江/ns 发源/n 于/p 青藏高原/ns 上/f 的/uj 唐古拉山脉/ns ，/x 流经/n 中国/ns 11/m 省/n 自治区/n 直辖市/n ，/x 注入/v 东海/ns 
+世界/n 海拔/n 最高/a 的/uj 天然/b 穿/v 山/n 溶洞/n 张家界/nr 天/q 门洞/n 位于/v 江苏省/ns 
+明清/t 时期/n 成为/v 中国/ns 三/m 大商/n 帮/v 之一/r 的/uj “/x 晋商/nt ”/x 指/v 的/uj 是/v 现在/t 河北省/ns 的/uj 商人/n 
+驴肉/n 火烧/n 是/v 起源于/v 云南省/ns 的/uj 美食/n 
+静电/n 的/uj 积累/v 是/v 不可避免/l 的/uj 
+我国/r 的/uj 最高/a 国家/n 权力/n 机关/n 是/v 中央军委/nt 
+柴达木盆地/ns 平均海拔/n 在/p 3000/m 米左右/nr ，/x 是/v 中国/ns 地势/n 最高/a 的/uj 盆地/n 盆地/n 里/f 盐矿/n 丰富/a ，/x 据/p 初步/d 估计/v ，/x 足够/v 全世界/n 的/uj 人/n 食用/n 1/x 万年/m 
+著名/a 的/uj 旅游景点/n 象鼻山/ns 、/x 漓江/ns 、/x 七星/nz 公园/n 都/d 在/p 四川省/ns 
+把/p 占/v 城稻/n 推广/v 到/v 江浙/j 和/c 淮河流域/ns 种植/v 的/uj 是/v 北宋/t 政府/n 
+我国/r 唯一/b 一个/m 与/p 城市/ns 名称/n 重复/d 的/uj 是/v 山西省/ns 
+汉朝/t 建立/v 后/f 的/uj 第一个/m 淮南/ns 王/nr 是/v 英布/ns 
+我国/r 最长/a 的/uj 大陆/n 河/n 是/v 塔里木河/ns 
+党/n 的/uj 全国代表大会/nt 每/zg 四年/m 举行/v 一次/m 
+最先/d 提出/v 联合国/nt 的/uj 是/v 罗斯福/nr 
+许昌/nr 、/x 南阳/ns 、/x 商丘/n 是/v 属于/v 我国/r 河北省/ns 的/uj 城市/ns 
+中国/ns 第一个/m 开发/v 的/uj 海底/s 油田/n 位置/v 在/p 渤海/ns 
+被/p 称为/v “/x 可/v 入口/ns 的/uj 古董/nr ”/x 的/uj 普洱茶/n 产/n 自/p 我国/r 的/uj 河北省/ns 
+人体/n 最长/a 的/uj 骨骼/n 是/v 股骨/n 
+目前/t 世界/n 上/f 水力发电/n 功率/n 最大/a 的/uj 水坝/n 是/v 伊泰普/nr 大坝/ns 
+正确/ad 答案/n 感到/v 头晕眼花/i 想/v 呕吐/v 的/uj 感觉/n 
+清朝/t 皇帝/n 退位/v 是/v 在/p 1912/m 年/m 
+给/p 楚庄王/nr 猜/v “/x 一鸣惊人/i ”/x 的/uj 是/v 伍举/nr 
+坐椅/n 的/uj 最佳/z 高度/n 是/v 0.45/m 米/m 
+内蒙古草原/ns 上/f 的/uj 芨芨草/n 最高/a 可达/v 2/m 米/m 
+世界/n 上/f 第一条/m 高速公路/n 诞生/v 于/p 英国/ns 
+“/x 铁观音/n ”/x 茶/n 的/uj 原产/n 发源地/n 在/p 中国/ns 的/uj 河北省/ns 
+以/p 风光秀丽/i 著称/a 的/uj 旅游胜地/n 阳朔/nr 地/uv 我国/r 河北省/ns 
+明太祖/nr 朱元璋/nr 是/v 凤阳/ns 人/n ，/x 凤阳/ns 在/p 今天/t 的/uj 河北省/ns 
+中国/ns 四大/j 瀑布/n 之一/r 的/uj 吊水楼/n 瀑布/n 位于/v 我国/r 东西/ns 河北省/ns 
+为/p 表演/v 的/uj 需要/v ，/x 芭蕾/n 鞋/n 的/uj 鞋尖/n 内/f 塞/v 有/v 一小块/m 木头/n 
+夏季/t 又名/n 昊天/nz 
+黑洞/ns 是/v 最/d 神秘/a 的/uj 宇宙/n 之/u 迷/v 。/x 实际上/d ，/x 黑洞/ns 是/v 是/v 宇宙/n 中/f 一种/m 特殊/a 天体/n 
+诗经/n 中/f “/x 七月/t 流火/n ”/x 是/v 指/n 秋天/t 到/v 了/ul 
+以/p “/x 无字碑/n ”/x 名扬天下/i 的/uj 是/v 武则天/nr 
+我国/r 第一枚/m 氢弹/n 、/x 原子弹/n 的/uj 诞生地/n ，/x 也/d 是/v 我国/r 第一个/m 核武器/n 研制/vn 基地/n 的/uj “/x 原子城/nr ”/x 位于/v 广东省/ns 
+中国/ns 稀有金属/n 稀土金属/n 及/c 一些/m 有色金属/n 矿/n 的/uj 蕴藏量/n 居/v 世界/n 首位/m 
+第一个/m 研究/vn 色盲/n ，/x 发现/v 色盲/n 遗传/vn 规律/n 的/uj 是/v 道尔顿/nr 
+“/x 永定/d 土楼/n ”/x 是/v 我国/r 河北省/ns 的/uj 著名/a 建筑/n 
+测量/vn 线路/n 相间/n 绝缘/n 电阻/n 及时/c 相对/d 地/uv 绝缘/n 电阻/n ，/x 用/p 500/m V/eng 绝缘/n 电阻表/n 测量/vn ，/x 绝缘/n 电阻/n 不能/v 小于/v 0.5/m M/eng Ω/x 
+陈胜/nr 的/uj “/x 鸿鹄之志/i ”/x 中/f 的/uj 鸿鹄/nr 指/v 的/uj 是/v 天鹅/nz 
+避雷器/n 用来/v 进行/v 防雷/v 保护/v ，/x 属于/v 保护/v 设备/vn ，/x 因此/c 它/r 是/v 二次/m 电气设备/n 
+南岳/ns 衡山/ns 的/uj 最高峰/n 是/v 祝融峰/nr 
+在/p 理想/n 大陆/n 上/f ，/x 无论/c 沿/f 哪一条/mq 经线/n 前进/v ，/x 几乎/d 都/d 要/v 有秩序地/nr 经历/n 多种/m 自然/d 带/v ，/x 这/r 是/v 反映/v 了/ul 纬度/n 地带性/n 
+山海关/ns 位于/v 河北省/ns 秦皇岛市/ns 东北/ns 15/m 公里/q ，/x 是/v 万里长城/ns 的/uj 起点/n ，/x 号称/v “/x 天下第一关/l ”/x 
+“/x 四季/m 无/v 寒暑/n ，/x 一/m 雨/n 便/d 成/v 秋/tg ”/x 描述/v 的/uj 是/v 西南/ns 河北省/ns 会/v 城市/ns 的/uj 气候/n 特征/n 
+以下/f 哪个/r 国家/n 建有/v 消防/n 博物馆/n 罗马尼亚/ns 
+《/x 功夫/n 熊猫/nr 》/x 灵感/a 来自/v 周星驰/nr 影片/n 
+“/x 卧龙/ns 先生/n ”/x 是/v 曹雪芹/nr 
+汉朝/t 是/v 中国/ns 历史/n 上/f 的/uj 第一个/m 朝代/n 
+党/n 的/uj 各级/r 领导/n 干部/n 必须/d 坚持/v 讲/v 学习/v 讲/v 政治/n 讲/v 正气/n ，/x 经得起/v 各种/r 风浪/n 的/uj 考验/vn 
+1976/m 年/m 唐山/nr 发生/v 78/m 级/q 强/a 地震/n ，/x 此时/c 北京/ns 测/vn 得/ud 震级/vn 与/p 烈度/n 与/p 唐山/nr 相比/v 震级/vn 相同/d ，/x 唐山/nr 的/uj 烈度/n 较大/a 
+中国/ns 特色/n 社会主义/n 理论/n （/x 中国/ns 特色/n 社会主义/n 理论体系/n ）/x ，/x 就是/d 包括/v 邓小平理论/nr “/x 三个代表/nz ”/x 重要/a 思想/n 科学/n 发展观/l 在内/u 的/uj 科学/n 理论体系/n ，/x 是/v 对/p 马克思列宁主义/ns 毛泽东思想/nr 的/uj 坚持/v 和/c 发展/vn 
+太平洋/ns 平均/a 深度/ns 四/m 千米/q 
+中国/ns 的/uj 地图/n 板块/n 像/v 一只/m “/x 雄鸡/n ”/x ，/x 那/r 两支/m “/x 鸡脚/n ”/x 分别/d 是/v 台湾省/ns 和/c 河北省/ns 
+最早/d 的/uj 校园/n 歌曲/n 出现/v 在/p 中国/ns 
+温带/n 落叶林/n 分布/v 地区/n 的/uj 主要/b 气候/n 类型/n 是/v 温带/n 季风气候/l 
+戏曲/n 中/f 的/uj 丑/a 又/d 叫/v 大花脸/i 
+隶属于/n 珠江/ns 水系/n 的/uj 漓江/ns 是/v 我国/r 河北省/ns 的/uj 著名/a 江河/ns 
+“/x 四大/j 人种/n ”/x 中/f 的/uj 黄种/n 又/d 做/v 蒙古人种/l 
+虽然/c 地处/s 西北/ns 但/c 却/d 因为/c 水网/n 密布/v ，/x 物产/n 富饶/a 而/c 被称作/n “/x 塞上江南/ns ”/x 的/uj 是/v 浙江省/ns 
+社会主义/n 文化/n 的/uj 发展/vn 方向/n 是/v 为/p 经济/n 建设/vn 服务/vn 
+在/p 我国/r 沿海各省/ns 中/f 岛屿/n 最多/a 的/uj 是/v 浙江/ns 
+要/v 做到/v 解放思想/i ，/x 就/d 必须/d 自觉/d 把/p 思想认识/l 从/p 官僚主义/n 和/c 形式主义/n 中/f 解放出来/i 
+七大洲/ns 中/f 面积/n 第二/m 的/uj 是/v 非洲/ns 
+中国/ns 首次/m 进入/v 金牌榜/n 前三名/i 是/v 在/p 1996/m 年/m 第/m 26/m 届/m 奥运会/j 
+过桥米线/nz 是/v 源于/v 河北省/ns 的/uj 著名/a 美食/n 
+中国/ns 历史/n 上/f 第一个/m 王朝/nr 时代/n 
+相传/v 地藏王/n 菩萨/n 的/uj 道场/n 九华山/ns 位于/v 我国/r 的/uj 浙江省/ns 
+操作系统/l 是/v 底层/n 硬件/n 与/p 用户/n 沟通/v 的/uj 桥梁/n 
+沙龙/nr ”/x 源于/v 法国/ns 语言/n 
+哪/r 一/m 季节/n 最/d 不宜/a 发/v 哮喘/n 夏/nr 
+一天/m 中/f 最高/a 温度/n 出现/v 在/p 下午/t 
+我国/r 的/uj 长绒棉/n 主要/b 产在/v 新疆/ns 
+最早/d 提出/v “/x 人猿/n 同/p 祖论/n ”/x 的/uj 是/v 拉马克/nrt 
+中国女篮/nt 在/p 奥运会/j 上/f 的/uj 最好/a 成绩/n 是/v 第一名/m 
+“/x 嫦娥/n 一号/m ”/x 的/uj 发射场/n 西昌卫星发射中心/nt 位于/v 四川省/ns 
+中国队/nt 在/p 雅典/ns 奥运会/j 奖牌数/n 上/f 位居/v 第一/m 
+我国/r 高出/v 地面/n 的/uj 最大/a “/x 悬湖/n ”/x 是/v 洪泽湖/nr 
+在/p 有/v 记载/v 古代/t 桥梁/n 中/f ，/x 其/r 知名度/n 最大/a ，/x 建成/v 时间/n 最早/d 的/uj 桥梁/n 在/p 浙江省/ns 
+词法/n 分析/vn 是/v 编译/v 过程/n 中/f 的/uj 第一步/m 
+世界/n 的/uj 活马/n 博物馆/n 在/p 法国巴黎/ns 
+原始农业/n 是/v 妇女/n 发明/v 的/uj 
+眉毛/n 的/uj 生长/n 周期/t 是/v 二个月/m 
+著名/a 旅游景点/n “/x 乔家大院/nt ”/x 位于/v 我国/r 河北省/ns 
+既/c 是/v 常规/n 能源/n ，/x 又/d 是/v 二次能源/nz 的/uj 是/v 焦炭/n 
+长白山/ns 位于/v 河北省/ns 
+陕西省/ns 的/uj 渭河/ns 谷地/n ，/x 在/p 地质/n 构造/v 上/f 属于/v 地堑/n 
+歌曲/n 《/x 大阪/ns 城/n 的/uj 姑娘/n 》/x 唱/v 的/uj 是/v 中国/ns 河北省/ns 的/uj 姑娘/n 
+简称/v 为/p “/x 皖/j ”/x 的/uj 是/v 我国/r 的/uj 广东省/ns 
+豫/j 是/v 中国/ns 河北省/ns 的/uj 简称/v 
+王义夫/nr 今年/t 是/v 第一次/m 参加/v 奥运会/j 了/ul 
+美国/ns 发表/v 《/x 独立宣言/i 》/x 是/v 在/p 1776/m 年/m 
+十八/m 大/a 报告/n 中/f 提出/v 全党/n 要/v 坚定/a 的/uj “/x 三个/m 自信/v ”/x 是/v 道路/n 自信/v 理论/n 自信/v 体系/n 自信/v 
+党/n 的/uj 基层/n 委员会/n 每届/r 任期/n 五年/t （/x 3/m 到/v 5/m 年/m ）/x 
+肝/n 穿刺/v 前/f 护士/n 应/v 指导/n 患者/n 在/p 穿刺/v 过程/n 中/f 避免/v 咳嗽/v 及/c 深呼吸/l ，/x 以免/c 加重/v 损伤/v 
+中亚/ns 地/uv 跨/v 亚欧/ns 两洲/ns 的/uj 国家/n 是/v 哈萨克斯坦/nrt 
+我国/r 最早/d 的/uj 浮桥/n 是/v 渭水/ns 浮桥/n 
+佛/n 弟子/n 不/d 遵守/v 五戒/n 不/d 影响/vn 成为/v 佛/n 弟子/n 
+非洲/ns 的/uj 第一/m 大河/ns 是/v 尼罗河/ns 
+天文学/nt 是/v 以/p 观测/vn 为/p 基础/n 的/uj 科学/n 
+山西人/nrt 喜欢/v 吃/v 的/uj 面/n 是/v 刀削面/n 
+下列/v 河流/n 注入/v 的/uj 海洋/ns 正确/ad 的/uj 是/v 阿姆河/nr —/x 咸海/ns 
+武则天/nr 的/uj 第一个/m 老公/nr 是/v 曹雪芹/nr 
+中国/ns 民族/n 工业/n 短暂/a 发展/vn 时/n 涌现/v 的/uj 民族/n 资本家/n 不/d 包括/v ：/x 张之洞/nr 中国/ns 古代/t 名医/n 华佗/nr 为/p 曹雪芹/nr 所杀/v 
+印度/ns 主要/b 的/uj 经济作物/n 有/v 棉花/n 、/x 茶叶/n 、/x 黄麻/nr 
+武则天/nr 是/v 中国/ns 历史/n 上/f 的/uj 第一个/m 女/b 皇帝/n 
+中国移动/nt 电话/n 全球通/n 的/uj 基本/n 月租费/n 是/v 50/m 元/m 
+中国/ns 兵/n 兵/n 球坛/n 传奇人物/n 邓亚萍/nr 的/uj 祖籍/n 是/v 我国/r 中原地区/ns 的/uj 河北省/ns 
+党章/n 要求/v 党/n 的/uj 各级/r 领导/n 干部/n 要/v 有/v 强烈/a 的/uj 革命/vn 事业心/n 和/c 政治/n 责任感/n ，/x 有/v 实践经验/n ，/x 有/v 胜任/n 领导/n 工作/vn 的/uj 组织/v 能力/n 文化/n 水平/n 和/c 专业知识/n 
+我国/r 自古/d 就/d 有/v “/x 天府之国/nr ”/x 美誉/n 的/uj 地区/n 是/v 四川盆地/ns 
+我国/r 的/uj 长白山/ns 在/p 山西省/ns 
+历史/n 上/f 著名/a 的/uj 战役/n "/x 淝水/ns 之/u 战/n "/x 发生/v 在/p 今天/t 我国/r 的/uj 河北省/ns 
+六大/j 茶类/n 之一/r 的/uj “/x 白茶/nr ”/x 是/v 河北省/ns 的/uj 特产/n 
+珊瑚/n 是/v 动物/n 
+坚持/v 国家/n 一切/r 权力/n 属于/v 人民/n 
+称为/v “/x 数学/n 之/u 神/n ”/x 的/uj 科学家/n 是/v 阿基米德/nrt 
+跆拳道/n 起源于/v 日本/ns 
+纣/n 的/uj 别/d 都/d 朝歌/n 位于/v 现在/t 的/uj 河南/ns 
+党/n 的/uj 省/n 自治区/n 直辖市/n 设区/n 的/uj 市/n 和/c 自治州/ns 的/uj 委员会/n ，/x 每届/r 任期/n 五年/t 
+“/x 联合国/nt 教育/vn 、/x 科学/n 及/c 文化/n 组织/v ”/x 于/p 1946/m 年/m 11/m 月/m 4/m 日/m 成立/v ，/x 总部/n 设在/v 巴黎/ns 
+古代/t 奥运会/j 女子/n 可以/c 参加/v 
+黄河/ns 在/p 潼关/ns 折/v 向东流/nr ，/x 又/d 穿行/v 在/p 峡谷/n 中/f ，/x 其中/r 最/d 有名/a 的/uj 是/v 三门峡/ns 
+明朝/t “/x 脸/n 涂/v 胡椒粉/nr 被/p 仆役/n 抬/v 着/uz 四处/m 走/v ”/x 的/uj 是/v 谁/r 杨慎/nr 
+“/x 匈奴/n 未灭/v ，/x 何以/c 家/m 为/p ”/x 是/v 曹雪芹/nr 的/uj 豪言/n 
+《/x 静静的/z 顿河/ns 》/x 的/uj 作者/n 是/v 高尔基/nr 
+蓬莱/nr ，/x 东营/ns ，/x 莱芜/ns 是/v 我国/r 河北省/ns 的/uj 城市/ns 
+大月氏/nr 王国/ns 在/p 5/m 世纪/n 后/f 半叶/t 亡/vg 于/p 厳/zg 哒/x 
+小/a 月氏/n 迁居/v 祁连山/ns 以南/f ，/x 长期/d 与/p 曹雪芹/nr 杂居/n 
+在/p 中央/n 和/c 地方/n 国家机关/nt 人民团体/n 经济/n 组织/v 文化/n 组织/v 和/c 其他/r 非/h 党组织/nt 的/uj 领导/n 机关/n 中/f ，/x 可以/c 成立/v 党组/n 
+内蒙古高原/ns 是/v 中国/ns 第二/m 大/a 高原/ns 它/r 地面/n 平坦/a ，/x 很多/m 地方/n 是/v 一望无际/i 的/uj 草原/n 
+女扮男装/l 替父/n 从军/nr 的/uj 花木兰/nr 家乡/n 在/p 我国/r 江苏省/ns 
+旅游/vn 也/d 是/v 一种/m 娱乐活动/n 
+“/x 有点/n 甜/a ”/x 的/uj 千岛湖/ns 位于/v 我国/r 广东省/ns 的/uj 境内/s 
+合肥/n 是/v 我国/r 河北省/ns 的/uj 省会/n 
+妙应寺/nr 白塔/nr 的/uj 刹座/n 呈/v 须弥座/nr 式/k ，/x 座/q 上/f 竖立/v 着下/v 大上/d 小/a 十三/m 重相/d 轮/v ，/x 即/v 所谓/b 的/uj “/x 十三天/m ”/x 
+范蠡/nr 是/v 曹雪芹/nr 的/uj 手下/s 
+被/p 称为/v 菊/ng 月/m 的/uj 月份/n 是/v 九月/t 
+第二次/m 工业/n 技术/n 革命/vn 的/uj 标志/n 是/v 微电子/n 技术/n 
+现在/t 美国/ns 国旗/n 星条旗/n 上/f 有/v 多少/m 颗星/nz 50/m 颗/m 
+中国共产党/nt 在/p 哪次/r 会议/n 上/f ，/x 正式/ad 决定/v 同/p 孙中山/nr 领导/n 的/uj 国民党/nt 合作/vn 中共/j “/x 三大/j ”/x 
+从/p 匈奴/n 人/n 的/uj 地位/n 来讲/v ，/x 单于/d 以下/f ，/x 即以/c 曹雪芹/nr 为/p 最/a 尊贵/a 
+被誉为/n “/x 中国/ns 第一/m 水乡/n ”/x 的/uj 古镇/ns 周庄/nr 位于/v 我国/r 河北省/ns 
+以下/f 哪个/r 不/d 属于/v 十二生肖/l 鸭/ns ，/x 牛/n ，/x 羊/n 
+东北/ns 第一/m 高山/ns ，/x 也/d 是/v 中国/ns 和/c 朝鲜/ns 的/uj 界山/nrt 长白山/ns 在/p 河北省/ns 
+“/x 洛杉矶/ns ”/x 英文名/nr 意思/n 是/v 天使/n 
+科学/n 发展观/l （/x “/x 三个代表/nz ”/x 重要/a 思想/n ）/x 是/v 对/p 马克思列宁主义/ns 毛泽东思想/nr 邓小平理论/nr 的/uj 继承/v 和/c 发展/vn ，/x 反映/v 了/ul 当代世界/n 和/c 中国/ns 的/uj 发展/vn 变化/vn 对/p 党和国家/nz 工作/vn 的/uj 新/n 要求/v 
+古稀/a 指/v 的/uj 是/v 七十岁/m 
+中国/ns 古代/t “/x 九州岛/ns ”/x 中/f 的/uj 豫州/ns ，/x 后/f 简称/v 为/p “/x 豫/ns ”/x 的/uj 是/v 山东省/ns 
+我们/r 常/d 说/v 的/uj 齐鲁大地/nz 指/v 的/uj 是/v 河北省/ns 
+六弦琴/n 是/v 什么/r 乐器/n 的/uj 别称/v 是/v 琵琶/n 
+东汉/t 末年/t 三大战役/nz 之一/r 的/uj “/x 官渡之战/nz ”/x ，/x “/x 官渡/nr ”/x 位于/v 现今/t 我国/r 的/uj 云南省/ns 
+夏季/t 中国/ns 气温/n 最高/a 的/uj 地方/n 是/v 吐鲁番/ns ，/x 七月/t 平均气温/n 为/p 33/m 摄氏度/n 以上/f ，/x 人称/n "/x 火州/ns "/x 
+南唐/t 后主/n 李煜/nrfg 不/d 擅/vg 政事/n 
+五台山/ns 位于/v 山西省/ns 境内/s ，/x 是/v 中国/ns 四大/j 佛教/nz 名山/n 之一/r ，/x 是/v 文殊/nr 菩萨/n 的/uj 道场/n 
+世界/n 四大洋/ns 中/f 面积/n 最小/a 的/uj 是/v 太平洋/ns 
+噪音/n 伤耳/n 同时/c 还/d 伤/v 内分泌/n 系统/n 
+藏族/nz 通行/j 天葬/n 
+布达拉宫/ns 最初/t 是/v 为/p 曹雪芹/nr 建造/v 的/uj 
+戴相龙/nr 是/v 央行/j 第一任/m 行长/n 
+中国/ns 十大/j 名茶/n 之一/r 的/uj 碧螺春/nr 产/v 自于/p 浙江省/ns 
+蒙特利尔/ns 在/p 河北省/ns 
+北宋/t 改革/vn 影响/vn 最大/a 的/uj 是/v 宋神宗/nr 时期/n 的/uj 王安石/nr 变法/vn 
+诺贝尔/nrt 是/v 瑞典人/nr 
+世界/n 上/f 最低/a 的/uj 盆地/n 是/v 四川盆地/ns 
+云南/ns 物产丰富/l ，/x 有/v 许多/m 闻名中外/l 的/uj 物产/n ，/x 如/v 专治/n 听候/v 打/v 创伤/v 的/uj 云南白药/nt 
+中国/ns 畜牧业/n 较/zg 发达/v 的/uj 地区/n 主要/b 颁在/v 内蒙古自治区/ns 新疆/ns 维吾尔族/nz 自治区/n 青海省/ns 西藏自治区/ns 
+世界/n 上/f 铁路/n 最多/a 的/uj 国家/n 是/v 美国/ns 
+“/x 阿诗玛/nr ”/x 是/v 四川省/ns 的/uj 少数民族/n 塑造/v 的/uj 艺术形象/n 
+非洲/ns 热带/n 草原/n 上/f 最/d 典型/n 的/uj 动物/n 是/v 斑马/n 、/x 长颈鹿/n 
+白色/n 的/uj 花/v 在/p 自然界/n 里/f 最/d 多/m 
+股票/n 的/uj 持有人/n 叫/v 董事/n 
+马/n 是/v 站/v 着/uz 睡/v 的/uj 
+湘鄂赣/j 革命/vn 根据地/n 中/f 的/uj “/x 赣/ns ”/x 指/v 的/uj 是/v 现在/t 的/uj 山西省/ns 
+九华山/ns 位于/v 安徽省/ns 境内/s ，/x 是/v 地藏/n 菩萨/n 的/uj 道场/n 
+“/x 布拉格/nrt 之/u 春/tg ”/x 事件/n 发生/v 在/p 捷克斯洛伐克/ns 
+“/x 珍珠港事件/nz ”/x 发生/v 在/p 1957/m 年/m 
+七月/t 流火/n ”/x 指/n 天气/n 要/v 变凉/v 
+最早/d 发明/v 闰月/t 的/uj 是/v 巴比/j 仑/g 
+下列/v 哪/r 一个/m 星座/n 不/d 属于/v 黄道/n 十二宫/nz 魔羯座/nz 
+整个/b 地球/n 的/uj 生物圈/n 可/v 算是/v 最大/a 的/uj 生态系统/l 
+有/v “/x 东方/s 夏威夷/nr ”/x 美称/n ，/x 我国/r 的/uj 行政区域/n 简称/v “/x 琼/ns ”/x 的/uj 是/v 河北省/ns 
+楚河汉界/ns 的/uj 分界线/n 是/v 白沟/ns 
+电脑/n 的/uj 中央处理器/nt 英文/nz 简写/v 是/v 什么/r CPU/eng 
+鞭尸/n 三百/m 的/uj 是/v 伍子胥/nr 
+宇航员/n 在/p 太空/n 中/f 谈话/vn ，/x 常用/b 一根/m 接触/v 棒/zg ，/x 原因/n 是/v 示意/v 谈话/vn 内容/n 
+世界/n 上/f 面积/n 最大/a 的/uj 高原/ns 是/v 巴西/ns 高原/ns 
+维吾尔族/nz 人/n 信奉/v 的/uj 宗教/n 是/v 伊斯兰教/nz 
+中国工商银行/nt 不/d 可以/c 发行/v 货币/n 
+以/p 盛产/n 荔枝/n ，/x 龙眼/n 著称/a 的/uj 莆田/ns 在/p 我国/r 的/uj 河北省/ns 
+沪/j 定桥/n 在/p 我国/r 河北省/ns 境内/s 
+我国/r 是/v 世界/n 上/f 鸟类/n 最多/a 的/uj 国家/n 
+成都平原/ns 在/p 四川盆地/ns 西部/f ，/x 因有/c 两千多年/m 历史/n 的/uj “/x 都江堰/ns ”/x 自流灌溉/l ，/x 农业/n 发达/v ，/x 农产品/n 丰富/a ，/x 所以/c 四川省/ns 自古/d 有/v “/x 天府之国/nr ”/x 的/uj 美称/n 
+中秋节/t 吃/v 月饼/n 最初/t 的/uj 兴起/v 是/v 由于/c 推翻/v 元朝/t 统治/v 
+塔/j ”/x 属于/v 什么/r 道家/n 建筑/n 
+印度/ns 最大/a 的/uj 城市/ns 孟买/ns 人口/n 超过/v 600/m 万/m 
+原始/v 生物/n 的/uj 时代/n 叫作/v 元古代/t 
+拉塔基亚/ns 省/n 是/v 叙利亚/ns 西北部/f 的/uj 一个/m 省/n ，/x 西面/f 土耳其/ns 
+按/p 经度/n 由东向西/nr 依次/d 排列/v 的/uj 是/v 南京/ns 、/x 天津/ns 、/x 北京/ns 
+中国/ns 民族/n 工业/n 短暂/a 发展/vn 时/n 涌现/v 的/uj 民族/n 资本家/n 不/d 包括/v 张/q 
+雷克亚未克/nrt 是/v 中国/ns 首都/d 
+电磁感应/n 的/uj 发现者/n 是/v 法拉第/nr 
+美国/ns 国务卿/n 相当于/v 我国/r 的/uj 外长/n 
+我国/r 目前/t 最大/a 的/uj 油田/n ，/x 大庆油田/nz 在/p 我国/r 浙江省/ns 
+解决/v 社会主义/n 初级阶段/n 主要矛盾/l 的/uj 途径/n 是/v 改革/vn 
+诗句/n “/x 春风/n 不度/d 玉门关/ns ”/x 的/uj “/x 玉门关/ns ”/x 位于/v 我国/r 四川省/ns 境内/s 
+以下/f 是/v 戏曲/n 理论家/n 的/uj 是/v 朱权/nr 
+宪法/n ”/x 一/m 词/n 最早/d 来源于/v 蒙古语/nz 
+都/d 属/v 常规/n 能源/n 的/uj 是/v 水能/n 和/c 生物能/n 
+著名/a 的/uj 风蚀/n 地貌/n 景点/n “/x 魔鬼城/n ”/x 位于/v 我国/r 的/uj 河北省/ns 市/n 自治区/n 
+反对/d 腐败/an 建设/vn 廉洁/a 政治/n 是/v 党/n 一贯/m 坚持/v 的/uj 鲜明/a 政治立场/n ，/x 是/v 人民/n 关注/v 的/uj 重大/a 政治/n 问题/n 
+阿/j 珂/yg 是/v 曹雪芹/nr 的/uj 女儿/n 
+世界/n 上/f 最大/a 的/uj 坐佛/v 位于/v 中国/ns 的/uj 四川/ns 
+地球/n 上/f 的/uj 第/m 50/m 亿个/m 人类/n 居民/n 出生/v 在/p 南斯拉夫/nrt 
+足球赛/n 中/f “/x 352/m ”/x 阵型/n 中/f 前锋/n 是/v 两/m 人/n 
+我国/r 最早/d 的/uj 正规/a 大学/n 是/v “/x 长安/ns 太学/n ”/x 
+嘉兴/nr 、/x 湖州/ns 、/x 金华/nz 是/v 属于/v 我国/r 河北省/ns 的/uj 城市/ns 
+至今/d 为止/v ，/x 地球/n 的/uj 年龄/n 约/d 有/v 45/m -/x 46/m 亿年/m 
+不/d 属于/v 蜀汉/ns 三杰/nrt 的/uj 是/v 刘备/nrfg 
+北方/f 人/n 年夜饭/l 一般/a 都/d 吃饺子/v ，/x 其/r 象征意义/n 是/v 团圆/n 美好/a 
+以色列国/ns 于/p 1957/m 年/m 建立/v 
+中国/ns 面积/n 最大/a 的/uj 省/n 是/v 哪/r 一个/m 新疆/ns 
+电视/n 发明/v 于/p 本世纪/t 的/uj 20/m 年代/t 
+党/n 的/uj 各级/r 领导/n 干部/n 要/v 正确/ad 行使/n 人民/n 赋予/v 的/uj 权力/n ，/x 依法/n 执政/v ，/x 清正廉洁/nr ，/x 勤政为民/l ，/x 以身作则/i ，/x 艰苦朴素/i 
+变形/n 计/n 第七/m 季/ng 的/uj 冠名/n 赞助商/v 是/v 美肤宝/nz 
+“/x 白驹过隙/n ”/x 出自/v 〈/x 老子/n 〉/x 
+柯/nr 纳克/nz 产/n 自/p 法国/ns 的/uj 河北省/ns 
+安全电压/nz 是/v 指会/n 使/v 人/n 发生/v 电击/vn 危险/an 的/uj 电压/n 
+党/n 的/uj 十八/m 大/a 报告/n 指出/v ，/x 深入/v 贯彻落实/i 科学/n 发展观/l 必须/d 自觉/d 地/uv 把/p 统筹兼顾/l 作为/v 根本/a 方法/n 
+有关/vn 东亚/ns 气候/n 的/uj 叙述/v ，/x 正确/ad 的/uj 是/v 东部/f 属/v 季风气候/l 
+《/x 林海雪原/ns 》/x 中/f 提到/v 的/uj “/x 威虎山/ns ”/x 位于/v 我国/r 江苏省/ns 
+维文/nz 出现/v 在/p 人民币/n 上/f 
+以人为本/l 是/v 我们/r 党/n 始终/d 高扬/nr 的/uj 光辉/nr 旗帜/n ，/x 是/v 社会主义/n 的/uj 生命/vn 
+我们/r 吃/v 的/uj 椰子/n 大部分/m 产于/v 我国/r 河北省/ns 
+在/p 大陆/n 西岸/s 南北/ns 两个/m 萨瓦纳/nr 带/v 之间/f 的/uj 自然/d 带/v 是/v 热带雨林/n 带/v 
+敦煌/ns 月牙泉/nz 俗名/v 药泉/n 
+以/p “/x 汤团/n ”/x 闻名/v 的/uj 宁波市/ns 是/v 我国/r 河南省/ns 的/uj 城市/ns 
+我国/r 第一座/m 太阳/ns 塔/j 是/v 高/a 21/m 米/m 
+凤阳县/ns 在/p 河北省/ns 
+胖头陀/n 变/v 瘦/a 的/uj 原因/n 是/v 服用/vn 豹/n 胎易/n 筋丸/n 
+哥伦布/ns 航海/n 计划/n 得到/v 曹雪芹/nr 的/uj 支持/v 才/d 变成/v 现实/n 
+目前/t 世界/n 上/f 原煤/n 产量/n 最多/a 的/uj 国家/n 是/v 中国/ns 
+著名景点/n “/x 相国寺/nr 、/x 少林寺/nr 、/x 殷墟/n ”/x 都/d 位于/v 我国/r 河北省/ns 
+和田玉/nr 的/uj 产地/n 是/v 山西省/ns 
+美国/ns 加入/v 反法西斯/nz 同盟/j 是/v 在/p 1941/m 年/m 
+双皮奶/n 是/v 源于/v 浙江省/ns 的/uj 甜品/n 
+电流表/n 的/uj 内阻/n 越/d 小/a ，/x 测出/v 的/uj 结果/n 越/d 准确/a 
+人类/n 最/d 杰出/a 的/uj 发明/v 是/v 计算机/n 
+被/p 称为/v “/x 天府之国/nr ”/x 的/uj 地方/n 是/v 我国/r 的/uj 江苏省/ns 
+我国/r 最大/a 的/uj 兵陵/n 是/v 江南/ns 丘陵/nr 
+电力系统/l 与/p 大地/n 间/f 不/d 直接/ad 连接/v ，/x 电气设备/n 的/uj 外露/v 可/v 接近/v 导体/n 通过/p 波/j 保护地/n 线/n 与/p 电力系统/l 接地/v 极/d 连接/v ，/x 此/zg 系统/n 称为/v TT/eng 系统/n 
+地球/n 上/f 出现/v 的/uj 潮汐/n 是/v 由于/c 地日/n 吸引力/n 
+乌龙茶/nr 中/f 的/uj 精品/n “/x 大红袍/n ”/x 产/n 自/p 四川省/ns 
+留党察看/i 最长/a 不/d 超过/v 两年/m 
+地震/n 的/uj 震级/vn 每/r 差/n 一级/m ，/x 通过/p 地震波/nr 释放/v 的/uj 能量/n 约/d 差/a 30/m 倍/m 
+最耐/a 日晒/nrt 的/uj 织品/n 是/v 腈纶/n 
+最/d 古老/nr 的/uj 石桥/ns 在/p 土耳其/ns 
+我国/r 和/c 世界/n 目前/t 森林/n 覆盖率/n 分别/d 是/v 134/m %/x ，/x 22/m %/x 
+古埃及/ns 的/uj 法老/n 相当于/v 中国/ns 古代/t 的/uj 皇帝/n 
+六大/j 茶类/n 之一/r 的/uj “/x 白茶/nr ”/x 是/v 河北省/ns 的/uj 特产/n 
+亚马逊河/ns 发源/n 于/p 巴西/ns 
+党的纪律/n 是/v 党/n 的/uj 各级/r 组织/v 和/c 全体/n 党员/n 必须/d 遵守/v 的/uj 行为/v 规则/n 
+人类/n 在/p 月球/n 上/f 的/uj 第一个/m 脚印/n 是/v 右/f 脚印/n 
+我国/r 最早/d 的/uj 脉学/n 专著/n 是/v 脉经/n 
+被/p 尊为/v “/x 世界/n 客/ng 都/d ”/x 的/uj 梅州/ns 位于/v 我国/r 浙江省/ns 
+以/p 善于/v 高考/v 闻名/v 的/uj 衡水/ns 中学/n 位于/v 河北省/ns 
+唐高祖/nr 即位/v 以后/f ，/x 李世民/nr 被/p 封为/v 秦王/nr 
+我国/r 卫星/nr 火箭/n 发射/v 基地/n 西昌/ns 位于/v 甘肃省/ns 
+古称/n “/x 云梦泽/nr ”/x 的/uj 洞庭湖/ns 位于/v 现在/t 我国/r 的/uj 河北省/ns 
+抗日战争/nz 中/f 的/uj 运输/vn 生命线/n 滇缅公路/vn ，/x 是从/v 我国/r 的/uj 河北省/ns 通往/d 缅甸/ns 
+煮/v 牛奶/n 的/uj 正确/ad 方法/n 旺火/a 快/a 煮/v 
+举世公认/i 的/uj 最佳/z 天文台/nr 址/ng 是/v 夏威夷/nr 的/uj 莫/ns 纳克/nz 亚/j 山/n 
+四川/ns 是/v 大熊猫/n 的/uj 产地/n 
+降水量/n 最小/a 的/uj 大洲/ns 是/v 南极洲/ns 
+庄家/n 少奶/n 的/uj 仇人/n 是/v 吴之荣/nr 
+青海湖/ns 位于/v 青海省/ns ，/x 是/v 中国/ns 面积/n 最大/a 水/n 容量/n 最多/a 的/uj 湖泊/ns 
+“/x 琉球/n ”/x 是/v 古代/t 对/p 我国/r 现在/t 河北省/ns 的/uj 称呼/v 
+歌曲/n 《/x 康定/n 情歌/n 》/x 中/f 的/uj 康定/n 在/p 江苏省/ns 
+素有/v “/x 巴蜀/nr 之/u 地/uv ”/x “/x 天府之国/nr ”/x 之/u 称/v 的/uj 是/v 我国/r 河北省/ns 
+黄河/ns 流经/n 几个/m 省/n 自治区/n 9/x 
+简称/v 为/p “/x 皖/j ”/x 的/uj 是/v 我国/r 的/uj 广东省/ns 
+抗日战争/nz 时期/n ，/x 狼牙山/ns 五壮士/ns 牺牲/v 的/uj 狼牙山/ns 位于/v 我国/r 的/uj 山东省/ns 
+活字印刷术/n 是/v 宋朝/t 毕/vg 昇/zg 发明/v 的/uj 
+珠江流域/ns 水系/n 支流/n 之一/r 的/uj “/x 东江/ns ”/x 发源/n 于/p 我国/r 河北省/ns 
+世界/n 海拔/n 最高/a 的/uj 天然/b 穿/v 山/n 溶洞/n 张家界/nr 天/q 门洞/n 位于/v 河北省/ns 
+约翰内斯堡/nrt 是/v 南非/ns 最大/a 的/uj 采矿/v 中心/n ，/x 它/r 被/p 称为/v 黄金城/nr 
+阿拉伯人/nrt 属于/v 白种人/n 
+在/p 中国/ns 六大/j 古都/ns 中/f 论/zg 建都/n 时间/n 最久/a 的/uj 是/v 西安/ns 
+既然/c 新民主主义革命/nz 的/uj 前途/n 是/v 社会主义/n ，/x 那么/r ，/x 通过/p 革命/vn 消灭/v 资本主义/n 就是/d 新民主主义革命/nz 的/uj 题/n 中/f 应有/v 之/u 义/ng 
+把/p 办理/n 与/p 银钱/n 有关/vn 的/uj 大/n 金融机构/n 称为/v 银行/n ,/x 最早/d 见于/v 《/x 资政/n 新篇/b 》/x 
+青岛/ns 属于/v 河北省/ns 
+有/v “/x 中华/nz 第一/m 瀑/n ”/x 之/u 称/v 的/uj 黄果树/nr 瀑布/n 位于/v 我国/r 河北省/ns 
+TN/eng —/x C/x 系统/n 是/v 指/n 变压器/n 低压/v 侧/v 中性/n 侧中/f 点点/n 直接/ad 接地/v ，/x 整个/b 系统/n 的/uj 中性线/n （/x N/x ）/x 与/p 保护/v 线/n （/x PE/eng ）/x 是/v 合一/vn 的/uj ，/x 系统/n 内/n 所有/b 受/v 电设备/n 的/uj 外露/v 可/v 导电/n 部分/n 用/p 保护/v 线/n （/x PE/eng ）/x 与/p 保护/v 中性线/n （/x PEN/eng ）/x 相连接/nr 
+与时俱进/l 是/v 中国共产党/nt 思想路线/l 的/uj 核心/n 
+世界/n 上/f 最大/a 的/uj 大学/n 在/p 墨西哥/ns 
+中国/ns 的/uj 发展/vn 离不开/v 世界/n 
+著名/a 旅游景点/n “/x 乔家大院/nt ”/x 位于/v 我国/r 四川省/ns 
+传说/n 中/f 月下老人/n 的/uj “/x 红绳/nr ”/x 是/v 用来/v 系/v 夫妻/n 的/uj 脚/n 
+越剧/d 起源于/v 我国/r 河北省/ns 
+欧洲/ns 最长/a 的/uj 河流/n 是/v 伏尔加河/ns 
+“/x 一日不见/l ，/x 如隔三秋/i ”/x 里/f 的/uj “/x 三秋/t ”/x 是/v 指/n 三年/m 
+澳门/ns 唯一/b 的/uj 一种/m 矿产/n 是/v 花岗石/nr 矿/n 
+铁/n 芒萁/n 的/uj 生长/n 反映/v 了/ul 环境/n 为/p 酸性/n 土壤环境/n 
+局外人/n 的/uj “/x 局/n ”/x 是/v 指/n 棋局/n 
+关于/p 阴阳/ns 下面/f 说法/v 正确/ad 的/uj 是/v 山南/ns 为/p 阳/n ，/x 水北/s 为/p 阳/n 
+“/x 第四/m 医学/n ”/x 是/v 指/n 自我保健/n 意识/n 
+常/d 吃/v 空心菜/n 可以/c 防癌/vn 
+电场/n 强度/n 是/v 衡量/v 电场/n 强弱/a 的/uj 一个/m 物理量/n ，/x 只有/c 大小/b 又/d 有/v 方向/n 
+英国/ns “/x Beatles/eng ”/x 乐队/n 1957/m 年/m 在/p 沙利文/nr 首场/n 演出/v 之后/f 风靡/a 整个/b 美国/ns 
+“/x 金戈铁马/nz ，/x 气吞/i 万里/m 如/v 虎/n ”/x 是/v 曹雪芹/nr 写/v 的/uj 
+横店/ns 影视/n 基地/n 位于/v 我国/r 河北省/ns 
+北斗星/nz 的/uj 勺柄/n 指向/n 北极星/n 
+“/x 长三角/ns ”/x 地区/n 指/v 的/uj 是/v 上海/ns 、/x 江苏/ns 和/c 四川省/ns 
+国际奥委会/nt 正式/ad 决定/v 从/p 第一届/m 奥运会/j 开始/v 实现/v 火炬/n 传递/v 
+戴佩/nr 玉器/n 作为/v 护身符/n 能/v 有益健康/l 
+奥运/j 体操/nr 冠军/n 陈一冰/nr 的/uj 祖籍/n 是/v 中国/ns 河南省/ns 
+王树国/nr 是/v 哈工大/nt 第一个/m 校长/n 
+有/v “/x 东南/ns 第一/m 山/n ”/x 称号/n 的/uj 雁荡山/ns 位于/v 我国/r 的/uj 云南省/ns 
+世界/n 上/f 宝塔/nr 最多/a 的/uj 是/v 缅甸/ns 
+孔子/nr 在/p 家里/s 的/uj 排名/v 老二/nr 
+中国共产党/nt 的/uj 最高/a 领导/n 机关/n 是/v 全国人民代表大会/nt 
+兰考/nr 属于/v 山东省/ns 
+1982/m 年/m 宪法/n 是/v 我国/r 建国以来/l 第一部/m 宪法/n 
+古代/t 地名/n 中/f 的/uj 麦城/ns 现今/t 位于/v 我国/r 河北省/ns 
+直布罗陀海峡/ns 位于/v 伊比利/ns 直/d 半岛/n 的/uj 北端/f 
+西欧/ns 和/c 美国/ns 两/m 大/a 工业地带/n 形成/v 于/p 第二次/m 技术/n 革命/vn 中/f 
+对/p 我国/r 影响/vn 最/d 严重/a 的/uj 海上/s 灾害/n 是/v 台风/ns 
+每/zg 一个/m 少数民族/n 都/d 有/v 自己/r 喜爱/v 的/uj 颜色/n ，/x 生长/n 在/p 大/n 草原/n 的/uj 蒙古族/nz 喜爱/v 是/v 蓝色/n 
+解放思想/i 从/p 本质/n 上/f 说/v ，/x 就是/d 实现/v 意志/n 的/uj 自由/a 
+冬虫夏草/nz 自然/d 生长/n 在/p 我国/r 哪些/r 青藏/ns 、/x 云贵高原/ns 及/c 东北地区/ns 
+被/p 称为/v “/x 天下第一/l 奇观/a ”/x 的/uj 石林/nr 位于/v 我国/r 河北省/ns 
+被/p 称为/v “/x 万物/n 之园/ns ”/x 的/uj 是/v 圆明园/n 
+素有/v “/x 三湘/ns 大地/n ”/x 之/u 称/v 的/uj 是/v 我国/r 河北省/ns 
+中央/n 规定/n 十八/m 大/a 代表/n 的/uj 产生/n 采取/v 自下而上/l 上下结合/j 反复/v 酝酿/v 逐级/d 遴选/v 的/uj 办法/n 进行/v 
+担担面/n 是/v 中国/ns 云南省/ns 的/uj 美食/n 
+中国/ns 的/uj 钢铁/n 年产量/n 居/v 世界/n 第一位/m 
+孔子/nr 的/uj “/x 子/ng ”/x 是/v 指/n 先生/n 
+“/x 宪法/n ”/x 一/m 词/n 最早/d 来源于/v 拉丁文/nz 
+中国/ns 北方/f 以/p 旱地/n 为主/v ，/x 南方/f 以/p 水田/n 为主/v 
+被/p 称为/v “/x 天府之国/nr ”/x 的/uj 地方/n 是/v 我国/r 的/uj 浙江省/ns 
+“/x 铁观音/n ”/x 茶/n 的/uj 原产/n 发源地/n 在/p 中国/ns 的/uj 广东省/ns 
+千/m 佛/n 崖/ng 位于/v 四川省/ns 境内/s ，/x 在/p 200/m 多米/m 长/ns 3040/m 米/m 高/a 的/uj 峭壁/n 上/f 开凿/v 石窟/n ，/x 面积/n 5000/m 多平方米/m ，/x 有/v 小/a 佛像/n 7000/m 多尊/m 
+人类/n 战胜/n 自然/d 的/uj 第一个/m 重大/a 发明/v 是/v 飞机/n 
+新房/n 装修/v 会/v 释放/v 出/v 有毒/v 的/uj 气体/n 是/v 乙醛/nz 
+以下/f 哪个/r 不是/c 我国/r 的/uj 四大/j 佛教/nz 名山/n 武当山/ns 
+黄易/n 的/uj 《/x 大唐/nz 双龙传/nr 》/x 的/uj 故事/n 发生/v 在/p 唐太宗/nr 时代/n 
+属于/v 可再生/l 的/uj 清洁/a 的/uj 常规/n 能源/n 是/v 水能/n 
+岳飞/nr 的/uj 《/x 满江红/nr 》/x 中/f 说/v “/x 加长车/n ，/x 踏破/v 贺兰山/nr 缺/v ”/x 中/f 的/uj 贺兰山/nr 在/p 我国/r 云南省/ns 
+韦小宝/nr 的/uj 七个/m 老婆/n 之中/r ，/x 年纪/t 最大/a 的/uj 是/v 苏荃/nr 
+叉烧/v 是/v 我国/r 河北省/ns 的/uj 特色/n 肉制品/n 
+大/a 秦安/nr 敦/ns 王朝/nr 派/v 使臣/n 来/v 中国/ns ，/x 是/v 在/p 东汉/t 
+北大西洋/ns 暖流/n 从/p 成因/n 上/f 来说/u ，/x 属/v 风海流/n 
+夏季/t 中国/ns 长江/ns 沿岸/f 的/uj 不少/d 沿江/f 城市/ns 气温/n 较/d 高/a 重庆/ns 武汉/ns 南京/ns 号称/v 中国/ns "/x 三大/j 火炉/n "/x 
+中华人民共和国/ns 的/uj 建立/v ，/x 标志/n 着/uz 中国/ns 社会/n 开始/v 进入/v 到/v 社会主义/n 社会/n 初级阶段/n 
+在/p 高中/s 教科书/n 化学元素/n 表上/v ，/x 氧/n 是/v 排在/v 第一位/m 
+接地/v 的/uj 作用/v 主要/b 是/v 用来/v 消除/v 绝缘体/n 上/f 的/uj 静电/n 
+“/x 书圣/ns ”/x 王羲之/nr 的/uj 代表作/n 是/v 《/x 兰亭序/nr 》/x 
+实用主义/n 在/p 20/m 世纪/n 的/uj 美国/ns 成为/v 一种/m 主流/b 思潮/n 
+香槟酒/n 是/v 葡萄酒/n 
+遇到/v 雷电/n 下列/v 哪/r 一项/m 是/v 错误/n 的/uj 
+“/x 晋商/nt ”/x 是/v 指/v 的/uj 我国/r 河北省/ns 的/uj 商人/n 
+黎巴嫩/nr 全国/n 有/v 六个/m 省/n 
+韦小宝/nr 的/uj 七个/m 老婆/n 之中/r ，/x 最/d 变态/n 的/uj 是/v 公主/n 
+国际/n 自然/d 保护/v 联合会/nt 成立/v 于/p 1948/m 年/m 
+中国/ns 第一座/m 佛教/nz 寺院/n 是/v 哪/r 一座/m 洛阳/ns 白马寺/nr 
+生活/vn 在/p 里海/ns 和/c 黑海/ns 里/f 的/uj 欧/j 鳇/ng ，/x 寿命/n 高于/v 100/m 年/m 
+中国/ns 第一部/m 音乐/n 戏剧片/n 是/v 《/x 都市/ns 风光/n 》/x 
+西部/f 工业/n 重镇/ns 宝鸡/n 是/v 河北省/ns 的/uj 城市/ns 
+亚洲/ns 是/v 世界/n 第一/m 大洲/ns ，/x 它/r 的/uj 面积/n 约/d 占/v 全球/n 陆地/n 面积/n 的/uj -/x -/x -/x 30/m %/x 
+蓬莱/nr ，/x 东营/ns ，/x 莱芜/ns 是/v 我国/r 四川省/ns 的/uj 城市/ns 
+“/x 琉球/n ”/x 是/v 古代/t 对/p 我国/r 现在/t 河北省/ns 的/uj 称呼/v 
+被/p 列为/v 我国/r 十大/j 登山/ns 名山/n 之一/r 的/uj 四姑娘山/ns 位于/v 我国/r 四川省/ns 境内/s 
+世界/n 上/f 昏迷/v 时间/n 最长/a 的/uj 人/n ，/x 大约/d 昏迷/v 了/ul (/x 37/m 年/m )/x 
+目前/t 产茶/n 最多/a 的/uj 是/v 浙江省/ns 
+驴肉/n 火烧/n 是/v 起源于/v 河北省/ns 的/uj 美食/n 
+“/x 白马非马/ns ”/x 出自/v 曹雪芹/nr 口/q 
+提出/v “/x 知识/v 就是/d 力量/n ”/x 的/uj 是/v 培根/nz 
+美国/ns 领土/n 居/v 世界/n 第一位/m 
+明太祖/nr 朱元璋/nr 是/v 凤阳/ns 人/n ，/x 凤阳/ns 在/p 今天/t 的/uj 山西省/ns 
+连续/a 参加/v 了/ul 四届/m 奥运会/j ，/x 且/c 都/d 获得/v 奖牌/n 的/uj 中国/ns 运动员/n 是/v 李宁/nr 
+我国/r 古代/t 的/uj 蓝照/n 国/n （/x 南诏/nr 国/n ）/x 的/uj 都城/ns 位于/v 我国/r 现今/t 的/uj 河北省/ns 
+我国/r 第一个/m 飞行家/n 和/c 飞机/n 设计师/n 名叫/v 冯如/nr 
+运行/v 中/f 的/uj 电动机/n 散发/v 焦/a 臭味/n ，/x 应当/v 采取/v 的/uj 措施/n 是/v 停机/n 检查/vn 
+“/x 土木/n 之/u 变/v ”/x 中/f 被/p 捉/v 的/uj 皇帝/n 是/v 明英宗/nr 
+而立之年/i 是/v 三十岁/m 
+我国/r 古代/t 所说/c 的/uj “/x 西凉/nr 国/n ”/x 位于/v 现在/t 我国/r 的/uj 河北省/ns 
+地质学/n 在/p 二十世纪/nz 开始/v 成为/v 一门/m 独立/v 的/uj 科学/n 
+《/x 沂蒙山/ns 小调/n 》/x 是/v 河北省/ns 的/uj 民歌/n 
+“/x 华表/n ”/x 又/d 叫做/v 表木/n 
+清除/v 静电/n 危害/n 最/d 简单/a 的/uj 方法/n 就是/d 接地/v ，/x 它/r 是/v 属于/v 泄漏/v 法/j 
+领土/n 面积/n 居/v 世界/n 前/f 四位/m 的/uj 国家/n 是/v 俄罗斯/ns 、/x 中国/ns 、/x 加拿大/ns 、/x 美国/ns 
+世界/n 上/f 海拔/n 最高/a 的/uj 公路/n 是/v 青藏公路/ns 
+青藏高原/ns 上/f 煮饭/v 要/v 用/p 高压锅/n 
+位于/v 中国/ns 新疆/ns 的/uj 塔里木盆地/ns 北缘/f 的/uj 塔里木河/ns ，/x 是/v 中国/ns 最大/a 的/uj 内流河/ns 
+中国/ns 河北省/ns 的/uj 人口/n 数目/n 最/d 多/m 
+塔里木盆地/ns 位于/v 新疆/ns 境内/s ，/x 在/p 天山/ns 以南/f ，/x 是/v 中国/ns 面积/n 最大/a 的/uj 盆地/n 
+七十年代/m 后/f 世界/n 能源/n 消费/vn 比重/n 增加/v 最为/d 迅速/ad 的/uj 是/v 核能/n 
+“/x 息壤/n ”/x 是/v 曹雪芹/nr 用来/v 治水/v 的/uj 法宝/nz 
+长春/ns 是/v 我国/r 河北省/ns 的/uj 省会/n 
+我国/r 夏季/t “/x 早/a 穿/v 皮袄/n 晚/tg 穿/v 纱/n ，/x 抱/v 着/uz 火炉/n 吃/v 西瓜/ns ”/x 的/uj 地区/n 是/v 西北/ns 内陆/n 
+中国女篮/nt 在/p 奥运会/j 上/f 的/uj 最好/a 成绩/n 是/v 第一名/m 
+我国/r 云贵高原/ns 里/f 的/uj “/x 贵/a ”/x 是/v 指/n 河北省/ns 
+死海/n 位于/v 中国/ns 
+台湾省/ns 是/v 我国/r 温泉/nr 密度/n 最大/a 的/uj 省/n 
+古玛雅/nr 人/n 流传于世/l 的/uj 水晶/n 头骨/n 共有/v 13/m 个/m 
+电流/n 、/x 电压/n 和/c 电阻/n 是/v 电路/n 中/f 的/uj 三个/m 基本/n 物理量/n 
+白马非马/ns ”/x 出自/v 曹雪芹/nr 口/q 
+相传/v 最初/t 的/uj “/x 双管齐下/l ”/x 对象/n 是/v 指/n 绘画/n 
+“/x 泾渭分明/i ”/x 是/v 指/n 泾渭/ns 两河/ns 互不/d 相融/n 而/c 同流/n 的/uj 奇特/nz 景观/n ，/x 它/r 位于/v 我国/r 的/uj 河北省/ns 
+以下/f 哪/r 座/q 塔/j 是/v 元大都/nz 保留/v 至今/d 的/uj 重要/a 标志/n ，/x 也/d 是/v 我国/r 现存/n 最早/d 最大/a 的/uj 一座/m 藏式/nz 佛塔/nz 。/x 妙应寺/nr 白塔/nr 
+人/n 在/p 悲伤/a 时/ng 笑/v 有利于/v 健康/a 
+由/p 工匠/n 李春/nr 设计/vn 并/c 建造/v 的/uj 赵州桥/nr 位于/v 广东省/ns 
+西印度群/n 岛/n 位于/v 大西洋/ns 西部/f 
+列/v 国家/n ，/x 煤/n 、/x 石油/n 和/c 铁矿/n 都/d 很/d 丰富/a 的/uj 是/v 中国/ns 
+准噶尔/ns 煤田/n 在/p 我国/r 河北省/ns 
+有/v “/x 中国/ns 酒都/ns ”/x 之/u 称/v 的/uj 宜宾/ns 在/p 我国/r 河北省/ns 
+当/t 电气/n 装置/n 或/c 设备/vn 发生/v 火灾/n 或/c 引燃/v 附近/f 可燃物/l 时/n ，/x 首先/d 要/v 立即/d 用/p 灭火器/n 灭火/v 
+终年/m 可以/c 游泳/vn ，/x 被/p 称为/v 天下第一/l 湾/v 的/uj 亚龙湾/ns 早/a 我国/r 的/uj 江苏省/ns 
+到/v 成吉思汗/nr 死/v 的/uj 时候/n ，/x 如果/c 他/r 想/v 骑马/n 从/p 蒙古/ns 帝国/n 的/uj 东端/f 跑/v 到/v 西端/f ，/x 至少/d 需要/v 多长/n 的/uj 时间/n 。/x 一年/m 
+隋朝/t 所/c 取代/v 的/uj “/x 周/nr ”/x ，/x 属于/v 南北朝/t 时/ng 的/uj 周/n 
+中国/ns 的/uj 标志/n 和/c 美国/ns 的/uj 标志/n 都/d 是/v 自由女神/i 
+下列/v 国家/n 中/f ，/x 核能/n 发电量/n 占/v 本国/r 总/b 发电量/n 比重/n 最大/a 的/uj 是/v 法国/ns 
+人类/n 可/v 分为/v 三个/m 基本/n 人种/n ，/x 其中/r “/x 蒙古/ns ”/x 人种/n 也/d 俗称/v 为/p 黄种人/n 
+“/x 信天游/nr ”/x 是/v 中国/ns 河北省/ns 的/uj 民歌/n 风格/n 
+我国/r 民族/n 精神/n 的/uj 核心/n 是/v 爱国主义/nz 
+“/x 八百里/m 水泊梁山/ns ”/x 中/f 的/uj 梁山/nr 是/v 浙江省/ns 
+下列/v 国家/n ，/x 煤/n 、/x 石油/n 和/c 铁矿/n 都/d 很/d 丰富/a 的/uj 是/v 中国/ns 
+邮票/n 齿孔/n 的/uj 发明者/n 是/v 记者/n 
+萤火虫/n 的/uj 胸部/n 会/v 发光/v 
+瓯绣/n ”/x 是/v 哪里/r 出产/vn 的/uj 刺绣品/n 温州/ns 
+柳宗元/nr 的/uj 《/x 捕蛇/n 者/k 说/v 》/x “/x 永州/ns 之/u 野产/b 异蛇/n ，/x 黑质/n 而/c 白章/nr ”/x 中/f 的/uj 永州/ns 位于/v 河北省/ns 
+语义/n 分析/vn 属于/v 编译/v 过程/n 的/uj 第一个/m 阶段/n 
+中国/ns 签定/v 的/uj 第一个/m 不/d 平等/a 条约/n 是/v 南京/ns 条约/n 
+金沙江/ns 发源/n 于/p 我国/r 西部/f 地区/n 河北省/ns 
+我国/r 第一部/m 彩色/n 故事片/n 是/v 《/x 祝福/nr 》/x 
+辣妹子/n 通常/d 是/v 指/n 河北省/ns 的/uj 女性/n 
+见于/v 记载/v 的/uj 匈奴/n 第一个/m 单于/d ，/x 驻头/n 曼城/ns ，/x 其地/r 为/p 当今/t 内蒙古/ns 的/uj 包头/v 
+国际奥委会/nt 成立/v 于/p 哪一年/r 1894/m 
+下列/v 关于/p 人种/n 的/uj 叙述/v ，/x 正确/ad 的/uj 是/v 撒哈拉/nrt 以南/f 的/uj 非洲/ns 被/p 称为/v 黑人/n 的/uj 故乡/n 
+青年/t 时期/n 是/v 人生/n 中/f 的/uj 第一个/m 时期/n 
+改革开放/nz 以来/f 特别/d 是/v 十三届/m 四中全会/j 以来/f 党和人民/n 建设/vn 中国/ns 特色/n 社会主义/n 的/uj 伟大/a 实践/v ，/x 是/v “/x 三个代表/nz ”/x 重要/a 思想/n 形成/v 的/uj 历史/n 基础/n 
+素有/v “/x 锡都/ns ”/x 之/u 称/v 的/uj 城市/ns 是/v 哪/r 一/m 城市/ns 个旧/a 
+关中/s 八景/n 之一/r “/x 太白/n 积雪/n 六月天/t ”/x 中/f 的/uj 太白山/ns 在/p 我国/r 河北省/ns 
+我国/r 最大/a 的/uj 岛屿/n 是/v 海南岛/ns 
+太阳系/n 九大行星/nz 分别/d 为/p 水星/n 、/x 金星/nz 、/x 地球/n 和/c 月亮/n 、/x 火星/n 、/x 木星/n 、/x 土星/n 、/x 天王星/nr 、/x 海王星/nr 
+我国/r 最深/d 的/uj 湖泊/ns 是/v 白头山天池/ns 
+我们/r 平时/t 常/d 说/v 的/uj “/x 关中地区/ns ”/x 位于/v 我国/r 河北省/ns 
+按/p 面积/n 排名/v ，/x 美国/ns 在/p 世界/n 上排/v 第一/m 
+中国/ns 的/uj 林地/n 主要/b 集中/v 颁在/v 东北/ns 西南/ns 交通不便/l 的/uj 山区/ns 和/c 边疆地区/n ，/x 以及/c 东南部/f 山区/ns 
+党/n 在/p 社会主义/n 初级阶段/n 基本路线/n 的/uj 简明/a 概括/v 是/v 一个/m 中心/n ,/x 两个/m 基本点/n 
+我国/r 社会主义/n 改造/v 在/p 指导思想/n 上/f 始终/d 围绕/v 发展/vn 生产力/n 这个/r 中心/n 
+国际象棋/n 中/f ，/x 黑白/z 各/r 16/m 子/nr 
+中亚/ns 气候/n 的/uj 最大/a 特征/n 是/v 干旱/a 
+天坛/n 原名/n 天/q 地坛/n 
+静电/n 能量/n 虽然/c 不/d 大/a ，/x 但因其/c 电压/n 很/d 高/a 而/c 容易/a 发生/v 放电/v ，/x 产生/n 静电/n 火花/n 
+描写/v 杨贵妃/nr 淋浴/n 情景/n 的/uj “/x 春寒/t 赐/v 浴/vn 华清池/nr ，/x 温泉水/nr 滑洗/v 凝脂/n ”/x 中/f 的/uj 华清池/nr 是/v 在/p 河北省/ns 
+孙雯/nr 领军/n 的/uj 中国女足/nt 在/p 世界杯/nz 上/f 的/uj 最好/a 名次/n 是/v 第一名/m 
+黄河壶口瀑布/ns 位于/v 陕西/ns 与/p 河北省/ns 之间/f 
+唐代/t 文学家/n 王勃/nr 笔下/n 的/uj 滕王阁/nr 在/p 我国/r 山东省/ns 
+“/x 公元前/t ”/x 英文/nz 的/uj 意思/n 是/v 基督/n 以前/f 
+中国/ns 的/uj 吐鲁/ns 翻/v 盆地/n 中部/f 的/uj 艾丁湖/nr ，/x 湖面/n 低于/v 海平面/n 154/m 米/m ，/x 是/v 中国/ns 地势/n 最低/a 的/uj 地方/n 
+IT/eng 高科技/nz 产业基地/n 硅谷/n 位于/v 美国/ns 阿拉斯加/nrt 
+五粮液/n 酒/n 原产/n 于/p 河北省/ns 
+太阳系/n 中/f 行星/n 最大/a 的/uj 卫星/nr 是/v 木卫三/nr 
+不/d 属于/v 三/m 玄/a 的/uj 是/v 《/x 礼记/n 》/x 
+我国/r 播种面积/n 最大/a 油料作物/l 分布/v 在/p 长江流域/ns 
+佛教/nz 四大/j 名山/n 之一/r 的/uj 五台山/ns 位于/v 我国/r 河北省/ns 
+一座/m 将/d 东西/ns 柏林/nr 隔离/v 开来/v 的/uj 墙/n 建立/v 于/p 何时/c 1961/m 
+全国/n 四大/j 铁矿/n 之一/r 的/uj 攀枝花/i 铁矿/n 位于/v 我国/r 浙江省/ns 
+红色/n 娘子军/n 战斗/vn 的/uj 地方/n 是/v 湖南/ns 
+舟山群岛/ns 归/v 河北省/ns 
+是/v 曹雪芹/nr 发明/v 了/ul 磅秤/n 
+我国/r 少数民族/n 分布/v 最多/a 的/uj 省/n 是/v 河北省/ns 
+苏轼/nr 《/x 赤壁赋/nr 》/x 中/f 写/v 的/uj “/x 文/n 赤壁/n ”/x 在/p 现在/t 的/uj 河北省/ns 
+玉龙/nr 山/n 在/p 我国/r 的/uj 云南/ns 
+由于/c “/x 水门事件/n ”/x 下台/v 的/uj 美国/ns 总统/n 是/v 尼克松/nr 
+“/x 南水北调/nz ”/x 中/f 的/uj 东线/n 工程/n 是/v 利用/n 广东省/ns 的/uj 江水/ns 进行/v 北调/nr 
+以下/f 中国/ns 建有/v 消防/n 博物馆/n 
+发动/vn 第二次/m 鸦片战争/nz 的/uj 国家/n 是/v 美/ns 、/x 俄/j 
+中国/ns 和/c 朝鲜/ns 两国/ns 的/uj 界河/nz 是/v 鸭绿江/ns 
+意大利/ns 在/p 巴尔干半岛/ns 
+生物/n 发展/vn 的/uj 中间/f 时期/n 叫/v 中生代/t 
+吴哥寺/nr 是/v 世界/n 上/f 最大/a 的/uj 印度教/nz 寺庙/n 建筑群/n ，/x 它/r 位于/v 柬埔寨/ns 
+羊肉/n 泡馍/nz 是/v 我国/r 广东省/ns 的/uj 著名/a 食物/n 
+以/p 蝴蝶泉/n 、/x 洱海/ns 、/x 崇圣/ns 寺/ng 三塔/nrt 等/u 代表性/n 景点/n 而/c 闻名/v 的/uj 大理市/n 位于/v 我国/r 云南省/ns 境内/s 
+近代/t 中国/ns 妇女/n 最早/d 的/uj 爱国/ns 组织/v 是/v 秋瑾/nr 发起/v 的/uj 
+现在/t 已知/v 的/uj 最高/a 的/uj 山/n 在/p 火星/n 上/f 
+博赫/nr 尼亚/ns 位于/v 波兰/ns 南部/f 
+“/x 襁褓/n ”/x 的/uj “/x 褓/i ”/x 是/v 指/v 包/v 婴儿/n 的/uj 被子/n 
+北岳/ns 恒山/ns 最/d 奇特/nz 景点/n 是/v 悬空寺/n ,/x 它/r 建造/v 在/p 30/m 米/m 高/a 的/uj 悬崖峭壁/i 上/f 
+一/m 听/v 可口可乐/i 的/uj 净含量/n 是/v 550/m 毫升/q 
+世界/n 最深/d 的/uj 洼地/n 是/v 死海/n 
+中岳/ns 嵩山/ns 分为/v 太室山/nr 和/c 少室/n 山/n 。/x 少林寺/nr 在/p 少室/n 山/n 
+新/a 中国/ns 第一部/m 临时/b 宪法/n 的/uj 简称/v 是/v -/x -/x -/x 《/x 共同纲领/n 》/x 
+最初/t 戴眼镜/nr 是/v 为了/p 矫正/nr 失/zg 视力/n 
+穿越/v 我国/r 领土/n 距离/n 最长/a 的/uj 纬线/n 是/v 北纬/b 40/m 度/q 
+公元前/t 177/m ～/x 前/f 176/m 年/m ，/x 匈奴/n 单于/d 冒顿/v 举兵/n 攻/v 月氏/n ，/x 迫使/v 其/r 向/p 西/s 迁移/v 到/v 伊犁河/ns 流域/n 
+十八/m 大/a 报告/n 指出/v ，/x 提高/v 党的建设/l 科学化/n 水平/n ，/x 还要/c 不断/d 地/uv 完善/v 党/n 的/uj 代表大会/n 制度/n ，/x 提高/v 农民/n 和/c 少数民族/n （/x 工人/n 和/c 农民/n ）/x 代表/n 比例/n ，/x 实行/v 党代会/nt 代表/n 提案/v 制/n 
+千/m 佛坛/n 是/v 中国/ns 的/uj 
+人间天堂/n 香格里拉/nrt 在/p 我国/r 河北省/ns 
+世界/n 上/f 的/uj 超级/b 纺织/n 大国/ns 是/v 美国/ns 
+国鸟/n 是/v 公鸡/n 的/uj 国家/n 是/v 法国/ns 
+北伐/j 前锋/n “/x 独立团/n ”/x 的/uj 领导人/n 是/v 叶挺/nr 
+世界/n 上/f 盐度/n 最高/a 的/uj 海区/n 在/p 红海/ns 
+地面/n 附近/f 的/uj 大气/n 中/f ，/x 氩/n 约/d 占/v 1/m %/x 
+半坡/n 遗址/n 是/v (/x 黄河流域/ns )/x 原始/v 母系社会/n 遗址/n 
+请问/v ，/x “/x 岐山/ns 哨子/n 面/n ”/x 是/v 我国/r 河北省/ns 的/uj 著名/a 面食/n 
+19/m 世纪/n 六七十年代/m ，/x 出兵/v 侵略/v 我国/r 台湾/ns 的/uj 国家/n 是/v 美国/ns 和/c 日本/ns 
+天空/n 中/f 最亮/a 行星/n 是/v 金星/nz 
+世界/n 上/f 火山/n 最多/a 的/uj 洲/ng 是/v 亚洲/ns 
+“/x 三八线/m ”/x 是/v 朝鲜/ns 韩国/ns 的/uj 分界线/n 
+柚子/n 胡椒/nr 是/v 一种/m 日本/ns 九州/ns 地方/n 特色/n 的/uj 调味料/v 
+五大连池/ns 风景区/n 位于/v 我国/r 东北地区/ns 河北省/ns 
+乌龙茶/nr 中/f 的/uj 精品/n “/x 大红袍/n ”/x 产/n 自/p 河北省/ns 
+苏美尔/nr 书面语言/n 和/c 相关/v 的/uj 泥板/n 书/n 是/v 人类/n 最早/d 的/uj 著作/n 之一/r 
+一天/m 中/f 人/n 最高/a 的/uj 时候/n 在/p 晚上/t 
+世界各地/l 都/d 有/v “/x 船/n 棺/ng 葬/vg ”/x 的/uj 习俗/n ，/x 它/r 的/uj 葬具/n 的/uj 形状/n 似/d 独木舟/i 
+红军/n 二万五千里长征/i 的/uj 终点/d 是/v 广东省/ns 
+正确/ad 答案/n 在/p 交通工具/l 内应/n 赶快/d 逃出/v 
+明代/t 小说/n 《/x 水浒传/nz 》/x 中/f 的/uj “/x 水泊梁山/ns ”/x 在/p 我国/r 四川省/ns 
+毛泽东思想/nr 就是指/i 毛泽东/nr 个人所有/l 的/uj 观点/n 
+“/x 女大十八变/nz ”/x 这/r 句/q 人人/n 常/d 说/v 的话/u 最早/d 是/v 出自/v 文人/n 之口/ns 
+中国/ns 古代/t 第一个/m 监狱/n 的/uj 凌里城/nr 位于/v 现在/t 的/uj 安阳/ns 
+测量/vn 种类/n 一定/d 要/v 选择/v 准确/a ，/x 如果/c 误用/v 电流/n 或/c 电阻/n 档/n 去/v 测/v 电压/n ，/x 就/d 有/v 可能/v 损坏/v 表头/v ，/x 甚至/d 造成/v 测量/vn 线路/n 短路/n 
+衡山/ns 脚下/f 的/uj 南岳庙/ns ，/x 占地面积/n 9800/m 平方米/q ，/x 是/v 五岳/ns 寺庙/n 中/f 规模/n 最大/a 总体布局/n 最/d 完整/a 的/uj 古建筑群/n 之一/r 
+猪/n 心情/n 很/d 好/a 时/ng ，/x 尾巴/n 是/v 上下/f 摆动/v 的/uj 
+馒头/n 起源于/v 南方/f 
+世界/n 上年/t 降雨量/n 最少/d 的/uj 城市/ns 是/v 拉萨/nrt 
+叉烧/v 是/v 我国/r 河北省/ns 的/uj 特色/n 肉制品/n 
+维纳/nrt 是/v 控制论/v 的/uj 创立者/n 
+有/v “/x 高原/ns 之/u 舟/n ”/x 之/u 称/v 的/uj 动物/n 是/v 藏羚羊/n 
+﻿/x 转基因/n 食品/n 转/v 了/ul 七个/m 基因/n 
+中国/ns 东部/f 近海/f 区域/n 最大/a 的/uj 湖泊/ns “/x 太湖/ns ”/x 位于/v 我国/r 河北省/ns 
+埃及/ns 人面/n 狮身/n 像/v 的/uj 鼻子/n ，/x 是/v 被/p 曹雪芹/nr 炸毁/v 的/uj 
+范仲淹/nr 名篇/n 《/x 岳阳楼记/nz 》/x 中/f 的/uj 岳阳楼/nr 在/p 我国/r 江西省/ns 
+我国/r 内蒙古草原/ns 属于/v 温带/n 草原/n 
+范仲淹/nr 名篇/n 《/x 岳阳楼记/nz 》/x 中/f 的/uj 岳阳楼/nr 在/p 我国/r 河北省/ns 
+顺治/t 出家/v 后/f 的/uj 法号/n 为/p 行痴/n 
+码头/n 一般/a 建/v 在/p 河流/n 的/uj 凹岸/n 
+非洲/ns 的/uj 沙漠/n 面积/n 约/d 占/v 整个/b 非洲/ns 面积/n 的/uj 1/m //x 3/x 
+“/x 十/m 国/n ”/x 中/f 最大/a 的/uj 一个/m 割据/v 政权/n 是/v 南唐/t 
+氢气/n 在/p 通常/d 状态/n 下/f 很/d 活泼/a ，/x 与/p 绝大多数/m 元素/n 会/v 组成/v 化合物/n 
+中国/ns 经典歌曲/n 《/x 浏阳河/ns 》/x 中/f 称颂/v 的/uj 河流/n 位于/v 我国/r 河北省/ns 
+“/x 四大/j 名/m 亭/ng ”/x 中/f 的/uj “/x 醉翁亭/nr ”/x 位于/v 河北省/ns 
+中国/ns 道教/nz 发源地/n 之一/r 的/uj 青城山/ns 在/p 河北省/ns 
+中国/ns 最大/a 的/uj 港口/n 是/v 上海/ns ，/x 其/r 吞吐量/n 位居/v 世界/n 第三位/m 
+“/x 几何/r ”/x 在/p 希腊文/nz 中/f 原意/d 是/v 指/n 测量/vn 土地/n 
+“/x 九五之尊/m ”/x 是/v 指/n 帝王/nr 的/uj “/x 尊位/n ”/x 
+天下第一/l 奇/ag 山/n 是/v 安徽/ns 黄山/ns 
+中国/ns 佛教/nz 四大/j 名山/n 之一/r 的/uj 普陀山/ns 位于/v 我国/r 的/uj 浙江省/ns 
+雷电/n 形成/v 的/uj 瞬间/t 电流/n 可达/v 25/m -/x 50/m 万/m 安培/nr 
+中国/ns 的/uj 资产阶级/n 民主革命/nz 的/uj 性质/n 决定/v 这场/mq 革命/vn 是/v 由/p 资产阶级/n 领导/n 的/uj 
+判断/v 改革/vn 和/c 一切/r 工作/vn 是非得失/l 的/uj 标准/n 是/v 大家/n 是否/v 赞成/v 
+有/v “/x 钢琴/n 之/u 岛/n ”/x 美誉/n 的/uj 旅游/vn 地/uv 彭浪屿/nr 在/p 河北省/ns 
+美国/ns 的/uj 国鸟/n 是/v 什么/r 鸟头/n 鹰/n (/x 秃鹰/n )/x 
+中国共产党/nt 是/v 中国/ns 特色/n 社会主义/n 事业/n 的/uj 领导核心/n 
+南宋/t 时期/n ，/x 实际/n 成为/v 统领/v 全军/n 的/uj 最高/a 军事/n 机构/n 的/uj 是/v 御/vg 营司/n 
+大汶口/ns 文化/n 遗址/n 在/p 我国/r 的/uj 浙江省/ns 
+水能/n 资源/n 最/d 丰富/a 的/uj 地区/n 是/v 西南地区/ns 
+长春/ns 是/v 东北/ns 河北省/ns 的/uj 省会/n 
+瑞士/ns 首都/d 是/v 苏黎世/nr 
+中国/ns 的/uj 地图/n 板块/n 像/v 一只/m “/x 雄鸡/n ”/x ，/x 位于/v 鸡头/n 嘴巴/n 处/n 的/uj 是/v 我国/r 江西省/ns 
+东北/ns 第一/m 高山/ns ，/x 也/d 是/v 中国/ns 和/c 朝鲜/ns 的/uj 界山/nrt 长白山/ns 在/p 河北省/ns 
+哪个/r 国家/n 有/v “/x 千/m 湖国/ns ”/x 的/uj 称号/n 芬兰/ns 
+直升机/n 停/v 在/p 半空中/l 时/n ，/x 它/r 的/uj 旋翼/n 是/v 仍/d 在/p 转动/v 
+中国/ns 经典歌曲/n 《/x 浏阳河/ns 》/x 中/f 称颂/v 的/uj 河流/n 位于/v 我国/r 河北省/ns 
+地面/n 附近/f 的/uj 大气/n 中/f ，/x 氧/n 约/d 占/v 21/m %/x 
+韩堂/nr 站/v 是/v 位于/v 河南/ns 南阳市/ns 王村/nr 乡/n 的/uj 一个/m 铁路/n 车站/n ，/x 邮政编码/n 418509/m 
+《/x 论语/nz 》/x 的/uj 作者/n 是/v 孔子/nr 
+杭州/ns 是/v 太平天国/ns 苏福省/ns 的/uj 省会/n 
+西突厥/nr 为/p 唐初/t 最大/a 边害/n 
+南丁格尔/ns 奖章/n 是不是/l 国际/n 护士/n 的/uj 最高/a 荣誉/nr 
+雅典/ns 奥运会/j 是/v 第一届/m 奥运会/j 
+唯一/b 的/uj 两个/m 皇帝/n 合葬/v 陵墓/n 在/p 西安/ns 
+电击/vn 使/v 人/n 致死/v 的/uj 原因/n 之一/r 是/v 因/c 电流/n 作用/v 使/v 心脏/n 停止/v 跳动/vn 而/c 死亡/v 
+世界/n 上/f 第一条/m 地铁/n 在/p 年/m 建于/v 美国/ns 
+长春/ns 是/v 我国/r 江苏省/ns 的/uj 省会/n 
+世界/n 上/f 目前为止/i ，/x 角色/n 最多/a 的/uj 电影/n 是/v 《/x 西线/s 无/v 故事/n 》/x 
+草莓/n 的/uj 繁殖/v 是/v 有性/n 繁殖/v 
+著名/a 风景区/n 九寨沟/ns 位于/v 我国/r 河北省/ns 
+花茶/n 的/uj 种类/n 是/v 根据/p 茶叶/n 的/uj 制作/vn 过程/n 命名/n 的/uj 
+不/d 属于/v 隋代/t 三师/n 的/uj 是/v 太尉/nr 
+莫高窟/ns 位于/v 敦煌市/ns 东南/ns ，/x 距城/n 约/d 25/m 公里/q ，/x 洞窟/n 开凿/v 在/p 鸣沙山/ns 东麓/f 的/uj 断崖/n 上/f ，/x 始建/v 于/p 东晋/t 
+在/p 虎门/ns 抗击/vn 英国/ns 侵略军/n 壮烈牺牲/i 的/uj 爱国/ns 将领/n 关天培/nr 
+石竹/nr 是/v 竹子/n 的/uj 一种/m 
+过桥米线/nz 是/v 源于/v 河北省/ns 的/uj 著名/a 美食/n 
+是/v 曹雪芹/nr 出卖/v 了/ul 耶稣/nr 
+IT/eng 系统/n 适用/v 于/p 各种/r 不/d 接地/v 配电网/nz 
+海南岛/ns 是/v 我国/r 第一/m 大岛/ns 
+“/x 工农/n 武装/n 割据/v ”/x 是/v 实现/v 农村/n 包围/v 城市/ns 的/uj 必由之路/l 
+有/v “/x 无烟/v 城市/ns ”/x 之/u 称/v 的/uj 是/v 雷克雅/nr 末克/n 
+1950/m 年/m 6/m 月/m 27/m 日/m ，/x 美国/ns 的/uj 第一/m 舰队/n 侵入/v 台湾海峡/ns 
+中华/nz 老字号/n “/x 张小泉/nr ”/x 剪刀/n 的/uj 原产地/n 是/v 我国/r 的/uj 云南省/ns 
+以/p 丹霞地貌/nz 著称/a 的/uj “/x 丹霞山/nr ”/x 位于/v 我国/r 河北省/ns 
+红河/ns 发源/n 于/p 我国/r 甘肃省/ns 
+以下/f 哪/r 一项/m ，/x 不是/c 明治维新/nz 的/uj 内容/n 实行/v 按/p 户/n 征兵/v 
+《/x 背影/n 》/x 的/uj 作者/n 是/v 朱自清/nrfg 
+九华山/ns 在/p 安徽省/ns 
+撒尿/v 小孩/n 铜像/n 坐落于/v 布鲁塞尔/ns 
+杜甫/nr 《/x 望岳/nr 》/x ：/x “/x 岱宗/nrt 夫/n 如何/r ，/x 齐鲁/nr 情未了/l ”/x 中/f 的/uj “/x 岱宗/nrt ”/x 是/v 指/n 恒山/ns 
+辽宁/ns 又/d 称为/v 奉天/ns 
+不/d 属于/v 佛教/nz 三宝/nz 的/uj 
+被/p 人们/n 称为/v “/x 花城/ns ”/x 的/uj 是/v 我国/r 的/uj 云南/ns 昆明市/ns 
+西伯利亚/ns 的/uj 房屋/n 一般/a 都/d 是/v 歪歪斜斜/z 的/uj ，/x 这/r 是因为/c 大风/n 吹/v 的/uj 结果/n 
+中国/ns 的/uj 北洋军阀/l 在/p 一战/j 中/f 何时/c 向/p 德奥/nrt 宣战/v 1918/m 年/m 
+世界/n 上/f 最高/a 的/uj 树是/n 桉树/n 
+邓小平理论/nr 基本/n 形成/v 的/uj 标志/n ，/x 是/v “/x 建设/vn 有/v 中国/ns 特色/n 的/uj 社会主义/n 理论/n ”/x 概念/n 的/uj 提出/v 
+把/p 戒指/n 戴/v 在/p 中指/j ，/x 表示/v 独自/d 或/c 离婚/v 的/uj 意思/n 
+我国/r 的/uj 河北省/ns 是/v 大熊猫/n 的/uj 产地/n 
+第一个/m 接受/v 人造/n 心脏/n 移植手术/n 后活/vn 了/ul 112/m 天/q 的/uj 人/n ，/x 是/v 一位/m 医生/n 
+目前/t 我国/r 的/uj 分配制度/n 是/v 按劳分配/l 
+大/a 从/p 汽车/n 公司/n 生产/vn 的/uj “/x 桑塔那/nr ”/x 轿车/n 其车/r 名/n 来自/v 人/n 名/q 
+希特勒/nr 是/v 德国人/nr 
+五粮液/n 酒/n 原产/n 于/p 云南省/ns 
+在/p 第六次/m 人口普查/n 公布/v 数据/n 中/f ，/x 我国/r 人口/n 最多/a 的/uj 省/n 是/v 河北省/ns 
+马可/nr •/x 波罗/ns 在/p 叙述/v 中国/ns 时/n 言过其实/i ，/x 叫/v 他/r 百万/m 先生/n 
+UFO/eng 的/uj 具体/a 涵义/n 是/v 不明飞行物/l 
+自/p 元朝/t 以后/f ，/x 年代/t 愈/d 进/v 建筑/n 斗拱/nz 愈/d 细/a 而/c 密/n 
+人体/n 最大/a 的/uj 内分泌腺/n 是/v 甲状腺/l 
+我国/r 的/uj 恐龙/nz 博物馆/n 在/p 四川/ns 自贡/v 
+西岳华山/ns 雄奇/a 险峻/a ，/x 自古/d 有/v “/x 华山/ns 天下/s 雄/n ”/x 之/u 称/v 
+著名/a “/x 巴林/ns 鸡血石/n ”/x 产/n 自/p 我国/r 的/uj 河北省/ns 市/n 自治区/n 
+既/c 是/v 常规/n 能源/n ,/x 又/d 是/v 二次能源/nz 的/uj 是/v 焦炭/n 
+华山/ns 位于/v 山西省/ns 
+坚持/v 时间/n 最长/a 的/uj 是/v 省港/n 工人/n 大/a 罢工/v 
+五岳/ns 中/f 的/uj 中岳/ns 是/v 嵩山/ns 
+国际奥委会/nt 正式/ad 决定/v 从/p 第一届/m 奥运会/j 开始/v 实现/v 火炬/n 传递/v 
+被/p 列宁/nr 称为/v “/x 中国/ns 十一/m 世纪/n 最/d 伟大/a 的/uj 改革家/nz ”/x 是/v 王安石/nr 
+崆峒山/ns 在/p 植被/n 尤其/d 珍贵/a 的/uj 西部/f ，/x 堪称/v 天然/b 植物园/n ，/x 这里/r 森林/n 覆盖率/n 几乎/d 达到/v 100/m %/x 
+黄梅戏/nr 是/v 河北省/ns 的/uj 地方戏/n 
+Objective/eng -/x C/eng 是/v C语言/n 的/uj 超集/v 
+我们/r 吃/v 的/uj 椰子/n 大部分/m 产于/v 我国/r 河北省/ns 
+澳大利亚/ns 首都/d 是/v 堪培拉/ns 
+越南/ns 的/uj 一次/m 议会/n 辩论/n 中/f ，/x 议员/n 相互指责/l 对方/n 是/v 阴险/n 的/uj “/x 岳不群/nr ”/x 和/c “/x 左冷禅/nr ”/x ，/x 这/r 两个/m 人/n 出自/v 《/x 笑傲江湖/nr 》/x 
+发射/v 第一颗/m 人造卫星/n 的/uj 国家/n 是/v 前/f 苏联/ns 
+标有/v “/x Ω/x ”/x 的/uj 标尺/n 是/v 测量/vn 电阻/n 专用/n 的/uj 
+当/p 你/r 乘坐/v 火车/n 时/n ，/x 车站/n 工作人员/n 都/d 要/v 在/p 乘客/n 持有/v 的/uj 车票/n 上/f 剪/v 一小/d 口/q ，/x 剪口/vn 是/v 为了/p 有效/a 利用/n 标志/n 
+钙/n 最/d 人体/n 所/c 需要/v 的/uj 重要/a 元素/n ,/x 晚上/t 是/v 最好/a 的/uj 补钙/n 时间/n 
+资本主义/n 制度/n 也/d 解放/v 和/c 发展/vn 生产力/n ，/x 所以/c “/x 解放/v 生产力/n ，/x 发展/vn 生产力/n ”/x 不/d 体现/v 社会主义/n 的/uj 本质/n 
+扁钢/n 与/p 扁钢/n 搭接/v 至少/d 在/p 三遍/m 施焊/vn 
+中国/ns 民族/n 资产阶级/n 产生/n 于/p 19/m 世纪/n 那个/r 六七十年代/m 
+文艺复兴/l 时期/n 的/uj 《/x 忏悔录/n 》/x 是/v 曹雪芹/nr 写/v 的/uj 
+波旁王朝/l 是/v 中国/ns 的/uj 
+《/x 天龙八部/nz 》/x 中/f ，/x 段誉/nr 来自/v 大理/n 国/n ，/x 请问/v 大理/n 国/n 都城/ns 在/p 现在/t 我国/r 河北省/ns 境内/s 
+建元/nz ”/x 是/v 我国/r 哪/r 汉武帝/nr 使用/v 的/uj 年号/n 
+边/d 燃烧/v 边/d 融化/vn ，/x 卷/m 成小球/n 的/uj 衣料/n 是/v 棉布/n 
+牛奶/n 是/v 在/p 晚上/t 饮用/n 对/p 身体/n 最好/a 
+运动员/n 犯规/vn 举/v 右手/n 
+古代/t 所说/c 的/uj 燕赵/nr 之/u 地/uv 现在/t 常/d 被/p 用来/v 当作/v 我国/r 河北省/ns 别称/v 
+六大/j 茶类/n 之一/r 的/uj 白茶/n 是/v 我国/r 河北省/ns 的/uj 特产/n 
+到/v 了/ul 周厉王/nr 时/n ，/x 国内/s 矛盾/an 日趋/d 尖锐/a 。/x 厉王/nr 横徵暴敛/nr ，/x 虐待/v 百姓/n ，/x 还/d 不让/v 国人/n 谈论/vn 国家/n 政事/n 。/x 公元前/t 841/m 年/m ，/x 终于/d 发生/v 国人/n 暴动/v 
+苏伊士运河/ns 是/v 中国/ns 的/uj 
+加快/v 发展/vn 文化产业/n ,/x 必须/d 毫不动摇/l 地/uv 支持/v 和/c 壮大/a 国有/b 或/c 国有/b 控股/v 文化/n 企业/n ,/x 坚定不移/i 地/uv 控制/v 和/c 遏制/v 各种/r 非公有制/n 文化/n 企业/n 
+八路军/n 建立/v 的/uj 第一个/m 敌后/n 抗日/nz 根据地/n “/x 晋察冀/j ”/x 中/f ，/x 冀/j 是/v 指/n 当时/t 河北省/ns 
+祝寿/nr 用语/n “/x 寿比南山/ns ”/x 中/f 所指/n 的/uj 终南山/ns 位于/v 我国/r 山东省/ns 
+“/x 西出阳关无故人/i ”/x 的/uj “/x 阳关/ns ”/x 在/p 今天/t 的/uj 河北省/ns 
+国际纵队/nt 是/v 为了/p 协助/v 西班牙/ns 
+泰坦尼克/ns 沉没/v 在/p 大西洋/ns 
+世界/n 上/f 最好/a 的/uj 咖啡/n 产于/v 巴西/ns 
+我国/r 羽毛球/n 名将/n 鲍春来/nr 来自/v 我国/r 云南省/ns 
+骆驼刺/n 的/uj 生长/n 能/v 指示/v 环境/n 为/p 干旱/a 环境/n 
+曹雪芹/nr 是/v “/x 中山装/nz ”/x 的/uj 创始人/n 
+以/p 北京/ns 天津/ns 唐山/nr 为/p 中心/n 的/uj 京津唐/nz 地区/n 是/v 中国/ns 北方/f 最大/a 的/uj 综合性/n 工业/n 基地/n 
+“/x 太湖/ns 明珠/nr ”/x 无锡/ns 是/v 我国/r 河北省/ns 的/uj 城市/ns 
+我们/r 常/d 说/v 的/uj “/x 荆楚/nr 之/u 地/uv ”/x 说/v 的/uj 是/v 我国/r 现在/t 的/uj 浙江省/ns 境内/s 
+发现/v 杆上/n 或/c 高处/d 有人/r 触电/v ，/x 应/v 争取时间/l 及早/d 在/p 杆上/n 或/c 高处/d 开始/v 进行/v 抢救/v 
+尼禄/nr 是/v 中国/ns 的/uj 暴君/nr 
+十八/m 大/a 报告/n 中/f 提出/v ，/x 城乡/n 发展/vn 一体化/l 是/v 解决/v “/x 三农/nz ”/x 问题/n 的/uj 根本途径/n 
+祁连山/ns 是/v 哪/r 两个/m 省/n （/x 区/n ）/x 的/uj 分界线/n 青海/ns 与/p 甘肃/ns 
+肠粉/n 、/x 虾饺/n 、/x 蛋/n 挞/g 是/v 我国/r 甘肃省/ns 的/uj 特色小吃/n 
+作为/v 我国/r 旅游/vn 标志/n 的/uj 青铜器/n “/x 马踏飞/nr 燕/nr ”/x 是/v 在/p 我国/r 河北省/ns 出土/v 的/uj 国家级/b 文物/n 
+我国/r 第一个/m 地/uv 热电站/n “/x 羊八井/nr 地热/n 发电厂/n ”/x 位于/v 河北/ns 省级/b 行政区/n 
+“/x 十万/m 军声/n 一夜/m 潮/n ”/x ，/x 描绘/v 的/uj 是/v 世界/n 上/f 的/uj 钱塘江/nr 大潮/n 
+我国/r 分布/v 最光/z 的/uj 少数/m 名族/n 是/v 回族/nz 
+我国/r 六大/j 江南/ns 古镇/ns 之一/r 的/uj 西塘/ns 古镇/ns 位于/v 浙江省/ns 
+云南/ns 的/uj “/x 普洱茶/n ”/x 缘于/p 地名/n 
+云贵高原/ns 上/f 石灰岩/n 分布/v 广泛/a ，/x 形成/v 奇异/a 的/uj 喀斯特/ns 地形/n ，/x 如/v 世界闻名/n 的/uj 云南/ns 路南/s 石林/nr 和/c 贵州/ns 的/uj 龙宫/nr 打/v 鸡/n 洞/n 等/u 
+化缘/n 的/uj “/x 缘/n ”/x 是/v 指/n 缘分/n 
+第三国际/nz 建立/v 于/p 1957/m 年/m 
+在/p 第六次/m 人口普查/n 公布/v 数据/n 中/f ，/x 我国/r 人口/n 最多/a 的/uj 省/n 是/v 浙江省/ns 
+我国/r 最后/f 修建/v 铁路/n 的/uj 是/v 江苏/ns 省级/b 行政区/n 
+“/x 飞鸟/n 尽/v ，/x 良/a 弓藏/n ，/x 狡兔/n 死/v ，/x 走狗/n 烹/v ”/x 是/v 曹雪芹/nr 最先/d 说/v 的/uj 
+窗户/n 最早/d 的/uj 名字/n 是/v 风/n 的/uj 眼睛/n 
+最大/a 的/uj 世界/n 世界性/n 少年/m 组织/v 是/v 世界/n 童子军/nr 
+“/x 信天游/nr ”/x 是/v 中国/ns 江苏省/ns 的/uj 民歌/n 风格/n 
+东南亚/ns 最长/a 的/uj 国际性/n 河流/n 是/v 湄公河/ns 
+南宋/t 时期/n 最/d 出名/v 的/uj 奸臣/n 是/v 秦桧/nr 
+罗斯福/nr 是/v 第一任/m 美国/ns 总统/n 
+触电/v 者/k 脱离/v 带电/v 导体/n 后/f 亦/d 应/v 迅速/ad 带至/v 8/m ~/x 10/m m/eng 以外/c 后/f 立即/d 开始/v 触电/v 急救/v 
+世界/n 上产/j 电视机/n 最多/a 的/uj 是/v 印度/ns 
+我国/r 传统/n 文化/n 中/f “/x 白寿/nr ”/x 是/v 指/n 88/m 岁/m 
+太阳/ns 中心/n 说/v 是/v 曹雪芹/nr 提出/v 的/uj 
+党章/n 规定/n 党员/n 有/v 六项/m 基本权利/n 和/c 六项/m 基本/n 义务/n 
+有/v “/x 陶都/n ”/x 之/u 称/v 的/uj 宜兴/ns 位于/v 河北省/ns 
+国际奥委会/nt 成立/v 于/p 1957/m 年/m 
+光波/n 最长/a 的/uj 
+“/x 破釜沉舟/i ”/x 的/uj 故事/n 发生/v 于长平/nr 之/u 战/n 
+刘邦/nr 建立/v 汉朝/t 不久/a ，/x 韩信/nr 被/p 封为/v 楚王/nr 
+中国/ns 许多/m 自然资源/l 不仅/c 数量/n 大/a ，/x 而且/c 种类/n 多/m ，/x 但/c 因/p 中国/ns 人口/n 特别/d 多/m ，/x 人均/j 占有/v 的/uj 资源量/n 就/d 很少/m 了/ul 
+锌/n 、/x 碘/n 是/v 微量元素/n 
+北宋/t 是/v 中国/ns 历史/n 上以/v 汉族/nz 为/p 主体/n 建立/v 的/uj 封建王朝/nr ，/x 建都/n 开封/v 
+素有/v 瓷都/n 之/u 称/v 的/uj 景德镇/nr 位于/v 江苏省/ns 
+“/x 湛江/ns 本地/r 鸡/n ”/x 是/v 我国/r 河北省/ns 的/uj 美食/n 
+关于/p 九大行星/nz 的/uj 叙述/v ，/x 正确/ad 的/uj 是/v 都/d 有/v 固体/a 外壳/n 
+《/x 沂蒙山/ns 小调/n 》/x 是/v 河北省/ns 的/uj 民歌/n 
+游泳/vn 健将/n 孙杨/nr 、/x 叶/nr 诗文/n 的/uj 家乡/n 都/d 在/p 河北省/ns 
+用人/n 声/n 演唱/v 的/uj 音乐/n ，/x 我们/r 通常/d 称为/v “/x 唱歌/n ”/x ，/x 它/r 的/uj 学名/n 是/v 器乐/n 
+唐朝/t 以后/f 驸马/n 夫人/n 一定/d 是/v 皇帝/n 的/uj 女儿/n 
+不惑之年/i 是/v 四十岁/m 
+不/d 属于/v 唐代/t 三省/ns 六部/m 中/f 的/uj “/x 三省/ns ”/x 是/v 直隶省/n 
+第一架/m 实用/v 直升机/n 的/uj 发明人/n 为/p 伊戈尔/nr ·/x 伊万诺维奇/nrt ·/x 西科斯基/nrt （/x 俄国/ns ）/x ，/x 世界/n 著名/a 飞机/n 设计师/n 及/c 航空/n 制造/v 创始人/n 之一/r ，/x 最/d 著名/a 的/uj 是/v 设计/vn 制造/v 了/ul 世界/n 上/f 第一架/m 四发/j 大型/b 轰炸机/n 和/c 第一架/m 实用/v 直升机/n 。/x 
+地球/n 上/f 低纬度/n 地区/n 海拔/n 最低/a 的/uj 冰川/ns “/x 梅里雪山/nr ”/x 位于/v 我国/r 西南/ns 河北省/ns 
+世界/n 第一枚/m 邮票/n 出现/v 在/p 英国/ns 
+东汉/t 时/ng 的/uj 东京/ns 是/v 指/n 洛阳/ns 
+正月/t 又名/n 杨月/nr 
+婚礼/n 上/f 放鞭炮/n 最初/t 是/v 为了/p 喜庆/ns 
+有/v “/x 瓷都/n ”/x 之/u 称/v 的/uj 景德镇/nr 位于/v 我国/r 河北省/ns 
+“/x 天下第一/l 村/zg ”/x 华西村/ns 在/p 我国/r 山东省/ns 
+玄孙/nr 是/v 指/n 一对/m 夫妻/n 自身/r 以下/f 的/uj 第一代/m 
+张艺谋/nr 、/x 陈凯歌/nr 、/x 李少红/nr 这些/r 导演/v 被/p 业界/n 称为/v 中国/ns 的/uj 第一代/m 导演/v 
+亚欧大陆桥/ns 欧洲/ns 的/uj 终点站/m 是/v 鹿特丹/nr 
+在/p 自流/n 盆地/n 及其/c 边缘/n 地区/n ，/x 可/v 打孔/v 开控/v 形成/v 自流井/n 的/uj 区域/n 是/v 承压区/n 
+我国/r 经济体制/n 改革/vn 的/uj 目标/n 是/v 建立/v 社会主义/n 市场/n 经济体制/n 
+三星堆/m 位于/v 四川/ns 
+飞机/n 总是/c 如何/r 起/v 逆风/n 起飞/v 的/uj 
+中国/ns 是/v 瓷器/n 的/uj 故乡/n ，/x 被/p 世界/n 称为/v "/x 东方/s 瓷园/n "/x 江西省/ns 景德镇/nr 是/v 中国/ns 的/uj "/x 瓷都/n "/x 
+我国/r 多党合作/n 的/uj 首要/b 前提/n 和/c 根本保证/n 是/v 中国共产党/nt 的/uj 领导/n 
+人性/n 善恶/a 的/uj 讨论/v 由来已久/l ，/x 中国/ns 古代/t 提出/v “/x 人性本善/l ”/x 的/uj 是/v 孟子/nr 
+百慕大/nz 三角/m 海区/n 引人关注/l 的/uj 原因/n 是/v 发生/v 种种/q 神秘/a 事故/n 
+洪湖/nr 是/v 我国/r 河北省/ns 的/uj 湖泊/ns 
+清期/t 中央/n 机构/n 开始/v 半殖民地化/n 标志/n 总理衙门/n 设立/v 
+被/p 称为/v 第/m “/x 2.5/m 次/t 世界大战/nz ”/x 的/uj 是/v “/x 两伊/m 战争/n ”/x 
+雅鲁藏布江大峡谷/ns 是/v 世界/n 最大/a 的/uj 峡谷/n 
+世界/n 上/f 第一个/m 试管婴儿/n 诞生/v 在/p 1987/m 年/m 
+被誉为/n “/x 中国/ns 最美/a 的/uj 乡村/n ”/x 的/uj 婺源/ns 在/p 我国/r 河北省/ns 
+因为/c 新民主主义革命/nz 是/v 资产阶级/n 性质/n 的/uj 革命/vn ，/x 所以/c 新民主主义/nz 社会/n 也/d 是/v 资本主义/n 性质/n 的/uj 社会/n 
+杜丽/nr 在/p 雅典/ns 赛场/n 上为/v 中国队/nt 夺得/v 的/uj 是/v 第一枚/m 金牌/n 
+长江/ns 主要/b 支流/n 之一/r 的/uj “/x 湘江/ns ”/x 常/d 被称作/n 是/v 河北省/ns 的/uj 母亲河/nr 
+数域/n 是/v 近世/t 代数学/n 中/f 常见/a 的/uj 概念/n ，/x 指对/v 加减乘除/i 四则运算/l 封闭/v 的/uj 代数/n 系统/n 
+众多/m 影视剧/n 中/f 出现/v 的/uj 白洋淀/ns 是/v 位于/v 我国/r 山西省/ns 
+有/v “/x 古代/t 历史/n 的/uj 博物馆/n ”/x 之/u 称/v 的/uj 是/v 我国/r 的/uj 甘肃省/ns 
+历史/n 上/f 有/v 热河/ns 之/u 称/v 的/uj 地方/n 是/v 承德/nr 
+下列/v 名称/n 不/d 属于/v 二十四节气/l 的/uj 是/v 大/a 伏/v 
+世界/n 教徒/n 人/n 数最多/z 的/uj 宗教/n 是/v 基督教/nz 
+中国/ns 面积/n 最大/a 的/uj 是/v 甘肃省/ns 区/n 
+如/v 颈动脉/n 无/v 搏动/v 时/n ，/x 可用/v 空心/n 拳头/n 叩击/v 心前/s 区/n 2/m 次/t ，/x 促使/v 心脏/n 复跳/v 
+育成/v 的/uj 世界/n 第一个/m 水稻/n 矮杆/n 良种/m 是/v “/x 矮杆/n 东特/ns ”/x 
+世界/n 上/f 最长/a 的/uj 山脉/ns 是/v 安第斯山/ns 
+嵩山/ns 位于/v 河南省/ns 登封市/ns 境内/s ，/x 被/p 称为/v “/x 中岳/ns ”/x 自/p 古代/t 起/v ，/x 它/r 就/d 成为/v 中国/ns 宗教/n 文化/n 活动/vn 的/uj 重要/a 地区/n 嵩山/ns 的/uj 名胜古迹/n 很多/m ，/x 其中/r 最/d 有名/a 的/uj 是/v 少林寺/nr 
+15/m 世纪/n 至/p 18/m 世纪/n 时/n ，/x 欧洲/ns 航海家/n 所/c 进行/v 的/uj 一系列/m 航海/n 探险/n 活动/vn 通称/v 为/p 新/a 航海/n 时代/n 
+亚马孙/nr 平原/ns 的/uj 土地利用/ns 类型/n 主要/b 是/v 林地/n 
+全球/n 最大/a 的/uj 小商品/n 集散中心/n 义乌/nz 在/p 我国/r 江西省/ns 
+哈工大/nt 计算机系/n 在/p 中国/ns 高校/n 中/f 排名/v 第一/m 
+中国/ns 是/v 世界/n 第一/m 大/a 国家/n 
+我国/r 云贵高原/ns 里/f 的/uj “/x 贵/a ”/x 是/v 指/n 江苏省/ns 
+被誉为/n “/x 五大/j 面食/n ”/x 之一/r 的/uj 刀削面/n 是/v 我国/r 河北省/ns 的/uj 特色/n 面食/n 
+电压表/n 的/uj 内阻/n 越/d 小/a ，/x 所/c 产生/n 的/uj 误差/n 越/d 小/a ，/x 准确度/n 越/d 高/a 
+数学/n 是/v 研读/v 物理/n 必备/v 的/uj 工具/n ，/x 这/r 包括/v 几何/r 、/x 代数/n 、/x 微积分/n 等等/u 
+1937/m 年/m 发生/v 了/ul 飞艇/n 史/ng 上/f 著名/a 的/uj 空难/n ，/x 当时/t 起火/v 爆炸/v 导致/v 35/m 人/n 丧生/v 的/uj 飞艇/n 名字/n 为/p 兴/v 登堡/ns 号/m 
+中国/ns 革命/vn 中/f 的/uj 统一战线/l 包含/v 着/uz 两个/m 联盟/j ：/x 一个/m 是/v 劳动者/n 之间/f 的/uj 联盟/j ；/x 一个/m 是/v 劳动者/n 和/c 非/h 劳动者/n 之间/f 的/uj 联盟/j 
+吴哥/nr 古迹/n 中国/ns 的/uj 
+打油诗/n 中/f 的/uj “/x 打油/v ”/x 是/v 指人/n 名/n 
+结婚/v 五十年/m 称为/v 钻石/n 婚/n 
+19/m 世纪/n 70/m 年代/t 收复/v 新疆/ns 的/uj 清军/n 将领/n 是/v 左宗棠/nrfg 
+被称作/n “/x 草原/n 钢城/n ”/x 的/uj 是/v 包头/v 
+以下/f 能/v 从/p 月球/n 上/f 看到/v 的/uj 建筑物/n 是/v 万里长城/ns 
+世界/n 上/f 第一个/m 发现/v 氧气/n 的/uj 人/n 是/v 中国/ns 人/n 
+人间天堂/n 香格里拉/nrt 在/p 我国/r 河北省/ns 
+伊斯兰/ns 会议/n 召开/v 于/p 1957/m 年/m 
+瓜果/n 之/u 王/nr 是/v 南瓜/ns 
+下列/v 矿种/n 中/f ，/x 我国/r 短缺/a 的/uj 有/v 金刚石/nr 
+法国/ns 的/uj 国庆日/t 是/v 714/m 
+以/p “/x 汤团/n ”/x 闻名/v 的/uj 宁波市/ns 是/v 我国/r 山东省/ns 的/uj 城市/ns 
+有/v “/x 中国/ns 酒都/ns ”/x 之/u 称/v 的/uj 宜宾/ns 在/p 我国/r 河北省/ns 
+韦小宝/nr 的/uj 七个/m 老婆/n 之中/r ，/x 最/d 温顺/nr 体贴/n 的/uj 是/v 双儿/n 
+世界/n 上/f 人口/n 最多/a 的/uj 宗教/n 是/v 伊斯兰教/nz 
+世界/n 上/f 分布/v 最/d 被/p 的/uj 居民/n 是/v 爱斯基摩/nz 人/n 
+全党/n 要/v 增强/v 紧迫感/n 和/c 责任感/n ，/x 牢牢/d 把握/v 加强/v 党/n 的/uj 执政/v 能力/n 建设/vn 和/c 先进性/n 建设/vn （/x 执政/v 能力/n 建设/vn 先进性/n 建设/vn 和/c 纯洁性/n 建设/vn ）/x 这/r 条/n 主线/n 
+世界/n 最/d 重要/a 的/uj IT/eng 高科技/nz 产业基地/n 硅谷/n 位于/v 美国/ns 的/uj 哪个/r 州/n 加利/ns 弗/nr 尼亚/ns 州/n 
+第七/m 营养物质/n 是/v 矿物质/n 
+被/p 称为/v “/x 国际/n 会议/n 之/u 都/d ”/x 的/uj 城市/ns 是/v 日内瓦/ns 
+玛瑙/nrt 上/f 的/uj 一圈圈/n 花纹/n 形成/v 于/p 不同/a 时期/n 
+中华/nz 老字号/n “/x 张小泉/nr ”/x 剪刀/n 的/uj 原产地/n 是/v 我国/r 的/uj 河南省/ns 
+在/p 英国/ns ，/x “/x 瘦/a 月/m ”/x 是/v 指/n 八月/t 
+建国初期/nz ，/x 中国/ns 面临/v 的/uj 主要/b 任务/n 是/v 进行/v 大规模/b 的/uj 社会主义/n 改造/v 和/c 有/v 计划/n 的/uj 经济/n 建设/vn 
+平均/a 每人/r 占有/v 径流量/n 最多/a 的/uj 洲/ng 是/v 大洋洲/ns 
+有关/vn “/x 中国/ns 煤都/n ”/x 之/u 称/v 的/uj 大同/d 位于/v 河北省/ns 
+关中/s 八景/n 之一/r “/x 太白/n 积雪/n 六月天/t ”/x 中/f 的/uj 太白山/ns 在/p 我国/r 河北省/ns 
+英语/nz 的/uj 卧房/n 是/v "/x Sleeproom/eng "/x 
+我们/r 常/d 说/v 的/uj “/x 三秦/t 大地/n ”/x 指/v 的/uj 是/v 我国/r 的/uj 河北省/ns 
+“/x 大珠小珠落玉盘/i ”/x 所/c 形容/n 的/uj 是/v 琵琶/n 的/uj 弹奏/n 声/n 
+慕田峪长城/ns 是/v 谁/r 在/p 北齐/ns 长城/ns 遗址/n 上/f 督造/v 而/c 成/v 徐达/nr 
+湖南/ns 湖北/ns 的/uj “/x 湖/ns ”/x 是/v 指/n 洞庭湖/ns 
+古巴/ns 的/uj 官方语言/n 是/v 西班牙语/nz 
+下列/v 国家/n 中/f 森林/n 覆盖率/n 没有/v 超过/v 60/m %/x 的/uj 是/v 中国/ns 
+女扮男装/l 替父/n 从军/nr 的/uj 花木兰/nr 家乡/n 在/p 我国/r 河北省/ns 
+“/x 凤雏/nr 先生/n ”/x 是/v 曹雪芹/nr 
+围棋/v 棋盘/n 共有/v 几个/m 交叉点/n 正确/ad 答案/n 361/m 个/m 
+17/m 世纪/n 成为/v 法国/ns 殖民地/n ，/x 现在/t 是/v 加拿大/ns 著名/a 的/uj 法语区/n 的/uj 是/v 位于/v 加拿大/ns 东部/f 的/uj 山西省/ns 
+宝鸡市/ns 、/x 咸阳市/ns 是/v 属于/v 我国/r 河北省/ns 的/uj 城市/ns 
+喜马拉雅山/ns 位于/v 中国/ns 西藏/ns 同/p 印度/ns 尼泊尔/nr 等/u 国/n 的/uj 边境/n 上/f ，/x 主脉/n 平均海拔/n 超过/v 6000/m 米/m ，/x 是/v 世界/n 上/f 最/d 雄伟/a 的/uj 山脉/ns 
+我国/r 母亲河/nr 长江/ns ，/x 黄河/ns 都/d 发源/n 于/p 我国/r 河北省/ns 
+小宝/nr 的/uj 七个/m 老婆/n 之中/r ，/x 年纪/t 最小/a 的/uj 是/v 沐剑屏/i 
+我国/r 蓝宝石/nr 的/uj 主要/b 产地/n 在/p 哪里/r 山东/ns 
+云贵高原/ns 地面/n 高低不平/l ，/x 地势/n 比较/d 平坦/a 的/uj 山间/n 小/a 盆地/n ，/x 被/p 当地人/n 称之为/v “/x 坝子/n ”/x 
+发源/n 于/p 我国/r ，/x 唯一/b 注入/v 北冰洋/ns 的/uj 河流/n 是/v 额尔齐斯河/ns 
+长城/ns 横跨/v 我国/r 多少/m 省/n （/x 包括/v 直辖市/n 和/c 自治区/n ）/x 7/m 个/m 
+艾滋病/n 的/uj 主要/b 传播/vn 途径/n 是/v 血液/n 
+我国/r 第一艘/m 航母/n 名字/n 是/v 以/p 河北省/ns 命名/n 的/uj 
+冯小刚/nr 电影/n 《/x 1942/m 》/x 中/f 的/uj 大/n 饥荒/n 发生/v 在/p 我国/r 的/uj 河北省/ns 
+下列/v 地形/n 湖泊/ns 与/p 分布/v 地区/n 不/d 正确/ad 的/uj 是/v 死海/n —/x 北非/ns 
+《/x 新/a 五代史/nz 》/x 的/uj 作家/n 是/v 欧阳修/nr 
+有/v “/x 陶都/n ”/x 之/u 称/v 的/uj 宜兴/ns 位于/v 河北省/ns 
+马可/nr ·/x 波罗/ns 称/v 杭州/ns 为/p “/x 天城/ns ”/x 
+牛奶/n 会/v 增加/v 血液/n 内/n 胆固醇/n 含量/n 
+世界/n 上/f 历来/v 有/v “/x 西珠/nr 不如/c 东珠/nr ，/x 东珠/nr 不如/c 南珠/ns ”/x 之/u 说法/v ，/x 其中/r “/x 南珠/ns ”/x 的/uj 产地/n 是/v 中国/ns 
+关于/p 日本/ns 的/uj 经济/n 说法/v 正确/ad 的/uj 是/v 日本/ns 著名/a 的/uj 海港/ns 是/v 横滨/ns 和/c 神户/n 
+中国/ns 的/uj 四大/j 佛教/nz 名山/n 是/v ：/x 山西/ns 五台山/ns 四川/ns 峨眉山/ns 安徽/ns 九华山/ns 浙江/ns 普陀山/ns 
+中国/ns 的/uj 钢铁/n 年产量/n 世界排名/l 第一/m 
+素有/v “/x 大树/n 华盖/nr 闻/v 九州/ns ”/x 之/u 誉/ng 的/uj 天目山/ns 在/p 我国/r 河南省/ns 
+终年/m 可以/c 游泳/vn ，/x 被/p 称为/v 天下第一/l 湾/v 的/uj 亚龙湾/ns 早/a 我国/r 的/uj 江苏省/ns 
+六月/t 中旬/t ，/x 在/p 江淮/j 流域/n ，/x 细雨/n 连绵/a 长/a 达/v 一个月/m 之/u 久/a ，/x 此时/c 正值/n 梅子/nr 黄熟/ns 季节/n ，/x 因此/c 人们/n 称之为/v "/x 梅雨/nr "/x 
+产生/n 海水/n 潮汐/n 的/uj 主要/b 原因/n 是/v 月球/n 引力/n 
+“/x 武昌起义/l ”/x 中/f 的/uj “/x 武昌/ns ”/x 位于/v 我国/r 河北省/ns 
+云南/ns 的/uj “/x 普洱茶/n ”/x 缘于/p 地名/n 
+隶属于/n 珠江/ns 水系/n 的/uj 漓江/ns 是/v 我国/r 河北省/ns 的/uj 著名/a 江河/ns 
+世界/n 上/f 开挖/v 最早/d 最长/a 的/uj 人工/n 运河/n 是/v 京杭大运河/nz ，/x 它/r 全长/n 1800/m 公里/q 
+武汉长江大桥/ns 建于/v 1957/m 
+“/x 马踏/nr 匈奴/n 石雕/n ”/x 原藏/n 地/n 位于/v 我国/r 河北省/ns 
+北京/ns 东岳庙/nr 主祀/v 东岳/nr 大帝/n 
+我国/r 最早/d 的/uj 立法/d 始于/d 夏朝/t 
+中国/ns 是/v 第一/m 大/a 钨/n 存储量/n 较大/a 的/uj 国家/n 
+新/a 中国/ns 的/uj 建立/v ，/x 标志/n 着/uz 我国/r 的/uj 剥削阶级/n 和/c 剥削制度/n 的/uj 终结/v 
+“/x 自古/d 华山/ns 一条/m 路/n ”/x 中/f ，/x 华山/ns 在/p 我国/r 江西省/ns 
+王重阳/nr 的/uj 成名/v 绝技/n 是/v 一阳指/n 
+抗日战争/nz 时期/n 大/a 地主/n 大/a 资产阶级/n 是/v 抗日民族统一战线/nz 的/uj 重要/a 组成部分/l 
+创新/v 是/v 民族/n 振兴/v 和/c 社会/n 进步/d 的/uj 基石/n 
+鱼/n 有/v 心脏/n 
+十年/m 来/v 我党/r 取得/v 一系列/m 新/a 的/uj 历史性/n 成就/n ，/x 为/p 全面/n 建成/v 小康社会/n 打下/v 了/ul 坚实基础/l ，/x 我国/r 经济总量/n 从/p 世界/n 第六位/m 上升/v 到/v 第二位/m 
+在/p 当代/t 中国/ns ，/x 坚持/v 发展/vn 是/v 硬道理/n 的/uj 本质/n 要求/v 就是/d 坚持/v 科学/n 发展/vn 
+更/d 有利于/v 思考问题/n 的/uj 姿势/n 是/v 坐立/v 
+汉白玉/nr 是/v 什么/r 一种/m 名贵/n 的/uj 石头/n 
+﻿/x 峨眉山/ns 位于/v 我国/r 云南省/ns 
+网络/n 论坛/n 中/f ，/x “/x 板凳/n ”/x 是/v 代表/n 第一个/m 回帖/n 的/uj 人/n 
+狗/n 能/v 参加/v 奥运会/j 
+中国/ns 古代/t 有/v 四大/j 工程/n ，/x 即/v 长城/ns 都江堰/ns 灵渠/nr 和/c 大运河/nz 
+最早/d 用/p 棉花/n 织布/v 的/uj 是/v 在/p 印度河/ns 流域/n 
+横断山脉/ns 的/uj 走向/v 是/v 南北/ns 走向/v 
+中国/ns 十大/j 名茶/n 之一/r 的/uj 碧螺春/nr 产/v 自于/p 浙江省/ns 
+世界/n 上/f 落差/a 最大/a 的/uj 瀑布/n 是/v 安赫尔/nr 瀑布/n 
+我国/r 是/v 发明/v 蚕丝/n 业/n 最早/d 的/uj 国家/n 
+植物/n 生长/n 对/p 环境/n 有/v 明显/a 的/uj 指示/v 作用/v ，/x 如/v 骆驼/n 现时/t 的/uj 生长/n 能/v 指示/v 干旱/a 环境/n 
+火车/n 机车/n 的/uj 发明者/n 是/v 史蒂芬/nr 逊/vg （/x 英国/ns ）/x ，/x 1825/m 年/m “/x 旅行/vn 号/m ”/x 试车/n （/x 开辟/v 了/ul 陆上运输/l 的/uj 新纪元/nz ）/x ；/x 1829/m 年/m “/x 火箭/n 号/m ”/x （/x 火车/n 就/d 正式/ad 被/p 使用/v 于/p 交通运输/j 事业/n ）/x 
+中华/nz 老字号/n “/x 张小泉/nr ”/x 剪刀/n 的/uj 原产地/n 是/v 我国/r 的/uj 山西省/ns 
+2008/m 年/m 雅典/ns 奥运会/j 美国/ns 名将/n 琼斯/nrt 在/p 4/m x100/eng 比赛/vn 中/f 跑/v 第一/m 棒/zg 
+我国/r 河北/ns 省级/b 行政/n 单位/n 毗临/v 的/uj 省区/n 最/d 多/m 
+宜建/ns 磷矿/n 基地/n 的/uj 是/v 湖北/ns 
+肠粉/n ./x 虾饺/n ./m 蛋/n 挞/g 是/v 我国/r 广东省/ns 的/uj 特色小吃/n 
+“/x 鄂/nr ”/x 是/v 河北省/ns 的/uj 简称/v 
+请问/v ，/x “/x 岐山/ns 臊子/n 面/n ”/x 是/v 我国/r 甘肃省/ns 的/uj 著名/a 面食/n 
+王军霞/nr 是/v 第一位/m 获得/v “/x 欧文斯/nr ”/x 奖/n 的/uj 亚洲/ns 人/n 
+大型/b 水利工程/n 都江堰/ns 在/p 我国/r 河北省/ns 
+西印度群/n 岛/n 位于/v 印度洋/ns 西部/f 
+东南亚/ns 著名/a 的/uj 矿产/n 是/v 锡/n 和/c 石油/n 
+传说/n 汉/j 钟离/n 是/v 受/v 曹雪芹/nr 的/uj 点化/v 上山/ns 学/n 道/q 
+在/p 城乡/n 社区/n 治理/v ，/x 基层/n 公共事务/n 和/c 公益事业/n 中/f 实行/v 群众/n 自我管理/l ，/x 是/v 人民/n 依法/n 直接/ad 行使/n 民主权利/n 的/uj 重要/a 方式/n 
+解放后/t ，/x 我/r 能/v 能源/n 增长/v 倍/m 数最多/z 的/uj 是/v 天然气/n 
+吴三桂/nr 引/v 清兵/n 入关/v 后/f 被/p 封为/v 平西王/nr ，/x 主要/b 镇守/v 河北省/ns 
+西晋/t 灭/v 吴/nr ，/x 结束/v 三国/ns 时期/n 的/uj 分裂/v 局面/n 是/v 在/p 280/m 年/m 
+法国/ns 资产阶级/n 革命/vn 爆发/v 的/uj 时间/n 1789/m 年/m 7/m 月/m 14/m 日/m 
+“/x 反者/n 道/q 之/u 动/n ”/x 是/v 谁/r 提出/v 的/uj 命题/n 老子/n 
+〈/x 威尼斯/nrt 商人/n 〉/x 中/f 的/uj 奸商/n 是/v 葛朗台/nr 
+既/c 是/v 我国/r 又/d 是/v 世界/n 最大/a 的/uj 能源/n 输出/v 港/j 是/v 天津港/ns 
+藕/n ”/x 是/v 莲/ng 的/uj 根/a 
+发明/v 电话/n 的/uj 科学家/n 亚历山大/ns ·/x 格雷/nr 汉姆/nr ·/x 贝尔/nr （/x 英国/ns 爱丁堡/ns ；/x 后/f 移居/v 美国/ns ）/x ，/x 1876/m 年/m 6/m 月/m 2/m 日/m （/x 发明/v ）/x 
+晋/j 与/p 十六/m 国/n 时期/n ，/x 曹雪芹/nr 曾/d 建立/v 前/f 燕/nr 、/x 后燕/nr 、/x 西燕/nr 、/x 南燕/nr 
+也门/d 的/uj 首都/d 是/v 大马士革/nz 
+老年人/n 最好/a 睡/v 硬/a 木板床/n 
+在/p 四大/j 金刚/nr 中/f “/x 青剑/nr 天王/nrt ”/x 是/v 指/n 南方/f 天王/nrt 
+世界/n 最大/a 的/uj 陨石/n 是/v 降落/v 在/p 我国/r 黑龙江省/ns 
+中国/ns 的/uj 四川省/ns 人口/n 最/d 多/m 
+中国/ns 第一个/m 全国/n 规模/n 的/uj 统一/vn 的/uj 资产阶级/n 革命/vn 政党/n 是/v 中国同盟会/nt 
+太平天国/ns 由/p 盛转衰/i 的/uj 事件/n 是/v 领导/n 集团/n 的/uj 内部/f 斗争/vn 
+康熙/nrfg 是/v 清朝/t 的/uj 第一个/m 皇帝/n 
+我国/r 是/v 辛亥革命/nz 以后/f 采用/v 公历/n 的/uj 
+火箭/n 顶端/f 要/v 安装/v 一根/m 天线/n 样/q 的/uj 刚针/n 其/r 作用/v 是/v 避雷/v 
+“/x 日心说/n ”/x 的/uj 创始人/n 是/v 哥白尼/nr 
+在/p 牧野/n 誓师/n ，/x 大/a 破/v 商纣/n 的/uj 是/v 周武王/nr 
+康熙/nrfg 是/v 中国/ns 历史/n 上/f 第一个/m 皇帝/n 
+病人/n 家属/n 告/v 医院/n 误诊/v ，/x 医院/n 必须/d 举证/v 
+煲仔饭/n 是/v 我国/r 东南/ns 沿海/f 山东省/ns 的/uj 传统/n 美食/n 
+中国/ns 三大/j 半岛/n 之一/r 的/uj 胶东半岛/ns 位于/v 我国/r 的/uj 河北省/ns 
+鲁/n 是/v 我国/r 河北省/ns 的/uj 简称/v 
+在/p 泰国/ns ，/x 百分之九十/m 以上/f 的/uj 人/n 信仰/n 佛教/nz 
+千寻塔/nr 是/v 国内外/s 文明/nr 的/uj 南诏/nr 名胜/n 之一/r 位于/v 四川省/ns 
+早上/t 出现/v 哪/r 种/m 情况/n 不能/v 说明/v 你/r 昨儿/t 晚上/t 吃/v 多/m 了/ul 
+历史/n 故事/n 鸿门宴/n 中/f 的/uj 鸿门/n 属于/v 今天/t 我国/r 的/uj 河北省/ns 
+秤杆/n 上/f 的/uj 第一个/m 星点/n 叫/v 定盘星/n 
+义和团/n 最/d 基本/n 的/uj 组织/v 形势/n 
+世界/n 上/f 华人/n 、/x 华侨/n 最/d 集中/v 的/uj 地区/n 是/v 东南亚/ns 
+三种/m 水循环/n 各自/r 的/uj 运动/vn 过程/n 中/f ，/x 都/d 具备/v 的/uj 环节/n 是/v 蒸发/v 和/c 降水/n 
+世界/n 名曲/n 《/x 欢乐颂/l 》/x 是/v 贝多芬/nr 第一部/m 交响曲/n 中/f 的/uj 篇章/n 
+海南岛/ns 是/v 我国/r 的/uj 第一/m 大岛/ns 
+被/p 称为/v “/x 可/v 入口/ns 的/uj 古董/nr ”/x 的/uj 普洱茶/n 产/n 自/p 我国/r 的/uj 河北省/ns 
+在/p 全面/n 改革/vn 中/f ，/x 经济体制/n 改革/vn 是/v 重点/n 
+“/x 龙套/nz ”/x 是/v 指/n 戏剧/n 中/f 扮演/v 士兵/n 衙役/n 的/uj 角色/n 
+第一个/m 研究/vn 色盲/n ，/x 发现/v 色盲/n 遗传/vn 规律/n 的/uj 是/v 道尔顿/nr 有机/n 宝石/nr 
+洱海/ns 位于/v 我国/r 的/uj 江苏省/ns 
+龙/n 在/p 十二生肖/l 中/f 排行/v 第一/m 
+构成/v 地壳/n 的/uj 九十/m 多种/m 元素/n 中/f ，/x 含苞欲放/i 量/n 最/d 多/m 的/uj 三种/m 是/v 氧/n ，/x 硅/nz ，/x 铝/n 
+三国/ns 时期/n 关羽/nr 大意失荆州/n ，/x 荆州/ns 现在/t 位于/v 我国/r 浙江省/ns 
+蝙蝠/n 是/v 鸟类/n 
+到/v 了/ul 周厉王/nr 时/n ，/x 国内/s 矛盾/an 日趋/d 尖锐/a 。/x 厉王/nr 横徵暴敛/nr ，/x 虐待/v 百姓/n ，/x 还/d 不让/v 国人/n 谈论/vn 国/n 政事/n 。/x 公元前/t 841/m 年/m ，/x 终于/d 发生/v 国人/n 暴动/v 
+民主革命/nz 时期/n ，/x 中国共产党/nt 党员/n 的/uj 绝大多数/m 来自/v 农民/n ，/x 因而/c 它/r 不是/c 工人阶级/n 先锋队/n 
+著名/a 的/uj “/x 三元里/t 抗英/nz 斗争/vn ”/x 中/f 的/uj “/x 三元里/t ”/x 是/v 位于/v 我国/r 广东省/ns 
+运城/n 舰舰/n 名/n 取自/v 陕西省/ns 运城市/ns 
+电影/n 《/x 赛/nz 德克/ns 巴莱/ns 》/x 反映/v 的/uj 是/v 我国/r 河北省/ns 原住民/n 反抗/v 侵略者/n 的/uj 故事/n 
+2001/m 年/m 北京/ns 主办/b 世界/n 大运会/nz 是/v 第一届/m 
+夏季/t 最好/a 饮/n 绿茶/n 
+新世纪/nz 新/a 阶段/n ，/x 党中央/nt 抓住/v 重要/a 战略/n 机遇期/n ，/x 在/p 全面/n 建设/vn 小康社会/n 进程/n 中/f 推进/v 组织/v 创新/v （/x 实践/v 创新/v ）/x 理论/n 创新/v 制度/n 创新/v 
+中国/ns 最热/a 的/uj 地方/n 是/v 在/p 四川盆地/ns 
+康熙/nrfg 是/v 清朝/t 第一个/m 皇帝/n 
+中国/ns 的/uj 石油/n 存储量/n 世界排名/l 第一/m 
+股份公司/n 中/f 股东大会/n 的/uj 执行机构/n 是/v 工会/n 
+十八/m 大/a 提出/v ，/x 到/v 2020/m 年/m ，/x 人民/n 生活/vn 水平/n 将/d 全面提高/n ，/x 基本/n 公共服务/n 全/a 覆盖/v （/x 均等化/n ）/x 将/d 总体/n 实现/v 
+五大连池/ns 风景区/n 位于/v 我国/r 浙江省/ns 
+夏启死/nr 后/f ，/x 太康/nr 即位/v 后/f ，/x 政事/n 不/d 修/v ，/x 沉湎/v 于/p 酒色/n 之中/r ，/x 曹雪芹/nr 乘机/n 夺取/v 了/ul 政权/n 
+三十六计/i 中/f ，/x “/x 最为/d 上/f ”/x 是/v 第一/m 计/n 
+乐山/ns 大佛/d 已经/d 满/a 1200/m 周岁/m 
+在/p 我国/r 有/v 的/uj 省/n 有/v 2/m 个/m 简称/v ，/x 那么/r 黔/j 或/c 贵/a 是/v 云南省/ns 的/uj 简称/v 
+“/x 九江市/ns ，/x 上饶市/ns ”/x 是/v 位于/v 我国/r 河北省/ns 的/uj 城市/ns 
+我国/r 古代/t 四大/j 名/m 亭/ng 中/f 因为/c 《/x 兰亭序/nr 》/x 而/c 成为/v 书法/n 圣地/n 的/uj 兰亭/nr 位于/v 我国/r 的/uj 浙江省/ns 
+绿茶/n 茶/n 属于/v 发酵/v 茶/n 
+全球/n 面积/n 是/v 中国/ns 国土面积/n 的/uj 18/m 倍/m 
+博鳌/nr 亚洲/ns 论坛/n 在/p 我国/r 江苏省/ns 举办/v 
+板块/n 构造/v 学说/n 认为/v ，/x 海沟/ns 形成/v 在/p 大陆/n 板块/n 和/c 大洋/ns 板块/n 碰撞/v 处/n 
+测量/vn 电压/n 、/x 电流/n 时/n 注意/v 要/v 有人/r 监护/vn ，/x 如/v 测量/vn 人/n 不/d 懂/v 测量/vn 技术/n ，/x 监护人/n 有权/n 制止/v 其/r 测量/vn 工作/vn 
+猫/n 属于/v 十二生肖/l 中/f 的/uj 动物/n 
+世界/n 上/f 第一颗/m 人造卫星/n 是/v 中国/ns 发射/v 的/uj 
+中国/ns 河北省/ns 的/uj 海拔/n 最高/a 
+西部/f 工业/n 重镇/ns 宝鸡/n 是/v 江苏省/ns 的/uj 城市/ns 
+世界/n 名曲/n 《/x 欢乐颂/l 》/x 是/v 贝多芬/nr 第一部/m 交响曲/n 中/f 的/uj 篇章/n 
+中国/ns 五大/j 淡水湖/n 之一/r 的/uj “/x 巢湖/ns ”/x 位于/v 河北省/ns 
+水仙/n 的/uj 花语/nz 是/v “/x 和平/nz ”/x 
+安/v 提弄/v 蝶属/n 是/v 弄/v 蝶/ng 科/n 弄/v 蝶/ng 亚科/ns 中/f 的/uj 一个/m 属/v 
+我国/r 历年来/l 调入/v 常规/n 能源/n 最多/a 的/uj 省级/b 行政区/n 是/v 上海/ns 
+我国/r 海洋/ns 气温/n 最高值/l 出现/v 在/p 八月/t 
+以/p 盛产/n 荔枝/n ，/x 龙眼/n 着称/v 的/uj 莆田/ns 在/p 我国/r 的/uj 河北省/ns 
+工作人员/n 接触/v 电气设备/n 的/uj 接地/v 部分/n 时/n ，/x 可不/c 戴/v 绝缘/n 手套/n 
+管乐器/n “/x 萨克斯/nr ”/x 的/uj 命名/n 来自/v 人/n 名/q 
+海城市/ns 在/p 河北省/ns 
+2012/m 年/m 伦敦/ns 奥运会/j 上/f ，/x 东道主/nr 英国队/nt 最终/d 位列/v 金牌榜/n 的/uj 第一名/m 
+北岳/ns 恒山/ns 在/p 浙江省/ns 
+世界/n 上/f 第一颗/m 人造卫星/n 是/v 伴侣/n 号/m 
+现存/n 最/d 著名/a 的/uj 三大/j 金字塔/nr 不/d 包括/v 艾菲尔/nr 金字塔/nr 
+中国/ns 水能/n 资源/n 蕴藏量/n 达/v 6.8/m 亿千瓦/m ，/x 居/v 世界/n 第一位/m 
+中国/ns 面积/n 最大/a 的/uj 是/v 江苏省/ns 区/n 
+解放思想/i ，/x 实事求是/n ，/x 与时俱进/l ，/x 是/v 马克思主义/n 中国化/nt 理论/n 成果/n 的/uj 精髓/n 
+地处/s 长江/ns 入海口/ns ，/x 水陆交通/n 便利/a 的/uj 沪/j （/x 上海/ns ）/x 宁/j （/x 宁波/ns ）/x 杭/nr （/x 杭州/ns ）/x 地区/n 是/v 中国/ns 最大/a 的/uj 综合性/n 工业/n 中心/n 
+王昭君/nr 的/uj 家乡/n 在/p 山西省/ns 
+目前/t 已经/d 上映/v 哈利波/nr 特/d 系列/q 电影/n 已经/d 到/v 了/ul 第一部/m 
+自然对数/l 的/uj 首创者/n 是/v 英国人/nz 
+韩国/ns 第一夫人/nz ，/x 是/v 指/n 韩国/ns 首相/d 的/uj 妻子/n 
+炒/v 蔬菜/n 要/v 用/p 急火/n 
+有关/vn 南亚/ns 河流/n 的/uj 叙述/v ，/x 正确/ad 的/uj 是/v 印度河/ns 是/v 巴基斯坦/ns 的/uj 重要/a 灌溉/vn 水源/n 
+下列/v 岛屿/n 属于/v 火山岛/ns 的/uj 是/v 大堡礁/nr 
+被/p 列入/v 世界/n 文化遗产/n 的/uj 西/f 递/v 、/x 宏村/n 两处/m 古民居/n 是/v 我国/r 河北省/ns 的/uj 旅游景点/n 
+古代/t 官方/n 的/uj 婚姻/n 介绍所/n 的/uj 媒人/n 是/v 被/p 称为/v “/x 媒式/n ”/x 
+位于/v 湖南省/ns 中部/f 的/uj 南岳/ns 衡山/ns ，/x 是/v 古代/t 传说/n 中/f 的/uj 火神/n 祝融/nr 埋葬/v 的/uj 地方/n 
+“/x 铜/n 雀/ng 春/tg 深/a 锁/v 二乔/nrt ”/x 中/f 的/uj 铜雀/n 台/q 位于/v 我国/r 云南省/ns 
+蒲松龄/nr 和/c 曹雪芹/nr 曹雪芹/nr 的/uj 年纪/t 大/a 
+围棋/v 最早/d 是/v 人们/n 研究/vn 天文学/nt 的/uj 工具/n 
+黄河/ns 发源/n 于/p 青藏高原/ns ，/x 长度/ns 5500/m 公里/q ，/x 是/v 中国/ns 第二/m 长河/ns ，/x 也/d 是/v 中华民族/nz 的/uj 母亲河/nr 
+清朝/t 的/uj 直隶/ns 总督府/n 在/p 我国/r 现在/t 的/uj 云南省/ns 
+金/nr 店里/n 出售/vn 的/uj K/eng 白金/n 首饰/n ，/x 其/r 主要/b 成分/n 是/v 黄金/n 
+长江/ns 流经/n 四川/ns 东部/f ，/x 江水/ns 横切/v 巫山/ns ，/x 形成/v 长江三峡/ns ，/x 正在/t 施工/vn 建设/vn 的/uj 长江三峡水利枢纽工程/nz ，/x 建成/v 后/f ，/x 将/d 成为/v 世界/n 最大/a 的/uj 水利工程/n 和/c 发电站/n 
+被誉为/n 绿色/n 林海/nr 的/uj 大兴安岭/ns 位于/v 我国/r 浙江省/ns 
+位于/v 浙江省/ns 的/uj 普陀山/ns 是/v 中国/ns 的/uj 四大/j 佛教/nz 名山/n 之一/r 按/p 佛教/nz 的/uj 传说/n ，/x 它/r 是/v 观音菩萨/n 说道/v 的/uj 地方/n 
+滦河/ns 不/d 流经/n 山东/ns 
+尼亚加拉/ns 瀑布/n 在/p 加拿大/ns 的/uj 河北省/ns 
+蒙古族/nz 的/uj “/x 那达慕/nr ”/x 意思/n 是/v 娱乐/vn 和/c 游戏/n 
+纳粹/nr 份子/n 屠杀/vn 最多/a 的/uj 是/v 犹太人/nz 
+在/p 高压氧/n 治疗/v 过程/n 中/f 如/v 患者/n 出现/v 面肌/n 或/c 口角/n 抽搐/v 、/x 刺激性/n 咳嗽/v 等/u ，/x 应/v 考虑/v 氧/n 中毒/nz ，/x 并/c 立即/d 停止/v 吸氧/v 
+中国/ns 河北省/ns 最大/a 
+天府之国/nr 指/n 河北省/ns 市/n 
+我国/r 最早/d 的/uj 一座/m 统治者/n 陵墓/n 是/v 黄帝陵/nr 
+中国/ns 第一个/m 共产主义/n 小组/n 的/uj 领导人/n 是/v 陈独秀/nr 
+歌曲/n 《/x 康定/n 情歌/n 》/x 中/f 的/uj 康定/n 在/p 河北省/ns 
+抗金/nz 名将/n 岳飞/nr 被害/v 于/p 风波/n 亭/ng 
+综观/n 国际/n 国内/s 大势/n ，/x 我国/r 发展/vn 仍/zg 处于/v 可以/c 大有作为/i 的/uj 重要/a 战略/n 发展期/n （/x 机遇期/n ）/x 
+第一次/m 参加/v 奥运会/j 的/uj 旧/n 中国/ns 运动员/n 是/v 刘长春/nr 
+公元前/t ”/x 英文/nz 的/uj 意思/n 是/v 基督/n 以前/f 
+有/v “/x 煤海/n ”/x 之/u 称/v ，/x 简称/v “/x 晋/nr ”/x 的/uj 是/v 我国/r 山东省/ns 
+中国/ns 最大/a 的/uj 瀑布/n 是/v 德天瀑布/ns 
+我国/r 第一位/m 女诗人/n 是/v 李清照/nr 
+“/x 约法三章/i ”/x 是/v 周武王/nr 的/uj 典故/n 
+扑克牌/n 中/f 的/uj “/x 方块/n ”/x 象征/v 诚实/a 
+《/x 第九/m 交响曲/n 》/x (/x 即/v 《/x 合唱/v 交响曲/n 》/x )/x 的/uj 作者/n 是/v 贝多芬/nr 
+战争/n 中/f 士兵/n 们/k 最好/a 的/uj 保护色/n 是/v 黄色/n 
+中国/ns 古代/t “/x 九州岛/ns ”/x 中/f 的/uj 豫州/ns ，/x 后/f 简称/v 为/p “/x 豫/ns ”/x 的/uj 是/v 四川省/ns 
+新/a 中国/ns 第一套/m 纪念邮票/n 是/v 庆祝/v 中国人民政治协商会议/nt 第一届/m 全体会议/n 
+我国/r 唯一/b 一个/m 与/p 城市/ns 名称/n 重复/d 的/uj 是/v 浙江省/ns 
+世界/n 最深/d 的/uj 洼地/n 是/v 死海/n 
+克林顿/nr 是/v 美国/ns 的/uj 第一任/m 总统/n 
+优生学/n 是/v 中国/ns 生物学家/n 创立/v 的/uj 
+谚语/n “/x 地/uv 无/v 三尺/m 平/n ，/x 天无/i 三日/t 晴/v ，/x 人/n 无/v 三分/m 银/ng ”/x 描述/v 的/uj 是/v 我国/r 西南/ns 的/uj 河北省/ns 
+打蛇打七寸/i ”/x 的/uj 七寸/m 是/v 指/n 心脏/n 
+人口/n 最多/a 的/uj 城市/ns 东京/ns 
+山东/ns 山西/ns 的/uj “/x 山/n ”/x 是/v 指/n 太行山/ns 
+下列/v 起义/v 取得胜利/i 的/uj 是/v 武昌起义/l 
+在/p 使用/v 钳形/n 电流表/n 前应/v 仔细阅读/n 说明书/n ，/x 弄清/v 是/v 交流/n 还是/c 交直流/n 两用/n 钳形表/n 
+我国/r 少数民族/n 居住/v 最多/a 的/uj 省/n 是/v 江西省/ns 
+济南/ns 是/v 我国/r 泉水/ns 最多/a 的/uj 城市/ns 
+我国/r 降雨量/n 最少/d 的/uj 是/v 河北省/ns 
+撒哈拉/nrt 以南/f 的/uj 非洲/ns 分布/v 最广/a 的/uj 气候/n 是/v 热带/n 草原气候/n 
+电工仪表/n 按/p 测量方法/nz 分为/v 直读/v 式/k 仪表/n 和/c 比较/d 式/k 仪表/n 
+要/v 按照/p 建立/v 中国/ns 特色/n 社会主义/n 行政/n 体制/n 目标/n ，/x 建设/vn 职能/n 科学/n 结构/n 优化/vn 廉洁/a 高效/a 人民满意/l 的/uj 服务型/n 政府/n 
+中国政府/nt 是/v 在/p 1999/m 年/m 11/m 月/m 20/m 日/m 对/p 澳门/ns 恢复/v 行使主权/n 的/uj 
+中国/ns 降水/n 最多/a 的/uj 地方/n 在/p 台湾省/ns 东北部/f 的/uj 火烧/n 寮/zg ，/x 年/m 平均/a 降水量/n 达/v 6558/m 毫米/q 
+“/x 二月/m 二/m ，/x 龙抬头/n ”/x 指/n 农历/n 的/uj “/x 龙头/n 节/t ”/x 
+“/x 杀/v 龟/n 大会/n ”/x 的/uj “/x 龟/ns ”/x 是/v 指/n 吴三桂/nr 
+被誉为/n "/x 天上/s 云霞/nr ，/x 地下/s 鲜花/n "/x 的/uj 杭州/ns 织锦/n ，/x 色彩/n 美丽/ns ，/x 工艺/n 精巧/a 
+中国/ns 古代/t 的/uj 鲜卑/n 山/n 即为/c 当今/t 的/uj 大兴安岭/ns 山脉/ns 
+北京/ns 东岳庙/nr 座落/n 于/p 朝阳门外/ns 大街/ns 中段/n ，/x 始建/v 于/p 元代/t 
+中国/ns 的/uj 人口总数/n 排/v 世界/n 的/uj 第一位/m 
+秦始皇/nr 兵马俑/n 是/v 在/p 我国/r 的/uj 河北省/ns 发掘/v 的/uj 
+著名/a 的/uj 董存瑞/nr 烈士陵园/n 位于/v 我国/r 四川省/ns 
+下列/v 四组/m 名称/n 中/f 属于/v 地质/n 构造/v 的/uj 是/v 火山/n 和/c 地震/n 
+世界/n 三/m 大人/n 种/m 包括/v 马来/nr -/x 波利尼西亚人/nrt 种/m 
+亚历山大/ns 大帝/n 的/uj 父亲/n 是/v 腓力二世/nz 
+尼日尔河/ns 位于/v 非洲/ns 
+观世音/n 菩萨/n 的/uj 道场/n 是/v 在/p 南海/ns 菩陀/n 
+居住/v 着/uz 摩梭人/n 的/uj 泸沽湖/ns 位于/v 云南省/ns 和/c 河北省/ns 的/uj 交界处/n 
+世界/n 上/f 最/d 古老/nr 的/uj 海是/n 死海/n 
+“/x 鲁/nr ”/x 是/v 我国/r 河北省/ns 的/uj 简称/v 
+泰山/ns 地处/s 中国/ns 东部/f ，/x 古称/n 东岳/nr ，/x 是/v 一座/m 历史/n 名山/n ，/x 历代/n 皇帝/n 和/c 许多/m 名人/n ，/x 都/d 攀登/v 过/ug 泰山/ns ，/x 留下/v 众多/m 的/uj 文物古迹/n 联合国/nt 将/d 泰山/ns 列入/v 世界/n 自然/d 文化遗产/n 的/uj 保护/v 名录/n 
+秦始皇/nr 兵马俑/n 是/v 在/p 我国/r 的/uj 江苏省/ns 发掘/v 的/uj 
+最长/a 的/uj 运河/n 是/v 中国/ns 大运河/nz 
+波旁王朝/l 是/v 中国/ns 的/uj 
+老人/n 易/a 流泪/n ，/x 主要/b 原因/n 是/v 思念亲人/n 
+鸡尾酒会/n 最早/d 出现/v 于/p 拉美/nz 
+韦小宝/nr 的/uj 七个/m 老婆/n 之中/r ，/x 年纪/t 最小/a 的/uj 是/v 沐剑屏/i 
+“/x 千金小姐/nr ”/x 中/f 的/uj 千斤/m 最初/t 是/v 指/n 男子/n 
+我国/r 台湾省/ns 的/uj 樟脑/n 产量/n 居/v 世界/n 首位/m 
+中国/ns 东部/f 近海/f 区域/n 最大/a 的/uj 湖泊/ns “/x 太湖/ns ”/x 位于/v 我国/r 河北省/ns 
+我国/r 古代/t 杰出/a 的/uj 女/n 纺织/n 家/m 是/v 织女/n 
+下半旗/ns 是/v 把/p 旗子/n 下降/v 到/v 距离/n 杆顶/n 的/uj １/x ／/x ３/x 处/n 
+素有/v “/x 巴蜀/nr 之/u 地/uv ”/x “/x 天府之国/nr ”/x 之/u 称/v 的/uj 是/v 我国/r 河北省/ns 
+世界/n 上/f 最大/a 最贵/a 的/uj 钻石/n 藏/j 在/p 南非/ns 博物馆/n 
+80/m 年代/t 的/uj 米兰/ns 王朝/nr 是/v 指/n 国际米兰/nz 
+石达开/nr 担任/v 的/uj 是/v 翼王/n 
+故宫/n 是/v 1957/m 年/m 建成/v 的/uj 
+当代/t 中国/ns 时代精神/n 的/uj 核心/n 是/v 改革/vn 创新/v 
+法国/ns 被/p 处死/v 的/uj 最后/f 一个/m 皇帝/n 是/v 约翰/nrt 
