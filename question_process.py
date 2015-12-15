@@ -58,6 +58,7 @@ clf_rules_cent_words = {
     "诗人": "Q_person",
     "作家": "Q_person",
     "校长": "Q_person",
+    "名字": "Q_person",
     "国家": "Q_place",
     "省份": "Q_place",
     "地区": "Q_place",
@@ -91,7 +92,7 @@ def build_w2n_mapping():
     words2num = {"": 0}
     cnt_words = 1
     for content in content_lines:
-        for word in content.split(" "):
+        for word in content.split("\t"):
             if words2num.get(word) == None:
                 words2num[word] = cnt_words
                 cnt_words += 1
@@ -113,7 +114,7 @@ def read_Qs(filename):
     f = open(filename, "r")
     lines = f.readlines()
     f.close()
-    res = [line.split(" ")[:-1] for line in lines]
+    res = [line.split("\t")[:-1] for line in lines]
     return res
 
 def find_wh_word_pos(line):

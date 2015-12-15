@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+build_w2n_mapping	question_process.py	/^def build_w2n_mapping():$/;"	f
+category_name2index	question_process.py	/^category_name2index = {$/;"	v
+category_names	question_process.py	/^category_names = [$/;"	v
+clf_rules_cent_word_pos	question_process.py	/^clf_rules_cent_word_pos = {$/;"	v
+clf_rules_cent_words	question_process.py	/^clf_rules_cent_words = {$/;"	v
+clf_rules_wh_words	question_process.py	/^clf_rules_wh_words = {$/;"	v
+find_wh_word_pos	question_process.py	/^def find_wh_word_pos(line):$/;"	f
+gen_cent_word	question_process.py	/^def gen_cent_word(line):$/;"	f
+gen_keywords	question_process.py	/^def gen_keywords(line):$/;"	f
+gen_q_features	question_process.py	/^def gen_q_features(line):$/;"	f
+init	question_process.py	/^def init():$/;"	f
+main	question_process.py	/^def main():$/;"	f
+num_category	question_process.py	/^num_category = 6$/;"	v
+os	question_process.py	/^import os$/;"	i
+process	question_process.py	/^def process(clfs, filename):$/;"	f
+read_Qs	question_process.py	/^def read_Qs(filename):$/;"	f
+read_stop_words	question_process.py	/^def read_stop_words():$/;"	f
+stop_words	question_process.py	/^stop_words = []$/;"	v
+string	question_process.py	/^import string$/;"	i
+train_clf	question_process.py	/^def train_clf():$/;"	f
+wh_words	question_process.py	/^wh_words = [$/;"	v
+words2num	question_process.py	/^words2num = {}$/;"	v
