@@ -1,0 +1,8000 @@
+﻿/B-Nh	舒马赫/E-Nh	
+
+
+王/B-Nh	菲/E-Nh	
+达坂城/S-Ns	
+
+
+中国/S-Ns	
+
+金庸/S-Nh	
+台湾/S-Ns	
+
+
+中国/S-Ns	北海/B-Ns	银滩/E-Ns	
+鉴真/S-Nh	
+西湖/S-Ns	杭州/B-Ns	西湖/E-Ns	
+
+
+英国/S-Ns	
+黄河/S-Ns	王之涣/S-Nh	
+
+贝克汉姆/S-Nh	维多利亚/S-Ns	
+
+哈尔滨/S-Ns	北京/S-Ns	
+
+意大利/S-Ns	罗尔/S-Nh	
+
+台湾/S-Ns	
+
+
+阿根廷/S-Ns	
+毛泽东/S-Nh	
+
+苏洵/S-Nh	
+
+桃园/B-Ni	三结义/E-Ni	刘备/S-Nh	
+毛泽东/S-Nh	
+丹麦/S-Ns	张学友/S-Nh	
+中国/S-Ns	
+成龙/S-Nh	北京/S-Ns	
+天津/S-Ns	英/S-Ns	法/S-Ns	俄/S-Ns	
+朱自清/S-Nh	
+欧/S-Ns	亚两洲/S-Ns	
+
+
+好莱坞/S-Ns	汤姆·克鲁斯/S-Nh	
+中国/S-Ns	长江/S-Ns	
+
+云冈/B-Ns	石窟/E-Ns	
+
+
+
+哪吒/S-Nh	
+中国/B-Ns	西藏/E-Ns	
+
+
+亚洲/S-Ns	
+中国/S-Ns	普陀山/S-Ns	
+
+德国/S-Ns	
+中国/S-Ns	
+周恩来/S-Nh	
+
+巴塞罗那/B-Ni	俱乐部/E-Ni	阿根廷/S-Ns	
+
+
+康熙/S-Nh	
+杜甫/S-Nh	闻官军/S-Nh	河南/B-Ns	河北/E-Ns	
+希腊/S-Ns	
+
+好莱坞/S-Ns	美国/S-Ns	
+
+
+北京/S-Ns	
+刘备/S-Nh	
+意大利/S-Ns	
+
+
+好莱坞/S-Ns	
+
+奥地利/S-Ns	
+
+海伦./B-Nh	凯勒/E-Nh	
+江苏/S-Ns	
+关西/S-Ns	
+隋炀帝/S-Nh	
+
+
+
+澳洲/S-Ns	澳大利亚/S-Ns	
+
+
+金庸/S-Nh	向/B-Nh	问天/E-Nh	
+达芬奇/S-Nh	法国/S-Ns	
+周恩来/S-Nh	天津/S-Ns	
+
+
+
+
+俄罗斯/S-Ns	
+央视/B-Ni	春晚/E-Ni	
+印度/S-Ns	
+南越/S-Ns	
+法国/S-Ns	拿破仑/S-Nh	中国/S-Ns	
+
+孙权/S-Nh	
+
+美国/S-Ns	奥尔布赖特/S-Nh	美国/S-Ns	
+
+
+
+长沙/B-Ns	湘江/E-Ns	南岳/B-Ns	衡山/I-Ns	七十二峰/E-Ns	
+李商隐/S-Nh	
+
+周敦颐/S-Nh	爱莲/S-Nh	
+
+
+周恩来/S-Nh	
+
+
+美国/S-Ns	
+罗州城/S-Ns	中国/S-Ns	广东省/S-Ns	
+
+
+
+北京/S-Ns	
+
+
+冯小刚/S-Nh	舒淇/S-Nh	梁笑笑/S-Nh	
+孝庄/S-Ns	
+赵林山/S-Nh	
+中国/S-Ns	
+
+
+
+法国/S-Ns	
+台湾/S-Ns	
+台湾/S-Ns	
+伦敦/S-Ns	英国队/S-Ni	
+
+中国/S-Ns	孝庄文/S-Nh	内蒙古/S-Ns	
+元芳/S-Nh	
+顺治/S-Ns	
+
+
+
+张艺谋/S-Nh	余占鳌/S-Nh	
+克里奥佩特拉/S-Nh	
+武当山/S-Ns	
+纽约/S-Ns	福尔摩斯/S-Nh	
+莎士比亚/S-Nh	威尼斯/S-Ns	
+孙悟空/S-Nh	
+
+杨万里/S-Nh	
+约旦/S-Ns	
+香港/S-Ns	
+阿里巴巴/S-Nh	阿拉伯/S-Ns	
+鲁迅/S-Nh	
+中超/B-Ni	申花/I-Ni	足球/I-Ni	俱乐部/E-Ni	
+
+中国/S-Ns	
+拿破仑/S-Nh	拿破仑/S-Nh	
+
+北冰洋/S-Ns	太平洋/S-Ns	
+长白山/S-Ns	
+
+李冰/S-Nh	都江堰/S-Ns	
+
+青海/B-Ns	西宁市/E-Ns	西藏/S-Ns	
+美国/S-Ns	加纳/S-Ns	美国/S-Ns	
+李白/S-Nh	
+
+
+杨/S-Nh	
+
+小牛队/S-Ni	CBA/B-Ni	东莞/I-Ni	银行/I-Ni	队/E-Ni	
+张让/S-Nh	赵忠/S-Nh	
+伊朗/S-Ns	
+
+
+火箭队/S-Ni	阿西克/S-Nh	
+法国/S-Ns	
+
+朱元璋/S-Nh	
+金庸/S-Nh	郭襄/S-Nh	
+柯受良/S-Nh	台湾/S-Ns	
+
+
+
+
+刘/B-Nh	备/E-Nh	荆州/S-Ns	
+
+
+赵翼/S-Nh	
+
+
+中国/S-Ns	
+
+
+
+李白/S-Nh	
+格陵兰岛/S-Ns	
+
+贝克汉姆/S-Nh	
+
+
+
+唐璜/S-Nh	英国/S-Ns	
+龙舌兰/S-Ns	
+湖人队/S-Ni	
+上海/S-Ns	中国/S-Ns	
+王/S-Nh	
+南京/S-Ns	
+
+
+德国/S-Ns	
+
+罗伯特/B-Nh	巴乔/E-Nh	
+好莱坞/S-Ns	
+
+
+戛纳/S-Ns	
+卢冠廷/S-Nh	
+
+
+
+夫子庙/S-Ns	河北/S-Ns	
+终南山/S-Ns	
+香港/S-Ns	王/S-Nh	陈奕迅/S-Nh	
+江南/S-Ns	
+
+长安/B-Ni	汽车/I-Ni	股份/I-Ni	有限公司/E-Ni	重庆市/S-Ns	
+北京/S-Ns	
+
+
+
+美国/S-Ns	
+赵宝刚/S-Nh	佟/S-Nh	
+
+薛宝钗/S-Nh	
+青青河/S-Ns	朱漱兰/S-Nh	
+丹麦/S-Ns	
+台湾/S-Ns	
+王英/S-Nh	
+
+
+非洲/S-Ns	南非/S-Ns	
+美国/S-Ns	南美洲/S-Ns	
+
+中国/S-Ns	
+
+
+柯/S-Nh	
+中国/S-Ns	
+貂蝉/S-Nh	吕布/S-Nh	董卓/S-Nh	
+
+广东/B-Ns	湛江/E-Ns	海口/S-Ns	
+
+
+
+韦正/S-Nh	关谷/S-Nh	
+唐僧/S-Nh	八戒/S-Nh	
+江东/S-Ns	江东/S-Ns	
+台湾/S-Ns	
+
+中国/S-Ns	
+
+
+尼泊尔/S-Ns	
+琼瑶/S-Nh	
+中国/S-Ns	泸定桥/S-Ns	
+
+宁夏/B-Ns	回族/I-Ns	自治区/E-Ns	
+
+
+刘涛/S-Nh	
+西班牙/S-Ns	
+昭阳/S-Ns	香港/S-Ns	
+
+
+
+美国/S-Ns	
+
+台湾/S-Ns	
+林则徐/S-Nh	广东省/S-Ns	
+尤文图斯队/S-Ni	意大利/S-Ns	
+
+海参崴/S-Ns	欧洲/S-Ns	
+波音/B-Ni	公司/E-Ni	
+
+江郎/S-Nh	
+
+星驰/S-Nh	
+
+美国/B-Ni	奥斯卡/I-Ni	金像奖/I-Ni	颁奖/I-Ni	典礼/E-Ni	
+
+
+
+
+
+王朗/S-Nh	
+
+河南/S-Ns	开封市/S-Ns	
+穆森/S-Nh	
+
+绿江/S-Ns	
+
+中国/S-Ns	
+中/S-Ns	法/S-Ns	法国/S-Ns	
+苏轼/S-Nh	
+满城/S-Ns	中国/S-Ns	
+
+海南省/S-Ns	
+
+
+小胖/S-Nh	
+曹操/S-Nh	
+
+
+
+乔石/S-Nh	
+莫靡靡/S-Nh	王/B-Nh	菲/E-Nh	
+
+
+
+
+兰迪./B-Nh	约翰逊/E-Nh	
+孔夫子/S-Nh	
+
+香港/S-Ns	徐濠萦/S-Nh	香港/S-Ns	
+
+孙燕姿/S-Nh	南洋/S-Ns	
+王语嫣/S-Nh	
+安南/S-Nh	
+
+周杰伦/S-Nh	台湾/S-Ns	
+
+鲁迅/S-Nh	
+
+北平/S-Ns	
+
+
+
+台湾/S-Ns	
+东施/S-Ns	东施/S-Nh	
+李白/S-Nh	
+户部港/S-Ns	
+毛泽东/S-Nh	
+陈寿/S-Nh	魏/S-Nh	吴鼎力/S-Nh	
+梁山/S-Ns	
+曾侯乙/S-Nh	湖北省/S-Ns	
+
+张居正/S-Nh	
+佛罗伦萨/S-Ns	欧洲/S-Ns	
+
+以色列/S-Ns	
+孟浩然/S-Nh	绿树村/S-Ns	
+小李/S-Nh	李寻欢/S-Nh	
+
+
+北京/S-Ns	
+香港/B-Ns	特区/E-Ns	香港岛/S-Ns	九龙/B-Ns	半岛/E-Ns	
+秦国/S-Ns	中国/S-Ns	
+中国/S-Ns	
+陈建斌/S-Nh	
+
+拿破仑/S-Nh	欧洲/S-Ns	
+
+
+非洲/S-Ns	
+
+俄国/S-Ns	
+
+
+科林.费斯/S-Nh	
+韩非子/S-Nh	
+比利时/S-Ns	
+尼日尔河/S-Ns	
+
+
+诸葛亮/S-Nh	周瑜/S-Nh	曹操/S-Nh	
+司马迁/S-Nh	
+孔子/S-Nh	
+东京/B-Ni	理工学院/E-Ni	
+
+香港/S-Ns	
+赵又廷/S-Nh	台湾/S-Ns	
+穆桂英/S-Nh	杨家/S-Nh	
+中国/S-Ns	蒙古/S-Ns	西藏/S-Ns	新疆/S-Ns	西伯利亚/S-Ns	中国/S-Ns	土/S-Ns	
+
+
+
+
+
+
+法国/S-Ns	
+
+谢安/S-Nh	
+
+
+王维/S-Nh	
+苏联/S-Ns	
+中国/S-Ns	
+伦敦/S-Ns	
+杨/S-Nh	杨宗保/S-Nh	
+莫文蔚/S-Nh	
+好莱坞/S-Ns	基德曼/S-Nh	
+
+俄罗斯/S-Ns	
+
+小胖/S-Nh	台湾/S-Ns	
+
+
+安徒生/S-Nh	
+台湾/S-Ns	
+
+张信哲/S-Nh	
+赵咏华/S-Nh	
+
+李靖玲/S-Nh	
+
+韩国/S-Ns	汉城/S-Ns	李汉妮/S-Nh	韩国/S-Ns	
+
+陈/B-Nh	凯歌/E-Nh	梅兰芳/S-Nh	
+美国/B-Ni	迪斯尼/I-Ni	公司/E-Ni	
+
+北京/S-Ns	
+
+法国/S-Ns	
+
+
+成吉思汗/S-Nh	华筝/S-Nh	
+香港/S-Ns	
+台湾/S-Ns	
+洛神/S-Nh	
+意大利/S-Ns	
+
+德国/S-Ns	
+
+朝鲜/S-Ns	朝鲜/S-Ns	
+雅典/S-Ns	中国/S-Ns	
+
+北美洲/S-Ns	
+
+
+
+
+
+
+
+欧洲/S-Ns	
+亚洲/S-Ns	
+
+北美/S-Ns	
+
+
+雨果/S-Nh	巴黎/S-Ns	
+
+
+珠江/S-Ns	东江/S-Ns	
+
+
+德国/S-Ns	南非/S-Ns	
+荷兰/S-Ns	
+大仲马/S-Nh	
+法国/S-Ns	
+
+香港/S-Ns	
+罗根/B-Ns	国际/I-Ns	机场/E-Ns	
+
+秋瑾/S-Nh	
+香港/S-Ns	
+
+
+美国/B-Ni	国会/E-Ni	
+孔子/S-Nh	
+上海/S-Ns	
+成都/S-Ns	
+
+温哥华/S-Ns	
+幼发拉底河/S-Ns	
+
+
+玉门关/S-Ns	玉门关/S-Ns	
+
+
+美国/S-Ns	中国/S-Ns	
+韦庄/S-Nh	温韦/S-Nh	
+华山/B-Ni	掌门岳不群/E-Ni	
+
+日本/S-Ns	
+
+陈思成/S-Nh	
+爱尔兰/S-Ns	
+姚明/S-Nh	
+
+
+陕北/S-Ns	
+
+台湾/S-Ns	
+澳门/S-Ns	圣保禄/S-Ns	
+
+石智勇/S-Nh	廖辉/S-Nh	
+
+亚洲/S-Ns	香港/S-Ns	
+美国/S-Ns	
+
+
+
+云/B-Ns	贵/I-Ns	高原/E-Ns	
+意大利/S-Ns	中超/B-Ni	广州/I-Ni	恒大/I-Ni	足球队/E-Ni	
+
+
+中国/S-Ns	美国/S-Ns	
+
+陶渊明/S-Nh	
+
+美国/B-Ni	派拉/I-Ni	蒙影业/I-Ni	公司/E-Ni	杰克/S-Nh	
+范仲淹/S-Nh	岳阳楼/S-Ns	
+孟庭苇/S-Nh	
+肖申克/S-Nh	蒂姆.罗宾斯/S-Nh	
+
+
+
+司马迁/S-Nh	史记/B-Nh	·/E-Nh	
+
+重庆/S-Ns	
+悉尼/S-Ns	中国/S-Ns	
+中国/S-Ns	
+唐朝女/S-Nh	
+
+中国/S-Ns	
+杨宗保/S-Nh	杨业/S-Nh	
+吴/S-Nh	苏州/S-Ns	
+未名湖/S-Ns	
+中东/S-Ns	
+
+
+中国/S-Ns	
+
+中国/B-Ni	南航/E-Ni	
+英国/B-Ns	伦敦/E-Ns	热刺队/S-Ni	
+江苏/S-Ns	
+
+吴锦源/S-Nh	
+印度/S-Ns	印度/S-Ns	
+白居易/S-Nh	
+
+
+赵国/S-Ns	赵国的/S-Nh	赵括/S-Nh	秦国/S-Ns	
+
+
+香港/S-Ns	
+赵州桥/S-Ns	
+
+北京/S-Ns	程峰/S-Nh	
+阿根廷/S-Ns	
+
+司马相如/S-Nh	
+
+亚利桑那州/S-Ns	
+
+北京/B-Ni	奥运/I-Ni	中国/I-Ni	女子/I-Ni	体操队/E-Ni	中国/S-Ns	
+
+扬州/S-Ns	
+约翰肯尼迪/S-Nh	
+
+
+曹操/S-Nh	
+李商隐/S-Nh	
+
+
+北京/B-Ni	奥运会/I-Ni	开幕式/I-Ni	主题曲/E-Ni	刘欢/S-Nh	
+维也纳/S-Ns	
+湖人队/S-Ni	
+
+袁世凯/S-Nh	北洋/B-Ni	政府/E-Ni	
+李白/S-Nh	吴/S-Nh	
+
+
+关中/B-Ns	地区/E-Ns	
+
+
+好莱坞/S-Ns	基德曼/S-Nh	
+
+香港岛/S-Ns	
+南美洲/S-Ns	
+仲/S-Nh	
+达西/S-Ns	
+朝鲜/S-Ns	
+
+国际/B-Ni	奥委会/E-Ni	
+欧洲/S-Ns	波兰/S-Ns	
+史记./S-Nh	淮阴/S-Ns	
+潘冬子/S-Nh	中国/S-Ns	
+
+
+周杰伦/S-Nh	
+
+陈皮/S-Nh	
+孔尚任/S-Nh	李香君/S-Nh	
+中东/S-Ns	
+
+马头琴/S-Nh	
+
+
+
+伊索/S-Nh	
+万里长城/S-Ns	
+关羽/S-Nh	
+
+萧何/S-Nh	刘邦/S-Nh	项羽/S-Nh	乌江/S-Ns	
+中国/S-Ns	
+泰国/S-Ns	英拉/S-Nh	
+
+
+巴尔扎克/S-Nh	中国/S-Ns	
+卓玛/S-Nh	
+
+杨/S-Nh	郭芙蓉/S-Nh	
+
+卢沟桥/S-Ns	
+
+
+
+
+法国/S-Ns	
+
+布什/S-Nh	
+中国/S-Ns	
+中国/S-Ns	法兰克福队/S-Ni	中国/S-Ns	
+
+
+
+沈从文/S-Nh	湖南/S-Ns	
+
+艺谋/S-Nh	
+
+耶路撒冷/S-Ns	
+
+比尔.盖茨/S-Nh	
+金庸/S-Nh	
+
+
+
+
+唐玄宗/S-Nh	
+麦卡伦/B-Ns	国际/I-Ns	机场/E-Ns	
+
+上甘岭/S-Ns	
+
+新/B-Nh	奥尔良/E-Nh	美国/S-Ns	奥尔良/S-Nh	欧洲/S-Ns	
+童星金铭/S-Nh	琼瑶/S-Nh	
+福建/S-Ns	
+陶渊明/S-Nh	
+梁山/S-Ns	
+
+阆苑/S-Ns	
+
+
+
+
+曾单人/S-Nh	
+英国/S-Ns	
+德隆·威廉姆斯/S-Nh	
+诸葛亮/S-Nh	隆中/S-Ns	管仲/S-Nh	
+金太郎/S-Nh	范明/S-Nh	
+
+浙江/S-Ns	杭州/S-Ns	
+重庆/S-Ns	梁朝伟/S-Nh	
+
+西班牙/S-Ns	
+
+
+燕姿/S-Nh	
+琉球/S-Ns	日本/S-Ns	
+
+成龙/S-Nh	
+
+
+
+
+祖名/S-Nh	
+意大利/B-Ni	俱乐部/E-Ni	米兰/S-Ns	
+
+
+吉林市/S-Ns	
+上海/S-Ns	上海/S-Ns	
+杨子荣/S-Nh	
+
+
+
+
+
+孙悟空/S-Nh	
+伽利略/S-Nh	比萨/S-Ns	欧洲/S-Ns	欧洲/S-Ns	
+岳飞/S-Nh	
+
+朱元璋/S-Nh	
+
+唐朝称/S-Nh	
+
+
+内蒙古/B-Ns	自治区/E-Ns	
+
+
+青藏/B-Ns	高原/E-Ns	
+米兰/B-Ni	俱乐部/E-Ni	意大利/S-Ns	
+
+王之涣/S-Nh	鹳雀楼/S-Ns	
+哈佛/S-Ns	微软/B-Ni	公司/E-Ni	
+
+
+阿拉斯加州/S-Ns	
+阴平/S-Nh	
+美国/S-Ns	
+太平洋/S-Ns	
+劈山/S-Ns	陕西/S-Ns	
+晓岚/S-Nh	
+金庸/S-Nh	
+杰克逊伯勒克/S-Nh	
+贾长沙/S-Nh	
+沈璎璎/S-Nh	
+李白/S-Nh	
+
+贾/S-Nh	
+
+
+
+
+安眠酮/S-Nh	
+五音宫/S-Ns	
+
+
+
+北京/S-Ns	
+
+
+
+
+
+刘备/S-Nh	诸葛亮/S-Nh	
+
+
+巴西/S-Ns	
+英国/S-Ns	大卫./B-Nh	贝克汉姆/E-Nh	美国/S-Ns	
+
+
+明尼苏达/S-Ns	
+
+日本/S-Ns	
+
+
+
+
+
+查尔斯/S-Nh	
+宋玉/S-Nh	王问/S-Nh	
+广州/S-Ns	
+周/B-Nh	星驰/E-Nh	
+悉尼/S-Ns	
+中国/S-Ns	
+非洲/S-Ns	阿根廷/S-Ns	
+穆桂英/S-Nh	杨家/S-Nh	
+英国/S-Ns	
+圣彼得堡/S-Ns	俄罗斯/S-Ns	彼得堡/S-Ns	欧洲/S-Ns	
+金庸/S-Nh	
+巴西/S-Ns	
+厦门/B-Ni	大学/E-Ni	
+
+杰克/S-Nh	好莱坞/S-Ns	
+王勾践/S-Nh	西施/S-Nh	
+
+澳大利亚/S-Ns	
+
+
+
+
+
+梦工厂/B-Ni	公司/E-Ni	欧娜/S-Nh	
+
+
+
+香港/B-Ni	特别/I-Ni	行政区/I-Ni	区旗/E-Ni	
+莱昂纳多/S-Nh	
+东欧/S-Ns	
+
+中国/S-Ns	
+亚洲/S-Ns	
+
+
+韩国/S-Ns	
+
+
+八一队/S-Ni	
+
+雅典/B-Ni	奥运会/E-Ni	
+中国/S-Ns	
+
+
+陶晶莹/S-Nh	
+阿拉斯加/S-Ns	
+乔丹/S-Nh	
+
+
+
+美国/S-Ns	
+
+索德伯格/S-Nh	好莱坞/S-Ns	
+法国/S-Ns	
+
+王维/S-Nh	
+希莉娜依/S-Nh	
+
+张艺谋/S-Nh	
+中国/S-Ns	峨眉山/S-Ns	
+
+
+
+乔峰/S-Nh	金庸/S-Nh	
+
+林/B-Nh	书豪/E-Nh	
+
+波音/B-Ni	公司/E-Ni	
+貂蝉/S-Nh	灵雎/S-Ns	
+香港/S-Ns	
+巴蜀/S-Ns	
+
+
+
+古龙/S-Nh	
+
+
+
+
+
+
+马哲/S-Nh	
+
+邓/B-Nh	丽君/E-Nh	
+
+
+荷兰/S-Ns	
+
+
+中国/S-Ns	
+
+
+
+
+
+
+大庆/B-Ni	油田/E-Ni	
+英国/S-Ns	家托马斯.莫尔/S-Nh	
+朗世宁/S-Nh	
+
+
+庐山/S-Ns	
+江城子.密州/S-Ns	孙郎/S-Nh	孙郎/S-Nh	
+
+
+南京/B-Ns	南京/E-Ns	法国/S-Ns	
+山东省/B-Ns	东营市/E-Ns	
+
+中国/S-Ns	
+北美/S-Ns	
+
+
+
+
+
+西安/S-Ns	
+梁羽生/S-Nh	
+小燕子/S-Nh	
+白居易/S-Nh	
+香港/S-Ns	
+孔子/S-Nh	
+
+孙悟空/S-Nh	
+辛弃疾/S-Nh	
+
+桂林/S-Ns	桂林/S-Ns	
+
+王家卫/S-Nh	
+腾讯/B-Ni	公司/E-Ni	
+
+芝加哥/B-Ni	公牛队/E-Ni	
+
+
+
+崂山/S-Ns	崂山/S-Ns	山东/S-Ns	
+刘翔/S-Nh	
+
+韩国/S-Ns	韩国/S-Ns	
+
+
+浙江省/B-Ns	嘉善县/E-Ns	江南/S-Ns	
+
+
+亚洲/S-Ns	
+
+巴西/S-Ns	
+约翰尼德普/S-Nh	美国/S-Ns	
+国家/B-Ni	教育部/E-Ni	
+
+
+大河/S-Ns	刘欢/S-Nh	
+台湾/S-Ns	
+
+姚若龙/S-Nh	台湾/S-Ns	
+
+台湾/S-Ns	
+比利牛斯山/S-Ns	西班牙/S-Ns	欧洲/S-Ns	
+
+南非/S-Ns	
+云南省/S-Ns	缅甸/S-Ns	老挝/S-Ns	
+
+
+
+
+
+金庸/S-Nh	
+王大雷/S-Nh	
+北京/S-Ns	
+
+曹刿论战/S-Nh	曹刿/S-Nh	
+南美洲/S-Ns	
+儒三/S-Nh	
+
+宝洁/B-Ni	公司/E-Ni	美国/S-Ns	
+古巴/B-Ns	比伦/E-Ns	
+张庆鹏/S-Nh	中国/S-Ns	
+
+上海/S-Ns	希尔顿/B-Ns	大酒店/E-Ns	
+福尔摩斯/S-Nh	福尔摩斯/S-Ns	
+
+中东/B-Ns	地区/E-Ns	
+
+道教/B-Ns	圣地/E-Ns	武当山/S-Ns	
+
+中国/S-Ns	孟婆/S-Nh	
+刘翔/S-Nh	冯云/S-Nh	陈雁浩/S-Nh	
+文华/S-Nh	
+
+琼瑶/S-Nh	紫薇/S-Nh	
+中国/S-Ns	
+官渡/S-Ns	曹操/S-Nh	
+郭富城/S-Nh	中国/S-Ns	
+微软/S-Ni	
+
+法国/S-Ns	儒勒.凡尔纳/S-Nh	
+
+佘诗曼/S-Nh	黎姿/S-Nh	陈豪/S-Nh	邓萃雯/S-Nh	
+
+
+哈尔滨/B-Ni	工业/I-Ni	大学/E-Ni	
+纽约/B-Ni	尼克斯队/E-Ni	
+伦敦/S-Ns	
+
+好莱坞/S-Ns	
+水生/S-Nh	
+朝鲜/S-Ns	韩国/S-Ns	
+老乔/S-Nh	好莱坞/S-Ns	
+
+欧·亨利/S-Nh	琼西/S-Nh	
+中国/B-Ni	乒协/E-Ni	中国/B-Ni	足协/E-Ni	
+周杰伦/S-Nh	
+
+
+韩/S-Ns	日/S-Ns	德国队/S-Ni	沙特队/S-Ni	
+
+中国/S-Ns	世界/B-Ni	贸易/I-Ni	组织/E-Ni	
+
+
+哈雷彗/B-Ni	星绕/I-Ni	太阳/E-Ni	
+三藩市/S-Ns	美国/S-Ns	
+
+
+贾母/S-Nh	贾母/S-Nh	
+扬州/B-Ns	何园/E-Ns	
+
+
+
+安杰拉./B-Nh	戴维斯/E-Nh	
+法国/S-Ns	
+胡润/S-Nh	
+张国荣/S-Nh	
+拉丁美洲/S-Ns	
+
+
+
+陶/B-Nh	喆/E-Nh	
+
+日本/S-Ns	
+周/B-Nh	星驰/E-Nh	戚秦氏/S-Nh	
+
+
+金庸/S-Nh	木婉清/S-Nh	
+
+
+法国/S-Ns	
+华清池/S-Ns	陕西省/S-Ns	
+
+广东/S-Ns	
+中国/S-Ns	沈阳/S-Ns	
+
+欧洲/S-Ns	意大利/S-Ns	
+美国/S-Ns	
+摩纳哥/S-Ns	欧洲/S-Ns	
+孙权/S-Nh	
+赤壁/S-Ns	林志玲/S-Nh	
+
+
+
+法国/S-Ns	
+
+中国/S-Ns	曹操/S-Nh	
+金庸/S-Nh	张无忌/S-Nh	
+赵州桥/S-Ns	
+
+
+美国/S-Ns	罗纳德./B-Nh	里根/E-Nh	中国/S-Ns	
+
+郭/B-Nh	富城/E-Nh	
+
+舟山/S-Ns	
+花旗/B-Ni	银行/E-Ni	
+
+
+台湾/S-Ns	
+
+
+李清照/S-Nh	
+
+
+
+中国/S-Ns	扎辫子/S-Nh	
+艾弗森/S-Nh	费城/B-Ni	76人队/E-Ni	
+哈尔滨/S-Ns	
+
+中国/S-Ns	
+吕良/S-Nh	香港/S-Ns	上海滩/S-Ns	许文强/S-Nh	
+羊八井/S-Ns	西藏/B-Ns	自治区/E-Ns	
+南京路/S-Ns	
+
+香港/S-Ns	
+
+
+大禹/S-Nh	
+伏特加/S-Ns	欧洲/S-Ns	
+
+萨拉热窝/S-Ns	
+
+
+德罗巴/S-Nh	非洲/S-Ns	
+
+
+
+
+金庸/S-Nh	
+
+
+杨幂/S-Nh	
+李逍遥/S-Nh	
+孙权/B-Nh	许配/E-Nh	刘备/S-Nh	
+
+
+
+
+
+
+周恩来/S-Nh	
+劳尔/S-Nh	
+
+
+梅超风/S-Nh	
+
+徐朗/S-Nh	
+南美洲/S-Ns	
+
+
+大意失荆州/S-Ns	
+
+梁山/S-Ns	
+日本/S-Ns	江户/S-Ns	
+长孙/S-Nh	
+美国/S-Ns	
+珠穆朗玛峰/S-Ns	
+陆游/S-Nh	
+
+安培/S-Nh	
+
+贵州/S-Ns	
+法国/S-Ns	
+王莽/S-Nh	王位改/S-Nh	
+冯小刚/S-Nh	
+台湾/S-Ns	
+吴承恩/S-Nh	唐僧/S-Nh	
+微软/B-Ni	公司/E-Ni	
+
+美国/S-Ns	
+西藏/S-Ns	
+温庭筠/S-Nh	
+江苏/B-Ni	工业/I-Ni	学院/E-Ni	
+陈坤/S-Nh	
+亚洲/S-Ns	
+
+梁山/S-Ns	
+台湾/S-Ns	
+金庸/S-Nh	
+金庸/S-Nh	
+
+中国/B-Ni	乒协/E-Ni	中国/B-Ni	足协/E-Ni	
+香港/S-Ns	
+
+阿根廷/S-Ns	
+
+世界/B-Ni	卫生/I-Ni	组织/E-Ni	
+孙悟空/S-Nh	
+亚洲/S-Ns	
+郭晶晶/S-Nh	香港/S-Ns	
+安德森/S-Nh	林肯/S-Nh	
+
+赵飞燕/S-Nh	
+宁夏/S-Ns	
+中国/S-Ns	
+
+乔丹/S-Nh	
+
+好莱坞/S-Ns	
+故宫/S-Ns	
+国际/B-Ni	职业/I-Ni	网球/I-Ni	联合会/E-Ni	
+
+桂林/S-Ns	
+金庸/S-Nh	
+伦敦/S-Ns	
+加尔各答/S-Ns	亚洲/S-Ns	
+
+
+德国/S-Ns	
+
+
+荷兰/S-Ns	阿根廷/S-Ns	
+王勃/S-Nh	
+
+
+阿拉蕾/S-Nh	日本/S-Ns	
+北京/S-Ns	
+北京大学/S-Ni	
+阿拉伯/S-Ns	
+李白/S-Nh	
+金庸/S-Nh	
+周杰伦/S-Nh	
+台湾省/S-Ns	台湾省/S-Ns	
+
+
+台湾/S-Ns	
+中国/S-Ns	洛神/S-Nh	
+
+
+孙悟空/S-Nh	
+
+
+
+
+中国/S-Ns	吴刚伐/S-Nh	
+
+
+
+
+太平洋/S-Ns	
+
+
+欧/S-Ns	欧洲/S-Ns	
+
+
+
+美国/S-Ns	
+
+中国/S-Ns	
+英国/S-Ns	狄更斯/S-Nh	
+
+张生/S-Nh	
+桃园/S-Ns	
+
+
+
+
+
+中国/S-Ns	
+
+庄子/S-Nh	
+
+莫泊桑/S-Nh	于勒/S-Nh	于勒/S-Nh	
+亚洲/S-Ns	
+
+
+中国/S-Ns	
+湖南/B-Ns	凤凰县/E-Ns	
+
+
+中国/S-Ns	
+韩/S-Nh	金波/S-Nh	
+
+
+
+黑龙江省/S-Ns	
+王宝/S-Nh	北京/S-Ns	
+火箭队/S-Ni	麦迪/S-Nh	
+中国/S-Ns	
+南派三叔/S-Nh	
+周华健/S-Nh	
+
+中国/S-Ns	台儿庄/S-Ns	
+都城/B-Ns	长安/E-Ns	
+伊瓜苏/S-Ns	巴西/S-Ns	南美洲/S-Ns	
+戛纳/S-Ns	
+成都/S-Ns	锦官城/S-Ns	
+莫文蔚/S-Nh	周迅/S-Nh	台湾/S-Ns	
+
+英国/S-Ns	
+
+祥林嫂/S-Nh	鲁迅/S-Nh	
+金陵/S-Ns	李/S-Nh	
+梁山/S-Ns	鲁提/S-Nh	
+
+福建/S-Ns	
+珠穆朗玛峰/S-Ns	中国/S-Ns	
+
+鉴真/S-Nh	
+
+香港/S-Ns	
+韩磊/S-Nh	
+
+李闯王/S-Nh	
+凯瑟琳/S-Nh	
+
+
+俄罗斯/S-Ns	斯大林格勒/S-Nh	
+
+搜狐/B-Ni	公司/E-Ni	
+徐志摩/S-Nh	
+金庸/S-Nh	阿朱阿紫/S-Nh	
+昆仑/S-Ns	
+
+
+
+
+土耳其/S-Ns	伊斯坦布尔/S-Ns	
+康熙/S-Nh	
+俄国/S-Ns	
+德国/S-Ns	
+昭君/S-Nh	
+唐朝武/S-Nh	周代唐/S-Nh	
+鲁智/S-Nh	
+
+南极/S-Ns	
+台湾/S-Ns	
+埃及/S-Ns	
+俄国/S-Ns	
+
+
+
+北京/B-Ni	奥运会/I-Ni	开幕式/E-Ni	
+徐怀钰/S-Nh	
+
+
+卡尔马龙/S-Nh	犹他/B-Ni	双煞/E-Ni	
+美国/S-Ns	
+德国/S-Ns	
+美索不达米亚/S-Ns	五大洲/S-Ns	
+
+中国/S-Ns	长城/S-Ns	
+
+
+济南/S-Ns	中国/S-Ns	
+
+
+唐僧/S-Nh	八戒/S-Nh	
+大连/B-Ni	陆军/I-Ni	学院/E-Ni	
+新疆/S-Ns	
+中国/S-Ns	
+
+匈牙利/S-Ns	
+晋国/S-Ns	
+中国/S-Ns	
+南美洲/S-Ns	
+
+罗莉/S-Nh	
+
+
+夫子庙/S-Ns	玄武湖/S-Ns	中山陵/S-Ns	
+法国/S-Ns	
+瑞士/S-Ns	
+衡山/S-Ns	
+
+
+
+黄花岗/S-Ns	
+蓝菲琳/S-Nh	
+云南/S-Ns	
+无锡/S-Ns	
+
+
+
+杜甫/S-Nh	
+
+马超/S-Nh	
+
+西门庆/S-Nh	潘金莲/S-Nh	
+张艺谋/S-Nh	
+悉尼/S-Ns	中国/S-Ns	
+四川/B-Ns	地区/E-Ns	
+
+布冯/S-Nh	
+北京/S-Ns	
+
+
+张惠妹/S-Nh	
+毛泽东/S-Nh	
+津巴布韦/S-Ns	
+中国/S-Ns	
+
+
+
+李少红/S-Nh	
+
+康定/S-Ns	康定/S-Ns	
+刘禹锡/S-Nh	
+中国/S-Ns	
+德斯蒙德/S-Nh	
+
+张艾嘉/S-Nh	罗大佑/S-Nh	
+
+
+
+
+
+中国/S-Ns	
+
+阿牛/S-Nh	
+
+
+亚特兰大/S-Ni	罗迪克/S-Nh	
+
+
+
+
+
+中央/B-Ni	商城/E-Ni	
+
+伦敦/S-Ns	英国/S-Ns	
+黄飞鸿/S-Nh	方世玉/S-Nh	
+
+
+中国/S-Ns	
+
+美国/S-Ns	伊拉克/B-Ni	政府/E-Ni	
+苏格兰/S-Ns	
+香港/S-Ns	
+西江/S-Ns	
+
+
+苏轼/S-Nh	
+地中海/S-Ns	巴勒斯坦/B-Ns	地区/E-Ns	
+法国/S-Ns	
+
+
+
+
+
+康熙/S-Nh	
+萧/S-Nh	
+
+
+黄河/S-Ns	李白/S-Nh	
+
+白居易/S-Nh	唐玄宗/S-Nh	
+
+诸葛亮/S-Nh	周瑜/S-Nh	曹操/S-Nh	
+
+长江/S-Ns	
+美/S-Ns	苏/S-Ns	
+宝洁/B-Ni	公司/E-Ni	美国/S-Ns	
+地中海/S-Ns	红海/S-Ns	苏伊士/B-Ns	运河/E-Ns	
+中国/S-Ns	
+刘烨/S-Nh	
+金庸/S-Nh	东邪/B-Ns	西毒/E-Ns	
+澳大利亚/S-Ns	
+斯坦福/B-Ni	桥/I-Ni	球场/E-Ni	
+台湾/S-Ns	迪克/S-Nh	
+法国/S-Ns	
+
+比萨/S-Ns	
+
+孙中山/S-Nh	中国/S-Ns	
+陆天明/S-Nh	
+
+
+俄罗斯/S-Ns	成名曲/S-Nh	
+
+
+
+
+
+
+
+南美洲/S-Ns	厄瓜多尔/S-Ns	
+
+
+美国/S-Ns	
+意大利/S-Ns	
+中国/S-Ns	埕北/S-Ns	
+曹/S-Nh	
+
+夏威夷/S-Ns	
+吕良/S-Nh	香港/S-Ns	上海滩/S-Ns	许文强/S-Nh	
+徐庶/S-Nh	
+
+
+
+
+
+韩国/S-Ns	
+湖人队/S-Ni	
+
+
+鲁迅/S-Nh	孔乙己/S-Nh	
+
+南京/B-Ni	青奥会/E-Ni	
+吴/S-Nh	苏州/S-Ns	
+济公/S-Nh	
+中国/S-Ns	西班牙/S-Ns	
+
+岑参/S-Nh	
+
+
+美国/S-Ns	
+西班牙/S-Ns	劳尔/S-Nh	
+
+巴芬湾/S-Ns	
+洪秀全/S-Nh	
+郭/B-Nh	敬明/E-Nh	
+英国/S-Ns	
+西欧/S-Ns	中国/S-Ns	
+
+
+
+
+王/B-Nh	菲/E-Nh	
+
+
+
+北京大学/S-Ni	
+中国/S-Ns	南钢队/S-Ni	中国/S-Ns	
+诸葛亮志/S-Nh	
+柏林/B-Ni	爱乐/I-Ni	乐团/E-Ni	欧洲/S-Ns	
+中国/S-Ns	
+
+托尼/S-Nh	汤姆/S-Nh	
+
+
+香榭丽舍/B-Ns	大街/E-Ns	爱丽舍/B-Ni	田园/I-Ni	大街/E-Ni	欧洲/S-Ns	
+
+
+岳飞/S-Nh	
+西湖/S-Ns	
+皮诺/B-Nh	曹/E-Nh	
+
+
+雷./B-Nh	查尔斯/E-Nh	
+
+印度/S-Ns	
+
+台湾/S-Ns	
+
+马/S-Nh	
+
+
+
+香港/S-Ns	
+
+
+
+
+戛纳/S-Ns	
+朱自清/S-Nh	
+
+
+非洲/S-Ns	
+德国/S-Ns	
+印尼/S-Ns	马来西亚/S-Ns	
+李小双/S-Nh	
+长城/B-Ns	八达岭/E-Ns	长城/S-Ns	
+
+篮网队/S-Ni	美国/S-Ns	
+
+唐太宗李/B-Nh	世民/E-Nh	
+济州岛/S-Ns	
+
+
+
+意大利/S-Ns	罗马/S-Ns	
+陈坤/S-Nh	赵薇/S-Nh	周迅/S-Nh	杨/B-Nh	幂/E-Nh	
+
+热火队/S-Ni	
+荷兰/S-Ns	阿根廷/S-Ns	
+德国/B-Ns	莱茵河/E-Ns	
+
+美国/S-Ns	
+
+
+上海/B-Ni	座机区/I-Ni	号/I-Ni	加上/I-Ni	电话/E-Ni	
+
+林升/S-Nh	
+
+中国/S-Ns	
+湄公河/S-Ns	河内/S-Ns	下龙湾/S-Ns	亚洲/S-Ns	
+
+
+
+毛宁/S-Nh	
+薛/S-Nh	
+
+阿里山/S-Ns	台湾省/S-Ns	
+李白/S-Nh	黄河/S-Ns	
+
+
+英国/S-Ns	托尔金/S-Nh	
+
+
+
+欧洲/S-Ns	
+
+
+
+俄罗斯/S-Ns	俄罗斯/S-Ns	
+秦岭/S-Ns	
+
+赵/B-Nh	薇/E-Nh	
+
+
+
+
+中国/S-Ns	美国/S-Ns	
+
+
+
+仙剑/S-Ns	徐长卿/S-Nh	
+上海滩/S-Ns	冯程程/S-Nh	上海/S-Ns	
+吴门/S-Ns	江南/S-Ns	唐伯虎/S-Nh	文征明/S-Nh	徐祯卿/S-Nh	
+黑格尔/S-Nh	
+
+
+
+斯皮尔伯格/S-Nh	
+希腊/S-Ns	
+刘德华/S-Nh	
+十全街/S-Ns	金鸡湖/S-Ns	江苏省/S-Ns	
+曹操/S-Nh	
+石油/B-Ni	输出国/I-Ni	组织/E-Ni	欧佩克/S-Ni	南盖州/S-Ns	厄瓜多尔/S-Ns	
+
+三峡/S-Ns	
+台湾/S-Ns	蒋小花/S-Nh	台湾/S-Ns	
+艾崴/S-Nh	
+李娜/S-Nh	意大利/S-Ns	亚洲/S-Ns	
+江西/S-Ns	江南/S-Ns	
+
+
+
+
+
+朝鲜/S-Ns	
+木兰/S-Nh	
+欧洲/S-Ns	
+
+伦敦/S-Ns	
+
+乌兹别克斯坦/S-Ns	
+美国/S-Ns	
+
+李春波/S-Nh	
+蔡/S-Nh	
+
+
+
+中国/S-Ns	福建省/S-Ns	
+韩国/S-Ns	
+南美洲/S-Ns	
+
+
+小胖/S-Nh	台湾/S-Ns	
+日本/S-Ns	柯南/S-Nh	
+
+陈逸飞/S-Nh	陈坤/S-Nh	曾/B-Nh	黎/E-Nh	
+林/S-Nh	河南/S-Ns	
+
+刘德华/S-Nh	
+武则天/S-Nh	
+魔术师/S-Nh	
+
+皮约特/S-Nh	
+熊黛林/S-Nh	香港/S-Ns	
+美国/S-Ns	
+
+
+
+湖南/B-Ns	凤凰县/E-Ns	
+
+林俊杰/S-Nh	
+柳永/S-Nh	李清照/S-Nh	
+麦蒂/S-Nh	姚明/S-Nh	
+加西亚./S-Nh	拉丁美洲/S-Ns	
+曲婉婷/S-Nh	
+
+纽约/S-Ns	
+北京/S-Ns	
+金庸/S-Nh	乔峰/S-Nh	
+
+
+
+
+
+
+法国/S-Ns	
+小燕子/S-Nh	
+加州/S-Ns	美国/S-Ns	
+卡拉/S-Nh	
+
+
+
+长宽/S-Nh	
+朱茵/S-Nh	香港/S-Ns	
+
+
+
+耶稣/S-Nh	达芬奇/S-Nh	
+
+苏联/S-Ns	肖洛霍夫/S-Nh	诺贝尔/S-Nh	
+桂陵/S-Ns	孙彬/S-Nh	
+黄河/S-Ns	
+中/S-Ns	俄/S-Ns	尼布楚/S-Ns	
+白居易/S-Nh	
+中国/S-Ns	
+纳什/S-Nh	湖人/B-Ni	俱乐部/E-Ni	巴萨队/S-Ni	
+
+
+费城/S-Ns	
+周/B-Nh	星驰/E-Nh	
+德国/S-Ns	
+
+中国/S-Ns	
+威尔逊/S-Nh	美国/S-Ns	
+鲁迅/B-Nh	启蒙/E-Nh	寿镜吾/S-Nh	
+
+苏州/S-Ns	中国/S-Ns	
+
+搭档/S-Nh	
+法国/B-Ns	巴黎/E-Ns	
+印度/S-Ns	亚洲/S-Ns	
+石破天/S-Nh	金庸/S-Nh	
+中国/S-Ns	
+
+杨文军/S-Nh	
+
+
+朱时茂/S-Nh	
+徐朗/S-Nh	
+梁静茹/S-Nh	台湾/S-Ns	
+中国/S-Ns	
+
+
+广东/S-Ns	
+哪吒/S-Nh	
+
+
+北京/B-Ni	奥运会/E-Ni	
+鄱阳湖/S-Ns	
+中国/S-Ns	
+中国/S-Ns	
+
+温布尔登/S-Nh	
+普京/S-Nh	
+
+刘备/S-Nh	
+非洲/S-Ns	
+拉丁美洲/S-Ns	
+施瓦辛格/S-Nh	史泰龙/S-Nh	
+项羽/S-Nh	
+刘禹锡/S-Nh	
+施瓦辛格/S-Nh	史泰龙/S-Nh	
+
+英国/S-Ns	莫尔/S-Nh	
+花旗/B-Ni	银行/E-Ni	
+
+中国/S-Ns	
+美国/S-Ns	华盛顿/S-Ns	
+刘欢/S-Nh	
+
+
+
+
+
+
+法国/S-Ns	
+普利斯特里/S-Nh	
+柳宗元/S-Nh	
+小明/S-Nh	
+曼哈顿/S-Ns	曼哈顿/S-Ns	美国/S-Ns	
+慈禧/S-Nh	
+中国/S-Ns	
+
+大阪/S-Ns	
+美国/S-Ns	
+
+马关/S-Ns	
+
+马来西亚/S-Ns	
+中/S-Ns	美/S-Ns	
+
+
+雷德利.斯科特/S-Nh	希腊/S-Ns	
+苏轼/S-Nh	江城子.密州/S-Ns	
+澳门/S-Ns	
+中国/S-Ns	
+小龙女/S-Nh	
+明月山/S-Ns	江西省/S-Ns	
+
+齐达内/S-Nh	意大利/S-Ns	
+宋之问/S-Nh	汉江/S-Ns	
+
+
+德国/S-Ns	
+
+
+
+桃花潭/S-Ns	汪伦/S-Nh	
+
+金庸/S-Nh	郭靖/S-Nh	
+京/S-Ns	
+亚洲/S-Ns	
+
+哥伦比亚/S-Ns	
+伦敦/S-Ns	
+欧洲/S-Ns	亚平宁/B-Ns	半岛/E-Ns	
+穿普拉达/S-Nh	好莱坞/S-Ns	
+
+
+希腊/S-Ns	
+麦迪/S-Nh	麦迪/S-Nh	
+
+
+
+长江/S-Ns	
+
+
+刘老根/S-Nh	
+
+
+
+
+
+杨/S-Nh	
+周文王/S-Nh	姜太公/S-Nh	
+
+荷马/S-Nh	
+四川/B-Ni	联合/I-Ni	经济/I-Ni	学校/E-Ni	
+
+上海市/S-Ns	浦西/S-Ns	浦东/S-Ns	上海/S-Ns	
+金锁/S-Nh	
+
+香港/S-Ns	香港/S-Ns	
+荀彧/S-Nh	
+
+周杰伦/S-Nh	中/S-Ns	澳/S-Ns	
+
+李白/S-Nh	
+西双版纳/S-Ns	香格里拉/S-Ns	玉龙/S-Ns	
+
+阿富汗/S-Ns	
+
+
+江西省/S-Ns	
+中国/S-Ns	
+
+英/S-Ns	法/S-Ns	圆明园/S-Ns	中国/S-Ns	
+王/B-Nh	菲/E-Nh	
+
+
+
+
+海牙/S-Ns	
+杨威/S-Nh	李小鹏/S-Nh	莫慧兰/S-Ns	
+
+黄耀明/S-Nh	
+孟郊/S-Nh	
+中国/B-Ni	政府/E-Ni	香港/S-Ns	
+
+金庸/S-Nh	郭靖/S-Nh	蒙古/S-Ns	
+
+希腊/S-Ns	
+
+
+
+
+项羽/S-Nh	
+黄山/S-Ns	
+北京/B-Ni	国安/E-Ni	张/S-Nh	
+卢俊义/S-Nh	
+
+毛利兰/S-Nh	
+
+
+
+
+中国/S-Ns	
+
+
+中国/B-Ni	道教/I-Ni	发源地/E-Ni	青城山/S-Ns	
+
+台湾/S-Ns	
+
+舒婷/S-Nh	
+
+
+金庸/S-Nh	裘/S-Nh	
+
+淮南洪烈/S-Ns	
+中国/S-Ns	
+尤文图斯队/S-Ni	意大利/S-Ns	
+
+陈百/B-Nh	强/E-Nh	
+
+
+中国/S-Ns	
+
+
+
+
+
+
+金子/S-Nh	
+北京/S-Ns	北京/S-Ns	故宫/S-Ns	
+
+劳伦斯/S-Nh	中国/S-Ns	
+杭州/B-Ns	灵隐寺/E-Ns	济公/S-Nh	
+
+
+
+
+
+金庸/S-Nh	程灵素/S-Nh	
+金陵/S-Ns	
+巴拿马/B-Ni	运河/E-Ni	
+
+云南/S-Ns	昆明/S-Ns	
+
+赵宝刚/S-Nh	罗书/S-Nh	
+周瑜/S-Nh	
+
+
+
+
+中国/B-Ni	回族/E-Ni	霍达/S-Nh	
+
+中国/S-Ns	巴特尔/S-Nh	
+北京/B-Ni	奥神队/E-Ni	中国/S-Ns	
+张卫健/S-Nh	
+
+鲁迅/S-Nh	孔乙己/S-Nh	
+
+
+郑渊洁/S-Nh	
+殷素素/S-Nh	金庸/S-Nh	
+北京/S-Ns	
+美国/S-Ns	
+
+
+河北省/S-Ns	
+惠灵顿/S-Ns	大洋洲/S-Ns	
+
+孙悟空/S-Nh	五行山/S-Ns	井口/S-Nh	
+德国/S-Ns	
+
+
+南极/S-Ns	
+
+长城/S-Ns	
+
+李白/S-Nh	宣州/B-Ns	谢朓楼/E-Ns	
+
+中国/B-Ns	西藏/I-Ns	自治区/E-Ns	咸水湖/S-Ns	
+
+包/B-Nh	青天/E-Nh	
+李鹏/S-Nh	中国/B-Ni	政府/E-Ni	
+香山/S-Ns	
+
+德国/S-Ns	
+日本/S-Ns	
+蜀国/S-Ns	
+
+
+桃仙/B-Ns	国际/I-Ns	机场/E-Ns	辽宁省/S-Ns	
+诺曼底/S-Ns	
+
+欧洲/S-Ns	
+许仙/S-Nh	
+中国/S-Ns	
+李白/S-Nh	长干/S-Ns	
+
+美国/S-Ns	
+贾岛/S-Nh	
+
+秦始皇/S-Nh	中国/S-Ns	
+金庸/S-Nh	
+北冰洋/S-Ns	
+黄晓明版/S-Nh	东方朔/S-Ns	
+非洲/S-Ns	南非/S-Ns	
+德国/S-Ns	
+台湾/S-Ns	汪辜/S-Nh	汪/S-Nh	
+中国/S-Ns	
+阿尔及利亚/S-Ns	
+
+
+
+英国/S-Ns	香港/S-Ns	
+
+
+
+京华/S-Ns	董洁/S-Nh	
+周/B-Nh	星驰/E-Nh	
+刘德华/S-Nh	张学友/S-Nh	张曼玉/S-Nh	
+金庸/S-Nh	
+周华健/S-Nh	台湾/S-Ns	
+
+勒布朗/B-Nh	詹姆斯/E-Nh	
+德国/S-Ns	
+法国/B-Ns	香榭丽舍/E-Ns	
+贾平凹/S-Nh	
+
+
+
+
+
+史密斯/S-Nh	布拉德·皮特/S-Nh	
+
+金陵/S-Ns	元春/S-Nh	
+越南/S-Ns	
+江南/S-Ns	
+洛桑/S-Ns	欧洲/S-Ns	
+
+欧洲/S-Ns	
+香港/S-Ns	罗湖/S-Ns	
+哥伦布/S-Nh	大西洋/S-Ns	
+
+
+
+
+
+花式/B-Ni	九/I-Ni	球/E-Ni	
+
+司马光/S-Nh	中国/S-Ns	
+非洲/S-Ns	非洲/S-Ns	
+马季/S-Nh	
+北美洲/S-Ns	
+北京/B-Ns	海淀区/E-Ns	
+吴三桂/S-Nh	吴应雄/S-Nh	
+
+毛泽东/S-Nh	
+韩国/B-Ns	汉城/E-Ns	
+卧佛寺/S-Ns	东南亚/S-Ns	
+
+加拿大/S-Ns	七大洲/S-Ns	
+武松/S-Nh	武松/S-Nh	
+
+
+
+范仲淹/S-Nh	岳阳楼/S-Ns	岳阳楼/S-Ns	
+周/B-Nh	星驰/E-Nh	香港/S-Ns	
+李宗仁/S-Nh	白崇禧/S-Nh	
+新西兰/S-Ns	
+苏轼/S-Nh	赤壁/S-Ns	
+
+香港/S-Ns	
+
+南非/S-Ns	南非/S-Ns	南非/S-Ns	
+孙萌萌/S-Nh	中国/S-Ns	
+
+长白山/S-Ns	
+
+硅谷/S-Ns	美国/S-Ns	
+
+
+
+哈尔滨/B-Ni	工业/I-Ni	大学/E-Ni	
+梁朝伟/S-Nh	何兵/S-Nh	
+
+刘邦/S-Nh	项庄舞剑/S-Nh	
+
+
+
+林俊杰/S-Nh	金莎/S-Nh	
+山东/B-Ni	鲁能/I-Ni	泰山/I-Ni	足球队/I-Ni	领袖/E-Ni	中乙/B-Ni	青岛/I-Ni	海牛/I-Ni	俱乐部队/I-Ni	主教练/E-Ni	
+
+英国/S-Ns	蒙哥马利/S-Nh	德国/S-Ns	
+中国/S-Ns	
+
+马来西亚/S-Ns	陈庆祥/S-Nh	
+
+长江/S-Ns	
+
+
+
+
+哈利·波特/S-Nh	
+北美洲/S-Ns	亚洲/S-Ns	
+台湾/S-Ns	
+
+爱因斯坦都/S-Nh	
+崔颢/S-Nh	晴川/S-Ns	
+
+唐僧/S-Nh	
+韩愈/S-Nh	
+胡军版/S-Nh	阿紫/S-Nh	
+大亨/B-Nh	默多克/E-Nh	
+法国/B-Ni	人大/E-Ni	卫贝尔/S-Nh	
+
+
+
+河北/S-Ns	河南/S-Ns	
+蔡/S-Nh	
+红海/S-Ns	
+
+
+凉州/S-Ns	
+龙门/S-Ns	
+湖南/S-Ns	
+都江堰/S-Ns	李冰/S-Nh	
+中东/S-Ns	伊朗/S-Ns	
+
+
+
+
+
+钱钟书/S-Nh	
+纽约/B-Ni	证券/I-Ni	交易所/E-Ni	美国/B-Ns	纽约/E-Ns	
+北岳/S-Ns	
+
+
+
+北京/S-Ns	天安门/S-Ns	
+
+
+俄罗斯/S-Ns	
+
+杜牧/S-Nh	赤壁/S-Ns	周郎/S-Nh	周郎/S-Nh	
+圆明园/S-Ns	欧洲/S-Ns	蒋友仁/S-Nh	
+
+伏明霞/S-Nh	香港/S-Ns	
+
+
+太平洋/S-Ns	
+
+
+诸葛亮/S-Nh	
+
+
+
+辛弃疾/S-Nh	京口/B-Ns	北固/E-Ns	
+
+
+
+卜学亮/S-Nh	孔子/S-Nh	
+
+
+慈禧/S-Nh	
+圆明园/S-Ns	英/S-Ns	法/S-Ns	
+
+
+孙悟空/S-Nh	
+秘鲁/S-Ns	
+诸葛亮/S-Nh	
+中国/S-Ns	特松加/S-Ns	
+
+
+罗隐/S-Nh	
+希腊/S-Ns	
+
+
+
+
+伦敦/S-Ns	中国/S-Ns	
+道尔顿/S-Nh	
+尼克松/S-Nh	
+
+台湾/S-Ns	
+欧洲/S-Ns	
+贝多芬/S-Nh	
+中国/S-Ns	
+飞禽/B-Ns	公园/E-Ns	东南亚/S-Ns	
+中国/S-Ns	
+纽约市/S-Ns	
+
+欧洲/S-Ns	
+小诸葛/S-Nh	李宗仁/S-Nh	李白/S-Nh	
+黄山/S-Ns	
+
+
+
+
+中国/S-Ns	
+印度/S-Ns	
+黄磊/S-Nh	
+富士康/B-Ni	科技/I-Ni	集团/E-Ni	台湾/S-Ns	
+英达/B-Ni	导演/E-Ni	宋丹丹/S-Nh	梁天/S-Nh	关凌/S-Nh	中国/S-Ns	
+
+北京/S-Ns	
+
+欧洲/S-Ns	拉脱维亚/S-Ns	波罗的海/S-Ns	
+
+
+
+
+
+
+周杰伦/S-Nh	台湾/S-Ns	
+
+吉林省/S-Ns	
+美国/S-Ns	太平洋/S-Ns	
+陈嘉庚/S-Nh	福建省/S-Ns	
+宋江/S-Nh	
+
+
+
+
+西藏/S-Ns	
+亚洲/S-Ns	北美洲/S-Ns	
+非洲/S-Ns	
+
+南欧/S-Ns	西亚/S-Ns	
+
+
+
+蒂凡尼/S-Nh	雪莉/S-Nh	
+欧洲/S-Ns	
+
+欧洲/S-Ns	
+巴西/S-Ns	
+
+西班牙/S-Ns	
+诺贝尔/S-Nh	
+
+秦泰/B-Ni	集团/E-Ni	
+
+曹格/S-Nh	
+美国/S-Ns	
+欧洲/S-Ns	
+诸葛亮/S-Nh	
+中国/S-Ns	
+
+王维/S-Nh	安西/S-Ns	
+
+
+马来西亚/S-Ns	
+
+高尔基/S-Nh	
+韦小宝/S-Nh	梁朝伟/S-Nh	康熙/S-Nh	香港/S-Ns	
+郭/B-Nh	敬明/E-Nh	
+祥子/S-Nh	
+
+
+光良/S-Nh	
+
+
+
+阿拉伯/S-Ns	
+庞贝城/S-Ns	赫库兰尼姆城/S-Ns	
+罗大佑/S-Nh	
+温州/S-Ns	
+台湾/S-Ns	
+官渡/S-Ns	
+
+
+
+
+金庸/S-Nh	任盈盈/S-Nh	洛阳/S-Ns	
+
+四川/S-Ns	
+
+
+
+
+
+
+
+曼联队/S-Ni	英格兰/S-Ns	
+宋应星/S-Nh	
+
+隋文帝/S-Nh	
+
+内蒙古/B-Ns	自治区/E-Ns	
+美国/S-Ns	埃尔维斯·普莱斯利/S-Nh	
+
+卢浮宫/S-Ns	
+印度/S-Ns	
+
+贝加尔湖/S-Ns	
+亚洲/S-Ns	
+金沙江/S-Ns	
+
+苏联/S-Ns	
+金庸/S-Nh	
+
+上海/S-Ns	浦东/B-Ns	国际/I-Ns	机场/E-Ns	
+里斯本/S-Ns	欧洲/S-Ns	
+
+阿尔及利亚/S-Ns	
+
+
+
+
+金庸/S-Nh	梅超风/S-Nh	
+冯小刚/S-Nh	
+
+
+
+香菱/S-Ns	
+德国/S-Ns	法国/S-Ns	
+中国/S-Ns	
+
+李清照/S-Nh	
+
+
+
+祁连山/S-Ns	
+
+
+
+白俄罗斯/S-Ns	
+冰岛/S-Ns	
+
+德国/S-Ns	
+法国/S-Ns	拿破仑/S-Nh	中国/S-Ns	
+
+五十六族/B-Ni	兄弟/I-Ni	姐妹/E-Ni	宋祖英/S-Nh	
+挪威/S-Ns	
+
+法国/S-Ns	巴西队/S-Ni	
+梁山/S-Ns	
+长城/S-Ns	临洮/S-Ns	朝鲜/S-Ns	
+
+
+
+
+美国/S-Ns	
+日本/S-Ns	
+
+
+法国/S-Ns	巴黎/S-Ns	
+郭靖/S-Nh	江南/S-Ns	
+祝家庄/S-Ns	梁山/S-Ns	梁山/S-Ns	
+肖申克/S-Nh	安迪/S-Nh	
+元芳/S-Nh	元芳/S-Nh	
+
+武汉/S-Ns	武昌/S-Ns	
+
+华西村/S-Ns	
+汤姆索亚/S-Nh	美国/S-Ns	
+
+
+杨/S-Nh	
+
+北京/S-Ns	
+方文山/S-Ns	
+芝加哥/B-Ni	公牛队/E-Ni	丹尼斯.罗德曼/S-Nh	
+香港/S-Ns	
+延边/B-Ns	地区/E-Ns	
+居里夫人/S-Nh	欧洲/S-Ns	
+
+
+台湾/S-Ns	张宇/S-Nh	
+
+
+
+
+黑海/S-Ns	地中海/S-Ns	
+
+美国/S-Ns	西欧/S-Ns	北美/S-Ns	国际/B-Ni	军事/I-Ni	集团/E-Ni	
+
+史密斯/S-Nh	汤米./B-Nh	李./I-Nh	琼斯/E-Nh	
+蜀汉/S-Ns	诸葛亮/S-Nh	
+中国/S-Ns	长城/S-Ns	
+
+中国/S-Ns	
+
+
+
+
+
+
+
+张/B-Nh	嘉译/E-Nh	
+中国/S-Ns	
+陆游/S-Nh	
+
+秦观/S-Nh	
+
+
+阿曼达·斯尔沃/S-Nh	
+金庸/S-Nh	华山/S-Ns	
+祥林嫂/S-Nh	
+广州/S-Ns	孙中山/S-Nh	广州/S-Ns	陈炯明/S-Nh	
+乌克兰/S-Ns	
+后街/S-Ns	
+
+中央/B-Ni	银行/E-Ni	
+
+杜牧/S-Nh	
+韦唯/S-Nh	亚洲/S-Ns	北京/S-Ns	
+中国/B-Ni	营养/I-Ni	学会/E-Ni	
+李嘉存/S-Nh	
+李安/S-Nh	少年派/S-Nh	
+江苏/B-Ns	高邮/E-Ns	
+
+伽利略/S-Nh	比萨/S-Ns	欧洲/S-Ns	欧洲/S-Ns	
+
+项羽/S-Nh	侯王/S-Nh	
+陈仓/S-Nh	
+金庸/S-Nh	
+承德/S-Ns	
+冯梦龙/S-Nh	
+
+
+哈尔滨/S-Ns	
+牛顿/S-Nh	
+大洋洲/S-Ns	
+
+香港/S-Ns	张大勇/S-Nh	
+沙特阿拉伯/S-Ns	印度/S-Ns	卡塔尔/S-Ns	
+齐国/S-Ns	鲁国/S-Ns	
+范玮琪/S-Nh	
+
+
+
+
+
+
+
+
+
+贝斯手尼奇.思克斯/S-Nh	
+
+
+毕达哥拉斯/S-Nh	中国/S-Ns	
+日本/S-Ns	
+成龙/S-Nh	黄飞鸿/S-Nh	
+
+
+南湖/S-Ns	南湖/S-Ns	
+英国/S-Ns	
+
+
+
+
+越南/B-Ni	货币/E-Ni	
+苏洵/S-Nh	苏轼/S-Nh	
+
+
+古巴/S-Ns	劳尔/S-Nh	切格瓦拉/S-Nh	古巴/S-Ns	
+
+德国/S-Ns	巴拉克/S-Nh	
+
+魏子安/S-Nh	
+蒋海澄/S-Nh	
+云南/B-Ns	丽江/E-Ns	四川省/S-Ns	
+奥本山宫/S-Ns	奥本山宫/S-Ns	
+
+
+
+英国/S-Ns	伊丽莎白/S-Nh	
+
+张国立/S-Nh	王刚/S-Nh	
+
+中国队/S-Ni	
+意大利/S-Ns	
+
+
+卡塔尔/S-Ns	
+
+
+德国/S-Ns	
+
+
+深圳/S-Ns	
+
+陈永仁/S-Nh	香港/S-Ns	
+胡志明市/S-Ns	
+浙江省/S-Ns	
+埃托奥/S-Nh	非洲/S-Ns	
+毛/S-Nh	
+
+
+陈小生/S-Nh	香港/S-Ns	
+美国/S-Ns	
+斯洛克/S-Nh	欧洲/S-Ns	
+
+
+
+秦观/S-Nh	
+
+
+新疆/S-Ns	鄯善/S-Ns	
+南派三叔/S-Nh	
+晏殊/S-Nh	
+
+
+
+
+克隆岛/S-Ns	英国/S-Ns	
+
+
+周恩来/S-Nh	邓小平/S-Nh	欧洲/S-Ns	
+巴米/B-Nh	杨佛/E-Nh	中亚/S-Ns	
+台湾/S-Ns	
+孙权/S-Nh	
+荷兰/S-Ns	
+
+江苏/S-Ns	欧阳德/S-Nh	欧阳德/S-Nh	
+
+
+安徒生/S-Nh	
+
+
+韩国/S-Ns	安贞焕/S-Nh	
+比利时/S-Ns	
+孔子/S-Nh	
+
+
+南锣鼓巷/S-Ns	
+
+
+兴登堡/S-Ns	新泽西州/S-Ns	
+武松/S-Nh	
+
+内蒙古/B-Ns	自治区/E-Ns	
+
+牛顿/S-Nh	
+阿尔卑斯山/S-Ns	瑞士/S-Ns	
+
+
+李绅/S-Nh	
+青藏/B-Ns	高原/E-Ns	布达拉宫/S-Ns	
+林黛玉/S-Nh	
+巴黎/S-Ns	
+
+乔丹/S-Nh	
+鲁迅/S-Nh	
+
+朱重八/S-Nh	
+安徽省/S-Ns	凤阳县/S-Ns	
+克林顿/S-Nh	美国/S-Ns	
+溥仪/S-Nh	
+黑龙江省/S-Ns	
+法国/S-Ns	
+
+塔里木河/S-Ns	
+
+中国/S-Ns	
+史记./B-Nh	高祖/E-Nh	
+好莱坞/S-Ns	
+刘彻/S-Nh	
+于谦/S-Nh	
+戴安娜/S-Nh	查尔斯/S-Nh	英国/S-Ns	
+
+
+
+
+毛/S-Nh	
+
+加利福尼亚/S-Ns	
+齐鲁/S-Ns	
+中国/B-Ni	国家/I-Ni	男子/I-Ni	篮球队/E-Ni	
+
+美国/S-Ns	
+法国/S-Ns	德国/S-Ns	
+
+
+
+
+
+香港/S-Ns	
+中国/S-Ns	印度/S-Ns	喜马拉雅山脉/S-Ns	
+
+
+康有为/S-Nh	
+中国/S-Ns	
+
+
+内蒙古/B-Ns	自治区/E-Ns	
+浙江省/B-Ns	嘉善县/E-Ns	江南/S-Ns	
+缅甸/S-Ns	
+
+
+
+北京市/S-Ns	
+
+
+晏殊/S-Nh	
+安徽/B-Ns	地区/E-Ns	
+
+
+
+
+
+苏州/S-Ns	
+
+香港/S-Ns	香港/S-Ns	
+中国/S-Ns	
+
+
+
+圣索菲亚/S-Ns	
+平顶山/S-Ns	
+
+古巴/S-Ns	
+
+中国/B-Ni	台湾/I-Ni	女子/I-Ni	职业/I-Ni	高尔夫球手/E-Ni	
+塞内加尔/S-Ns	科特迪瓦/S-Ns	
+
+张学友/S-Nh	
+桂林/S-Ns	
+大西洋/S-Ns	太平洋/S-Ns	
+中国/S-Ns	
+贝克汉姆/S-Nh	
+
+刘邦/S-Nh	
+
+
+宋霭龄/S-Nh	宋庆龄/S-Nh	宋氏/S-Nh	蒋介石/S-Nh	
+吉林省/S-Ns	
+
+
+迪斯尼/B-Ni	公司/E-Ni	胡迪/S-Nh	
+欧阳修/S-Nh	
+阿根廷/S-Ns	马拉多纳/S-Nh	
+
+
+齐国/S-Ns	齐宣/B-Nh	王立/E-Nh	
+葛优/S-Nh	戛纳/S-Ns	
+
+
+
+加纳利岛/S-Ns	
+刘易斯/S-Nh	
+中国/S-Ns	
+林永健/S-Nh	
+
+阿尔及利亚/S-Ns	
+毛泽东/S-Nh	湖南省/S-Ns	
+中国/S-Ns	
+秦国/S-Ns	
+翠华山/S-Ns	
+
+沙家浜/S-Ns	
+
+
+诸葛亮/S-Nh	
+德国/S-Ns	
+肖邦/S-Nh	波兰/S-Ns	
+陕北/S-Ns	
+
+娜塔莉·波特曼/S-Nh	
+哈尔滨/S-Ns	
+
+蒙娜丽莎/S-Nh	台湾/S-Ns	
+
+
+
+香港/S-Ns	
+金庸/S-Nh	
+北京大学/S-Ni	
+
+
+朝鲜/S-Ns	北朝鲜/S-Ns	金日成/S-Nh	南/S-Ns	韩/S-Ns	
+
+中国/S-Ns	毛尖/S-Nh	河南省/S-Ns	
+
+
+
+
+
+
+帖睦尔/S-Ns	元文宗/S-Nh	
+
+
+王菲/S-Nh	窦唯/S-Nh	
+
+
+中国/S-Ns	
+孟郊/S-Nh	
+赵薇版/S-Nh	小燕子/S-Nh	
+
+法国/S-Ns	雨果/S-Nh	冉./S-Nh	
+张家界/S-Ns	
+伊拉克/S-Ns	叙利亚/S-Ns	
+王勃/S-Nh	
+金庸/S-Nh	
+洱海/S-Ns	
+罗马/S-Ns	
+南美洲/S-Ns	
+哥伦布/S-Nh	欧洲/S-Ns	
+
+中国/S-Ns	
+
+李白/S-Nh	
+何求/S-Nh	香港/S-Ns	
+
+黄河/S-Ns	渤海/S-Ns	
+
+中华人民共和国/S-Ns	
+
+
+葡萄牙/S-Ns	
+南美洲/S-Ns	
+东山岭/S-Ns	
+
+维也纳/S-Ns	
+
+鲁迅/S-Nh	
+赵敏/S-Nh	叶童/S-Nh	张无忌/S-Nh	台湾/S-Ns	
+八千里路云/S-Nh	
+尼亚/B-Ni	加拉/I-Ni	瀑布/E-Ni	加拿大/S-Ns	
+
+
+美国/S-Ns	
+傅明/S-Nh	
+金庸/S-Nh	
+英国/S-Ns	
+
+
+曹操/S-Nh	
+韩国/S-Ns	
+
+穆里尼奥/S-Nh	
+新疆/S-Ns	玉龙喀什河/S-Ns	
+
+古巴/S-Ns	
+
+哈利波特/S-Nh	
+卡雷拉斯/S-Nh	帕瓦罗蒂/S-Nh	
+
+法国/S-Ns	阿尔蒴斯/S-Nh	
+
+
+陈/B-Nh	奕迅/E-Nh	香港/S-Ns	
+
+纽约/S-Ns	
+
+
+
+南唐/S-Ns	宋太祖/S-Nh	
+李连杰/S-Nh	雷婷婷/S-Nh	
+
+
+
+中国/S-Ns	
+
+解放碑/S-Ns	
+台湾/S-Ns	
+
+
+
+
+中国/S-Ns	
+法国/S-Ns	巴黎/S-Ns	
+毛泽东/S-Nh	湖南/S-Ns	
+
+
+
+美国/S-Ns	鲍姆/S-Nh	美国/S-Ns	
+郑州/S-Ns	
+亚洲/S-Ns	
+锡兰/S-Ns	亚洲/S-Ns	
+
+雅典/S-Ns	中国队/S-Ni	西班牙队/S-Ni	
+
+
+
+戴望舒/S-Nh	
+宋/S-Nh	江南/S-Ns	
+
+
+大连池/S-Ns	
+
+姑苏城/B-Ns	外寒山寺/E-Ns	
+王宝强/S-Nh	
+戴安娜/S-Nh	查尔斯/S-Nh	英国/S-Ns	
+燕青/S-Nh	
+台湾/S-Ns	
+中国/S-Ns	
+蜀国/S-Ns	
+
+美国/S-Ns	墨西哥/S-Ns	北美洲/S-Ns	
+
+塔里木/B-Ns	盆地/E-Ns	
+卧龙/S-Nh	
+黄蜂队/S-Ni	
+王平/S-Nh	
+
+北欧/S-Ns	
+
+江苏/S-Ns	阿牛/S-Nh	黄品源/S-Nh	
+
+
+中南/B-Ns	半岛/E-Ns	老挝/S-Ns	
+
+
+荷兰/S-Ns	卡尔德/S-Nh	古力特/S-Nh	
+周迅/S-Nh	大明/S-Ns	
+
+欧洲/S-Ns	安道尔公国/S-Ns	法国/S-Ns	
+中国/S-Ns	赵宏博/S-Nh	
+俄罗斯/S-Ns	太平洋/S-Ns	符拉迪沃斯托克/S-Ns	
+国际/B-Ni	足联/E-Ni	
+中国/S-Ns	
+奥匈帝国/S-Ns	哈布斯堡/B-Ni	王朝/I-Ni	家族/I-Ni	皇宫/E-Ni	欧洲/S-Ns	
+
+上海/B-Ns	陆家嘴/E-Ns	哪座/B-Ns	大厦/E-Ns	中国/S-Ns	
+新疆/B-Ns	维吾尔族/I-Ns	自治区/E-Ns	
+
+温实初/S-Nh	
+
+曹植/S-Nh	
+
+南亚/S-Ns	亚洲/S-Ns	
+安徽/S-Ns	
+亚洲/S-Ns	
+
+
+漳河/S-Ns	
+
+
+
+北京市/S-Ns	
+萨克拉门托/S-Ns	
+法国/S-Ns	法国/S-Ns	
+郭德纲/S-Nh	
+彼得/S-Nh	
+
+琉球/S-Ns	日本/S-Ns	
+
+泰国/S-Ns	湄公河/S-Ns	老挝/S-Ns	
+中国/S-Ns	
+
+
+
+林/B-Nh	书豪/E-Nh	
+日本/B-Ni	东京/I-Ni	武道馆/E-Ni	亚洲/S-Ns	王/S-Nh	
+伦敦/S-Ns	
+中国/S-Ns	蔡文姬/S-Nh	
+华尔街/S-Ns	
+日本/S-Ns	
+孙楠/S-Nh	
+南京/S-Ns	紫金山/S-Ns	
+林则徐/S-Nh	广东省/S-Ns	
+朝鲜/S-Ns	美国/S-Ns	
+李尧棠/S-Nh	
+危乎/S-Ns	李白/S-Nh	
+
+
+贾宝玉/S-Nh	金裘/S-Nh	
+
+北京/S-Ns	
+北京/S-Ns	
+还珠格格/S-Nh	
+
+李大钊/S-Nh	
+孙子/S-Nh	
+
+武宗/S-Nh	
+东海/S-Ns	
+
+
+迪克.克拉克/S-Nh	
+
+
+
+冯小刚/S-Nh	台湾/S-Ns	
+
+
+诸葛亮/S-Nh	
+意大利/B-Ns	罗马/E-Ns	
+
+
+移动/B-Ni	公司/E-Ni	
+
+杭州/S-Ns	汴州/S-Ns	汴州/S-Ns	中国/S-Ns	河南/S-Ns	
+
+云南/S-Ns	
+
+天津/S-Ns	
+蔡/S-Nh	
+徐长卿/S-Nh	台湾/S-Ns	
+
+贾宝玉/S-Nh	
+
+
+
+
+佐罗/S-Nh	
+
+华盛顿/B-Ni	大学/E-Ni	星巴克/B-Ni	总部/E-Ni	美国/S-Ns	太平洋/S-Ns	
+鲁迅/S-Nh	周树人/S-Nh	
+
+
+
+司南/S-Nh	
+罗马/S-Ns	
+陕北/S-Ns	
+
+
+
+中国/S-Ns	
+美国/S-Ns	太平洋/S-Ns	圣迭戈市/S-Ns	圣地亚哥市/S-Ns	
+澳门/S-Ns	
+
+韩国/S-Ns	
+
+非洲/S-Ns	
+陈小生/S-Nh	香港/S-Ns	
+卢沟桥/S-Ns	卢沟/S-Ns	
+宫晓东/S-Nh	穆桂英/S-Nh	穆桂英/S-Nh	
+刘德华/S-Nh	
+阿拉斯加州/S-Ns	
+
+陈嘉庚/S-Nh	大学/B-Ni	士集美/I-Ni	大学/E-Ni	
+
+
+曹操/S-Nh	
+
+鉴湖/S-Ns	
+诺贝尔/S-Nh	
+中原/S-Ns	
+
+张爱玲/S-Nh	
+
+俄国/S-Ns	
+
+玛丽/S-Nh	柴可夫斯基/S-Nh	
+陈柏霖/S-Nh	林依晨/S-Nh	台湾/B-Ns	地区/E-Ns	
+文华/S-Nh	
+中国/S-Ns	
+
+
+彭浩翔/S-Nh	余文乐/S-Nh	杨千嬅/S-Nh	
+
+北京/S-Ns	
+
+美国/B-Ni	国家/I-Ni	航空/I-Ni	航天局/E-Ni	
+叶乔波/S-Nh	
+
+
+
+
+小李/S-Nh	香港/S-Ns	
+罗马里奥/S-Nh	巴西/S-Ns	
+
+
+
+王维/S-Nh	
+微软/S-Ni	
+
+
+
+
+
+金庸/S-Nh	天山/S-Ns	
+丁丁/S-Nh	丁丁/S-Nh	
+
+香港/S-Ns	
+王/S-Nh	
+
+欧洲/S-Ns	
+
+中国/S-Ns	台湾省/S-Ns	
+
+太平洋/S-Ns	
+
+
+漠河/S-Ns	
+红海/S-Ns	亚丁湾/S-Ns	
+
+
+萨克拉门托/S-Ns	
+
+黄晓明/S-Nh	
+金庸/S-Nh	
+美国/S-Ns	
+刘/B-Nh	备/E-Nh	荆州/S-Ns	
+
+香港/S-Ns	
+王羲之/S-Nh	
+
+中国/S-Ns	
+
+
+
+
+
+联合国/S-Ni	
+曹操/S-Nh	夏侯恼/S-Nh	夏侯楙/S-Nh	
+甘肃省/S-Ns	石窟/S-Ns	莫高窟/S-Ns	
+南屏/S-Ns	台湾/S-Ns	
+龙生龙/S-Nh	
+
+
+曹刿论战/S-Nh	曹刿/S-Nh	
+
+
+孟郊/S-Nh	
+希腊/S-Ns	
+
+凯尔特人队/S-Ni	
+
+苏联/S-Ns	欧洲/S-Ns	
+哈利·波特/S-Nh	
+
+张学良/S-Nh	
+
+张家界/S-Ns	
+奥匈帝国/S-Nh	
+塞纳河/S-Ns	欧洲/S-Ns	
+
+斯诺克/S-Ns	
+现任/B-Ni	三一/I-Ni	集团/E-Ni	
+阿信/S-Nh	阿信/S-Nh	台湾/S-Ns	
+
+
+
+江苏/B-Ns	连云港/E-Ns	
+孟子/S-Nh	
+欧洲/S-Ns	多行蒙德/S-Ns	
+北京/S-Ns	程峰/S-Nh	
+香港/S-Ns	郑/B-Nh	伊健/E-Nh	香港/S-Ns	
+
+海涅/S-Nh	欧洲/S-Ns	
+
+麦蒂/S-Nh	
+刘三姐/S-Nh	广西/S-Ns	
+
+法兰西/B-Ns	第一共和国/E-Ns	
+齐国/S-Ns	
+
+
+
+苏轼/S-Nh	
+河南省/S-Ns	
+
+陶渊明/S-Nh	
+
+深圳/S-Ns	香港/S-Ns	中国/S-Ns	
+四川/S-Ns	
+
+芝加哥/S-Ns	
+
+北京/S-Ns	中国/S-Ns	
+莎士比亚/S-Nh	
+
+中国/B-Ni	跳水队/E-Ni	林跃/S-Nh	
+雪佛兰/B-Ni	原产/E-Ni	
+
+江苏/B-Ns	连云港/E-Ns	
+刘璇/S-Nh	
+
+香港/S-Ns	
+
+
+
+金庸/S-Nh	康敏/S-Nh	
+
+
+台北/S-Ns	台北/S-Ns	
+长江/S-Ns	中国/S-Ns	
+曹/S-Nh	
+楚河/S-Ns	
+李逵/S-Nh	
+
+
+
+
+撒哈拉/B-Ns	沙漠/E-Ns	
+苏轼/S-Nh	赤壁/S-Ns	
+
+
+
+哈尔滨/B-Ni	工业/I-Ni	大学/E-Ni	
+刘禹锡/S-Nh	
+
+范晓萱/S-Nh	
+
+新西兰/S-Ns	
+阿根廷/S-Ns	
+阿拉伯/S-Ns	
+北平/S-Ns	中国/S-Ns	
+米莱/S-Nh	
+
+
+金陵/S-Ns	
+
+
+欧洲/S-Ns	
+
+鲁迅/S-Nh	
+北京/S-Ns	贝贝/S-Nh	晶晶/S-Nh	
+
+陈嘉上/S-Nh	
+
+
+中华人民共和国/S-Ns	
+
+英文/B-Ns	单词/E-Ns	
+贾宝玉/S-Nh	金陵/S-Ns	
+刘德华/S-Nh	
+强生/B-Ni	公司/E-Ni	
+西藏/S-Ns	
+台湾/S-Ns	周杰伦/S-Nh	
+金庸/S-Nh	郭靖幼/S-Nh	
+
+荷兰/S-Ns	
+
+
+
+新加坡/S-Ns	
+琼州/S-Ns	
+吕布/S-Nh	
+屈原/S-Nh	
+
+
+毛泽东/S-Nh	苏联/S-Ns	
+智利/S-Ns	
+布莱尔/S-Nh	
+美国/S-Ns	
+
+
+宋氏/S-Nh	孔祥熙/S-Nh	
+
+英国/S-Ns	
+
+广东/B-Ni	宏远队/E-Ni	
+美国/S-Ns	
+鲁迅/S-Nh	
+
+
+
+李亚鹏/B-Nh	王/I-Nh	菲/E-Nh	
+
+法国/S-Ns	英吉利/B-Ns	海峡/E-Ns	
+中国/S-Ns	
+好莱坞/S-Ns	美/S-Ns	韩国/S-Ns	
+珠穆朗玛峰/S-Ns	
+
+南斯拉夫/S-Ns	
+
+
+呼和浩特市/S-Ns	
+周瑜/S-Nh	刘/S-Nh	
+
+英文/B-Ns	单词/E-Ns	
+
+云梦山/S-Ns	清溪/S-Ns	鬼谷/S-Nh	
+中国/S-Ns	富豪榜/S-Nh	
+建宁/S-Nh	
+
+
+
+世界/B-Ni	贸易/I-Ni	组织/E-Ni	
+比尔.盖茨/S-Nh	
+
+
+
+
+
+
+香港/S-Ns	
+乌克兰/S-Ns	
+
+
+
+
+项羽/S-Nh	秦军/S-Nh	
+
+
+
+
+台湾/S-Ns	三毛/S-Nh	
+周/B-Nh	星驰/E-Nh	长江/S-Ns	周小狄/S-Nh	
+李连杰/S-Nh	
+
+
+
+中国/S-Ns	
+江苏/S-Ns	
+许仙魂魄/S-Nh	
+
+
+中国/S-Ns	李甲/S-Nh	
+四川/S-Ns	
+诸葛亮/S-Nh	庞统/S-Nh	
+
+金庸/S-Nh	
+张国立/S-Nh	邓婕/S-Nh	
+红海/S-Ns	亚丁湾/S-Ns	
+
+河南/S-Ns	王守义/S-Nh	
+
+
+美国/S-Ns	
+
+
+
+
+李商隐/S-Nh	
+朱元璋/S-Nh	
+西伯利亚/S-Ns	
+杨铁心/S-Nh	
+
+
+
+卢森堡/S-Ns	
+武丁/S-Ns	
+加利福尼亚州/S-Ns	美国/S-Ns	
+
+台湾/S-Ns	
+台湾/S-Ns	
+汤姆索亚/S-Nh	美国/S-Ns	
+武则天/S-Nh	长安/S-Ns	
+日本/S-Ns	
+关羽/S-Nh	
+南非/S-Ns	
+东三省/S-Ns	
+
+北京/B-Ni	奥运/I-Ni	中国/I-Ni	女子/I-Ni	体操队/E-Ni	中国/S-Ns	
+
+
+刘玉玺/S-Nh	
+
+
+秦观/S-Nh	
+武昌起义/S-Ns	
+北京/B-Ns	地区/E-Ns	
+香港/S-Ns	
+
+中国/S-Ns	婺源/S-Ns	
+
+安徽省/S-Ns	凤阳县/S-Ns	
+中国/S-Ns	
+台湾/S-Ns	
+中国/S-Ns	
+
+德国/S-Ns	
+王力宏/S-Nh	中国/S-Ns	
+舒伯特/S-Nh	
+希腊/S-Ns	
+
+哈利·波特/S-Nh	
+
+张一山/S-Nh	
+潘帕斯/B-Ns	平原/E-Ns	
+朱孝天/S-Nh	
+
+
+
+
+
+
+
+金庸/S-Nh	
+
+中国/S-Ns	
+
+
+欧洲/S-Ns	西班牙/S-Ns	
+
+
+美国/S-Ns	
+
+李娜/S-Nh	韩红/S-Nh	
+故宫/S-Ns	
+大西洋/S-Ns	美洲/S-Ns	欧洲/S-Ns	
+南屏/S-Ns	台湾/S-Ns	
+
+新疆/S-Ns	鄯善/S-Ns	
+中国/S-Ns	
+西湖/S-Ns	西湖/S-Ns	
+中国/S-Ns	
+吴贻弓/S-Nh	
+
+
+
+赵州桥/S-Ns	
+
+太湖/S-Ns	
+湘西/S-Ns	沈从文/S-Nh	湖南/S-Ns	
+赵丽蓉/S-Nh	
+俄罗斯/S-Ns	
+
+
+富兰克/S-Nh	
+郭沫若/S-Nh	中国/S-Ns	
+
+伊斯兰堡/S-Ns	
+
+
+爱莲/S-Nh	
+
+
+
+
+官渡/S-Ns	赤壁/S-Ns	
+
+中国/S-Ns	
+吴敏霞/S-Nh	
+台湾/S-Ns	
+曹丕/S-Nh	
+湖南/B-Ns	古丈县/E-Ns	
+金庸/S-Nh	黄蓉/S-Nh	
+
+
+日本/S-Ns	诺贝尔/S-Nh	
+
+李商隐/S-Nh	
+滕华涛/S-Nh	自崔曼莉/S-Nh	乔莉/S-Nh	
+唐玄宗/S-Nh	
+蒙古/S-Ns	
+中华人民共和国/S-Ns	
+南欧/S-Ns	西亚/S-Ns	
+
+古琴/S-Nh	
+
+森林狼队/S-Ni	
+亚洲/S-Ns	江苏/B-Ni	南钢队/E-Ni	
+金军/S-Nh	
+周迅/S-Nh	台湾/S-Ns	
+中国/S-Ns	
+莎士比亚/S-Nh	
+
+
+
+
+
+
+袁/S-Nh	
+安东尼奥./B-Nh	索洛.诺维罗/E-Nh	
+南美洲/S-Ns	北美洲/S-Ns	
+墨尔本/S-Ns	
+
+朝鲜/S-Ns	金/S-Nh	
+中国/S-Ns	
+亚洲/S-Ns	
+郭/S-Nh	香港/S-Ns	
+底格里斯河/S-Ns	
+加拿大/S-Ns	
+
+青海省/S-Ns	
+中国/S-Ns	
+
+
+瑞典/S-Ns	
+波兰/S-Ns	波兰/S-Ns	
+广东/S-Ns	
+美国/S-Ns	
+
+
+牡丹江/S-Ns	台湾/S-Ns	
+亚洲/S-Ns	
+汤姆.汉克斯/S-Nh	
+
+
+
+
+台北/S-Ns	台北/S-Ns	
+
+
+梁山伯/S-Nh	祝英台/S-Nh	孟姜女/S-Nh	中国/S-Ns	
+
+武汉/S-Ns	
+
+敦刻尔克/S-Ns	
+伦敦/B-Ni	奥运会/I-Ni	中国/I-Ni	女排/E-Ni	
+
+
+
+
+
+台湾/S-Ns	
+中国/S-Ns	
+辛弃疾/S-Nh	
+
+
+
+
+
+中国/S-Ns	浙江省/S-Ns	
+中国/S-Ns	
+霍元甲/S-Nh	
+中国/S-Ns	
+北京/B-Ni	奥运会/I-Ni	个人/E-Ni	美国/S-Ns	
+
+中国/S-Ns	
+李自成/S-Nh	北京/S-Ns	
+李鸿章/S-Nh	中国/S-Ns	
+
+湖人队/S-Ni	
+江苏省/S-Ns	
+希区/S-Nh	摩纳哥/S-Ns	美国/B-Ni	奥斯卡/I-Ni	影后/E-Ni	
+唐伯虎/S-Nh	
+
+
+张娟娟/S-Nh	
+
+金庸/S-Nh	
+中国/S-Ns	
+
+台湾/S-Ns	
+南京./B-Ns	武汉/E-Ns	
+中国/S-Ns	杨/B-Nh	丽萍/E-Nh	
+
+南诏国/S-Ns	都城/S-Ns	
+中国/S-Ns	
+俄国/S-Ns	
+
+
+朱元璋/S-Nh	
+杜甫/S-Nh	
+
+
+威尼斯/S-Ns	
+白居易/S-Nh	
+罗马/S-Ns	美/S-Ns	
+
+
+
+滑铁卢/S-Ns	
+张柏芝/S-Nh	香港/S-Ns	
+中国/S-Ns	
+缅甸/B-Ni	政府/E-Ni	仰光/S-Ns	
+
+
+亚洲/S-Ns	中国/S-Ns	
+中国/S-Ns	
+
+
+云南/S-Ns	
+
+
+
+
+
+南京/B-Ni	青奥会/E-Ni	
+辛弃疾/S-Nh	江西/S-Ns	
+长江/S-Ns	青海省/S-Ns	
+擎天柱/S-Nh	马克尔.贝/S-Nh	
+高晓松/S-Nh	台湾/S-Ns	
+金庸/S-Nh	郭啸天/S-Nh	郭靖/S-Nh	
+英国/S-Ns	
+
+
+金庸/S-Nh	
+
+大雄/S-Ns	
+
+黄健翔/S-Nh	意大利/S-Ns	
+
+
+杨/S-Nh	
+
+
+
+
+
+
+
+
+张爱玲/S-Nh	
+岳不群/S-Nh	华山/S-Ns	
+苏星河/S-Ns	丁春秋/S-Nh	
+雷霆队/S-Ni	
+
+
+
+老舍/S-Nh	中国/S-Ns	
+
+刘安/S-Nh	
+
+
+赵宝刚/S-Nh	
+俄罗斯/S-Ns	普京/S-Nh	
+陈道明/S-Nh	孙柔嘉/S-Nh	陈道明/S-Nh	
+日本/S-Ns	
+
+中国/S-Ns	
+中国/S-Ns	北京/S-Ns	
+陆游/S-Nh	
+法国/S-Ns	罗曼·罗兰/S-Nh	
+
+
+
+
+春娇/S-Nh	志明/S-Nh	张志明/S-Nh	北京/S-Ns	
+欧洲/S-Ns	
+
+贾宝玉/S-Nh	
+
+唐僧/S-Nh	
+
+
+泰森/S-Nh	
+尤赛/B-Nh	恩.博尔特/E-Nh	
+
+阿诗玛/S-Nh	
+隋炀帝/S-Nh	
+美国/S-Ns	美国/S-Ns	
+宝洁/B-Ni	公司/E-Ni	美国/S-Ns	
+诸葛亮/S-Nh	
+
+澳大利亚/S-Ns	
+
+李延年/S-Nh	
+
+大洋洲/S-Ns	
+
+意大利/S-Ns	
+
+中国/S-Ns	
+金庸/S-Nh	吐蕃/S-Ns	
+
+
+
+齐国/S-Ns	
+
+诺贝尔/S-Nh	
+江苏/S-Ns	欧/S-Ns	美/S-Ns	
+小明/S-Nh	小明/S-Nh	
+苏轼/S-Nh	
+
+
+香港/S-Ns	郑中基/S-Nh	
+
+
+中国/S-Ns	
+
+
+
+中国/S-Ns	楚河/S-Ns	刘邦/S-Nh	
+
+
+布拉德皮特/S-Nh	安吉丽娜朱莉/S-Nh	
+中国/S-Ns	
+
+阿拉伯湾/S-Ns	
+屈原/S-Nh	
+诸葛亮/S-Nh	
+楚/B-Nh	留香/E-Nh	香港/S-Ns	
+
+上海/S-Ns	上海/S-Ns	
+印度/S-Ns	印度/S-Ns	
+
+
+美国/S-Ns	
+美国/B-Ni	电影/I-Ni	公司/E-Ni	
+大连/B-Ni	实德/I-Ni	球员/E-Ni	英超/B-Ni	曼联/I-Ni	俱乐部/E-Ni	
+
+香港/B-Ni	喜剧/E-Ni	吴君如/S-Nh	
+昌平/S-Ns	
+中国/S-Ns	
+美国/S-Ns	
+
+
+恰达耶夫/S-Nh	俄国/S-Ns	
+北美/S-Ns	美国/S-Ns	美国/S-Ns	
+
+哈姆雷特/S-Nh	英国/S-Ns	
+中国/S-Ns	谢康乐/S-Nh	
+北京市/S-Ns	
+韩寒/S-Nh	
+
+
+姚/S-Nh	中国/S-Ns	
+荀子/S-Nh	
+岳不群/S-Nh	岳灵珊/S-Nh	
+
+
+
+
+
+韦唯/S-Nh	亚洲/S-Ns	北京/S-Ns	
+
+中国/S-Ns	
+中国/S-Ns	
+法国/S-Ns	
+
+日/S-Ns	韩/S-Ns	
+
+
+肯尼基/S-Nh	
+邦德/S-Nh	亚洲/S-Ns	
+美国/S-Ns	爱丽舍宫/S-Ns	欧洲/S-Ns	
+诺贝尔/S-Nh	
+台湾/S-Ns	
+
+邓小平/S-Nh	
+
+
+
+郭德纲/S-Nh	郭德纲/S-Nh	
+
+
+捷克/S-Ns	
+中国/B-Ni	体操/I-Ni	奥运/E-Ni	陈/S-Nh	中国/S-Ns	
+白毛女/S-Nh	
+委内瑞拉/S-Ns	
+伦敦/S-Ns	英国/S-Ns	布拉德利./B-Nh	维金斯/E-Nh	
+中国/S-Ns	辽宁/S-Ns	
+
+
+
+
+
+伦敦/S-Ns	
+
+凯撒/S-Nh	
+中国/S-Ns	浏阳河/S-Ns	
+
+
+澳大利亚/S-Ns	
+长江/S-Ns	
+金庸/S-Nh	
+肯特/B-Ni	州立/I-Ni	大学/I-Ni	枪杀案/E-Ni	
+洛阳市/S-Ns	
+安庆/S-Ns	
+木兰/S-Nh	
+
+
+南亚/S-Ns	
+
+
+美国/B-Ni	国会/E-Ni	
+
+百慕大/S-Ns	
+玮柏/S-Nh	张韶涵/S-Nh	
+北京/S-Ns	
+范晓萱/S-Nh	
+凤凰/S-Ns	海南省/S-Ns	
+林超贤/S-Nh	台湾/S-Ns	
+
+美国/S-Ns	克里斯.加德纳/S-Nh	
+
+黄小仙/S-Nh	王小贱/S-Nh	
+
+
+
+卡塔尔/S-Ns	
+
+王世子/S-Nh	韩国/S-Ns	
+
+黄河/S-Ns	
+
+韩国/S-Ns	首尔/S-Ns	
+
+
+
+
+龚琳娜/S-Nh	
+
+
+荷兰/S-Ns	
+
+
+
+
+毛泽东/S-Nh	
+
+北京/S-Ns	
+德国/S-Ns	
+美国/S-Ns	
+中国/S-Ns	
+
+中国/S-Ns	
+葛洲坝/S-Ns	
+
+中国/S-Ns	
+重庆/S-Ns	
+
+
+美国/B-Ns	纽约/E-Ns	美国/S-Ns	
+
+云南/S-Ns	西双版纳/S-Ns	
+
+周杰伦/S-Nh	
+孟京辉/S-Nh	
+香港/S-Ns	
+
+
+
+俄罗斯/S-Ns	
+台湾/S-Ns	
+
+
+
+
+中国/S-Ns	悉尼/S-Ns	
+
+
+
+
+
+
+刘备/S-Nh	白帝城/S-Ns	刘禅/S-Nh	
+
+陈升/S-Nh	北京/S-Ns	
+张若虚/S-Nh	春江/S-Ns	
+
+
+黑龙江/S-Ns	
+长江/S-Ns	黄河/S-Ns	
+毛/S-Nh	彭大/S-Nh	彭大/S-Nh	
+白居易/S-Nh	
+马来西亚/S-Ns	陈庆祥/S-Nh	
+
+上海/S-Ns	
+昭君/S-Nh	
+木兰/S-Nh	
+罗马/S-Ns	罗马/S-Ns	
+
+中东/S-Ns	
+
+
+金庸/S-Nh	韦小宝/S-Nh	
+德国/S-Ns	
+香港/S-Ns	
+李靖/S-Nh	
+张信哲/S-Nh	
+
+
+
+马德里队/S-Ni	阿根廷/S-Ns	
+柳永/S-Nh	
+梁振英/S-Nh	香港/B-Ni	特首/E-Ni	
+
+王/B-Nh	菲/E-Nh	
+
+刘欢/S-Nh	
+
+鲁迅/S-Nh	
+
+鲁迅/S-Nh	
+
+香港/S-Ns	李嘉诚/S-Nh	李泽楷/S-Nh	
+美国/S-Ns	伊拉克/S-Ns	
+
+
+周杰伦/S-Nh	
+
+
+钱江/S-Ns	
+台湾/S-Ns	纶镁/S-Nh	
+中国/S-Ns	
+
+
+
+美国/S-Ns	
+波士顿/S-Ns	
+
+
+
+
+明尼苏达/S-Ns	美国/S-Ns	
+
+
+
+
+
+哥伦比亚/B-Ni	大学/E-Ni	美国/S-Ns	
+
+体工/S-Ns	亚洲/S-Ns	
+
+刘禹锡/S-Nh	
+
+大三/S-Ns	巴/S-Ns	牌坊/S-Ns	
+日本/S-Ns	
+韦小宝/S-Nh	
+林徽因/S-Nh	
+
+岑参/S-Nh	
+英国/S-Ns	戴安娜/S-Nh	
+北京/S-Ns	李晨/S-Nh	
+马琳/S-Nh	
+佳木斯市/B-Ni	第19/I-Ni	中学/E-Ni	
+诸葛亮/S-Nh	
+
+甄嬛/S-Nh	
+
+
+
+
+
+
+双流/S-Ns	
+台湾/B-Ns	海峡/E-Ns	东海/S-Ns	
+
+西安/S-Ns	蒋介石/S-Nh	
+
+
+伦敦/S-Ns	美国/S-Ns	
+
+刘勰/S-Nh	
+
+美国/S-Ns	
+
+
+
+马龙/S-Nh	
+日本/S-Ns	
+
+
+
+李元霸/S-Nh	
+
+
+
+中国/B-Ni	共产党/E-Ni	
+
+
+欧洲/S-Ns	
+
+杜丽/S-Nh	雅典/S-Ns	中国队/S-Ni	
+
+贝克汉姆/S-Nh	
+诺贝尔/S-Nh	莫言/S-Nh	
+中/S-Ns	欧/S-Ns	捷克共和国/S-Ns	
+
+
+长江/S-Ns	
+
+
+毛里齐奥.贝里格林/S-Nh	
+
+马来西亚/S-Ns	
+
+北京/S-Ns	
+老舍/S-Nh	裕泰/S-Ns	
+
+南美洲/S-Ns	
+
+台湾/S-Ns	
+
+
+
+郑振铎/S-Nh	
+
+非洲/S-Ns	
+
+亚洲/S-Ns	哪个湾/S-Ns	
+
+
+米兰队/S-Ni	
+冯小刚/S-Nh	
+
+宋丹丹/S-Nh	
+
+希腊/S-Ns	特洛亚/S-Ns	希腊/S-Ns	
+李逵/S-Nh	李逵/S-Nh	
+
+赵本山/S-Nh	
+
+爱莲/S-Nh	
+
+柳永/S-Nh	
+李连杰/S-Nh	方世杰/S-Nh	雷/S-Nh	香港/S-Ns	
+
+苏格兰/S-Ns	
+中国/S-Ns	
+
+
+
+
+徐蚌/S-Nh	安徽/S-Ns	
+
+中国/B-Ni	农工党/E-Ni	
+
+中国/S-Ns	
+
+美/S-Ns	
+
+彭城/S-Ns	广东省/S-Ns	
+
+
+广西/B-Ns	壮族/I-Ns	自治区/E-Ns	
+美国/S-Ns	
+
+非洲/S-Ns	
+刘邦/S-Nh	项庄舞剑/S-Nh	
+韦德/S-Nh	詹姆斯/S-Nh	波什/S-Nh	
+
+
+德国/B-Ni	大众/I-Ni	汽车/E-Ni	
+
+金庸/S-Nh	杨康/S-Nh	
+
+
+
+
+埃及/S-Ns	
+台湾/S-Ns	张雨生/S-Nh	
+
+
+
+台湾/S-Ns	
+
+沈括/S-Nh	中国/S-Ns	
+台湾/S-Ns	
+
+徐静蕾/S-Nh	奥地利/S-Ns	
+喜马拉雅山/S-Ns	亚洲/S-Ns	
+
+鲁迅/S-Nh	
+台湾/S-Ns	纶镁/S-Nh	
+
+
+韩国/S-Ns	
+刘禹锡/S-Nh	周遭/S-Nh	
+岑参/S-Nh	
+意大利/B-Ni	国家/I-Ni	德比/E-Ni	米兰/S-Ns	
+
+
+徐克/S-Nh	黄飞鸿/S-Nh	
+死海/S-Ns	
+龙葵/S-Ns	
+
+
+诺贝尔/S-Nh	北欧/S-Ns	诺贝尔/S-Nh	
+
+长坂坡/S-Ns	
+康熙/S-Nh	中国/S-Ns	尼布楚/S-Ns	
+
+
+海城市/S-Ns	
+中国/S-Ns	
+庞海/S-Nh	
+
+北京/B-Ni	奥运会/E-Ni	
+北京/B-Ni	连邦/I-Ni	软件/I-Ni	产业/I-Ni	发展/I-Ni	公司/E-Ni	
+
+香港/S-Ns	
+
+金太郎/S-Nh	小米/S-Nh	
+小王/S-Nh	
+美国/B-Ni	高/I-Ni	科技/I-Ni	公司/E-Ni	
+
+中国/B-Ni	共产党/E-Ni	苏维埃共和国/S-Ns	
+北京/S-Ns	
+中国/S-Ns	埕北/S-Ns	
+
+
+狼牙山/S-Ns	
+中国/S-Ns	中国/S-Ns	
+
+
+
+中国/S-Ns	
+
+邓/B-Nh	丽君/E-Nh	
+
+韩/S-Nh	
+
+李斯/S-Nh	秦/S-Nh	
+
+
+
+台湾/S-Ns	
+
+美国/S-Ns	布莱克莱弗利/S-Nh	
+
+
+
+德国/S-Ns	莱茵/S-Ns	曼哈顿/S-Ns	
+
+湖北省/S-Ns	中国/S-Ns	
+
+台湾/S-Ns	
+万园/S-Ns	
+
+
+
+
+歌德/S-Nh	浮士德/S-Nh	浮士德/S-Nh	
+
+兰州市/S-Ns	兰州/S-Ns	
+
+中国/S-Ns	
+
+
+
+
+东阿镇/S-Ns	山东省/S-Ns	
+
+
+
+
+
+
+
+
+
+刘/S-Nh	
+
+台湾/S-Ns	陶/S-Nh	
+
+中国/B-Ni	体操/I-Ni	奥运/E-Ni	陈/S-Nh	中国/S-Ns	
+
+
+济州岛/S-Ns	
+大阪城/S-Ns	
+武天/S-Nh	
+
+
+比尔.盖茨/B-Ni	中学/E-Ni	
+
+
+木兰/S-Nh	
+刘备所/S-Nh	
+
+
+北京/S-Ns	什刹海/S-Ns	西海/S-Nh	
+
+
+
+
+
+
+唐山/S-Ns	
+宜兴/S-Ns	
+
+伦敦/S-Ns	普利茅斯/S-Ns	
+鲁迅/S-Nh	
+毛/S-Nh	
+
+李白/S-Nh	
+台湾/S-Ns	
+苏格兰/S-Ns	
+
+故宫/S-Ns	
+中国/S-Ns	
+周恩来/S-Nh	天津/S-Ns	
+上海/B-Ni	证券/I-Ni	交易所/I-Ni	股票/I-Ni	交易所/E-Ni	
+贝利/S-Nh	巴西/S-Ns	
+南美洲/S-Ns	
+沙县/S-Ns	
+孟子/S-Nh	
+木兰/S-Nh	
+美国/S-Ns	加拿大/S-Ns	
+
+慈禧/S-Nh	
+嬴政/S-Nh	
+
+李安/S-Nh	李慕白/S-Nh	
+
+关羽/S-Nh	赤壁/S-Ns	曹操/S-Nh	
+黄小仙/S-Nh	
+北京/S-Ns	旧书市/S-Ns	
+金庸/S-Nh	
+维也纳/S-Ns	
+
+莫泊桑/S-Nh	于勒/S-Nh	
+胡/S-Nh	美国/S-Ns	
+
+中国/S-Ns	
+
+
+
+伦敦/S-Ns	
+
+
+台湾/S-Ns	台湾/S-Ns	
+
+
+利物浦/S-Ns	
+
+
+
+胡错/S-Nh	
+美国/S-Ns	
+东北/B-Ns	平原/E-Ns	长江/S-Ns	
+步行者队/S-Ni	
+陈淑桦/S-Nh	香港/S-Ns	
+
+
+德国/S-Ns	
+武昌/S-Ns	
+南美/S-Ns	巴西/S-Ns	
+中国/B-Ni	汉族/I-Ni	法定/I-Ni	结婚/I-Ni	年龄/E-Ni	
+哈雷/S-Nh	
+迅雷/S-Nh	
+颜真卿/S-Nh	
+中国/S-Ns	刘国梁/S-Nh	
+
+
+云南/S-Ns	
+
+
+
+
+
+东北/B-Ni	林业/I-Ni	大学/E-Ni	
+
+
+赵/B-Nh	薇/E-Nh	
+王安石/S-Nh	
+
+迈阿密/S-Ns	
+
+
+上海/S-Ns	中国/S-Ns	
+中国/S-Ns	四川省/S-Ns	
+
+
+
+
+
+
+
+俄国/S-Ns	果戈里/S-Nh	
+唐玄宗/S-Nh	
+美国/B-Ni	国防部/I-Ni	办公地/E-Ni	
+
+达尔文/S-Nh	
+慕尼黑/S-Ns	
+
+英国/S-Ns	
+
+
+
+
+德国/S-Ns	
+
+
+
+齐桓公/S-Nh	
+
+
+
+巴芬湾/S-Ns	
+
+罗马/S-Ns	阿拉伯/S-Ns	
+
+厄瓜多尔/S-Ns	
+
+金庸/S-Nh	
+美国/S-Ns	
+白居易/S-Nh	
+葡萄牙/S-Ns	
+
+梁山/S-Ns	
+亚洲/S-Ns	台北/S-Ns	
+
+
+梅葆玖/S-Nh	
+
+
+胡适/S-Nh	
+
+牛郎/S-Nh	
+诸葛亮/S-Nh	
+安徒生相/S-Nh	英国/S-Ns	
+
+中国/S-Ns	沈万三/S-Nh	苏州/B-Ns	昆山/E-Ns	
+
+吴/B-Nh	奇隆/E-Nh	
+王昭君/S-Nh	
+
+
+诺维茨基/S-Nh	
+
+贾宝玉/S-Nh	
+金太郎/S-Nh	米/B-Nh	小米/E-Nh	
+太平洋/S-Ns	
+中国/S-Ns	西电东/S-Ns	
+黑龙江/S-Ns	
+凯撒/S-Nh	
+
+中国/S-Ns	
+中国/S-Ns	
+王迎/S-Nh	
+美国/S-Ns	
+法国/S-Ns	
+卫青/S-Nh	
+
+
+陈奕迅/S-Nh	
+
+杨家/S-Nh	
+
+鲁迅/S-Nh	孔乙己/S-Nh	
+台湾/S-Ns	李林/S-Nh	
+曲波/S-Nh	
+刘德凯/S-Nh	
+
+宝洁/B-Ni	公司/E-Ni	美国/S-Ns	
+
+
+日本/S-Ns	
+美国/S-Ns	
+
+北京/B-Ni	金隅队/E-Ni	马布里/S-Nh	
+亚洲/S-Ns	美国/S-Ns	
+成龙/S-Nh	林凤娇/S-Nh	
+陈/B-Nh	凯歌/E-Nh	昆仑/S-Ns	韩国/S-Ns	
+
+塞尔维亚/S-Ns	
+李连杰/S-Nh	
+加拿大/S-Ns	
+
+北京/S-Ns	李晨/S-Nh	
+
+阿拉伯/S-Ns	
+戴望舒/S-Nh	
+
+法国/B-Ns	巴黎/E-Ns	卢浮宫/S-Ns	
+司马南/S-Nh	
+
+
+法国/S-Ns	美国/S-Ns	
+
+
+
+
+
+朝鲜/S-Ns	
+剑桥/B-Ni	大学/E-Ni	
+
+
+英国/S-Ns	简./B-Nh	奥斯汀/E-Nh	
+马来西亚/S-Ns	
+
+法国/S-Ns	巴西队/S-Ni	
+金庸/S-Nh	杨/S-Nh	
+东南亚/S-Ns	
+
+
+樱木/S-Nh	
+
+
+长江/S-Ns	青海省/S-Ns	
+
+加州/S-Ns	美国/S-Ns	
+
+克里姆林宫/S-Ns	
+
+
+
+
+
+
+
+昆明湖/S-Ns	万寿山/S-Ns	
+
+诸葛亮/S-Nh	
+
+欧洲/S-Ns	
+
+曹操/S-Nh	
+
+
+
+
+
+中国/S-Ns	
+黑山共和国/S-Ns	
+
+
+徐铮/S-Nh	
+
+李世民/S-Nh	
+香港/S-Ns	
+巴西/S-Ns	巴西/S-Ns	
+死海/S-Ns	亚洲/S-Ns	巴勒斯坦/S-Ns	
+
+赵/S-Nh	赵/S-Nh	
+
+长江/S-Ns	中/S-Ns	
+西罗马/S-Ns	河南省/S-Ns	
+法国/S-Ns	
+澳门/S-Ns	欧洲/S-Ns	
+中国/S-Ns	杨炯/S-Nh	卢照邻/S-Nh	骆宾王/S-Nh	
+中国/S-Ns	
+金庸/S-Nh	
+
+
+西湖/S-Ns	
+
+
+北京/S-Ns	
+美国/S-Ns	鲍姆所/S-Nh	
+曼联队/S-Ni	纳尼/S-Nh	
+东方/S-Nh	
+
+德/S-Ns	
+
+
+
+爱新觉罗/S-Nh	
+李尧棠/S-Nh	
+北京/S-Ns	
+阿姆斯特丹/B-Ns	机场/E-Ns	
+
+
+
+江西省/S-Ns	
+
+
+
+
+黑龙江/S-Ns	
+李嘉欣/S-Nh	
+法国/S-Ns	罗丹/S-Nh	
+中国/S-Ns	美国/S-Ns	
+
+
+意大利/S-Ns	
+
+中国/S-Ns	
+
+台湾/S-Ns	
+
+东南亚/S-Ns	台湾/S-Ns	
+
+李四/S-Nh	
+
+好莱坞/S-Ns	彦祖/S-Nh	龚蓓苾/S-Nh	
+中国/S-Ns	
+池中/S-Nh	
+南非/S-Ns	利物浦队/S-Ni	乌拉圭/S-Ns	
+香港/S-Ns	谢/B-Nh	霆锋/E-Nh	
+
+
+
+羊村/S-Ns	
+
+
+张艺谋/S-Nh	中国/S-Ns	
+加拿大/S-Ns	
+秦始皇/S-Nh	
+
+
+李嘉欣/S-Nh	中国/S-Ns	
+吴夫差/S-Nh	吴王/S-Nh	
+
+刘彻/S-Nh	皇城/S-Ns	
+
+
+
+张克帆/S-Nh	台湾/S-Ns	
+
+星/B-Ni	美/E-Ni	
+意大利/S-Ns	罗马/S-Ns	
+英国/S-Ns	
+宝鸡/S-Ns	
+
+
+欧洲/S-Ns	
+
+
+
+胡适/S-Nh	
+
+
+姚学琛/S-Nh	香港/S-Ns	
+包公/S-Nh	
+希腊/S-Ns	丘比特/S-Nh	
+台湾/S-Ns	
+
+好莱坞/S-Ns	
+
+
+苏轼/S-Nh	赤壁/S-Ns	
+
+中国/S-Ns	
+周/B-Nh	星驰/E-Nh	阿梅/S-Nh	
+美国/S-Ns	
+台湾/S-Ns	
+
+南非/S-Ns	
+南美洲/S-Ns	
+美国/S-Ns	
+金/S-Nh	
+美国/S-Ns	美国/S-Ns	
+舒伯特/S-Nh	
+中国/S-Ns	北京/S-Ns	
+意大利/S-Ns	
+
+哈利波特/S-Nh	
+
+
+孙雯/S-Nh	中国/S-Ns	
+
+北京/S-Ns	
+
+
+峨眉山/S-Ns	
+
+王维/S-Nh	山东/S-Ns	
+
+
+日本/S-Ns	
+合肥/S-Ns	北京/S-Ns	
+
+周/B-Nh	星驰/E-Nh	阿银/S-Nh	
+台湾/S-Ns	
+
+中国/B-Ni	共产党/E-Ni	湖南/S-Ns	
+
+美国/S-Ns	
+
+罗马/S-Ns	
+
+
+
+
+蓬莱/S-Ns	
+
+
+美国/S-Ns	
+金庸/S-Nh	
+小玉/S-Nh	日本/S-Ns	
+
+中国/S-Ns	
+
+
+鲁班/S-Nh	鲁班/S-Nh	
+土耳其/S-Ns	
+联想/B-Ni	公司/E-Ni	联想/B-Ni	集团/E-Ni	
+
+
+齐国/S-Nh	赵国/S-Ns	
+古田/S-Ns	中国/B-Ni	共产党/E-Ni	
+金庸/S-Nh	韦小宝/S-Nh	
+
+柯南道尔/S-Nh	福尔摩斯/S-Nh	
+刘德华/S-Nh	
+
+
+姚若龙/S-Nh	台湾/S-Ns	
+
+西班牙/S-Ns	雷霆队/S-Ni	
+金城武/S-Nh	梁咏琪/S-Nh	
+安徽省/S-Ns	
+
+
+
+九江市/S-Ns	上饶市/S-Ns	
+纽约/S-Ns	
+韩国/S-Ns	
+李小龙/S-Nh	
+
+
+
+
+台湾/S-Ns	
+中国/S-Ns	
+瓦尔德内尔/S-Nh	
+
+慕尼黑/S-Ns	
+美国/S-Ns	
+肯塔基州/S-Ns	
+
+王/B-Nh	菲/E-Nh	
+
+法国/S-Ns	欧洲/S-Ns	
+
+
+刘邦/S-Nh	沛县/B-Ns	泗水郡/E-Ns	
+柳公权/S-Nh	颜真卿/S-Nh	
+中国/S-Ns	
+
+
+杨魏/S-Nh	
+
+滑铁卢/S-Ns	拿破仑/S-Nh	
+
+法国/B-Ns	巴黎/E-Ns	
+
+阿卡.汗/S-Nh	
+中央/B-Ni	电视台/E-Ni	
+
+鲁迅/S-Nh	
+
+庄子/S-Nh	黄河/S-Ns	
+
+刘翔/S-Nh	北京/S-Ns	
+中国/S-Ns	
+浙江省/S-Ns	
+孙中山/S-Nh	天津/S-Ns	
+贾思勰/S-Nh	中国/S-Ns	
+
+华山/S-Ns	
+深圳/S-Ns	
+南非/S-Ns	南非/S-Ns	南非/S-Ns	
+洛杉矶/S-Ns	洛杉矶/B-Ni	湖人队/E-Ni	
+美国/S-Ns	梅伦/S-Nh	
+
+
+
+中国/S-Ns	麦积山/S-Ns	
+
+西亚/S-Ns	哪个湾/S-Ns	
+
+芭比/S-Nh	
+香港/S-Ns	狗仔队/S-Ni	
+孙/B-Nh	燕姿/E-Nh	
+荷兰/S-Ns	
+
+美国/S-Ns	凤凰城/S-Ns	
+
+
+
+
+秦岭/S-Ns	
+美国/S-Ns	
+巴黎/S-Ns	
+
+
+红海/S-Ns	亚丁湾/S-Ns	
+斯琴格日乐/S-Nh	
+
+比利牛斯山/S-Ns	法国/S-Ns	伊比利亚/B-Ns	半岛/E-Ns	
+
+科比/B-Nh	·/I-Nh	布莱恩/E-Nh	
+张学友/S-Nh	
+
+长江/S-Ns	黄河/S-Ns	
+曾身披/S-Nh	热火队/S-Ni	
+达尔文/S-Nh	
+阿根廷/S-Ns	
+白居易/S-Nh	钱塘湖/S-Ns	
+杨子荣/S-Nh	
+
+西班牙/S-Ns	美国/S-Ns	
+
+老舍/S-Nh	
+汉族/B-Ns	地区/E-Ns	栖霞寺/S-Ns	江苏省/S-Ns	
+英国/S-Ns	
+薄伽丘/S-Nh	
+凤阳县/S-Ns	
+终南山/S-Ns	
+
+宜兴/S-Ns	
+中国/S-Ns	
+
+中国/B-Ni	卫生部/E-Ni	
+金门/S-Ns	美洲/S-Ns	
+鲁国/S-Ns	孔子/S-Nh	山东省/S-Ns	
+大理国/S-Ns	大理国/B-Ns	都城/E-Ns	
+
+
+瑞士/S-Ns	联合国/S-Ni	欧洲/S-Ns	世界/B-Ni	卫生/I-Ni	组织/E-Ni	
+潮汕/S-Ns	
+非洲/S-Ns	
+马克.扎克伯格/S-Nh	美国/S-Ns	
+
+中国/B-Ni	共产党/E-Ni	苏维埃共和国/S-Ns	
+欧阳修/S-Nh	
+
+
+中国/S-Ns	
+在羊村/S-Ns	
+曹操/S-Nh	曹操/S-Nh	曹操/S-Nh	
+黑龙江省/S-Ns	哈尔滨市/B-Ns	
+俄罗斯/S-Ns	
+朝鲜/S-Ns	
+上海/B-Ni	申花/I-Ni	足球/I-Ni	俱乐部/E-Ni	
+
+毛泽东/S-Nh	
+
+泰格伍兹/S-Nh	
+中国/S-Ns	河南/B-Ns	洛阳/E-Ns	中国/S-Ns	
+
+
+郭富城/S-Nh	
+中国/S-Ns	
+香港/S-Ns	
+
+阿拉伯/B-Ns	联合/I-Ns	酋长国/E-Ns	
+梁振英/S-Nh	香港/B-Ni	特首/E-Ni	
+
+金军/S-Nh	
+哥斯达黎加/S-Ns	
+
+希腊/S-Ns	
+
+
+贝蒂./S-Nh	
+齐达内/S-Nh	
+王莽/S-Nh	王莽/S-Nh	
+
+东瀛/S-Ns	亚洲/S-Ns	
+
+
+柏林/S-Ns	
+方文山/S-Nh	周杰伦/S-Nh	
+巴塞罗那队/S-Ni	西班牙/S-Ns	
+曹操/S-Nh	香港/S-Ns	
+
+
+
+
+
+崔莺莺/S-Nh	王实甫/S-Nh	
+陆小凤/S-Nh	
+刘备/S-Nh	杨/S-Nh	
+罗斯福/S-Nh	美国/S-Ns	
+
+
+
+张信哲/S-Nh	
+
+
+
+
+周/S-Nh	
+西藏/S-Ns	
+朝鲜/S-Ns	
+美国/S-Ns	
+印度/S-Ns	爱沙尼亚/S-Ns	
+成龙/S-Nh	李连杰/S-Nh	
+
+
+周瑜/S-Nh	
+
+南京/S-Ns	
+格林/S-Nh	
+新西兰/S-Ns	
+腾格尔/S-Nh	
+美国/S-Ns	
+香港/S-Ns	刘恺威/S-Nh	
+宋氏/S-Nh	宋霭龄/S-Nh	
+
+英国/S-Ns	法国/S-Ns	
+香港/S-Ns	
+
+中国/S-Ns	雷公/S-Nh	
+
+
+河北/B-Ns	秦皇岛市/E-Ns	
+辛/S-Nh	马王堆/B-Ns	汉墓/E-Ns	湖南省/S-Ns	
+巴/S-Ns	以/S-Ns	以色列/S-Ns	
+
+中国/S-Ns	
+
+
+少林寺/S-Ns	
+王力宏/S-Nh	
+吴常/S-Nh	
+鲁迅/S-Nh	
+
+苏宁/B-Nh	喜节/E-Nh	
+美国/S-Ns	
+巴西/S-Ns	
+姚晨/B-Nh	搭档/E-Nh	
+林黛玉/S-Nh	大观园/S-Ns	
+中国/S-Ns	
+周润发/S-Nh	
+
+
+
+
+
+中国/S-Ns	
+王安石/S-Nh	
+
+中央/B-Ni	电视台/E-Ni	
+
+
+
+广西/S-Ns	
+香港/S-Ns	
+
+英国/S-Ns	伦敦/S-Ns	
+爱丽丝/S-Nh	
+
+萨库拉/S-Nh	日本/S-Ns	
+
+奥本海默/S-Nh	
+哈利波特/S-Nh	
+高胜美/S-Nh	
+金庸/S-Nh	中原/S-Ns	
+王勃/S-Nh	滕王阁/S-Ns	
+
+
+科比/S-Nh	
+
+屈原/S-Nh	
+
+
+
+
+洪世贤/S-Nh	
+
+道尔顿/S-Nh	
+抗美援朝/B-Ni	中国/I-Ni	人民/I-Ni	志愿军/I-Ni	司令员/E-Ni	
+
+
+
+新疆/B-Ns	阿勒泰/E-Ns	
+
+
+
+水泊梁山/S-Ns	
+张三丰/S-Nh	
+美国/S-Ns	
+美国/B-Ni	国会/E-Ni	
+
+菲亚特/B-Ni	汽车/I-Ni	公司/E-Ni	欧洲/S-Ns	
+香港/S-Ns	
+
+
+上海/S-Ns	
+金庸/S-Nh	延平/S-Ns	郑成功/S-Nh	
+丹麦/S-Ns	
+
+
+印度/S-Ns	
+
+洪秀全/S-Nh	
+鲁迅/S-Nh	孔乙己/S-Nh	孔乙己/S-Nh	
+诸葛亮/S-Nh	
+希腊/S-Ns	Γ/S-Nh	γ/S-Nh	
+武丁/S-Nh	
+诺贝尔/S-Nh	
+
+
+江苏/S-Ns	
+
+勃兰登堡/S-Ns	
+
+薇安/S-Nh	
+
+顾秉林/S-Nh	
+
+莫言/S-Nh	德国/S-Ns	山东/S-Ns	
+小薇/S-Nh	台湾/S-Ns	
+
+
+丹江/S-Ns	
+柏林/B-Ni	国际/I-Ni	电影节/E-Ni	戛纳/B-Ni	国际/I-Ni	电影节/E-Ni	欧洲/S-Ns	
+汤汁鲜美/S-Nh	
+
+音乐/B-Ni	电视台/E-Ni	
+中国/S-Ns	
+柯南/S-Nh	
+
+博鳌/B-Ns	亚洲/E-Ns	
+九台/S-Ns	
+
+尼泊尔/S-Ns	
+西藏/S-Ns	
+
+
+乔丹/S-Nh	
+
+
+美国/S-Ns	
+
+九寨沟/S-Ns	
+青海湖/S-Ns	
+云南/S-Ns	
+
+李安/S-Nh	王佳芝/S-Nh	
+爱因斯坦/S-Nh	
+山西村/S-Ns	
+欧文斯/S-Nh	美国/S-Ns	
+帕丁森/S-Nh	
+非洲/S-Ns	
+大连/B-Ni	万达队/E-Ni	亚洲/S-Ns	
+查韦斯/S-Nh	
+莫言/S-Nh	德国/S-Ns	山东/S-Ns	
+狮驼岭/S-Ns	
+
+日本/S-Ns	
+美国/S-Ns	
+常/S-Nh	
+萧亚轩/S-Nh	
+
+宁夏/S-Ns	马来西亚/S-Ns	
+中国/S-Ns	
+欧洲/S-Ns	亚平宁/B-Ns	半岛/E-Ns	
+
+
+武则天/S-Nh	中国/S-Ns	
+
+
+
+莎士比亚/S-Nh	辛白林/S-Nh	
+
+
+郑振铎/S-Nh	
+
+
+西敏寺/S-Ns	英国/S-Ns	
+中国/S-Ns	九华山/S-Ns	普陀山/S-Ns	峨眉山/S-Ns	山西省/S-Ns	
+都柏林/S-Ns	
+
+
+长江/S-Ns	
+
+新加坡/S-Ns	
+大昭寺/S-Ns	小昭寺/S-Ns	西藏/B-Ns	自治区/E-Ns	
+郭开贞/S-Nh	
+法国/S-Ns	齐达内/S-Nh	
+大洋洲/S-Ns	
+
+英国/S-Ns	
+青藏/B-Ns	高原/E-Ns	
+山东/B-Ns	山西/E-Ns	
+辛弃疾/S-Nh	
+
+澳门/B-Ns	地区/E-Ns	
+印加/S-Ns	
+
+
+中国/S-Ns	
+
+范玮琪/S-Nh	
+台湾/S-Ns	
+
+杜甫/S-Nh	闻官军/S-Nh	河南/B-Ns	河北/E-Ns	
+伊辛巴耶娃/S-Nh	
+中国/S-Ns	
+鉴湖/S-Ns	
+南京/B-Ni	农业/I-Ni	大学/E-Ni	
+西安/S-Ns	
+
+金庸/S-Nh	
+
+
+王安石/S-Nh	
+乾隆/S-Nh	
+
+美国/S-Ns	
+
+中国/S-Ns	四川省/B-Ns	九寨沟/E-Ns	
+
+
+
+
+长沙/S-Ns	
+
+
+
+亚洲/S-Ns	
+
+中国/S-Ns	
+
+诺贝尔/S-Nh	
+王/B-Nh	菲/E-Nh	李亚鹏/S-Nh	
+
+日本/S-Ns	
+
+万里长城/S-Ns	山海关/S-Ns	
+
+成龙/S-Nh	香港/S-Ns	
+中国/S-Ns	
+
+
+巴西/S-Ns	
+
+
+欧洲/S-Ns	
+
+
+中国/S-Ns	
+杰克逊伯勒克/S-Nh	
+
+美国/S-Ns	
+托尼./B-Nh	布莱尔/E-Nh	欧洲/S-Ns	
+宋慧乔/S-Nh	亚洲/S-Ns	韩国/S-Ns	
+
+新西兰/S-Ns	
+
+顾炎武/S-Nh	
+红岩/S-Ns	重庆/S-Ns	江姐/S-Nh	
+中国/S-Ns	
+上海滩/S-Ns	冯程程/S-Nh	上海/S-Ns	
+
+
+
+
+
+邓华德/S-Nh	中国/S-Ns	
+梁羽生/S-Nh	中国/S-Ns	
+北欧/S-Ns	
+
+
+马尔维纳斯/S-Ns	英国/S-Ns	
+希腊/S-Ns	
+中国/S-Ns	中国/S-Ns	上海/S-Ns	
+古田/S-Ns	中国/B-Ni	共产党/E-Ni	
+欧洲/S-Ns	
+日本/S-Ns	
+
+
+
+
+金庸/S-Nh	
+地中海/S-Ns	大西洋/S-Ns	
+英国/S-Ns	斯洛克/S-Ns	
+吴承恩/S-Nh	唐僧/S-Nh	
+
+亚洲/S-Ns	
+黄河/S-Ns	
+美国/S-Ns	
+中国/B-Ni	游泳队/E-Ni	钱红/S-Nh	林莉/S-Nh	杨文意/S-Nh	王晓红/S-Nh	
+
+
+洞庭湖/S-Ns	
+欧洲/S-Ns	
+周杰伦/S-Nh	刘畊宏/S-Nh	
+陇海/S-Nh	甘肃省/S-Ns	
+
+
+
+希腊/S-Ns	
+
+亚洲/S-Ns	
+美国/S-Ns	
+
+
+
+杜琪峰/S-Nh	刘德华/S-Nh	郑秀文/S-Nh	
+詹妮弗安妮斯顿/S-Nh	
+南京/S-Ns	北京/S-Ns	朱棣/S-Nh	
+西奈/B-Ns	半岛/E-Ns	亚洲/S-Ns	
+中国/S-Ns	
+朝鲜/S-Ns	
+周杰伦/S-Nh	
+
+
+
+
+
+
+
+白居易/S-Nh	
+济公/S-Nh	济公/S-Nh	香港/S-Ns	
+中国/S-Ns	
+
+西甲/B-Ns	马德里/E-Ns	哥伦比亚/S-Ns	
+广西省/S-Ns	
+罗马/S-Ns	
+法国/S-Ns	
+
+
+
+日/S-Ns	韩/S-Ns	
+
+刘家成/S-Nh	王明轩/S-Nh	
+
+
+克什米尔/S-Ns	印度/S-Ns	
+凡尔赛宫/S-Ns	欧洲/S-Ns	
+
+
+欧洲/S-Ns	
+
+王/B-Nh	勾践/E-Nh	范蠡/S-Nh	吴王夫/S-Nh	
+
+
+
+石头城/S-Ns	
+
+
+
+
+
+
+法国/S-Ns	
+
+
+金庸/S-Nh	
+周敦颐/S-Nh	爱莲/S-Nh	
+
+
+
+
+俄国/S-Ns	
+金庸/S-Nh	
+
+贾府/S-Ns	
+
+玻利维亚/S-Ns	秘鲁/S-Ns	南美洲/S-Ns	
+佟湘玉/S-Nh	
+四川/S-Ns	香港/S-Ns	
+法国/S-Ns	法国/S-Ns	巴黎/S-Ns	
+美国/S-Ns	惠特尼·休斯顿/S-Ns	
+中国/S-Ns	
+伊拉克/S-Ns	
+
+
+中国/S-Ns	
+
+中国/B-Ni	国家/E-Ni	
+阿姆斯特朗/S-Nh	美国/S-Ns	
+美国/S-Ns	
+美国/S-Ns	
+美国/S-Ns	
+
+肯尼迪/S-Nh	
+瑞士/S-Ns	奥地利/S-Ns	
+
+
+美国/S-Ns	乔治·沃克·布什/S-Nh	美国/S-Ns	
+长江/S-Ns	湘江/S-Ns	
+上海/S-Ns	宁波/S-Ns	阿拉/S-Nh	
+
+
+北京/S-Ns	
+
+中国/S-Ns	
+葫芦岛/S-Ns	
+波士顿/S-Ns	美国/S-Ns	
+郭/S-Nh	香港/S-Ns	
+
+中央/B-Ni	商城/E-Ni	
+
+
+小失大/S-Nh	
+
+欧洲/S-Ns	千堡/S-Ns	
+唐伯虎/S-Nh	
+
+
+香港/S-Ns	
+美国/S-Ns	愚人村/S-Ns	
+雷锋/S-Nh	
+美国/S-Ns	
+新疆/S-Ns	
+
+柬埔寨/S-Ns	
+故宫/S-Ns	
+
+郭靖/S-Nh	
+
+
+雅典/S-Ns	柳承敏/S-Nh	韩国/S-Ns	
+
+
+拿破仑/S-Nh	
+
+
+苏轼/S-Nh	赤壁/S-Ns	
+李连杰/S-Nh	方世玉/S-Nh	
+慈禧/S-Nh	
+印度/S-Ns	
+上海/S-Ns	日本/S-Ns	中国/S-Ns	
+
+
+浮士德/S-Nh	德国/S-Ns	
+
+
+
+杭州/S-Ns	
+美国/S-Ns	
+中国/S-Ns	
+
+尼罗河/S-Ns	
+杜甫/S-Nh	江南/S-Ns	李龟年/S-Nh	江南/S-Ns	
+
+东周/S-Ns	
+黄龄/S-Nh	
+中国/S-Ns	
+
+秦皇帝/S-Nh	
+
+
+无锡市/S-Ns	东林/B-Ns	书院/E-Ns	
+中国/S-Ns	
+刘文正/S-Nh	胡适/S-Nh	
+乾隆/S-Nh	山东/S-Ns	
+
+梵蒂冈/S-Ns	
+
+
+
+
+叙利亚/S-Ns	
+
+徐百九/S-Nh	台湾/S-Ns	
+
+
+欧亨利/S-Nh	
+梅西/S-Nh	
+孟子/S-Nh	
+
+
+
+欧/S-Ns	欧洲/S-Ns	
+
+周瑜/S-Nh	
+马可波罗/S-Nh	中国/S-Ns	
+金庸/S-Nh	
+
+薄伽丘/S-Nh	意大利/S-Ns	
+
+尹天仇/S-Nh	
+
+
+
+东南亚/S-Ns	
+
+
+
+
+秦国/S-Ns	
+徐铮/S-Nh	安安/S-Nh	
+德国/S-Ns	莱茵/S-Ns	曼哈顿/S-Ns	
+武则天/S-Nh	
+湖北/S-Ns	
+
+朱茵/S-Nh	黄圣依/S-Nh	
+
+
+武则天/S-Nh	
+
+金庸/S-Nh	
+
+
+
+法国/S-Ns	罗丹/S-Nh	
+
+
+小青/S-Nh	
+秦始皇陵/S-Ns	陕西省/B-Ns	西安市/E-Ns	
+国际/B-Ni	奥委会/E-Ni	
+
+金庸/S-Nh	
+卓玛/S-Nh	
+
+法国/S-Ns	
+
+
+
+
+
+
+
+花木兰/S-Nh	
+香港/S-Ns	
+
+欧洲/S-Ns	
+
+美国/S-Ns	
+韩国/S-Ns	
+
+孔融/S-Nh	中国/S-Ns	
+贵州省/S-Ns	
+
+玛当娜/S-Nh	
+
+
+
+
+东方/S-Nh	山东省/S-Ns	
+
+
+凯尔特人队/S-Ni	
+孙悟空/S-Nh	
+
+阿布.萨耶夫/S-Nh	
+梵蒂冈/S-Ns	
+金庸/S-Nh	长春子/S-Ns	
+新西兰/S-Ns	
+香港/S-Ns	
+
+通天河/S-Ns	
+香港/S-Ns	
+祥子/S-Nh	虎妞/S-Nh	
+李小鹏/S-Nh	
+奕欣/S-Nh	慈禧/S-Nh	
+罗马尼亚/S-Ns	
+意大利/S-Ns	中国/S-Ns	
+
+周杰伦/S-Nh	台湾/S-Ns	
+
+
+雨果/S-Nh	柯赛特/S-Nh	
+
+好莱坞/S-Ns	
+俄罗斯/S-Ns	
+宁浩/S-Nh	
+
+哈利波特/S-Nh	
+
+王昌龄/S-Nh	龙城/S-Ns	
+
+
+东海/S-Ns	
+
+
+
+张致恒/S-Nh	关智斌/S-Nh	香港/S-Ns	
+
+孙悟空/S-Nh	
+中国/S-Ns	
+
+
+
+北京/B-Ni	奥运会/I-Ni	开幕式/E-Ni	
+中国/S-Ns	
+
+委内瑞拉/S-Ns	
+移动/B-Ni	公司/E-Ni	
+巴塞罗那/S-Ns	马德里队/S-Ni	葡萄牙/S-Ns	
+陈/B-Nh	凯歌/E-Nh	
+塔克拉玛干/S-Ns	
+
+
+上海/S-Ns	
+中国/S-Ns	定军山/S-Ns	
+
+中国/S-Ns	
+燕山/S-Ns	北京市/S-Ns	
+康熙/S-Nh	乾隆/S-Nh	
+
+德庸/S-Nh	台湾/S-Ns	
+甘肃/S-Ns	
+米糠/S-Nh	
+苏轼/S-Nh	
+
+澳门/S-Ns	
+
+
+
+瘦西湖/S-Ns	
+山东省/S-Ns	
+雷./B-Nh	查尔斯/E-Nh	
+香港/S-Ns	
+
+
+黄日华/S-Nh	香港/S-Ns	
+
+
+中国/S-Ns	中国/S-Ns	
+
+荷马/S-Nh	
+孙中山/S-Nh	
+
+曹超/S-Nh	
+
+
+
+
+
+
+华国锋/S-Nh	
+诺贝尔/S-Nh	美国/S-Ns	
+
+玛丽/S-Nh	玛丽/S-Nh	
+
+中国/S-Ns	中国/S-Ns	苏州/S-Ns	
+
+
+
+
+中国/S-Ns	兰陵王/S-Nh	
+张国荣/S-Nh	
+茅台/B-Ni	酒/E-Ni	
+法国/S-Ns	
+
+上海/S-Ns	
+北冰洋/B-Ns	喀拉海/E-Ns	欧/S-Ns	
+伏明霞/S-Nh	香港/S-Ns	
+
+叶伟民/S-Nh	徐峥/S-Nh	
+王翰/S-Nh	凉州/S-Ns	
+美国/S-Ns	美国/S-Ns	
+
+非洲/S-Ns	
+红河/S-Ns	
+杨/S-Nh	佘太君/S-Nh	香港/S-Ns	
+
+吉林省/S-Ns	
+泰国/S-Ns	马里奥./B-Nh	毛瑞尔/E-Nh	泰国/S-Ns	阿亮/S-Nh	
+中国/S-Ns	徐志摩/S-Nh	
+杜成义/S-Nh	新加坡/S-Ns	
+
+白居易/S-Nh	
+西班牙/S-Ns	
+
+
+
+杜飞/S-Nh	台湾/S-Ns	
+昭荣/S-Nh	
+美国/S-Ns	美国/S-Ns	
+日本/S-Ns	
+
+中国/S-Ns	
+
+
+大阪城/S-Ns	
+哈尔滨市/B-Ni	政府/E-Ni	
+
+澳大利亚/S-Ns	
+
+
+
+
+卡梅隆·安东尼/S-Nh	纽约/S-Ns	尼克斯队/S-Ni	
+
+
+康熙/S-Nh	
+
+中国/B-Ni	足协/E-Ni	大连/B-Ni	万达/I-Ni	老板/E-Ni	
+
+
+
+洛杉矶/B-Ni	快船队/E-Ni	中国/S-Ns	
+上海/S-Ns	
+
+
+
+唐玄宗/S-Nh	杨/S-Nh	
+北极/S-Ns	
+
+
+
+
+王安石/S-Nh	
+
+贝多芬/S-Nh	席勒/S-Nh	
+
+李雷/S-Nh	韩梅梅/S-Nh	
+
+新西兰/S-Ns	
+
+韩/S-Nh	
+青岛/S-Ns	烟台/S-Ns	
+
+
+香港/S-Ns	苗/S-Nh	
+
+
+
+藏语/B-Ns	意/E-Ns	云南省/S-Ns	
+
+
+香港/S-Ns	
+
+英国/S-Ns	
+俄罗斯/S-Ns	
+新疆/S-Ns	准噶尔/S-Ns	
+欧洲/S-Ns	
+
+叶伟民/S-Nh	徐峥/S-Nh	
+李小华/S-Nh	
+秦始皇/S-Nh	
+国际/B-Ni	米兰队/E-Ni	阿根廷/S-Ns	
+康熙/S-Nh	
+
+
+南极/S-Ns	
+
+美国/S-Ns	
+
+陈独秀/S-Nh	
+马来西亚/S-Ns	
+柳宗元/S-Nh	
+陶渊明/S-Nh	
+诺贝尔/S-Nh	巴勒斯坦/S-Ns	
+宋应星/S-Nh	
+法国/S-Ns	法国/S-Ns	法国/S-Ns	
+吴承恩/S-Nh	
+马关/S-Ns	亚洲/S-Ns	
+
+埃及/S-Ns	埃及/S-Ns	
+韦德/S-Nh	
+
+德国/S-Ns	
+
+
+美国/S-Ns	
+苏比克湾/S-Ns	
+中国/S-Ns	埃及/S-Ns	印度/S-Ns	
+
+
+李隆基/S-Nh	
+中国/S-Ns	
+
+美/S-Ns	台湾/S-Ns	
+哈利波特/S-Nh	
+台湾/S-Ns	仲天骐/S-Nh	台湾/S-Ns	
+深圳/S-Ns	
+
+台湾/S-Ns	
+
+非洲/S-Ns	
+
+欧洲/S-Ns	
+
+
+
+戴安娜/S-Nh	
+三峡/S-Ns	
+叶绍翁/S-Nh	
+唐太宗/S-Nh	
+
+程朱/S-Nh	
+
+印度/S-Ns	西班牙/S-Ns	
+荆轲/S-Nh	秦王/S-Nh	易水/S-Ns	
+
+
+
+
+
+
+龚自珍/S-Nh	
+
+巴厘岛/S-Ns	
+阿尔卑斯山/S-Ns	西欧/S-Ns	
+
+
+
+
+
+中国/S-Ns	
+
+韩国/S-Ns	
+
+孙悟空/S-Nh	
+
+
+
+
+
+
+
+
+江南/S-Ns	西塘/S-Ns	浙江省/S-Ns	
+中国/S-Ns	
+
+
+北美/S-Ns	
+
+中共中央/S-Ni	
+
+朱基/S-Nh	
+开封/S-Ns	
+日本/S-Ns	
+俄国/S-Ns	果戈里/S-Nh	
+秦国/S-Ns	
+李连杰/S-Nh	方世杰/S-Nh	雷/S-Nh	香港/S-Ns	
+
+
+北冰洋/S-Ns	
+
+
+迈阿密/B-Ni	热火队/E-Ni	
+
+
+马达加斯加/S-Ns	非洲/S-Ns	
+
+
+美国/S-Ns	
+
+程朱/S-Nh	
+
+
+
+
+武则天/S-Nh	
+
+颜真卿/S-Nh	柳公权/S-Nh	
+中国/S-Ns	
+
+
+
+
+白俄罗斯/S-Ns	
+西藏/S-Ns	
+键来/S-Nh	
+台湾/S-Ns	
+
+麦琪/S-Nh	
+
+
+
+
+鲁迅/S-Nh	杨二嫂/S-Nh	
+冯国璋/S-Nh	
+契科夫/S-Nh	
+
+
+
+
+林迪舞/S-Nh	
+北欧/S-Ns	
+燕青/S-Nh	
+
+赵薇/S-Nh	上海/S-Ns	
+秦始皇/S-Nh	
+北京/S-Ns	
+朱茵版/S-Nh	郭靖/S-Nh	香港/S-Ns	
+
+爱因斯坦/S-Nh	
+
+
+
+俄罗斯/S-Ns	
+福尔摩斯/S-Nh	福尔摩斯/S-Ns	
+
+
+
+
+姚明/S-Nh	
+美国/S-Ns	苏联/S-Ns	
+小熊维尼/S-Nh	
+
+海南岛/S-Ns	广东省/S-Ns	雷州/B-Ns	半岛/E-Ns	
+屈原/S-Nh	
+
+
+
+
+周杰伦/S-Nh	王羲之/S-Nh	
+
+北京大学/S-Ni	
+新加坡/S-Ns	小龙女/S-Nh	新加坡/S-Ns	
+美国/S-Ns	
+冰岛/S-Ns	
+美国/S-Ns	中央/B-Ni	银行/E-Ni	
+日本/S-Ns	野田佳彦/S-Nh	
+
+贵州省/S-Ns	
+
+汴京/S-Ns	
+北京/S-Ns	
+
+
+
+日本/S-Ns	
+贾宝玉/S-Nh	
+
+慈禧/S-Nh	
+
+布莱尔/S-Nh	
+
+苏轼/S-Nh	赤壁/S-Ns	
+纳兰性德/S-Nh	
+葡萄牙/S-Ns	
+康有为/S-Nh	
+塞米索波奇诺伊岛/S-Ns	美国/S-Ns	
+
+中/S-Ns	俄/S-Ns	
+
+
+夏威夷/S-Ns	泰国/B-Ns	东海/E-Ns	
+多瑙河/S-Ns	
+日本/S-Ns	
+
+
+四川省/S-Ns	司马相如/S-Nh	
+哲罗/S-Nh	
+
+
+张/B-Nh	国立/E-Nh	晓岚/S-Nh	
+赵/B-Nh	薇/E-Nh	林静/S-Nh	
+张楠/S-Nh	
+
+阿根廷/B-Ni	国奥队/E-Ni	北京/S-Ns	
+
+
+日本/S-Ns	
+
+伦敦/S-Ns	
+迪克.克拉克/S-Nh	
+
+梁羽生/S-Nh	
+陈奕迅/S-Nh	
+
+
+李贺/S-Nh	雁门/S-Ns	
+
+英国/S-Ns	
+
+联想/B-Ni	公司/E-Ni	
+伦敦/S-Ns	中国/S-Ns	
+陆游/S-Nh	山西村/S-Ns	
+韩愈/S-Nh	
+周杰伦/S-Nh	
+鲁鲁/S-Nh	檀香山/S-Ns	美国/S-Ns	
+
+陆小凤/S-Nh	
+
+叙利亚/S-Ns	
+
+非洲/S-Ns	阿尔及利亚/S-Ns	
+日本/S-Ns	
+
+
+韩国/S-Ns	
+
+诺贝尔/S-Nh	缅甸/S-Ns	
+
+
+中国/S-Ns	豫州/S-Ns	
+
+
+迪士尼/B-Ni	动画/E-Ni	阿拉丁/S-Nh	
+中华人民共和国/S-Ns	
+丁/S-Nh	
+少年派/S-Nh	
+凯尔特人队/S-Ni	
+中国/S-Ns	美国/S-Ns	
+海口/S-Ns	
+
+
+
+
+杭州/B-Ns	西湖/E-Ns	
+美/S-Ns	西/S-Ns	美国/S-Ns	
+蒙古国/S-Ns	
+陵兰队/S-Ni	
+刘德华/S-Nh	
+金庸/S-Nh	正淳/S-Nh	阮星竹/S-Nh	乔峰/S-Nh	
+
+
+巴西/S-Ns	
+金庸/S-Nh	韦小宝/S-Nh	
+欧洲/S-Ns	
+
+周/B-Nh	星驰/E-Nh	
+欧洲/S-Ns	
+阿拉伯/B-Ns	半岛/E-Ns	马斯喀特/S-Ns	
+
+希腊/S-Ns	
+周杰伦/S-Nh	香港/S-Ns	
+曹操/S-Nh	
+张翠山/S-Nh	
+查尔斯.林德伯格/S-Nh	
+
+
+
+小玉/S-Nh	日本/S-Ns	
+
+郭沫若/S-Nh	中国/S-Ns	
+金庸/S-Nh	梅超风/S-Nh	
+中国/S-Ns	
+
+
+德国/S-Ns	
+徐志摩/S-Nh	
+中国/S-Ns	
+齐桓公/S-Nh	
+林黛玉/S-Nh	
+
+
+日本/B-Ni	第一/I-Ni	国民/I-Ni	女子/I-Ni	天团/E-Ni	
+
+孟庭苇/S-Nh	
+何/S-Nh	聂风/S-Nh	
+梁启超/S-Nh	
+
+鲁迅/S-Nh	
+周杰伦/S-Nh	
+中/S-Ns	古/S-Ns	阿拉伯/S-Ns	
+
+美国/S-Ns	
+中国/S-Ns	
+德国/S-Ns	勃兰登堡门/S-Ns	德国/S-Ns	
+
+英超/B-Ni	曼联/I-Ni	足球队/I-Ni	中身/E-Ni	法国/S-Ns	
+诸葛亮/S-Nh	吴国/S-Ns	
+
+唐太宗/S-Nh	
+马六甲/B-Ns	海峡/E-Ns	马来/B-Ns	半岛/E-Ns	苏门答腊岛/S-Ns	东南亚/S-Ns	
+仲尼/S-Nh	
+吴尊/S-Nh	
+
+
+
+莱昂/S-Nh	
+英格兰/B-Ni	国家/I-Ni	德比/E-Ni	
+
+德国/S-Ns	
+奥巴马/S-Nh	美国/S-Ns	
+
+亚洲/S-Ns	
+
+中国/S-Ns	
+
+
+
+玻利维亚/S-Ns	
+
+
+
+
+中国/S-Ns	
+湖南/B-Ns	长沙/I-Ns	湘江/E-Ns	毛泽东/S-Nh	
+中国/S-Ns	广东省/S-Ns	
+
+唐伯虎/S-Nh	
+
+长城/S-Ns	香港/S-Ns	
+
+长江/S-Ns	青藏/B-Ns	高原/E-Ns	
+
+
+英国/S-Ns	邓小平/S-Nh	香港/S-Ns	
+
+张克帆/S-Nh	台湾/S-Ns	
+
+长沙/S-Ns	绍兴/S-Ns	
+
+
+老舍/S-Nh	
+
+赵本山/S-Nh	
+
+
+
+孔夫子/S-Nh	
+
+
+加拿大/S-Ns	七大洲/S-Ns	
+京/S-Ns	沪/S-Ns	
+香港/S-Ns	
+
+
+
+
+香港/S-Ns	洪天明/S-Nh	
+高圆圆/S-Nh	王/B-Nh	菲/E-Nh	
+中/S-Ns	法/S-Ns	南关大捷/S-Nh	
+
+孙膑/S-Nh	孙膑/S-Nh	庞涓/S-Nh	
+韩磊/S-Nh	
+印度/S-Ns	西班牙/S-Ns	
+
+
+
+戴高乐/S-Nh	
+美国/S-Ns	
+美国/S-Ns	
+刘备所/S-Nh	
+
+
+吴奇隆/S-Nh	
+任泉/S-Nh	
+刘/S-Nh	
+台湾/S-Ns	
+张国荣版/S-Nh	燕赤霞/S-Nh	香港/S-Ns	
+
+
+
+张婉婷/S-Nh	宋查理/S-Nh	
+
+
+中国/S-Ns	
+
+
+岳飞/S-Nh	贺兰山/S-Ns	贺兰山/S-Ns	
+欧洲/S-Ns	英国/S-Ns	法国/S-Ns	
+赵薇/S-Nh	潘粤明/S-Nh	林语堂/S-Nh	
+厦门/S-Ns	
+项羽/S-Nh	
+
+澳大利亚/S-Ns	
+中国/S-Ns	
+
+台湾/S-Ns	
+
+长江/S-Ns	黄河/S-Ns	
+
+
+
+
+中国/B-Ni	篮球/I-Ni	协会/E-Ni	
+
+
+
+上海/B-Ni	万国/I-Ni	红十字会/E-Ni	中国/B-Ni	红十字会/E-Ni	
+亚洲/S-Ns	北美洲/S-Ns	
+
+活火山/S-Ns	
+中国/S-Ns	
+德国/S-Ns	
+
+日本/S-Ns	
+
+
+
+邯郸/S-Ns	
+
+贝弗莉/S-Nh	
+美国/S-Ns	
+
+
+
+悉尼/S-Ns	
+上海/B-Ns	地区/E-Ns	
+广播/B-Ni	电视/I-Ni	学会/I-Ni	节目/I-Ni	主持人/I-Ni	委员会/E-Ni	
+
+英国/S-Ns	
+中国/S-Ns	
+雅加达/S-Ns	亚洲/S-Ns	
+中国/S-Ns	
+直角/B-Ni	三角形/E-Ni	
+
+毛泽东/S-Nh	
+
+
+
+
+杜甫/S-Nh	闻官军/S-Nh	河南/B-Ns	河北/E-Ns	
+
+巴尔扎克/S-Nh	
+刘备/S-Nh	诸葛亮/S-Nh	曹操/S-Nh	
+巴塞罗那/S-Ns	
+
+黄河/S-Ns	
+米兰/S-Ns	欧洲/S-Ns	
+台湾/S-Ns	
+
+王家卫/S-Nh	重庆/S-Ns	
+底格里斯河/S-Ns	
+江苏/S-Ns	济公/S-Nh	广亮/S-Nh	
+法国/S-Ns	
+澳大利亚/S-Ns	
+
+
+诸葛/S-Nh	吕端/S-Nh	毛泽东/S-Nh	
+张三丰/S-Nh	
+
+殷墟/S-Nh	中国/S-Ns	
+鲁迅/S-Nh	浙江省/S-Ns	
+杨/S-Nh	
+新加坡/S-Ns	新加坡/S-Ns	
+中国/S-Ns	
+张纪/B-Nh	中版/E-Nh	王语嫣/S-Nh	
+
+
+
+林志颖/S-Nh	
+中华人民共和国/B-Ni	国歌/I-Ni	原名/E-Ni	
+玻利维亚/S-Ns	
+欧洲/S-Ns	
+杭州/B-Ni	名菜/I-Ni	西湖/I-Ni	醋鱼/E-Ni	
+斯皮尔伯格/S-Nh	辛德勒/S-Nh	
+
+
+窥视门/S-Ns	
+北京/S-Ns	
+
+
+中国/S-Ns	
+
+
+爱利斯岛/S-Ns	
+唐僧/S-Nh	
+美国/B-Ns	加州/E-Ns	美国/S-Ns	
+
+金庸/S-Nh	任盈盈/S-Nh	洛阳/S-Ns	
+鲁迅/S-Nh	
+
+
+秦始皇陵/S-Ns	
+北京/S-Ns	西雅图/S-Ns	汤唯/S-Nh	
+英国/S-Ns	
+中国/S-Ns	
+艾弗森/S-Nh	
+西伯利亚/S-Ns	
+克隆岛/S-Ns	英国/S-Ns	
+
+宋高宗/S-Nh	
+中国/S-Ns	
+
+斯齐亚沃尼/S-Nh	
+
+
+
+中国/S-Ns	
+
+
+李/S-Nh	
+傅文佩/S-Nh	琼瑶/S-Nh	
+启超/S-Nh	
+中国/S-Ns	
+
+
+台湾/S-Ns	
+
+
+伦敦/S-Ns	
+第一湾/S-Ns	亚龙湾/S-Ns	海南省/S-Ns	
+加拿大/S-Ns	
+英国/S-Ns	
+赵又廷/S-Nh	台湾/S-Ns	
+李嘉欣/S-Nh	李甲/S-Nh	
+
+美国/S-Ns	
+
+
+美国/S-Ns	
+
+
+
+
+中国/S-Ns	广东/B-Ns	肇庆/E-Ns	
+
+左氏/S-Nh	
+
+
+奥地利/S-Ns	约翰施特劳斯/S-Nh	
+阳关/S-Ns	
+苏州/S-Ns	
+
+东南亚/S-Ns	
+雅鲁藏布江/S-Ns	
+赵氏/S-Nh	
+马来西亚/S-Ns	
+中国/S-Ns	
+陆小凤/S-Nh	
+
+印度/S-Ns	印度/S-Ns	
+哈利波特/S-Nh	艾玛沃森/S-Nh	
+
+唐三藏/S-Nh	
+莎士比亚/S-Nh	哈姆雷特/S-Nh	
+
+
+金庸/S-Nh	
+
+沙哈拉/S-Ns	北非/S-Ns	利比亚/S-Ns	
+
+
+新疆/B-Ns	地区/E-Ns	三山/S-Ns	阿尔泰山/S-Ns	昆仑山/S-Ns	
+黄百鸣/S-Nh	
+
+北京/S-Ns	山东/B-Ni	黄金队/E-Ni	
+成方圆/S-Nh	
+波斯/S-Ns	
+
+哪吒/S-Nh	托塔李/S-Nh	
+
+
+剑桥/B-Ni	大学/E-Ni	
+亚洲/S-Ns	
+
+孟庭苇/S-Nh	
+
+
+
+
+
+
+
+
+温布尔登/S-Nh	
+曹保平/S-Nh	李米/S-Nh	李米/S-Nh	
+北京/S-Ns	
+暴雪/B-Ni	公司/E-Ni	
+魏国/S-Ns	
+中国/B-Ni	国家/I-Ni	男子/I-Ni	足球队/E-Ni	西班牙/S-Ns	
+中国/S-Ns	
+台湾/S-Ns	台湾/S-Ns	
+中国/S-Ns	
+
+邦德/S-Nh	
+曹操/S-Nh	
+
+海地/S-Ns	
+苏珊/B-Nh	.B/E-Nh	安东尼/S-Nh	
+中国/S-Ns	
+子/S-Nh	
+
+
+
+
+山东省/S-Ns	
+
+阿门/S-Ns	
+
+龙门/B-Ni	石窟/E-Ni	
+
+美国/S-Ns	
+长城/S-Ns	香港/S-Ns	
+乔嫁/S-Nh	周瑜/S-Nh	吴国/S-Nh	
+李白/S-Nh	桃花潭/S-Ns	
+美国/B-Ni	国家/I-Ni	美式/I-Ni	足球/I-Ni	联盟/E-Ni	
+北京市/S-Ns	
+伦敦/S-Ns	
+
+郭晶晶/S-Nh	
+格林/S-Nh	
+
+中国/S-Ns	沈阳/S-Ns	
+
+贝多芬/S-Nh	
+
+
+国际/B-Ni	奥委会/E-Ni	萨马兰奇/S-Nh	
+
+
+摩洛哥王国/S-Ns	
+
+
+金庸/S-Nh	
+海尔/B-Ni	集团/E-Ni	
+
+河北省/S-Ns	
+英国/S-Ns	伦敦/S-Ns	
+
+蒙古/S-Ns	
+
+台湾/S-Ns	齐秦/S-Nh	
+
+
+美洲/S-Ns	
+
+浙江/S-Ns	
+
+
+
+
+英国/S-Ns	
+韩国/S-Ns	朴/B-Nh	槿惠/E-Nh	韩国/S-Ns	
+
+意大利/S-Ns	
+挪威/S-Ns	
+
+南锣鼓巷/S-Ns	
+
+范晓萱/S-Nh	
+胡夏/S-Nh	
+比利时/S-Ns	
+
+地中海/S-Ns	欧洲/S-Ns	亚洲/S-Ns	
+
+
+美国/S-Ns	
+杜甫/S-Nh	
+
+
+
+曼哈顿/S-Ns	曼哈顿/S-Ns	美国/S-Ns	
+美国/S-Ns	
+灞桥/S-Ns	中国/S-Ns	
+
+
+
+香港/S-Ns	
+周/B-Nh	星驰/E-Nh	
+法国/S-Ns	萨科奇/S-Nh	
+
+哥伦布/S-Nh	
+埃及/S-Ns	好莱坞/S-Ns	
+长白山/S-Ns	中国/S-Ns	
+刘/S-Nh	大观园/S-Ns	
+
+
+
+昭阳/S-Ns	香港/S-Ns	
+韩非子/S-Nh	
+共同社/S-Ni	
+弗吉尼亚./B-Nh	沃尔夫/E-Nh	
+周/B-Nh	星驰/E-Nh	唐伯虎/S-Nh	
+云南/S-Ns	
+杜牧/S-Nh	
+美国/S-Ns	
+
+中国/S-Ns	
+小燕子/S-Nh	紫薇/S-Nh	
+韩彩英/S-Nh	韩国/S-Ns	
+鲁迅/S-Nh	
+
+墨西哥/S-Ns	
+
+日本/S-Ns	
+
+广州/B-Ni	年薪/E-Ni	
+金庸/S-Nh	
+中国/S-Ns	
+
+美国/S-Ns	
+
+
+欧洲/S-Ns	
+
+
+中国/B-Ni	野生/I-Ni	动物/I-Ni	保护/I-Ni	协会/E-Ni	中国/S-Ns	
+岳/S-Nh	
+
+
+
+乌苏里江/S-Ns	中国/S-Ns	
+
+日本/S-Ns	日本/S-Ns	
+
+
+安徽/B-Ns	合肥/E-Ns	
+
+新加坡/S-Ns	
+
+
+
+
+邓小平/S-Nh	
+
+
+美国/S-Ns	
+罗伯特./S-Nh	
+成龙/S-Nh	
+上海/B-Ns	黄浦江/E-Ns	
+
+
+
+意大利/S-Ns	罗伯特贝尼尼/S-Nh	
+木乃伊/S-Nh	
+
+
+
+卡卡/S-Nh	皇家/B-Ni	马德里/I-Ni	足球/I-Ni	俱乐部/E-Ni	
+
+北京大学/S-Ni	
+山西省/S-Ns	
+辛弃疾/S-Nh	
+尤文图斯队/S-Ni	捷克/S-Ns	
+
+刘邦/S-Nh	
+美国/S-Ns	
+中国/S-Ns	
+比尔盖茨/S-Nh	
+缅甸/S-Ns	泰国/S-Ns	
+索马里/S-Ns	地中海/S-Ns	印度洋/S-Ns	
+杨康/S-Nh	香港/S-Ns	
+
+
+利物浦队/S-Ni	
+
+韩愈/S-Nh	
+鲁迅/S-Nh	
+北京/S-Ns	
+
+意大利/S-Ns	
+
+意大利/S-Ns	
+
+香港/B-Ni	Beyond/I-Ni	乐队/I-Ni	成员/I-Ni	中英文/E-Ni	
+狄/S-Nh	
+云南省/S-Ns	
+
+奥本山宫/S-Ns	奥本山宫/S-Ns	
+亚洲/S-Ns	中国/S-Ns	
+俄罗斯/S-Ns	文莱/S-Ns	
+
+中国/S-Ns	
+
+台湾/S-Ns	阿金/S-Nh	台湾/S-Ns	
+
+内蒙古/S-Ns	
+
+金庸/S-Nh	
+日本/S-Ns	
+德国/S-Ns	
+希腊/S-Ns	南欧/S-Ns	
+
+
+世界/B-Ni	银行/E-Ni	
+美国/S-Ns	
+
+康熙/S-Nh	
+
+内蒙古/S-Ns	
+迈克尔.曼/S-Nh	阿里/S-Ns	阿里/S-Ns	
+周杰伦/S-Nh	
+
+吕布/S-Nh	曹操/S-Nh	
+中国/S-Ns	
+希腊/S-Ns	
+切萨皮克/S-Nh	
+
+明湖/S-Ns	黑妞白妞/S-Nh	
+长江/S-Ns	
+香港/B-Ni	本土/I-Ni	漫画家/E-Ni	
+杜甫/S-Nh	
+
+中国/S-Ns	
+金庸/S-Nh	俄罗斯/S-Ns	
+
+新疆/S-Ns	北京/S-Ns	
+德国/S-Ns	
+
+广州/S-Ns	
+
+
+
+秦始皇/S-Nh	赵高/S-Nh	胡亥为/S-Nh	
+杜牧/S-Nh	周郎/S-Nh	
+敦煌/S-Ns	鸣沙山/S-Ns	
+白鹿原/S-Ns	
+雅典/S-Ns	中国/B-Ni	国家/I-Ni	射击队/E-Ni	
+
+
+东北/B-Ni	林业/I-Ni	大学/E-Ni	
+日本/S-Ns	亚洲/S-Ns	日本/S-Ns	
+金庸/S-Nh	燕国/S-Ns	
+
+
+
+斯琴高娃/S-Nh	白景琦/S-Nh	
+
+曹操/S-Nh	
+香港/S-Ns	苗/S-Nh	
+
+徐克/S-Nh	黄飞鸿/S-Nh	
+泰晤士桥/S-Ns	
+叶念琛/S-Nh	奕迅/S-Nh	台湾/S-Ns	
+庐山/S-Ns	江西省/S-Ns	
+东瀛/S-Ns	亚洲/S-Ns	
+北京/S-Ns	中国/S-Ns	
+李小璐/S-Nh	
+
+
+徐铮/S-Nh	
+马大元/S-Nh	康敏/S-Nh	
+西班牙/S-Ns	
+
+郭芙/S-Nh	
+
+
+邹凯/S-Nh	伦敦/S-Ns	
+唐古拉山/S-Ns	
+武宗/S-Nh	
+斯多克/S-Nh	
+法国/S-Ns	凡尔赛宫/S-Ns	
+保尔/S-Nh	
+亚当/S-Nh	夏娃/S-Nh	
+宋之问/S-Nh	汉江/S-Ns	
+
+
+
+
+
+
+
+非洲/S-Ns	乞力马扎罗山/S-Ns	
+羊八井/S-Ns	
+
+万里长城/S-Ns	美国/S-Ns	
+
+希腊/S-Ns	宙斯/S-Nh	
+
+国际/B-Ni	红十字会/E-Ni	
+杜甫/S-Nh	
+
+中国/S-Ns	南/S-Ns	南刘/S-Ns	刘翔/S-Nh	
+中国/S-Ns	
+美国/S-Ns	伊拉克/S-Ns	
+
+
+
+欧阳询/S-Nh	褚遂良/S-Nh	薛稷/S-Nh	
+
+
+
+
+
+
+李宗盛/S-Nh	
+伊比利亚/B-Ns	半岛/E-Ns	地中海/S-Ns	西班牙/S-Ns	
+俄罗斯/S-Ns	伊辛巴耶娃/S-Nh	
+毛泽东/S-Nh	
+西班牙/S-Ns	
+杜甫/S-Nh	泰山/S-Ns	钟神秀/S-Nh	
+秦国/S-Ns	
+萧十一郎/S-Nh	
+
+
+伦敦/S-Ns	张继科/S-Nh	
+蜀国/S-Ns	
+
+梦幻西游/S-Nh	
+
+
+好莱坞/S-Ns	
+
+
+贾岛/S-Ns	
+缅甸/S-Ns	萨尔/B-Nh	温江/E-Nh	
+
+纽约/B-Ni	尼克斯队/E-Ni	
+华佗/S-Nh	
+洛神/S-Nh	
+台湾/S-Ns	成龙/S-Nh	
+
+中国/S-Ns	格莱美/S-Nh	
+
+富士康/B-Ni	科技/I-Ni	集团/E-Ni	台湾/S-Ns	
+虎门/S-Ns	
+
+秦始皇/S-Nh	赵高/S-Nh	胡亥为/S-Nh	
+
+
+衡水/B-Ni	中学/E-Ni	
+
+
+美国/S-Ns	爱丽舍宫/S-Ns	欧洲/S-Ns	
+
+
+
+中国/S-Ns	
+北京/S-Ns	
+意大利/S-Ns	
+宋庆龄/S-Nh	宋氏/S-Nh	蒋介石/S-Nh	
+中国/S-Ns	
+
+伦敦/S-Ns	赵云蕾/S-Nh	
+王心凌/S-Nh	
+秦始皇/S-Nh	
+中国/S-Ns	北京/S-Ns	
+西班牙/S-Ns	
+
+
+佘/S-Nh	
+
+
+西双版纳/S-Ns	香格里拉/S-Ns	玉龙/S-Ns	
+
+
+俄罗斯/S-Ns	
+
+法国/S-Ns	
+
+三国/B-Ni	时代/I-Ni	蜀汉/E-Ni	诸葛亮/S-Nh	
+中国/S-Ns	圣马力诺/S-Ns	欧洲/S-Ns	
+崔护/S-Nh	南庄/S-Ns	
+
+刘翔/S-Nh	
+
+
+采石江/S-Ns	李白/S-Nh	
+
+
+
+吴军/S-Nh	刘备/S-Nh	
+美国/S-Ns	
+英国/S-Ns	
+中国/S-Ns	
+大西洋/S-Ns	地中海/S-Ns	
+
+
+茅盾/S-Nh	
+徐州/S-Ns	
+
+胡亥/S-Nh	李斯/S-Nh	
+
+乔峰/S-Nh	
+
+台湾/S-Ns	
+诸葛亮/S-Nh	
+罗志祥/S-Nh	
+
+有限/B-Ni	责任/I-Ni	公司/I-Ni	发行/I-Ni	公司/E-Ni	
+
+
+毛/S-Nh	
+
+英文/B-Ns	单词/E-Ns	
+
+
+
+夏威夷/S-Ns	美国/S-Ns	
+
+中国/S-Ns	乌拉圭/S-Ns	
+乌克兰/S-Ns	
+李白/S-Nh	
+黄花岗/S-Ns	
+
+
+崔护诗/S-Nh	南庄/S-Ns	
+
+
+老君/S-Nh	
+中国/S-Ns	普陀山/S-Ns	
+
+
+古龙/S-Nh	
+
+姜子牙/S-Nh	
+雅典/B-Ni	奥运会/E-Ni	
+北京/S-Ns	
+柴达木/B-Ns	盆地/E-Ns	
+
+亚洲/S-Ns	
+
+
+李娜/S-Nh	
+卡塔尔/S-Ns	
+
+
+李清照/S-Nh	武陵春/S-Nh	
+
+美国/S-Ns	
+
+
+朗朗/S-Nh	李云迪/S-Nh	
+
+
+法国/S-Ns	
+芝加哥/S-Ns	
+中国/S-Ns	
+黄蓉/S-Nh	
+美国/S-Ns	
+
+曹操/S-Nh	
+
+安妮/S-Nh	瑞士/S-Ns	
+尼布楚/S-Ns	康熙/S-Nh	
+
+中华人民共和国/S-Ns	
+
+白居易/S-Nh	
+巴黎/S-Ns	
+中国/S-Ns	
+乔戈里峰/S-Nh	
+
+日本/S-Ns	
+刘备/S-Nh	
+
+尹相杰/S-Nh	
+铁道部/B-Ni	规定/I-Ni	高铁/E-Ni	
+
+
+
+
+孝庄/S-Ns	
+
+
+金燕西/S-Nh	
+
+崔莺莺/S-Nh	
+印度/S-Ns	
+孙中山/S-Nh	
+
+西藏/B-Ns	布达拉宫/E-Ns	松赞干布/S-Nh	
+
+
+北京/B-Ns	故宫/E-Ns	
+
+
+
+
+美国/S-Ns	
+
+
+
+
+
+香港/S-Ns	李文彬/S-Nh	台湾/S-Ns	
+中国/S-Ns	墨尔本/S-Ns	
+欧洲/S-Ns	
+香港/S-Ns	黎姿/S-Nh	
+香港/S-Ns	
+
+白马寺/S-Ns	河南省/S-Ns	
+敬明/S-Nh	顾小北/S-Nh	
+扬州/S-Ns	
+法国/B-Ns	戛纳/E-Ns	
+
+周华健/S-Nh	
+毛/S-Nh	彭大/S-Nh	彭大/S-Nh	
+
+欧洲/S-Ns	
+贾宝玉/S-Nh	
+
+诺丁山/S-Ns	诺丁山/S-Ns	欧洲/S-Ns	
+秦国/S-Ns	
+
+
+山东省/S-Ns	
+崔颢/S-Nh	
+俄罗斯/S-Ns	斯大林格勒/S-Nh	
+少年派/S-Nh	加拿大/S-Ns	
+北京都/S-Ns	
+
+阿拉伯/S-Ns	
+
+
+临渊/S-Ns	
+
+巴塞罗那/S-Ns	美国/S-Ns	
+中国/S-Ns	
+马关/S-Ns	亚洲/S-Ns	
+李/S-Nh	徐静蕾/S-Nh	黄立行/S-Nh	
+
+温哥华/S-Ns	
+
+
+
+
+陈百强/S-Nh	何求/S-Nh	
+宁夏/B-Ns	回族/I-Ns	自治区/E-Ns	
+台湾/S-Ns	
+
+
+
+
+
+
+
+意大利/S-Ns	罗尔/S-Nh	
+梁朝伟/S-Nh	何兵/S-Nh	
+中国/S-Ns	
+中国/S-Ns	
+
+诸葛亮/S-Nh	隆中/S-Ns	管仲/S-Nh	
+洪湖/S-Ns	洪湖/S-Ns	
+贾琏/S-Nh	
+
+金庸/S-Nh	
+杨乃武/S-Nh	毕秀姑/S-Nh	毕秀姑/S-Nh	
+
+毛泽东/S-Nh	
+孔子/S-Nh	
+
+意大利/S-Ns	马可.波罗/S-Nh	中国/S-Ns	
+
+金庸/S-Nh	
+
+杨晓芸/S-Nh	
+
+
+
+
+东德/S-Ns	
+
+唐僧/S-Nh	
+康熙/S-Nh	康熙/S-Nh	
+东方/S-Nh	
+黑龙江/S-Ns	
+陆逊/S-Nh	
+哪吒/S-Nh	托塔李/S-Nh	
+
+
+古巴/S-Ns	
+
+
+
+沈阳/S-Ns	
+
+蓬莱/S-Ns	
+广东/S-Ns	
+意大利/S-Ns	
+天安门/S-Ns	横插云/S-Ns	
+
+非洲/S-Ns	
+
+
+天兰/S-Ns	
+希腊/S-Ns	
+周/B-Nh	星驰/E-Nh	香港/S-Ns	
+
+阿门/S-Ns	
+西班牙/S-Ns	
+美国/S-Ns	
+英国/S-Ns	伊丽莎白/S-Nh	
+
+
+希腊/S-Ns	美杜莎/S-Nh	
+
+宋家三/S-Nh	孙中山/S-Nh	
+
+
+
+天狼国/S-Ns	
+孙燕姿/S-Nh	
+香港/S-Ns	张家辉/S-Nh	香港/S-Ns	
+
+
+王昌龄/S-Nh	
+陈凯歌/S-Nh	杨佳琪/S-Nh	
+太平洋/S-Ns	
+美国/S-Ns	美国/S-Ns	
+项羽/S-Nh	
+
+故宫/S-Ns	北京/S-Ns	
+
+纽约/S-Ns	巴黎/S-Ns	卢浮宫/S-Ns	英国/S-Ns	
+希腊/S-Ns	
+徐克/S-Nh	
+康熙/S-Nh	
+韩国/S-Ns	首尔/S-Ns	
+
+陈胜吴/S-Nh	
+
+贝多芬/S-Nh	
+
+
+梅超风/S-Nh	
+中国/S-Ns	
+
+
+
+
+伦敦/S-Ns	
+
+王维/S-Nh	山东/S-Ns	
+
+巴塞罗那队/S-Ni	西班牙队/S-Ni	
+
+
+宝莱坞/S-Ns	孟买/S-Ns	
+
+北京/S-Ns	
+
+
+
+
+艾弗森/S-Nh	
+新疆/B-Ns	阿勒泰/E-Ns	
+
+
+
+宫晓东/S-Nh	穆桂英/S-Nh	穆桂英/S-Nh	
+欧/S-Ns	美/S-Ns	
+
+
+
+
+非洲/S-Ns	非洲/S-Ns	
+
+北美/S-Ns	
+
+中国/S-Ns	
+杜牧/S-Nh	
+
+僧志南/S-Nh	
+金庸/S-Nh	杨/S-Nh	
+
+
+凤/S-Nh	
+意大利/S-Ns	
+夏娃/S-Nh	亚当/S-Nh	
+大洋洲/S-Ns	
+金钟罩/S-Nh	
+
+
+
+
+上海/S-Ns	
+郭晶晶/S-Nh	
+内塔尼亚胡/S-Nh	
+香港/S-Ns	张家辉/S-Nh	
+
+
+小小竹/S-Nh	排江/S-Ns	
+广东/S-Ns	
+
+
+好莱坞/S-Ns	
+
+黑格尔/S-Nh	
+马耳他/S-Ns	
+
+地中海/S-Ns	地中海/S-Ns	地中海/S-Ns	
+日本/S-Ns	
+
+
+细柳/S-Ns	
+
+中国/S-Ns	
+
+杜甫/S-Nh	江畔/S-Ns	
+
+斯坦福/B-Ni	大学/E-Ni	
+李琼/S-Nh	
+
+维纳斯/B-Nh	迪麦罗/E-Nh	
+荀彧/S-Nh	
+南亚/S-Ns	
+
+
+戴相龙/S-Nh	
+中国/S-Ns	
+墨西哥/S-Ns	
+
+
+意大利/S-Ns	欧洲/S-Ns	
+美国/S-Ns	
+张丹/B-Nh	张昊/E-Nh	
+陈百/B-Nh	强/E-Nh	
+
+武汉/S-Ns	
+
+孙止/S-Nh	
+荷兰/S-Ns	
+好莱坞/S-Ns	
+王维/S-Nh	安西/S-Ns	
+中国/S-Ns	新疆/S-Ns	
+焦仲卿/S-Nh	
+
+
+
+李亚鹏/S-Nh	田伯光/S-Nh	
+阿联酋/S-Ns	
+意大利/S-Ns	
+
+美国/S-Ns	
+
+意大利/S-Ns	马可·波罗/S-Nh	中国/S-Ns	
+
+
+
+韩国/S-Ns	
+
+华盛顿/B-Ni	奇才队/E-Ni	
+天公/S-Nh	
+康熙/S-Nh	施琅/S-Nh	台湾/S-Ns	中国/S-Ns	
+台湾/S-Ns	
+毛泽东/S-Nh	
+
+南非/S-Ns	乌拉圭/S-Ns	
+孙吴/S-Nh	中国/S-Ns	
+陕北/S-Ns	
+
+云南省/S-Ns	
+
+沈万/S-Nh	
+郎平/S-Nh	中国/S-Ns	
+
+
+杜拉斯/S-Nh	香港/S-Ns	
+北京/S-Ns	
+中国/S-Ns	
+
+
+
+
+中国/S-Ns	
+辽宁省/S-Ns	
+中国/S-Ns	
+
+中国/S-Ns	嫦娥/S-Nh	
+
+凯撒/S-Nh	
+
+
+欧洲/S-Ns	
+厦门/B-Ni	运华/I-Ni	集团/E-Ni	
+
+
+巴黎/S-Ns	越南/S-Ns	
+中国/S-Ns	
+阿拉伯/S-Ns	
+
+周杰伦/S-Nh	刘畊宏/S-Nh	
+齐达内/S-Nh	
+沙僧/S-Nh	
+
+印度/S-Ns	
+刘东/S-Nh	
+
+
+罗马/S-Ns	美/S-Ns	
+
+嫦娥/S-Nh	
+太平洋/S-Ns	
+
+大意失荆州/S-Ns	
+周/B-Nh	星驰/E-Nh	
+花式/B-Ni	九/I-Ni	球/E-Ni	
+中国/S-Ns	
+王/S-Nh	
+
+中国/S-Ns	蔡/B-Nh	依林/E-Nh	
+太原/S-Ns	
+金庸/S-Nh	
+梁祝/S-Nh	
+香港/S-Ns	
+
+张爱玲/S-Nh	朱砂痣/S-Nh	
+意大利/S-Ns	
+泰国/S-Ns	
+冯小刚/S-Nh	蒋介石/S-Nh	
+张之洞/S-Nh	
+
+香港/S-Ns	任达华/S-Nh	
+
+重庆/S-Ns	
+
+中华人民共和国/S-Ns	北京/S-Ns	中国/S-Ns	中国/S-Ns	
+马拉多纳/S-Nh	阿根廷/S-Ns	
+东吴/S-Ns	
+欧洲/S-Ns	
+张麻子/S-Nh	
+马里亚纳/B-Ns	海沟/E-Ns	
+
+明十三陵/S-Ns	
+广东/S-Ns	
+
+
+
+李./B-Nh	马文/E-Nh	
+
+
+
+兴凯湖/S-Ns	
+
+
+北京/S-Ns	
+
+
+
+吴国/S-Nh	
+
+林克/S-Nh	
+
+白素贞/S-Nh	
+中国/S-Ns	中国/S-Ns	
+艾米/S-Nh	
+
+香港/S-Ns	
+阿姆斯特丹/S-Ns	荷兰/S-Ns	
+台湾/S-Ns	
+赵又廷/S-Nh	
+
+中国/S-Ns	
+
+
+英国/S-Ns	
+金庸/S-Nh	杨/S-Nh	
+阿诗玛/S-Nh	云南/S-Ns	
+
+罗大佑/S-Nh	
+德国/S-Ns	
+
+
+
+庐山/S-Ns	江西省/S-Ns	
+奥地利/B-Ni	独立/I-Ni	唱片/I-Ni	公司/E-Ni	
+云冈/B-Ns	石窟/E-Ns	
+
+刘禹锡/S-Nh	
+
+瞿颖/S-Nh	
+北美/S-Ns	
+中国/S-Ns	
+
+湖人队/S-Ni	
+雨果/S-Nh	巴黎/S-Ns	
+法国/S-Ns	司汤达/S-Nh	
+肖邦/S-Nh	
+
+邓亚萍/S-Nh	
+
+台湾/S-Ns	
+
+
+
+周恩来/S-Nh	五江云/B-Ns	贵福/I-Ns	吉安/E-Ns	
+长江/B-Ns	三峡/E-Ns	湖北省/S-Ns	
+马可波罗/S-Nh	意大利/S-Ns	
+
+越南/B-Ns	民主共和国/E-Ns	越南/S-Ns	法国/S-Ns	
+陆游/S-Nh	中原/S-Ns	
+
+
+
+
+
+
+秦皇岛/S-Ns	
+
+欧洲/S-Ns	
+哈尔滨/S-Ns	
+
+
+杜甫/S-Nh	
+佟湘玉/S-Nh	
+
+法国/S-Ns	巴西队/S-Ni	
+美国/S-Ns	
+澳大利亚/S-Ns	
+
+中国/S-Ns	
+
+
+热河/S-Ns	
+乌兹别克斯坦/S-Ns	
+
+刘翔/S-Nh	
+
+
+
+
+韩愈/S-Nh	
+
+
+新/B-Nh	奥尔良/E-Nh	美国/S-Ns	奥尔良/S-Nh	欧洲/S-Ns	
+北京/S-Ns	上海/S-Ns	
+
+亚太经济/B-Ni	合作/I-Ni	组织/E-Ni	中国/S-Ns	
+康桥/S-Ns	
+江苏/S-Ns	金亮/S-Nh	
+
+金庸/S-Nh	英/S-Ns	陆家庄/S-Ns	
+东海/S-Ns	
+北京/S-Ns	
+
+巴拿马/S-Ns	巴拿马/S-Ns	
+
+
+中国/S-Ns	
+中国/S-Ns	美国/S-Ns	
+中国/S-Ns	
+
+中国/S-Ns	
+内流河/S-Ns	
+
+
+
+
+徐州/S-Ns	
+倪焕之/S-Nh	
+
+自塞凡提斯/S-Nh	堂吉诃德/S-Nh	
+马刺队/S-Ni	
+俄国/S-Ns	
+中国/S-Ns	
+李/S-Nh	
+
+美国/S-Ns	
+诺贝尔/S-Nh	亚洲/S-Ns	印度/S-Ns	
+韩国/S-Ns	吴建豪/S-Nh	韩国/S-Ns	
+
+苏格拉底/S-Nh	
+
+白居易/S-Nh	
+LG/B-Ni	公司/I-Ni	北京/I-Ni	客服/E-Ni	
+
+
+中国/S-Ns	
+
+郭德纲/S-Nh	
+
+香港/S-Ns	
+伦敦/S-Ns	何姿/S-Nh	
+格林/S-Nh	
+
+韩/S-Ns	日/S-Ns	德国队/S-Ni	沙特队/S-Ni	
+
+中国/S-Ns	澳门/S-Ns	
+斯诺克/S-Ns	
+伦敦/S-Ns	
+
+
+
+
+唐山/S-Ns	
+
+官渡/S-Ns	赤壁/S-Ns	
+
+刘心武/S-Nh	俞平伯/S-Nh	周汝昌/S-Nh	
+
+
+死武大郎/S-Nh	武松/S-Nh	
+琼瑶/S-Nh	青青河/S-Ns	
+
+米兰/B-Ni	俱乐部/E-Ni	意大利/S-Ns	
+欧/S-Ns	美/S-Ns	
+
+
+
+
+
+美国/S-Ns	南美洲/S-Ns	
+爱因斯坦/S-Nh	
+
+欧洲/S-Ns	
+
+
+张学友/S-Nh	
+杨/S-Nh	武拜/S-Ns	
+
+沂蒙山/S-Ns	
+列宁/S-Nh	
+湖南/S-Ns	
+
+燕姿/S-Nh	
+台湾/S-Ns	
+韩国/S-Ns	中国/S-Ns	
+
+北非/S-Ns	隆美尔/S-Nh	英国/S-Ns	
+
+孙悟空/S-Nh	
+李玟/S-Nh	中国/S-Ns	
+
+
+奥斯陆/S-Ns	欧洲/S-Ns	
+
+水生/S-Nh	
+
+
+李商隐/S-Nh	
+
+沈梦溪/S-Ns	台湾/S-Ns	
+
+中关村/S-Ns	北京/S-Ns	
+
+毛泽东/S-Nh	
+尼布楚/S-Ns	康熙/S-Nh	
+
+陈/B-Nh	凯歌/E-Nh	昆仑/S-Ns	韩国/S-Ns	
+中国/B-Ni	共产党/E-Ni	
+霆锋/S-Nh	刘青云/S-Nh	杨/B-Nh	幂/E-Nh	井/B-Nh	柏然/E-Nh	
+江苏/S-Ns	孟非/S-Nh	郭德纲/B-Nh	黄同/E-Nh	
+
+中国/S-Ns	江苏省/S-Ns	
+康熙/S-Nh	中国/S-Ns	尼布楚/S-Ns	
+乔峰/S-Nh	
+
+香港/B-Ni	国际/I-Ni	会展/I-Ni	中心/E-Ni	香港/S-Ns	
+秦桧/S-Nh	岳飞/S-Nh	
+俄罗斯/S-Ns	乌拉尔/S-Ns	俄/S-Ns	
+
+罗大佑/S-Nh	李宗盛/S-Nh	张震岳/S-Nh	
+好莱坞/S-Ns	美国/S-Ns	
+唐玄宗/B-Nh	崇信/E-Nh	
+荷兰/S-Ns	
+
+米兰/S-Ns	葡萄牙/S-Ns	
+
+
+莎士比亚/S-Nh	威尼斯/S-Ns	
+中国/B-Ni	年/I-Ni	上海/I-Ni	世博会/E-Ni	
+鲁迅/S-Nh	
+
+釜山/S-Ns	首尔/S-Ns	大邱/S-Ns	
+雍正/S-Nh	
+
+罗大佑/S-Nh	
+
+
+莱昂纳多/S-Nh	
+四川/B-Ns	广汉/I-Ns	南兴镇/E-Ns	
+
+
+诸葛亮/S-Nh	孟获/S-Nh	
+
+
+中国/S-Ns	
+
+
+BBC/B-Ni	交响乐团/E-Ni	英国/S-Ns	
+
+
+老舍/S-Nh	裕泰/S-Ns	
+曹操/S-Nh	
+
+多哥/S-Ns	
+
+湖南省/B-Ns	岳麓山/E-Ns	中国/S-Ns	
+
+
+
+吕布/S-Nh	台湾/S-Ns	
+
+桂林/S-Ns	
+
+大雄/S-Ns	
+亚洲/S-Ns	
+
+澳门/S-Ns	
+
+中国/S-Ns	国家/B-Ni	体委/E-Ni	
+
+欧洲/S-Ns	
+刘欢/S-Nh	
+中国/S-Ns	
+
+刘梅/S-Nh	
+美国/S-Ns	德州/S-Ns	美国/S-Ns	
+阿根廷/S-Ns	南美/B-Ns	巴黎/E-Ns	
+高希希/S-Nh	上海滩/S-Ns	许文强/S-Nh	
+亚洲/S-Ns	中国/S-Ns	
+南唐/S-Ns	
+
+
+欧洲/S-Ns	
+中国/S-Ns	
+
+
+阿哩阿哆/S-Nh	亚洲/S-Ns	
+波尔/S-Nh	
+
+香港/S-Ns	张家辉/S-Nh	
+
+
+
+
+北非/S-Ns	
+
+
+朱元璋/S-Nh	凤阳/S-Ns	
+
+
+孙中山/S-Nh	
+
+上海/S-Ns	
+中国/S-Ns	
+
+
+孙悟空/S-Nh	
+微软/S-Ni	
+
+
+梁山/S-Ns	
+
+
+
+台湾/S-Ns	王志平/S-Nh	
+
+马炎/S-Nh	晋国/S-Ns	
+
+英国/S-Ns	
+
+宁夏/B-Ns	回族/I-Ns	自治区/E-Ns	
+
+
+埃弗森/S-Nh	
+李连杰/S-Nh	
+
+北京/S-Ns	杨子曦/S-Nh	
+
+
+
+伦敦/S-Ns	中国/S-Ns	
+
+
+
+华山/S-Ns	华山/S-Ns	
+
+日本/S-Ns	
+
+
+
+
+
+
+
+老舍/S-Nh	
+
+
+
+中国/S-Ns	
+
+奥斯卡/B-Ns	影片/E-Ns	肖申克/S-Nh	
+北京/S-Ns	韩国/S-Ns	
+大连/B-Ni	实德/I-Ni	球员/E-Ni	英超/B-Ni	曼联/I-Ni	俱乐部/E-Ni	
+中国/S-Ns	
+哈尔滨/S-Ns	
+诺贝尔/S-Nh	苏联/S-Ns	
+
+
+南京/S-Ns	明孝陵/S-Ns	
+
+
+俄罗斯/S-Ns	
+司马炎/S-Nh	
+日本/S-Ns	
+
+
+美国/S-Ns	小布什/S-Nh	美国/S-Ns	
+
+欧洲/S-Ns	
+哈利波特/S-Nh	
+孙悟空/S-Nh	
+
+斯诺克/S-Ns	
+美国/S-Ns	
+李雷/S-Nh	
+
+
+
+欧洲/S-Ns	
+
+李白/S-Nh	清平/S-Ns	
+那不勒斯/S-Ns	欧洲/S-Ns	
+非洲/S-Ns	非洲/S-Ns	
+
+
+王力宏/S-Nh	中国/S-Ns	
+
+中国/S-Ns	赵宏博/S-Nh	
+哈利波特/S-Nh	哈利波特/S-Nh	
+
+
+中国/S-Ns	
+
+康熙巧/S-Nh	韦小宝/S-Nh	顾明/S-Nh	
+
+
+
+
+瑞士/S-Ns	
+中国/B-Ni	大学/E-Ni	
+
+
+
+铜雀台/S-Ns	
+欧洲/S-Ns	
+欧洲/S-Ns	
+克什米尔/B-Ns	地区/E-Ns	
+克/S-Nh	
+中国/B-Ni	大使馆/E-Ni	
+亚洲/S-Ns	
+
+
+英国/S-Ns	
+
+陈忠实/S-Nh	白鹿原/S-Ns	
+
+美国/S-Ns	
+巴黎/S-Ns	
+
+中国/S-Ns	
+
+陈阿娇/B-Nh	托/I-Nh	司马相如/E-Nh	
+王/B-Nh	菲/E-Nh	
+晏殊/S-Nh	
+牛津/B-Ni	大学/E-Ni	
+
+唐伯虎/S-Nh	
+珠穆朗玛峰/S-Ns	
+
+
+奥林匹斯/B-Ni	火山/E-Ni	
+肯尼亚/S-Ns	
+华盛顿/S-Ns	
+中国/S-Ns	
+屈原/S-Nh	
+中国/S-Ns	
+中华人民共和国/B-Ni	陆地/I-Ni	国土/I-Ni	面积/E-Ni	
+挪威/S-Ns	日本/S-Ns	
+梵高/S-Nh	
+
+
+欧洲/S-Ns	
+
+中国/S-Ns	
+下扬州/S-Ns	
+黄山/S-Ns	黄山/S-Ns	
+
+
+法国/S-Ns	
+台湾/S-Ns	李宗盛/S-Nh	香港/S-Ns	
+郑和/S-Nh	
+
+中国/S-Ns	
+
+
+
+巴西/S-Ns	穆里奇/S-Nh	
+
+
+邓/B-Nh	世昌/E-Nh	黄海/S-Ns	
+台湾/S-Ns	
+
+香港/S-Ns	
+惠山/S-Ns	义州/S-Ns	东亚/S-Ns	
+
+香港/S-Ns	倪震/S-Nh	
+
+
+
+杨/S-Nh	
+
+香港/S-Ns	
+
+湖人队/S-Ni	
+
+
+德国/S-Ns	
+
+
+李鸿章/S-Nh	
+
+
+
+浮士德/S-Nh	
+
+国务院/S-Ni	
+
+朱元璋/S-Nh	
+
+北京/S-Ns	
+秦岚/S-Nh	可可西里/S-Ns	
+老舍/S-Nh	祥子/S-Nh	祥子/S-Nh	
+
+瓦特/S-Nh	
+朝鲜/S-Ns	金/S-Nh	
+秦国/S-Ns	
+
+欧洲/S-Ns	美洲/S-Ns	
+大同/S-Ns	
+
+中国/S-Ns	
+王君/S-Nh	台湾/S-Ns	
+
+美国/S-Ns	
+长江/S-Ns	
+山西省/S-Ns	
+
+孟子/S-Nh	
+
+
+
+李清照/S-Nh	
+北非/S-Ns	
+郭敬明/S-Nh	
+香港/S-Ns	
+
+
+庄子/S-Nh	
+
+
+中国/S-Ns	
+
+楚国/S-Ns	屈原/S-Nh	汨罗/B-Ns	屈子祠/E-Ns	
+中国/S-Ns	广东省/S-Ns	
+李白/S-Nh	广陵/S-Ns	江苏/S-Ns	
+
+张国荣/S-Nh	
+
+
+
+
+
+美国/S-Ns	
+
+
+欧洲/S-Ns	
+詹姆斯邦德/S-Nh	
+
+英国/S-Ns	伦敦/S-Ns	
+中国/S-Ns	
+下扬州/S-Ns	扬州/S-Ns	
+
+
+
+弗拉克·里贝里/S-Ns	欧洲/S-Ns	
+三座山/S-Ns	青岛/S-Ns	
+
+中国/S-Ns	
+奥尼尔/S-Nh	热火队/S-Ni	
+
+朱基/S-Nh	清华大学/S-Ni	
+
+冬宫/S-Ns	
+
+冯小刚/S-Nh	台湾/S-Ns	
+
+
+终南山/S-Ns	
+
+美国/S-Ns	
+中国/S-Ns	
+
+天门/B-Ni	广场/I-Ni	中心/E-Ni	
+孙/S-Nh	
+
+
+
+
+
+牙买加/S-Ns	
+
+张丹/B-Nh	张昊/E-Nh	
+卡拉/S-Ns	
+
+
+
+
+福建/S-Ns	
+
+
+
+
+
+冯小刚/S-Nh	
+哈尔滨/S-Ns	
+龙门飞/S-Nh	香港/S-Ns	
+俄罗斯/S-Ns	
+
+
+
+毛/S-Nh	
+意大利/S-Ns	
+伦敦/S-Ns	
+陕西/S-Ns	
+
+
+茅盾/S-Nh	
+马来西亚/S-Ns	
+洛杉矶/S-Ns	
+哈利波特/S-Nh	格兰/B-Ni	芬/I-Ni	多/I-Ni	学院/E-Ni	
+
+
+中国/S-Ns	美国/S-Ns	
+
+
+尤文图斯/B-Ni	俱乐部/E-Ni	
+张国荣/S-Nh	
+台儿庄/S-Ns	台儿庄/S-Ns	
+天山/S-Ns	
+
+陈若兮/S-Nh	
+国际/B-Ni	奥委会/E-Ni	
+中华人民共和国/S-Ns	
+
+大理国/S-Ns	大理国/B-Ns	都城/E-Ns	
+诺曼底/S-Ns	英吉利/B-Ns	海峡/E-Ns	
+澳大利亚/S-Ns	
+
+英国/S-Ns	
+意大利/S-Ns	
+卢俊义/S-Nh	
+刘慧方/S-Nh	
+秦朗/S-Nh	台湾/S-Ns	
+
+至尊宝/S-Nh	紫霞/S-Nh	
+
+美国/S-Ns	
+
+
+中国/S-Ns	
+刘欢/S-Nh	莎拉布莱曼/S-Nh	北京/S-Ns	
+小明/S-Nh	
+米拉/S-Nh	
+悉尼/S-Ns	
+中国/S-Ns	
+长白山/S-Ns	
+中国/B-Ni	移动/E-Ni	中国/B-Ni	联通/E-Ni	
+台湾/S-Ns	
+北/B-Nh	李/I-Nh	指/E-Nh	中国/B-Ni	共产党/E-Ni	
+中国/S-Ns	
+隋文帝/S-Nh	隋炀帝/S-Nh	
+台湾/S-Ns	阿信/S-Nh	
+吕丽萍/S-Nh	方鸿渐/S-Nh	中国/S-Ns	
+埃及/S-Ns	埃及/S-Ns	
+北京/S-Ns	
+
+奥尼尔/S-Nh	热火队/S-Ni	
+
+
+孙膑/S-Nh	孙膑/S-Nh	
+
+
+伊拉克/S-Ns	
+
+
+
+金庸/S-Nh	岳灵珊/S-Nh	
+金庸/S-Nh	
+
+
+
+
+印第安/S-Ns	
+
+
+
+
+
+窥视门/S-Ns	
+
+罗马/S-Ns	
+
+
+李靖/S-Nh	
+
+
+梦工厂/B-Ni	公司/E-Ni	欧娜/S-Nh	
+俄国/S-Ns	
+
+胡/S-Nh	
+钱鹤滩/S-Nh	
+辕门/S-Ns	
+周华健/S-Nh	
+
+
+莫奈/S-Nh	
+诺贝尔/S-Nh	
+张艺谋/S-Nh	
+
+希腊/S-Ns	
+
+
+
+
+叶绍钧/S-Nh	
+
+吴三桂/S-Nh	吴三桂/S-Nh	
+
+美国/S-Ns	
+贤齐/S-Nh	
+香港/S-Ns	美国/S-Ns	
+
+美国/S-Ns	
+波兰/S-Ns	法国/S-Ns	
+辛弃疾/S-Nh	
+曹操/S-Nh	
+
+中共/B-Ni	十六大/I-Ni	中央/I-Ni	政治局/I-Ni	成员/E-Ni	
+
+
+
+李商隐/S-Nh	
+
+新疆/S-Ns	甘肃/B-Ns	敦煌/E-Ns	
+
+
+
+慈禧/S-Nh	
+
+诺曼底/S-Ns	英吉利/B-Ns	海峡/E-Ns	
+
+
+
+
+申雪/B-Nh	赵宏博/E-Nh	
+曹操/S-Nh	
+
+伦敦/S-Ns	英国/S-Ns	
+契诃夫/S-Nh	
+中国/S-Ns	法国/S-Ns	中国/S-Ns	法国/S-Ns	
+四川省/S-Ns	
+
+刘禹锡/S-Nh	
+台湾/S-Ns	
+深圳/S-Ns	
+
+
+纽卡斯尔联队/S-Ni	欧洲/S-Ns	
+好莱坞/S-Ns	
+张纪/B-Nh	中版/E-Nh	郭靖/S-Nh	王/B-Nh	菲/E-Nh	
+
+马德里队/S-Ni	
+中国/S-Ns	
+玉莹/S-Nh	
+格林/S-Nh	
+
+
+勒布朗/B-Nh	詹姆斯/E-Nh	
+意甲/B-Ni	国际/I-Ni	米兰/I-Ni	俱乐部/E-Ni	喀麦隆/S-Ns	
+
+肯尼迪/S-Nh	
+哈尔滨/S-Ns	
+
+霍霍霍霍霍霍霍霍霍/S-Nh	周杰伦/S-Nh	
+
+曾侯乙/S-Nh	
+
+
+
+
+
+
+
+柯南/S-Nh	
+罗马/S-Ns	罗马/S-Ns	
+
+枣园/S-Ns	宝塔山/S-Ns	陕西省/S-Ns	
+
+卢沟桥/S-Ns	
+
+陈思成/S-Nh	
+四川/S-Ns	
+新加坡/S-Ns	
+
+徐志摩/S-Nh	
+
+燕青/S-Nh	梁山/S-Ns	
+
+
+赤道几内亚/S-Ns	
+毛/S-Nh	长沙/S-Ns	长沙/S-Ns	
+史莱克/S-Nh	
+
+
+法国/S-Ns	
+黄山/S-Ns	
+
+希腊/S-Ns	
+慕尼黑/S-Ns	
+克罗地亚/S-Ns	
+
+中国/S-Ns	
+中国/S-Ns	
+
+白俄罗斯/S-Ns	
+
+
+台湾/S-Ns	
+湖南省/B-Ns	岳麓山/E-Ns	中国/S-Ns	
+乔布斯/S-Nh	苹果/B-Ni	公司/E-Ni	
+
+金三顺/S-Nh	韩国/S-Ns	
+四川省/S-Ns	
+德/S-Ns	
+
+
+金庸/S-Nh	殷素素/S-Nh	张翠山/S-Nh	谢逊/S-Nh	
+
+
+
+亚洲/S-Ns	
+中国/S-Ns	山西省/S-Ns	
+河南/S-Ns	
+
+李清照/S-Nh	
+延安/B-Ns	地区/E-Ns	
+
+阿根廷/S-Ns	
+
+张王氏/S-Nh	
+大洋洲/S-Ns	
+
+
+
+
+
+钱钟书/S-Nh	
+
+都江堰/S-Ns	
+
+
+
+莎士比亚/S-Nh	
+威廉.沃兹沃斯/S-Nh	
+
+
+加拿大/S-Ns	
+吴奇隆/S-Nh	
+夏威夷/S-Ns	
+孙燕姿/S-Nh	英国/S-Ns	
+江苏省/S-Ns	
+张/B-Nh	艺谋/E-Nh	
+台湾/S-Ns	
+曹操/S-Nh	
+
+
+
+美国/S-Ns	
+孙权/S-Nh	孙权/S-Nh	吴国/S-Nh	
+
+
+刘伟强/S-Nh	
+
+白毛女/S-Nh	
+中国/S-Ns	
+
+
+王义夫/S-Nh	
+萍/S-Nh	
+
+莫里哀/S-Nh	欧洲/S-Ns	
+秦孝公/S-Nh	
+
+
+
+
+
+
+
+裴多菲/S-Nh	欧洲/S-Ns	
+姚金铃/S-Nh	
+天竺/S-Ns	
+
+美国/S-Ns	金门/S-Ns	
+
+
+陈可辛/S-Nh	香港/S-Ns	
+
+诺贝尔/S-Nh	
+
+蔺相如/S-Nh	
+
+
+
+
+毛泽东/S-Nh	
+南美洲/S-Ns	
+大洋洲/S-Ns	
+台湾/S-Ns	
+
+俊杰/S-Nh	蔡卓妍/S-Nh	
+伦敦/S-Ns	中国/S-Ns	
+
+
+
+北京/S-Ns	
+朱元璋/S-Nh	
+美国/S-Ns	
+
+
+中国/S-Ns	
+湖北/S-Ns	
+
+
+阿兰图灵/S-Nh	德国/S-Ns	
+孔子/S-Nh	孔子/S-Nh	
+
+黄河/S-Ns	西藏/B-Ns	地区/E-Ns	
+
+米开朗基罗/S-Nh	意大利/S-Ns	
+李绅/S-Nh	
+
+
+杨/S-Nh	杨荣/S-Nh	杨溥/S-Nh	
+朝鲜/S-Ns	中/S-Ns	美/S-Ns	
+
+
+
+李安/S-Nh	李慕白/S-Nh	
+北京/S-Ns	
+柯南/S-Nh	
+英格兰/S-Ns	
+优素福/S-Nh	
+
+
+
+
+
+孙/B-Nh	燕姿/E-Nh	
+
+贾宝玉/S-Nh	贾迎春/S-Nh	
+密西西比州/S-Ns	
+中国/S-Ns	
+
+
+
+中国/S-Ns	香港/S-Ns	
+
+
+
+
+
+香港/B-Ni	太平/I-Ni	山顶/E-Ni	
+孟克柔/S-Nh	台湾/S-Ns	
+美国/S-Ns	
+
+巴黎/S-Ns	
+
+阿根廷队/S-Ni	
+西双版纳/S-Ns	
+
+
+洛杉矶/S-Ns	洛杉矶/B-Ni	湖人队/E-Ni	
+广州/S-Ns	
+浙江/B-Ns	绍兴/E-Ns	
+
+
+
+金庸/S-Nh	
+犹他/B-Ni	爵士队/E-Ni	斯托克顿/S-Nh	
+
+中国/S-Ns	朝鲜/S-Ns	界山/B-Ns	长白山/E-Ns	
+香港/S-Ns	
+
+中途岛/S-Ns	
+
+
+
+
+中国/S-Ns	
+孙中山/S-Nh	武昌/S-Ns	
+斯洛克/S-Ns	
+张艺谋/S-Nh	余占鳌/S-Nh	
+华山/S-Ns	
+香港/S-Ns	霍/B-Nh	启刚/E-Nh	
+中国/S-Ns	
+阿拉伯/S-Ns	
+中国/B-Ni	银联/E-Ni	
+英国/S-Ns	
+
+
+
+
+江东/S-Ns	江东/S-Ns	
+
+尼古拉斯.凯奇/S-Nh	
+
+美国/S-Ns	
+西城/S-Ns	亚洲/S-Ns	
+
+逊奈/S-Ns	
+卡纳瓦罗/S-Nh	
+湖人队/S-Ni	
+
+北京/S-Ns	中国/S-Ns	
+
+北京/B-Ni	国安队/E-Ni	邵佳一/S-Nh	
+
+辕门/S-Ns	
+陈佩斯/S-Nh	
+
+马蒂斯/S-Nh	弗拉曼克/S-Nh	德兰/S-Ns	法国/S-Ns	
+
+
+
+中国/S-Ns	圣马力诺/S-Ns	欧洲/S-Ns	
+
+
+
+
+
+
+日本/S-Ns	
+南美洲/S-Ns	
+
+张柏芝/S-Nh	
+岐山/S-Ns	
+
+
+
+
+
+
+
+阿根廷/S-Ns	
+德国/S-Ns	
+
+居里夫人/S-Nh	欧洲/S-Ns	
+台湾/S-Ns	张宇/S-Nh	
+威斯敏斯特市/S-Ns	
+周/S-Nh	印度尼西亚/S-Ns	
+韦小宝/S-Nh	
+
+
+
+
+中国/S-Ns	
+美国/S-Ns	
+
+中国/S-Ns	
+
+香港/S-Ns	张大勇/S-Nh	
+孙悟空/S-Nh	
+
+
+陈奕迅/S-Nh	
+中国/S-Ns	
+鹿特丹/S-Ns	欧洲/S-Ns	
+美国/S-Ns	
+曹植/S-Nh	
+
+斯旺西/S-Nh	欧洲/S-Ns	
+中华人民共和国/S-Ns	
+
+
+
+管虎/S-Nh	黄渤/S-Nh	
+苏轼/S-Nh	
+
+
+苏轼/S-Nh	
+
+张继/S-Nh	姑苏城/B-Ns	外寒山寺/E-Ns	
+
+旧金山/S-Ns	美国/S-Ns	
+中国/S-Ns	
+
+
+
+欧洲/S-Ns	
+
+南极/S-Ns	北极/S-Ns	
+刘德华/S-Nh	香港/S-Ns	
+乔丹/S-Nh	
+
+悉尼/S-Ns	
+
+
+苏轼/S-Nh	
+张艺谋/S-Nh	刘三姐/S-Nh	
+
+
+
+
+
+欧洲/S-Ns	
+
+
+欧洲/S-Ns	
+
+
+印第安/S-Ns	
+梅西/S-Nh	
+龚琳娜/S-Nh	孙悟空/S-Nh	
+白求恩/S-Nh	
+哈雷彗/B-Ni	星绕/I-Ni	太阳/E-Ni	
+小胖/S-Nh	
+
+
+阿加西/S-Nh	
+
+中国/S-Ns	
+苏宁/B-Ni	集团/E-Ni	
+
+
+白俄罗斯/S-Ns	
+纽约市/S-Ns	
+
+
+
+欧洲/S-Ns	
+
+
+迪斯尼/B-Ni	公司/E-Ni	胡迪/S-Nh	
+韩国/S-Ns	汉城/S-Ns	李汉妮/S-Nh	韩国/S-Ns	
+
+
+河北省/S-Ns	
+中国/S-Ns	周庄/S-Ns	
+
+
+
+木兰/S-Nh	
+春娇/S-Nh	志明/S-Nh	余文乐/S-Nh	王馨平/S-Nh	
+
+
+金庸/S-Nh	
+
+张柏芝/S-Nh	
+迪斯尼/B-Ni	卡通/E-Ni	辛巴/S-Nh	
+游泳健/S-Nh	孙杨/S-Nh	叶诗文/S-Nh	
+朝鲜/S-Ns	
+印度/S-Ns	
+齐国/S-Ns	蒲松龄/S-Nh	山东/S-Ns	
+秦叔宝/S-Nh	
+李白/S-Nh	江西省/S-Ns	
+
+汤姆.克鲁斯/S-Nh	
+
+
+
+
+
+美国/S-Ns	
+诸葛亮志/S-Nh	
+
+徐长卿/S-Nh	台湾/S-Ns	
+
+曹操/S-Nh	
+
+
+三原/S-Ns	
+微软/S-Ni	
+
+聂小倩/S-Nh	
+辛弃疾/S-Nh	乐./B-Ns	京口/I-Ns	北固亭/E-Ns	
+
+
+查尔斯.琳德伯格/S-Nh	
+王羲之/S-Nh	
+南/S-Ns	澳大利亚/S-Ns	澳大利亚/B-Ni	工商业/I-Ni	中心/E-Ni	
+
+沃马诺河/S-Ns	意大利/S-Ns	罗塞托德利亚布鲁齐/S-Nh	
+
+金庸/S-Nh	大理/S-Ns	段氏/S-Nh	
+娜拉/S-Nh	易卜生/S-Nh	
+
+
+包公/S-Nh	
+
+邓亚萍/S-Nh	中国/S-Ns	
+
+乌干达/S-Ns	
+
+中华人民共和国/S-Ns	
+伦敦/S-Ns	董栋/S-Nh	
+台湾/S-Ns	周杰伦/S-Nh	
+
+法国/S-Ns	
+
+肖申克/S-Nh	
+
+
+英/S-Ns	法/S-Ns	
+
+伊拉克/S-Ns	
+佟大为/S-Nh	
+
+
+米勒/S-Nh	
+金庸/S-Nh	郭芙/S-Nh	
+
+
+
+北京/B-Ns	国安/I-Ns	足球队/E-Ns	
+曹操/S-Nh	
+
+中国/S-Ns	
+
+
+
+
+
+
+
+希腊/S-Ns	马其顿/S-Ns	色雷斯/B-Ns	地区/E-Ns	
+马来西亚/S-Ns	
+峨眉山/S-Ns	
+
+四川/S-Ns	贵州/S-Ns	广西/S-Ns	西藏/S-Ns	
+孔尚任/S-Nh	李香君/S-Nh	
+俄国/S-Ns	门捷列夫/S-Nh	
+美国/S-Ns	
+牛顿/S-Nh	
+中国/S-Ns	
+志敏/S-Nh	
+日本/S-Ns	乔巴/S-Nh	
+中国/B-Ni	男子/I-Ni	体操队/E-Ni	陈一冰/S-Nh	伦敦/S-Ns	
+美国/S-Ns	
+
+康熙/S-Nh	
+爱丽丝/S-Nh	
+
+台湾/S-Ns	
+
+金庸/S-Nh	田伯光/S-Nh	
+布鲁诺/S-Nh	罗马/S-Ns	
+
+欧洲/S-Ns	
+澳大利亚/S-Ns	欧洲/S-Ns	
+
+金庸/S-Nh	恒山/S-Ns	
+
+
+
+
+
+
+张艺谋/S-Nh	
+赵匡胤/S-Nh	周/S-Nh	
+刘德华/S-Nh	王宝强/S-Nh	
+
+猪八戒/S-Nh	
+
+
+深圳/S-Ns	
+
+毛泽东/S-Nh	
+美国/S-Ns	
+
+中国/B-Ni	工商/I-Ni	银行/E-Ni	
+
+巴黎/S-Ns	
+
+米兰/S-Ns	米兰队/S-Ni	
+
+
+
+
+金庸/S-Nh	郭啸天/S-Nh	郭靖/S-Nh	
+日本/S-Ns	
+中国/S-Ns	
+
+厦门/S-Ns	
+
+
+欧姆/S-Nh	
+明尼苏达/B-Ni	森林狼队/E-Ni	西班牙/S-Ns	
+莫文蔚/S-Nh	香港/S-Ns	
+
+欧洲/S-Ns	比利时/S-Ns	
+
+吉林省/B-Ns	抚松县/E-Ns	
+
+
+
+
+羊村/S-Ns	
+
+陈子昂/S-Nh	幽州/S-Ns	
+剑桥/S-Ns	
+湖人队/S-Ni	纳什/S-Nh	
+
+

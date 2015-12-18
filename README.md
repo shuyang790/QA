@@ -8,8 +8,11 @@ A Chinese Question and Answer System
     - Output:
         1. **Query formulation**
             - Keywords: 中心词，名词，其他词
+			- 命名实体
+			- 主谓宾
         2. Question **Classification**
             - Rules / Template matching
+			- Parser -> wh-words is ATT to which word => question type
             - Learning
 
 - Passage Retrieval

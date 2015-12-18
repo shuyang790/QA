@@ -38,12 +38,24 @@ def segmentation(filename, output_filename):
 
     MODELDIR = "./ltp_data/"
 
+    # segment
     segmentor = Segmentor()
     segmentor.load(os.path.join(MODELDIR, "cws.model"))
+
+    # postag
     postagger = Postagger()
     postagger.load(os.path.join(MODELDIR, "pos.model"))
     
+    # Named Entity Recognize
+    recognizer = NamedEntityRecognizer()
+    recognizer.load(os.path.join(MODELDIR, "ner.model"))
+    
+    # Parse and get SVO
+    parser = Parser()
+    parser.load(os.path.join(MODELDIR, "parser.model"))
+    
     f = open(output_filename, "w")
+    fner = open(output_filename.split(".")[0]+"_ner.txt", "w")
 
     for _line in lines:
         line = _line[:-1]
@@ -52,14 +64,20 @@ def segmentation(filename, output_filename):
         
         words = segmentor.segment(line)
         postags = postagger.postag(words)
+#        netags = recognizer.recognize(words, postags)
+#        arcs = parser.parse(words, postags)
 
         for i in range(len(words)):
             f.write( "%s/%s\t" % (words[i], postags[i]))
+#            if netags[i]!='O':
+#                fner.write("%s/%s\t" % (words[i], netags[i]))
         f.write("\n")
+#        fner.write("\n")
 
     f.close()
+#    fner.close()
 
-
+   
 def main():
     segmentation("questions/provided/q_facts.txt", "questions/q_facts_segged.txt")
     segmentation("questions/provided/q_yesno.txt", "questions/q_yesno_segged.txt")
