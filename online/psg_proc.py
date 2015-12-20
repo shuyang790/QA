@@ -34,6 +34,10 @@ def main():
     types = f.readlines()
     f.close()
 
+    f = open("../questions/provided/q_facts.txt", "r")
+    questions = [line.rstrip() for line in f.readlines()]
+    f.close()
+
     f = open("psgs_segged.txt", "w")
     fans = open("zhidao_answer.txt", "w")
     i = 0
@@ -42,7 +46,7 @@ def main():
 
     while i < len(lines):
         line = lines[i]
-        if (i % 1000 == 0):
+        if (i % 50000 == 0):
             print "\r#\t%d" % i,
             sys.stdout.flush()
         if line.startswith("<question"):
@@ -58,15 +62,24 @@ def main():
             L = len(line)
             s = 0
             for s in range(L):
-                if line[s:].startswith("最佳答案:") or line[s:].startswith("[专业]答案"):
+                if line[s:].startswith("最佳答案:") \
+                        or line[s:].startswith("[专业]答案")\
+                        or line[s:].startswith("、"+questions[qid-1]):
                     break
             if line[s:].startswith("最佳答案"):
                 s += 14
-            elif line[s:].startswith("[专业]答案:"):
+            elif line[s:].startswith("[专业]答案"):
                 s += 15
+            elif line[s:].startswith("、"+questions[qid-1]):
+                s += len(questions[qid-1])+1
             if s < L and flag == 0:
                 t = s + 1
-                while t < L and line[t:].startswith("更多") == False:
+                while t < L and line[t:].startswith("更多") == False\
+                        and not (t+2<L and line[t]==" " and line[t+1] in "0123456789" and line[t+2] in "0123456789")\
+                        and not line[t:].startswith("～")\
+                        and not line[t:].startswith("？")\
+                        and not line[t:].startswith("！")\
+                        and not line[t:].startswith("。"):
                     t += 1
                 if s < t and t-s < 200 and t-s > 1:
                     ans = line[s:t].rstrip(".。 ?？，,")
