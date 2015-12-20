@@ -4,7 +4,17 @@
 import os, sys
 from pyltp import Segmentor, Postagger, Parser, NamedEntityRecognizer, SementicRoleLabeller
 
-
+def first_con_number(str):
+    L = len(str)
+    i = 0
+    while i < L and not str[i] in "0123456789":
+        i += 1
+    if i == L:
+        return str
+    j = i
+    while j < L and str[j] in "0123456789":
+        j += 1
+    return str[i:j]
 
 MODELDIR="../ltp_data/"
 
@@ -19,6 +29,10 @@ def main():
 
     postagger = Postagger()
     postagger.load(os.path.join(MODELDIR, "pos.model"))
+
+    f = open("../questions/q_facts_segged_clf.txt", "r")
+    types = f.readlines()
+    f.close()
 
     f = open("psgs_segged.txt", "w")
     fans = open("zhidao_answer.txt", "w")
@@ -55,7 +69,10 @@ def main():
                 while t < L and line[t:].startswith("更多") == False:
                     t += 1
                 if s < t and t-s < 200 and t-s > 1:
-                    fans.write("%d\t%s\n" % (qid, line[s:t].rstrip(".。 ?？，,")))
+                    ans = line[s:t].rstrip(".。 ?？，,")
+                    if types[qid-1].rstrip() == "Q_number":
+                        ans = first_con_number(ans)
+                    fans.write("%d\t%s\n" % (qid, ans))
                     flag = 1
 #            words = segmentor.segment(line)
 #            postags = postagger.postag(words)
