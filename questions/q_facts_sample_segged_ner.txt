@@ -1,0 +1,134 @@
+马尔代夫/S-Ns	
+澳大利亚/S-Ns	
+阿根廷/B-Ni	国家/I-Ni	足球队/E-Ni	
+
+中国/S-Ns	
+
+华英/S-Ns	
+
+南坡/S-Ns	珠穆朗玛峰/S-Ns	
+
+
+苏德/S-Nh	
+莫言/S-Nh	诺贝尔/S-Nh	
+中国/S-Ns	
+美国/S-Ns	
+
+欧洲/S-Ns	
+
+约翰纳什/S-Nh	
+
+
+
+
+薛定谔/S-Nh	
+
+
+
+
+
+中国/S-Ns	
+
+中国/S-Ns	国立/B-Ni	综合性/I-Ni	大学/E-Ni	
+马达加斯加/S-Ns	
+
+联合国/S-Ni	
+北京/S-Ns	
+英国/B-Ni	皇家/I-Ni	音乐/I-Ni	学院/E-Ni	中国/S-Ns	
+
+巩俐/S-Nh	香港/S-Ns	
+
+西班牙/S-Ns	
+
+美国/S-Ns	
+
+荷兰/S-Ns	
+
+任天堂/S-Nh	
+诺贝尔/S-Nh	
+牛津/B-Ni	大学/E-Ni	
+
+金庸/S-Nh	
+中国/S-Ns	
+西安/S-Ns	
+北京大学/S-Ni	
+江南/S-Ns	
+
+中国/S-Ns	
+台湾/S-Ns	
+联合国/S-Ni	
+
+意大利/S-Ns	
+西班牙/B-Ni	国家/I-Ni	德比/E-Ni	
+莱昂纳多/S-Nh	
+香港/S-Ns	中国/S-Ns	
+北京市/S-Ns	
+开普勒/S-Nh	
+
+
+
+中国/S-Ns	
+中国/S-Ns	
+
+
+
+
+
+百度/B-Ni	公司/E-Ni	
+江户/S-Nh	
+
+约翰·福布斯·纳什/S-Nh	
+
+
+
+
+
+英国/B-Ni	皇家/I-Ni	音乐/I-Ni	学院/E-Ni	中国/S-Ns	
+
+巩俐/S-Nh	香港/S-Ns	
+
+西班牙/S-Ns	
+
+美国/S-Ns	
+
+荷兰/S-Ns	
+
+任天堂/S-Nh	
+诺贝尔/S-Nh	
+牛津/B-Ni	大学/E-Ni	
+
+金庸/S-Nh	
+中国/S-Ns	
+西安/S-Ns	
+北京大学/S-Ni	
+江南/S-Ns	西湖/S-Ns	玄武湖/S-Ns	南湖/S-Ns	
+
+中国/S-Ns	
+台湾/S-Ns	
+联合国/S-Ni	
+
+意大利/S-Ns	
+西班牙/B-Ni	国家/I-Ni	德比/E-Ni	
+莱昂纳多/S-Nh	
+香港/S-Ns	中国/S-Ns	
+北京市/S-Ns	
+开普勒/S-Nh	
+
+
+
+中国/S-Ns	
+中国/S-Ns	
+
+
+
+
+
+百度/B-Ni	公司/E-Ni	
+江户/S-Nh	
+
+约翰·福布斯·纳什/S-Nh	
+
+
+
+
+

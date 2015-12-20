@@ -105,10 +105,15 @@ nxt:
 }
 
 int main(int argc, char *argv[]) {
-		segment("./questions/provided/q_facts.txt",
+/*		segment("./questions/provided/q_facts_sample.txt",
+				"./questions/q_facts_sample_segged.txt",
+				"./questions/q_facts_sample_segged_ner.txt",
+				"./questions/q_facts_sample_segged_psr.txt",
+				000, 9000);*/
+/*		segment("./questions/provided/q_facts.txt",
 				"./questions/q_facts_segged.txt",
 				"./questions/q_facts_segged_ner.txt",
 				"./questions/q_facts_segged_psr.txt",
-				000, 9000);
+				000, 9000);*/
         return 0;
 }

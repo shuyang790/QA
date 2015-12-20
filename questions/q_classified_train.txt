@@ -1,63 +1,63 @@
-马尔代夫/ns	的/u	第一/m	大/a	支柱/n	产业/n	是/v	什么/r	？/wp	
-澳大利亚/ns	是/v	南半球/n	面积/n	第几/m	大/a	的/u	国家/n	？/wp	
-阿根廷/ns	国家/n	足球队/n	赢得/v	过/u	多少/r	次/q	美洲杯/nz	冠军/n	？/wp	
-平均/a	人口/n	密度/n	最高/a	的/u	大洲/n	是/v	？/wp	
-中国/ns	历史/n	上/nd	最/d	杰出/a	的/u	浪漫主义/n	诗人/n	是/v	？/wp	
-甲午战争/nz	爆发/v	的/u	标志/n	是/v	？/wp	
-《/wp	华英/nz	字典/n	》/wp	的/u	作者/n	是/v	？/wp	
-《/wp	资治通鉴/nz	》/wp	的/u	撰写/v	一共/d	耗时/v	多少/r	年/q	？/wp	
-世界/n	上/nd	首/m	位/q	从/p	南坡/ns	登/v	上/v	珠穆朗玛峰/ns	的/u	女性/n	的/u	国籍/n	是/v	？/wp	
-最后/nd	宣布/v	废除/v	奴隶/n	制度/n	的/u	行政/n	地区/n	是/v	？/wp	
-国际/n	海洋法/n	法庭/n	的/u	总部/n	位于/v	哪个/r	国家/n	？/wp	
-《/wp	苏德/nh	互不/d	侵犯/v	条约/n	》/wp	的/u	签订/v	地点/n	是/v	？/wp	
-莫言/nh	获得/v	诺贝尔/nh	文学奖/n	的/u	年份/n	是/v	？/wp	
-元谋人/n	化石/n	发现/v	于/p	中国/ns	的/u	哪/r	一/m	省份/n	？/wp	
-美国/ns	的/u	当代/nt	人类学/n	通常/d	划分/v	为/v	几/m	大/a	分支/n	？/wp	
-“/wp	中华民族/n	”/wp	一/m	词/n	最/d	早/a	由/p	谁/r	提出/v	？/wp	
-欧洲/ns	的/u	第一/m	所/q	大学/n	是/v	？/wp	
-图书馆/n	学/v	最/d	早/a	由/p	谁/r	提出/v	？/wp	
-约翰纳什/nh	的/u	博士/n	学位/n	是/v	在/p	哪/r	所/q	大学/n	获得/v	的/u	？/wp	
-现存/v	所有/b	老虎/n	亚种/n	中/nd	最/d	小/a	的/u	亚种/n	是/v	？/wp	
-目前/nt	的/u	北回归线/n	位置/n	是/v	由/p	哪个/r	组织/v	确定/v	的/u	？/wp	
-首先/c	分离/v	出/v	元素/n	氟/n	的/u	化学家/n	是/v	？/wp	
-第一/m	位/q	获得/v	菲尔兹奖/v	的/u	女性/n	是/v	？/wp	
-薛定谔/nh	方程/n	的/u	提出者/n	的/u	国籍/n	是/v	？/wp	
-太阳系/n	中/nd	唯一/b	一/m	颗/q	没有/v	磁场/n	的/u	行星/n	是/v	？/wp	
-位于/v	双子座/n	和/c	狮子座/n	之间/nd	的/u	星座/n	是/v	？/wp	
-世界/n	最/d	大/a	的/u	流动性/n	沙漠/n	是/v	？/wp	
-人类/n	合成/v	的/u	第一/m	种/q	抗菌药/n	是/v	？/wp	
-第一/m	种/q	以/p	人工/n	合成/v	无机/b	物质/n	而/c	得到/v	的/u	有机/b	化合物/n	是/v	？/wp	
-中国/ns	历史/n	上规模/i	最/d	大/a	的/u	一/m	套/q	丛书/n	是/v	？/wp	
-世界/n	上/nd	唯一/d	拥有/v	三/m	个/q	首都/n	的/u	国家/n	是/v	？/wp	
-中国/ns	近代/nt	第一/m	所/q	国立/b	综合性/n	大学/n	是/v	？/wp	
-马达加斯加/ns	位于/v	哪个/r	大洲/n	？/wp	
-经典/n	力学/n	的/u	基础/n	是/v	？/wp	
-到/p	2012年/nt	为止/v	，/wp	联合国/ni	共有/v	多少/r	个/q	成员国/n	？/wp	
-北京/ns	奥运会/j	上/nd	点燃/v	主/a	火炬/n	的/u	人/n	一共/d	获得/v	过/u	多少/r	个/q	世界/n	冠军/n	？/wp	
-第一/m	位/q	获得/v	英国/ns	皇家/n	音乐/n	学院/n	荣誉/n	博士/n	学位/n	的/u	中国/ns	人/n	获得/v	的/u	第二/m	个/q	荣誉/n	博士/n	学位/n	是/v	由/p	哪个/r	学院/n	授予/v	的/u	？/wp	
-1945-1950/m	年间/n	收藏/v	清明上河图/n	的/u	博物馆/n	位于/v	哪/r	一/m	座/q	城市/n	？/wp	
-巩俐/nh	获得/v	香港/ns	电影/n	金像奖/nz	最佳/a	女/b	主角/n	的/u	影片/n	导演/n	是/v	谁/r	？/wp	
-打/v	进/v	世界杯/n	历史/n	上/nd	最/d	伟大/a	进球/n	的/u	球员/n	退役/v	于/p	哪/r	一/m	年/q	？/wp	
-西班牙/ns	第二/m	大/a	城市/n	属于/v	哪/r	一/m	种/q	气候/n	？/wp	
-现代/nt	工业/n	制备/v	氧化性/n	最/d	强/a	的/u	单质/n	的/u	方法/n	是/v	？/wp	
-美国/ns	第一/m	颗/q	实验性/n	原子弹/n	在/p	哪里/r	试/v	爆/v	成功/a	？/wp	
-拥有/v	世界/n	前/nd	两/m	位/q	的/u	母语/n	使用者/n	的/u	语言/n	是/v	？/wp	
-荷兰/ns	外交/n	政策/n	的/u	四/m	项/q	基本/a	立场/n	是/v	？/wp	
-世界/n	上/nd	人口/n	密度/n	前/nd	两/m	位/q	的/u	国家/n	是/v	？/wp	
-任天堂/nh	的/u	首/m	间/q	零售/v	商店/n	位于/v	哪个/r	城市/n	？/wp	
-人类/n	最/d	早/a	发现/v	的/u	抗生素/n	的/u	发现者/n	在/p	哪/r	一/m	年/q	获得/v	了/u	诺贝尔/nh	生理/n	医学奖/n	？/wp	
-牛津/ns	大学/n	培养/v	了/u	几/m	位/q	获得/v	过菲尔兹奖/v	的/u	数学家/n	？/wp	
-世界/n	四/m	大/a	长河/n	是/v	？/wp	
-金庸/nh	的/u	封笔/v	之/u	作/n	是/v	？/wp	
-中国/ns	四/m	大/a	佛教/nz	名山/n	之/u	首/n	位于/v	哪/r	一个/m	省份/n	？/wp	
-历史/n	上/nd	共有/v	多少/r	个/q	朝代/n	在/p	西安/ns	建都/v	？/wp	
-1916年/nt	至/p	1927年/nt	，/wp	北京大学/ni	的/u	校长/n	是/v	？/wp	
-江南/ns	三/m	大/a	名湖/n	分别/d	是/v	？/wp	
-婉约派/n	的/u	女性/n	词人/n	代表/n	是/v	？/wp	
-中国/ns	象棋/n	双方/n	各/r	有/v	多少/r	枚/q	棋子/n	？/wp	
-桌球/n	在/p	台湾/ns	指/v	的/u	是/v	哪/r	一/m	种/q	运动/n	？/wp	
-截止/v	到/v	2012年/nt	，/wp	联合国/ni	共有/v	多少/r	个/q	成员国/n	？/wp	
-全球/n	领土/n	面积/n	最/d	小/a	的/u	国家/n	实施/v	什么样/r	的/u	政治/n	体制/n	？/wp	
+马尔代夫/ns	的/u	第一/m	大/a	支柱/n	产业/n	是/v	什么/r	？/wp
+澳大利亚/ns	是/v	南半球/n	面积/n	第几/m	大/a	的/u	国家/n	？/wp
+阿根廷/ns	国家/n	足球队/n	赢得/v	过/u	多少/r	次/q	美洲杯/nz	冠军/n	？/wp
+平均/a	人口/n	密度/n	最高/a	的/u	大洲/n	是/v	？/wp
+中国/ns	历史/n	上/nd	最/d	杰出/a	的/u	浪漫主义/n	诗人/n	是/v	？/wp
+甲午战争/nz	爆发/v	的/u	标志/n	是/v	？/wp
+《/wp	华英/nz	字典/n	》/wp	的/u	作者/n	是/v	？/wp
+《/wp	资治通鉴/nz	》/wp	的/u	撰写/v	一共/d	耗时/v	多少/r	年/q	？/wp
+世界/n	上/nd	首/m	位/q	从/p	南坡/ns	登/v	上/v	珠穆朗玛峰/ns	的/u	女性/n	的/u	国籍/n	是/v	？/wp
+最后/nd	宣布/v	废除/v	奴隶/n	制度/n	的/u	行政/n	地区/n	是/v	？/wp
+国际/n	海洋法/n	法庭/n	的/u	总部/n	位于/v	哪个/r	国家/n	？/wp
+《/wp	苏德/nh	互不/d	侵犯/v	条约/n	》/wp	的/u	签订/v	地点/n	是/v	？/wp
+莫言/nh	获得/v	诺贝尔/nh	文学奖/n	的/u	年份/n	是/v	？/wp
+元谋人/n	化石/n	发现/v	于/p	中国/ns	的/u	哪/r	一/m	省份/n	？/wp
+美国/ns	的/u	当代/nt	人类学/n	通常/d	划分/v	为/v	几/m	大/a	分支/n	？/wp
+“/wp	中华民族/n	”/wp	一/m	词/n	最/d	早/a	由/p	谁/r	提出/v	？/wp
+欧洲/ns	的/u	第一/m	所/q	大学/n	是/v	？/wp
+图书馆/n	学/v	最/d	早/a	由/p	谁/r	提出/v	？/wp
+约翰纳什/nh	的/u	博士/n	学位/n	是/v	在/p	哪/r	所/q	大学/n	获得/v	的/u	？/wp
+现存/v	所有/b	老虎/n	亚种/n	中/nd	最/d	小/a	的/u	亚种/n	是/v	？/wp
+目前/nt	的/u	北回归线/n	位置/n	是/v	由/p	哪个/r	组织/v	确定/v	的/u	？/wp
+首先/c	分离/v	出/v	元素/n	氟/n	的/u	化学家/n	是/v	？/wp
+第一/m	位/q	获得/v	菲尔兹奖/v	的/u	女性/n	是/v	？/wp
+薛定谔/nh	方程/n	的/u	提出者/n	的/u	国籍/n	是/v	？/wp
+太阳系/n	中/nd	唯一/b	一/m	颗/q	没有/v	磁场/n	的/u	行星/n	是/v	？/wp
+位于/v	双子座/n	和/c	狮子座/n	之间/nd	的/u	星座/n	是/v	？/wp
+世界/n	最/d	大/a	的/u	流动性/n	沙漠/n	是/v	？/wp
+人类/n	合成/v	的/u	第一/m	种/q	抗菌药/n	是/v	？/wp
+第一/m	种/q	以/p	人工/n	合成/v	无机/b	物质/n	而/c	得到/v	的/u	有机/b	化合物/n	是/v	？/wp
+中国/ns	历史/n	上规模/i	最/d	大/a	的/u	一/m	套/q	丛书/n	是/v	？/wp
+世界/n	上/nd	唯一/d	拥有/v	三/m	个/q	首都/n	的/u	国家/n	是/v	？/wp
+中国/ns	近代/nt	第一/m	所/q	国立/b	综合性/n	大学/n	是/v	？/wp
+马达加斯加/ns	位于/v	哪个/r	大洲/n	？/wp
+经典/n	力学/n	的/u	基础/n	是/v	？/wp
+到/p	2012年/nt	为止/v	，/wp	联合国/ni	共有/v	多少/r	个/q	成员国/n	？/wp
+北京/ns	奥运会/j	上/nd	点燃/v	主/a	火炬/n	的/u	人/n	一共/d	获得/v	过/u	多少/r	个/q	世界/n	冠军/n	？/wp
+第一/m	位/q	获得/v	英国/ns	皇家/n	音乐/n	学院/n	荣誉/n	博士/n	学位/n	的/u	中国/ns	人/n	获得/v	的/u	第二/m	个/q	荣誉/n	博士/n	学位/n	是/v	由/p	哪个/r	学院/n	授予/v	的/u	？/wp
+1945-1950/m	年间/n	收藏/v	清明上河图/n	的/u	博物馆/n	位于/v	哪/r	一/m	座/q	城市/n	？/wp
+巩俐/nh	获得/v	香港/ns	电影/n	金像奖/nz	最佳/a	女/b	主角/n	的/u	影片/n	导演/n	是/v	谁/r	？/wp
+打/v	进/v	世界杯/n	历史/n	上/nd	最/d	伟大/a	进球/n	的/u	球员/n	退役/v	于/p	哪/r	一/m	年/q	？/wp
+西班牙/ns	第二/m	大/a	城市/n	属于/v	哪/r	一/m	种/q	气候/n	？/wp
+现代/nt	工业/n	制备/v	氧化性/n	最/d	强/a	的/u	单质/n	的/u	方法/n	是/v	？/wp
+美国/ns	第一/m	颗/q	实验性/n	原子弹/n	在/p	哪里/r	试/v	爆/v	成功/a	？/wp
+拥有/v	世界/n	前/nd	两/m	位/q	的/u	母语/n	使用者/n	的/u	语言/n	是/v	？/wp
+荷兰/ns	外交/n	政策/n	的/u	四/m	项/q	基本/a	立场/n	是/v	？/wp
+世界/n	上/nd	人口/n	密度/n	前/nd	两/m	位/q	的/u	国家/n	是/v	？/wp
+任天堂/nh	的/u	首/m	间/q	零售/v	商店/n	位于/v	哪个/r	城市/n	？/wp
+人类/n	最/d	早/a	发现/v	的/u	抗生素/n	的/u	发现者/n	在/p	哪/r	一/m	年/q	获得/v	了/u	诺贝尔/nh	生理/n	医学奖/n	？/wp
+牛津/ns	大学/n	培养/v	了/u	几/m	位/q	获得/v	过菲尔兹奖/v	的/u	数学家/n	？/wp
+世界/n	四/m	大/a	长河/n	是/v	？/wp
+金庸/nh	的/u	封笔/v	之/u	作/n	是/v	？/wp
+中国/ns	四/m	大/a	佛教/nz	名山/n	之/u	首/n	位于/v	哪/r	一个/m	省份/n	？/wp
+历史/n	上/nd	共有/v	多少/r	个/q	朝代/n	在/p	西安/ns	建都/v	？/wp
+1916年/nt	至/p	1927年/nt	，/wp	北京大学/ni	的/u	校长/n	是/v	？/wp
+江南/ns	三/m	大/a	名湖/n	分别/d	是/v	？/wp
+婉约派/n	的/u	女性/n	词人/n	代表/n	是/v	？/wp
+中国/ns	象棋/n	双方/n	各/r	有/v	多少/r	枚/q	棋子/n	？/wp
+桌球/n	在/p	台湾/ns	指/v	的/u	是/v	哪/r	一/m	种/q	运动/n	？/wp
+截止/v	到/v	2012年/nt	，/wp	联合国/ni	共有/v	多少/r	个/q	成员国/n	？/wp
+全球/n	领土/n	面积/n	最/d	小/a	的/u	国家/n	实施/v	什么样/r	的/u	政治/n	体制/n	？/wp
 ﻿/nh 舒马赫/nh 对/p 飚/nz 战斗机/n 的/u 比赛/v 中/nd ，/wp 战斗机/n 的/u 加速度/n 是/v 多少/r
 中国/ns 在/p 奥运会/j 游泳/v 比赛/v 上/nd 获得/v 的/u 首/m 枚/q 金牌/n 是/v 由/p 谁/r 夺得/v 的/u
 金庸/nh 小说/n 《/wp 笑/v 傲/a 江湖/n 》/wp 中/nd ，/wp 历任/v 日月/n 神教/n 光明/n 右使/n ，/wp 任/v 盈盈/z 口中/nl 的/u 向/p 叔叔/n 是/v 谁/r
@@ -196,8 +196,159 @@ F1/ws 中国/ns 站/v 在/p 哪个/r 城市/n 进行/v
 在/p 抗日战争/nz 期间/nd ，/wp 我国/n 的/u 陪/v 都/d 是/v 现在/nt 的/u 哪个/r 城市/n
 曾单人/nh 《/wp 浮沉/v 》/wp 、/wp 《/wp 沉默/a 的/u 证人/n 》/wp 、/wp 《/wp 人证/n 》/wp 男/b 主角/n 的/u 我国/n 内地/nl 著名/a 影星/n 是/v 谁/r
 代表作/n 有/v 《/wp 鲁宾/nh 逊/nh 漂流记/n 》/wp 并且/c 有/v “/wp 英国/ns 小说/n 之/u 父/n ”/wp 之/u 称/n 的/u 是/v 哪/r 位/q 作家/n
+浙江/ns 的/u 省会/n 是/v 哪里/r
+﻿/nh 舒马赫/nh 对/p 飚/nz 战斗机/n 的/u 比赛/v 中/nd ，/wp 战斗机/n 的/u 加速度/n 是/v 多少/r
+中国/ns 在/p 奥运会/j 游泳/v 比赛/v 上/nd 获得/v 的/u 首/m 枚/q 金牌/n 是/v 由/p 谁/r 夺得/v 的/u
+金庸/nh 小说/n 《/wp 笑/v 傲/a 江湖/n 》/wp 中/nd ，/wp 历任/v 日月/n 神教/n 光明/n 右使/n ，/wp 任/v 盈盈/z 口中/nl 的/u 向/p 叔叔/n 是/v 谁/r
+唐朝/nt 时/n 高僧/n 鉴真/nh 六/m 次/q 出访/v 传播/v 佛教/nz 的/u 对象/n 是/v 如今/nt 的/u 哪个/r 国家/n
+我们/r 的/u 手机/n 号码/n 是/v 多少/r 位/q
+哈尔滨/ns 和/c 北京/ns 的/u 距离/n 是/v 多少/r
+2012年/nt 法网/n 女子/n 单打/n 冠军/n 是/v 谁/r
+1858年/nt ，/wp 与/p 清政府/n 签订/v 《/wp 天津/ns 条约/n 》/wp 的/u 国家/n 是/v 英/j 法/j 俄/j 和/c 那个/r 国家/n
+哪个/r 城市/n 横跨/v 欧/j 、/wp 亚两洲/ns
+世界/n 上/nd 发展中国家/i 占/v 多少/r
+道路/n 交通/n 安全/a 违法/v 行为/n 累积/v 记分/v 周期/n 为/v 多少/r 个/q 月/n
+我国/n 第一/m 座/q 完全/a 由/p 中国/ns 自行/d 设计/v 和/c 施工/v 的/u 长江/ns 大桥/n 建/v 于/p 哪个/r 城市/n
+飞机/n 上/nd 允许/v 每个/r 人/n 随身/d 携带/v 的/u 物品/n 的/u 重量/n 是/v 多少/r
+成语/n “/wp 独占鳌头/i ”/wp 中/nd ，/wp “/wp 鳌头/n ”/wp 指/v 的/u 是/v 排名/v 第几/m
+第二/m 次/q 世界大战/i 时/n 有/v 多少/r 犹太人/n 被/p 处/v 死/v 在/p 集中营/n
+成语/n “/wp 乐不思蜀/i ”/wp 最初/d 是/v 指/v 三国/nz 时期/n 的/u 谁/r 不/d 思复国/v
+奔四/nz 2.4G/ws 计算机/n 可/v 超频/v 的/u 范围/n 是/v 多少/r
+现/nt 效力/v 于/p 巴塞罗那/ns 俱乐部/n ，/wp 连续/a 三/m 届/q 获得/v “/wp 世界/n 足球/n 先生/n ”/wp 称号/n 的/u 阿根廷/ns 著名/a 球星/n 是/v 谁/r
+希腊/ns 奥林珀斯/nz 十二/m 主神/n 之一/r ，/wp 象征/v 战争/n 与/c 智慧/n 的/u 女神/n 是/v 谁/r
+心学/n 的/u 集大成者/n ，/wp “/wp 陆王/nz 学派/n ”/wp 中/nd 的/u “/wp 王/n ”/wp 指/v 的/u 是/v 谁/r
+2000年/nt ，/wp 凭借/p 电影/n 《/wp 角斗士/n 》/wp 获得/v 奥斯卡/nz “/wp 最佳/a 男/b 主角/n ”/wp 的/u 好莱坞/ns 著名/a 男星/n 是/v 谁/r
+国际象棋/n 共有/v 多少/r 颗/q 棋子/n
+因/c 在/p 江苏/ns 卫视/n 《/wp 星/n 跳水/v 立方/n 》/wp 节目/n 中/nd 清新/a 脱俗/v 的/u 表现/v 而/c 被/p 网友/n 称为/v “/wp 素颜/n 女神/n ”/wp 的/u 女/b 演员/n 是/v 谁/r
+《/wp 名/n 侦探/n 柯南/n 》/wp 中/nd 与/p 工藤/n 新/a 一齐/m 名/q 的/u 关西/ns 高中生/n 名/n 侦探/n 是/v 谁/r
+有/v “/wp 澳洲/ns 野兔/n ”/wp 绰号/n 的/u 著名/a 澳大利亚/ns 网球/n 男子/n 是/v 谁/r
+电影/n 《/wp 永不/d 消逝/v 的/u 电波/n 》/wp 的/u 故事/n 发生/v 在/p 我国/n 哪个/r 城市/n
+全国/n 水稻/n 种植/v 面积/n 多少/r
+吉尼斯/nz 世界/n 纪录/v 现在/nt 有/v 多少/r 条/q
+急救/n 电话/n 号码/n 是/v 多少/r
+分数/n 四分之一/m 换算/v 成/v 小数/n 是/v 多少/r
+北京/ns 的/u 经度/n 和/c 纬度/n 各/r 是/v 多少/r
+关于/p 大学/n 联合/v 办学/v 应该/v 咨询/v 谁/r
+清朝/nt 皇太极/n 最/d 宠爱/v 的/u 宸妃/n ，/wp 也/d 是/v 孝庄/ns 文皇/n 后/nd 姐姐/n 的/u 人/n 叫/v 什么/r 名字/n
+赵林山/nh 导演/n 的/u 电影/n 《/wp 铜雀台/n 》/wp 中/nd ，/wp 苏/j 有/v 朋/n 扮演/v 的/u 是/v 谁/r
+车牌号/n 为/v “/wp 浙/j B/ws ”/wp 开头/n 的/u 归属地/n 是/v 中国/ns 哪个/r 城市/n
+跳绳/v 1/m 分钟/q 能/v 消耗/v 多少/r 能量/n
+2012年/nt 伦敦/ns 奥运会/j 上/nd ，/wp 东道主/n 英国队/ni 最终/d 位列/v 金牌榜/n 的/u 第几/m 名/q
+清朝/nt 的/u 顺治/ns 皇帝/n 是/v 谁/r 的/u 第九/m 个/q 儿子/n
+约旦/ns 的/u 首都/n 是/v 哪个/r 城市/n
+著名/a 文学家/n 鲁迅/nh 的/u 原配/n 夫人/n 是/v 谁/r
+中超/j 申花/nz 足球/n 俱乐部/n 的/u 主场/n 位于/v 我国/n 哪个/r 城市/n
+因/p 秦太守/nh 李冰/nh 在/p 此/r 建成/v “/wp 都江堰/ns ”/wp 而/c 被/p 称之为/v “/wp 天府/n 之/u 国/n ”/wp 的/u 是/v 我国/n 哪/r 座/q 城市/n
+出演/v 《/wp 小情人/n 》/wp 《/wp 小/a 叛军/n 》/wp 的/u ，/wp 曾经/d 担任/v 过/u 美国/ns 驻/v 加纳/ns 大使/n 的/u 是/v 美国/ns 著名/a 童星/n 是/v 谁/r
+今年/nt 从/p NBA/ws 小牛队/ni 重/d 回/v CBA/ws 东莞/ns 银行/n 队/n 的/u 著名/a 篮球/n 运动员/n 是/v 谁/r
+以/p 作风/n 硬朗/a 、/wp 朴实/a 亲民/a 的/u 形象/n 而/c 闻名/v 的/u 现任/b 伊朗/ns 总统/n 是/v 谁/r
+现/nt 火箭队/ni 主力/n 中锋/n 阿西克/nh ，/wp 来自/v 哪个/r 国家/n
+谁/r 是/v 电磁/n 感应/n 的/u 发现者/n
+冬虫夏草/i 生长/v 在/p 我国/n 哪些/r 地区/n
+中国/ns 古/a 神话/n 传说/n 中/nd 发明/v 钻木/n 取/v 火/n 的/u 是/v “/wp 三皇/n ”/wp 之/u 首/n 的/u 谁/r
+世界/n 第一/m 大/a 岛/n 格陵兰岛/ns 属于/v 哪个/r 国家/n
+东汉/nt 时期/n 被/p 称为/v 建业/nz 的/u 是/v 现在/nt 我国/n 的/u 哪个/r 城市/n
+代表作/n 有/v 《/wp 闲散/a 的/u 时光/n 》/wp 《/wp 唐璜/nh 》/wp 的/u 英国/ns 19/m 世纪/n 初期/nd 伟大/a 的/u 浪漫主义/n 诗人/n 是/v 谁/r
+罗伯特/nh 巴乔/nh 是/v 哪个/r 国家/n 的/u 著名/a 足球/n 运动员/n
+第一/m 次/q 通过/p 广播/v 演讲/v 的/u 总统/n 是/v 谁/r
+哈雷彗星/n 出现/v 的/u 频率/n 是/v 多少/r
+凭借/p 《/wp 花样/n 年华/n 》/wp 在/p 第53/m 届/q 戛纳/ns 电影节/nt 荣获/v 最佳/a 男/b 主角/n 的/u 人/n 是/v 谁/r
+长安/nz 汽车/n 股份/n 有限公司/n 为/p 哪个/r 地区/n 最/d 大/a 的/u 中央/n 管辖/v 工业/n 企业/n 重庆市/ns
+赵宝刚/nh 执导/v 的/u 《/wp 奋斗/v 》/wp 中/nd 佟/nh 大为/d 在/p 剧中/n 饰演/v 的/u 谁/r
+《/wp 红楼梦/nz 》/wp 中/nd ，/wp 薛宝钗/nh 的/u 哥哥/n ，/wp 外号/n 呆霸王/n 的/u 是/v 谁/r
+美人鱼/n 雕像/n 在/p 丹麦/ns 的/u 哪个/r 城市/n
+T/ws 和/c G/ws 考/v 多少/r 分/q 才/d 算/v 过关/v
+非洲/ns 国家/n 南非/ns 的/u 立法/v 首都/n 是/v 哪/r 座/q 城市/n
+出自/v 《/wp 警世/n 通言/n 》/wp ，/wp 形容/v 不/d 顾/v 一切/r 通常/d 会/v 说/v “/wp 不管/c 三/m 七/m 多少/r
+在/p 伦敦/ns 奥运会/j 上/nd 因/p 场地/n 湿/a 滑/a 导致/v 摔/v 伤/n 而/c 无缘/v 奖牌/n 的/u 中国/ns 女子/n 羽毛球队/n 选手/n 叫/v 什么/r 名字/n
+新/a 中国/ns 成立/v 初期/nd 的/u 临时/b 宪法/n 叫/v 什么/r 名字/n
+《/wp 三国演义/nz 》/wp 中/nd ，/wp “/wp 碧眼儿/n 坐镇/v 江东/ns ”/wp 是/v 指/v 谁/r 在/p 江东/ns 一带/n 割据/v
+F1/ws 中国/ns 站/v 在/p 哪个/r 城市/n 进行/v
+尼泊尔/ns 的/u 首都/n 是/v 哪/r 座/q 城市/n
+著名/a 的/u “/wp 埃菲尔铁塔/n ”/wp 是/v 哪个/r 城市/n 的/u 标志性/n 景点/n
+自古以来/i 有/v “/wp 塞上明珠/nz ”/wp 称号/n 的/u 宁夏/ns 回族/nz 自治区/n 首府/n 是/v 哪/r 座/q 城市/n
+美国/ns 重要/a 的/u 港口/n 城市/n ，/wp 也/d 是/v 世界/n 著名/a 的/u 汽车/n 之/u 城/n 和/c 音乐/n 之/u 都/n 的/u 城市/n 是/v
+国际/n 正式/a 足球/n 比赛/v 中/nd ，/wp 上下半场/j 各位/r 多少/r 时间/n
+绰号/n “/wp 睡皮/n ”/wp ，/wp 现/nt 效力/v 于/p 意甲/j 尤文图斯队/ni 的/u 意大利/ns 中/nd 球员/n 是/v 谁/r
+波音/b 公司/n 是/v 世界/n 上/nd 最/d 大/a 的/u 民用/b 核/n 军用/b 飞机/n 制造商/n ，/wp 他/r 的/u 总部/n 位于/v 哪个/r 国家/n
+和服/n 是/v 哪个/r 国家/n 的/u 民族/n 服装/n
+“/wp 生当作/v 人杰/n ，/wp 死/v 亦/d 为/v 鬼雄/n ”/wp 是/v 谁/r 的/u 诗句/n
+我国/n 法律/n 规定/v 饮酒/v 或/c 醉酒/v 驾驶/v 机动车/n 的/u ，/wp 一次性/d 扣/v 多少/r 分/q
+孙燕姿/nh 曾/d 就读/v 的/u 南洋/ns 理工大学/n 位于/v 哪个/r 国家/n
+安南/nh 是/v 哪个/r 国家/n 的/u 人/n
+成语/n “/wp 东施/ns 效颦/n ”/wp 中/nd 的/u 东施/nh 效仿/v 的/u 是/v 谁/r
+以/p “/wp 小吃/n ”/wp 闻名/v 的/u 户部港/ns 是/v 位于/v 我国/n 的/u 哪个/r 城市/n
+我国/n 著名/a 的/u 曾侯乙/nh 编钟/n 出土/v 自/p 湖北省/ns 的/u 哪个/r 城市/n
+佛罗伦萨/ns 是/v 欧洲/ns 哪个/r 国家/n 的/u 城市/n
+拿破仑/nh 兵/n 败/v 的/u “/wp 滑铁卢/nz ”/wp 位于/v 欧洲/ns 哪个/r 国家/n
+武侠小说/n 《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 中/nd ，/wp 白眉鹰/n 王/n 叫/v 什么/r 名字/n
+世界/n 上/nd 第一/m 枚/q 邮票/n 出现/v 在/p 哪个/r 国家/n
+战国/nt 末年/nt 《/wp 韩非子/nh 》/wp 一/m 书/n 中/nd 出现/v 的/u 用/v 来/v 识别/v 南北/nd 的/u 勺形/n 工具/n 叫/v 什么/r 名字/n
+比利时/ns 说/v 得/u 最/d 多/a 的/u 语言/n 是/v 什么/r
+尼日尔河/ns 位于/v 哪里/r
+东京/ns 理工学院/n 发明/v 的/u 新型/b 玻璃/n 碳/n 材料/n 比/p 纤维/n 制成/v 的/u 材料/n 强度/n 大/a 多少/r
+戏曲/n 及/c 小说/n 《/wp 杨家将/n 》/wp 中/nd ，/wp 穆桂英/nh 是/v 杨家/nh 将/p 中/nd 谁/r 的/u 妻子/n
+哪个/r 城市/n 以/p 其/r 黄色/n 的/u 浓雾/n 而/c 出名/a
+唐朝/nt 时期/n 的/u 著名/a 女官/n 上/nd 官/n 婉儿/a 的/u 祖父/n 是/v 谁/r
+二战/j 结束/v 后/nd 苏联/ns 侵略/v 过/u 哪个/r 国家/n
+中国/ns 古代/nt 追赶/v 太阳/n 的/u 神话/n 人物/n 是/v 谁/r
+小说/n 《/wp 杨/nh 门/n 女将/n 》/wp 中/nd 女将/n 之一/r ，/wp 也/d 是/v 杨宗保/nh 的/u 妻子/n ，/wp 她/r 是/v 谁/r
+演唱/v 《/wp 爱笑/v 的/u 眼睛/n 》/wp 《/wp 狠狠/d 爱/v 》/wp 等/u 知名/a 歌曲/n 的/u 台湾/ns 高山族/nz 女/b 艺人/n 是/v 谁/r
+尖舟/n “/wp 贡多拉/nz ”/wp 是/v 意大利/ns 哪个/r 城市/n 特有/b 的/u 水上/nl 工具/n
+二战/j 过后/nt ，/wp 审判/v 法西斯/nz 的/u 德国/ns 法庭/n 在/p 哪个/r 城市/n
+儿歌/n “/wp 只怕/v 先生/n 骂/v 我/r 懒/a 呀/u ，/wp 没有/v 学问/n ，/wp 无颜/d 见/v 爹娘/n ”/wp ，/wp 请问/v 这里/r 的/u “/wp 我/r ”/wp 是/v 谁/r
+世界/n 上/nd 第一/m 只/q 克隆羊/n 叫/v 什么/r 名字/n
+人体/n 红细胞/n 的/u 正常/a 含量/n 范围/n 是/v 多少/r
+大仲马/nh 所/u 着/u 小说/n 《/wp 基督/nz 山/n 伯爵/n 》/wp 中/nd 的/u 女/b 主人公/n 是/v 谁/r
+罗根/ns 国际/n 机场/n 坐落/v 于/p 什么/r 城市/n
+我们/r 说/v “/wp 12点一刻/m ”/wp 的/u 一刻/nt 是/v 指/v 多少/r 分钟/q
+温哥华/ns 是/v 哪个/r 国家/n 的/u 城市/n
+哪个/r 国家/n 的/u 军事/n 实力/n 最/d 强大/a
+“/wp 雪山/n 连绵/z ，/wp 冰川/n 广布/v ”/wp 描写/v 的/u 是/v 我国/n 哪/r 座/q 海拔/n 最高/a 的/u 高原/n 景观/n
+日本/ns 动画片/n 《/wp 魔卡/n 少女/n 樱/n 》/wp 中/nd 的/u 男/b 主角/n 叫/v 什么/r 名字/n
+十/m 年/q 前/nd ，/wp 姚明/nh 率领/v 哪个/r 城市/n 的/u 球队/n 第一/m 次/q 也/d 是/v 唯一/b 一/m 次/q 获得/v CBA/ws 联赛/n 的/u 总/b 冠军/n
+《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 里/nd 光明/n 左/nd 使/v 叫/v 什么/r 名字/n
+有/v “/wp 银狐/n ”/wp 称号/n 的/u 意大利/ns 籍/n 主教练/n 现/nt 执教/v 中超/j 广州/ns 恒大/nz 足球队/n 是/v 谁/r
+炸/v 酱面/n 、/wp 豆汁/n 、/wp 炒肝/v 是/v 我国/n 哪个/r 城市/n 的/u 风味/n 小吃/n
+地球/n 内部/nd 的/u 地核/n 温度/n 高于/v 多少/r 度/q
+请问/v 《/wp 犬夜叉/n 》/wp 漫画/n 现在/nt 的/u 集数/n 是/v 多少/r
+电影/n 《/wp 肖申克/nh 的/u 救赎/n 》/wp 中/nd ，/wp 由/p 蒂姆.罗宾斯/nh 饰演/v 的/u 男/b 主人公/n 叫/v 什么/r 名字/n
+“/wp 迪斯尼/nz ”/wp 的/u 总部/n 设/v 在/p 哪个/r 国家/n
+杨宗保/nh 的/u 父亲/n ，/wp 北宋/nt 抗辽/v 大将/n 杨业/nh 的/u 第六/m 个/q 儿子/n 是/v 谁/r
+有/v “/wp 古/a 之/u 恶/n 来/v ”/wp 别名/n 的/u 武将/n 典韦/n 是/v 东汉/nt 末年/nd 谁/r 部下/n 的/u 将领/n
+一个/m 成年/v 男人/n 身上/nl 的/u 电阻/n 大约/d 是/v 多少/r
+历史/n 上/nd 著名/a 的/u 长平/a 之/u 战/n 赵国/ns 大败/v ，/wp 赵国的/nh 将领/n 是/v 赵括/nh ，/wp 秦国/ns 的/u 将领/n 是/v 谁/r
+在/p 《/wp 北京/ns 爱情/n 故事/n 》/wp 中/nd 出演/v 程峰/nh 外号/n “/wp 疯子/n ”/wp 并/c 是/v 该片/r 导演/n 的/u 人/n 是/v 谁/r
+《/wp 凤/n 求/v 凰/n 》/wp 是/v 司马相如/nh 在/p 追求/v 谁/r 的/u 时候/n 创作/v 的/u 古琴曲/n
+亚利桑那州/ns 大/a 峡谷/n 是/v 哪个/r 国家/n 的/u 名胜/n
+被/p 誉为/v “/wp 现代/nt 建筑/n 的/u 最后/nd 大师/n ”/wp ，/wp 设计/v 了/u 约翰肯尼迪/nh 图书馆/n 的/u 美籍/b 华人/n 建筑师/n 是/v 谁/r
+北京/ns 奥运会/j 开幕式/n 主题曲/n 《/wp 我/r 和/c 你/r 》/wp 是/v 刘欢/nh 和/c 谁/r 演唱/v 的/u
+我国/n 第一/m 个/q 也/d 是/v 唯一/b 一个/m 在/p “/wp 维也纳/ns 金色/n 大厅/n ”/wp 举办/v 过/u 个人/n 独唱/v 音乐会/n 的/u 著名/a 女/b 歌手/n 是/v 谁/r
+一手/d 主导/v 了/u 袁世凯/nh 死/v 后/nd ，/wp 北洋/nz 政府/n 的/u 内政/n 外交/n 的/u 皖系/n 军阀/n 首领/n 叫/v 什么/r 名字/n
+产/v 煤/n 最/d 多/a 的/u 大陆/n 在/p 哪里/r
+有/v “/wp 咖啡/n 王国/n ”/wp 之/u 称/n 的/u 是/v 南美洲/ns 的/u 哪个/r 国家/n
+历史/n 上/nd 著名/a 的/u “/wp 管鲍之交/i ”/wp 描述/v 的/u 是/v 管/nh 仲/nh 和/c 谁/r 的/u 友情/n
+国际/n 奥委会/j 最初/d 成立/v 时/n 总部/n 设置/v 在/p 什么/r 地点/n
+欧洲/ns 文艺复兴/i 时期/n 提出/v /wp 日心/n 说/v /wp 的/u 波兰/ns 科学家/n 是/v 谁/r
+马头琴/nh 是/v 我国/n 哪个/r 少数民族/n 的/u 乐器/n
+万里长城/ns 横跨/v 我国/n 多少/r 省/n
+泰国/ns 首/m 位/q 女/b 总理/n 是/v 英拉/nh ，/wp 她/r 哥哥/n 是/v 谁/r
+《/wp 神雕侠侣/n 》/wp 里/nd 砍/v 断/v 杨/nh 过/u 手臂/n 的/u 郭芙蓉/nh 最后/nd 嫁/v 给/v 了/u 谁/r
+目前/nt 国家/n 推行/v 的/u 简化/v 太极拳/n 一共/d 有/v 多少/r 式/n
+目前/nt 男子/n 110/m 米/q 栏/n 的/u 世界/n 纪录/n 保持者/n 是/v 谁/r
+南明/nt 小/a 朝廷/n 著名/a 将领/n ，/wp 在/p 扬州率/n 众/a 抵抗/v 清军/n 的/u 南明/nt 兵部/n 尚书/n 是/v 谁/r
+比尔.盖茨/nh 有/v 多少/r 资产/n
+唐玄宗/nh 时期/n 哪/r 位/q 大/a 诗人/n 不畏/v 权贵/n ，/wp 让/v 高力士/n 为/p 其/r 脱靴/v
+麦卡伦/nh 国际/n 机场/n 在/p 哪个/r 城市/n
+新/nh 奥尔良/nh 在/p 美国/ns ，/wp 那么/c 奥尔良/nh 在/p 欧洲/ns 的/u 哪个/r 国家/n
+《/wp 水浒传/n 》/wp 中/nd 梁山/ns 好汉/n 有/v 多少/r 位/q
+在/p 抗日战争/nz 期间/nd ，/wp 我国/n 的/u 陪/v 都/d 是/v 现在/nt 的/u 哪个/r 城市/n
+曾单人/nh 《/wp 浮沉/v 》/wp 、/wp 《/wp 沉默/a 的/u 证人/n 》/wp 、/wp 《/wp 人证/n 》/wp 男/b 主角/n 的/u 我国/n 内地/nl 著名/a 影星/n 是/v 谁/r
+代表作/n 有/v 《/wp 鲁宾/nh 逊/nh 漂流记/n 》/wp 并且/c 有/v “/wp 英国/ns 小说/n 之/u 父/n ”/wp 之/u 称/n 的/u 是/v 哪/r 位/q 作家/n
 浙江/ns 的/u 省会/n 是/v 哪里/r 杭州/ns
 电影/n 《/wp 重庆/ns 森林/n 》/wp 中/nd ，/wp 两/m 位/q 主要/b 男/b 演员/n 是/v 梁朝伟/nh 和/c 谁/r
+率领/v 西班牙/ns 男子/n 足球队/n 夺得/v 2012年/nt 欧洲杯/n 的/u 主教练/n 叫/v 什么/r 名字/n
+111/m 这/r 是/v 海绵宝宝/n 的/u 列党/n ，/wp 它/r 叫/v 什么/r 名字/n
 “/wp 我/r 飘/v 啊/u 飘/v 你/r 摇/v 啊/u 摇/v ，/wp 无/v 根/n 的/u 野草/n ”/wp 这/r 首/q 《/wp 飘摇/v 》/wp 的/u 演唱者/n 是/v 谁/r
 近日/nt 退役/v 的/u AC/ws 米兰/nz 俱乐部/n 的/u 意大利/ns 前锋/n ，/wp 绰号/n 为/v “/wp 超级/b 皮波/n ”/wp 的/u 人/n 是/v 谁/r
 从/p 哈佛/ns 辍学/v ，/wp 并/c 创建/v 了/u 软件/n 帝国/n 微软/ni 公司/n 的/u 人/n 是/v 谁/r
@@ -217,12 +368,14 @@ F1/ws 中国/ns 站/v 在/p 哪个/r 城市/n 进行/v
 出资/v 修建/v 了/u 厦门/ns 大学/n 的/u 著名/a 的/u 爱国华侨/n 领袖/n 是/v 谁/r
 历史/n 上/nd 越/d 王勾践/nh 用/p 美人计/n 把/p 西施/nh 送给/v 了/u 谁/r
 被/p 称为/v “/wp 飞鱼/n ”/wp 的/u 澳大利亚/ns 男子/n 游泳/v 选手/n 是/v 谁/r
+梦工厂/nz 公司/n 出品/v 的/u 绿色/n 怪物/n 和/c 公主费/n 欧娜/nh 的/u 爱情/n 故事/n 系列/n 动画/n 电影/n ，/wp 叫/v 什么/r 名字/n
 第一/m 个/q 竞选/v 总统/n 的/u 女性/n 是/v 谁/r
 韩国/ns 的/u 首都/n 是/v 哪/r 座/q 城市/n
 雅典/ns 奥运会/j 是/v 第几/m 届/q 奥运会/j
 各个/r 国家/n 的/u 大使馆/n 都/d 在/p 中国/ns 的/u 哪/r 座/q 城市/n
 前花儿/n 乐队/n 的/u 主唱/n 是/v 谁/r
 前花儿/n 乐队/n 的/u 主唱/n 是/v 谁/r
+著名/a 主持人/n 、/wp 歌手/n 陶晶莹/nh 的/u 丈夫/n 叫/v 什么/r 名字/n
 阿拉斯加/ns 的/u 地方/n 长官/n 是/v 谁/r
 历史/n 上/nd 的/u “/wp 九一八/nt 事变/n ”/wp 的/u 哪个/r 国家/n 为了/p 侵略/v 我国/n 东北/nl 三/m 省/n 而/c 发动/v 的/u 一/m 场/q 战争/n
 相传/v 镇压/v 白娘子/n 的/u 雷峰塔/n 位于/v 哪个/r 城市/n
@@ -259,19 +412,24 @@ NBA/ws 历史/n 上/nd 第一/m 个/q 四/m 次/q 成为/v NBA/ws 得分王/n �
 2002年/nt 韩/j 日/j 世界杯/n 上/nd ，/wp 德国队/ni 0/m 战胜/v 沙特队/ni 的/u 比赛/v 中/nd 一/m 人/n 打/v 进/v 5/m 球/n 的/u 球星/n 是/v 谁/r
 “/wp 三藩市/ns ”/wp 是/v 我们/r 对/p 美国/ns 哪个/r 城市/n 的/u 别称/n
 安杰拉./nh 戴维斯/nh 是/v 谁/r
+2012年/nt 荣登/v “/wp 胡润/nh 百富版/n ”/wp 首富/n ，/wp 娃哈哈/nz 的/u 创始人/n 叫/v 什么/r 名字/n
 拉丁美洲/ns 的/u 哪个/r 国家/n 的/u 蔗糖/n 出口量/n 占/v 主要/b 地位/n
 世界/n 上/nd 使用/v 人数/n 最/d 多/a 的/u 语言/n 是/v 什么/r 语言/n
+日本/ns 动漫/n 《/wp 圣斗士星矢/nz 》/wp 中/nd ，/wp 青铜/j 五/m 战士/n 中/nd 的/u 一/m 辉/n 的/u 弟弟/n 叫/v 什么/r 名字/n
 周/nh 星驰/nh 版/n 《/wp 九/m 品/n 芝麻官/n 》/wp 中/nd 扮演/v 戚秦氏/nh 的/u 女/b 明星/n 是/v 谁/r
 金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd ，/wp 木婉清/nh 的/u 母亲/n 是/v 谁/r
 法国/ns 的/u 旅游/v 胜地/n 哪里/r 是/v 世界/n 著名/a 的/u 薰衣草/n 产地/n 之一/r
 华清池/ns 位于/v 陕西省/ns 的/u 哪/r 座/q 城市/n
 以/p 呈现/v 世界/n 名胜/n 微缩/v 模型/n 而/c 闻名/v 的/u “/wp 世界/n 之/u 窗/n ”/wp 景区/n 最/d 早/a 键设/v 在/p 广东/ns 的/u 哪个/r 城市/n
 欧洲/ns 文艺复兴/i 运动/v 的/u 发祥地/n ，/wp 也/d 是/v 歌剧/n 诞生地/n 的/u 是/v 意大利/ns 哪个/r 城市/n
+美国/ns 最/d 大/a 的/u 城市/n 叫/v 什么/r 名字/n
 我们/r 常/d 说/v “/wp 六旬/m 老人/n ”/wp 是/v 指/v 这/r 位/q 老人/n 多少/r 岁/q
 花旗/nz 银行/n 是/v 哪个/r 国家/n 的/u 银行/n
 著名/a 景点/n 羊八井/ns 地热/n 蒸汽田/n 位于/v 我国/n 西藏/ns 自治区/n 的/u 哪个/r 城市/n
 “/wp 今年/nt 花盛/nt 去年/nt 红/a ，/wp 可惜/v 明年/nt 花/v 更/d 好/a ，/wp 知/v 与/p 谁/r 同/v ”/wp 是/v 哪/r 位/q 北/nd 宋词人/n 的/u 作品/n
+治水/v 的/u “/wp 大禹/nh ”/wp 的/u 父亲/n 叫/v 什么/r 名字/n
 拥有/v 球星/n 德罗巴/nh ，/wp 被/p 称为/v “/wp 非洲/ns 大象/n ”/wp 的/u 是/v 哪个/r 国家/n 的/u 男子/n 足球队/n
+金庸/nh 小说/n 中/nd 的/u “/wp 降龙十八掌/nz ”/wp 的/u 第一/m 式/q 叫/v 什么/r 名字/n
 在/p 电视剧/n 《/wp 仙剑/n 奇侠传/n 1/m 》/wp 中/nd ，/wp 饰演/v 李逍遥/nh 的/u 男/b 演员/n 是/v 谁/r
 “/wp 暧昧/a 让/v 人/n 受尽/v 委屈/v ，/wp 找/v 不/d 到/v 相爱/v 的/u 证据/n ”/wp 出自/v 谁/r 唱/v 的/u 歌曲/n 《/wp 暧昧/a 》/wp
 官方/n 语种/n 最/d 多/a 的/u 国家/n 是/v 哪个/r
@@ -316,6 +474,8 @@ NBA/ws 历史/n 上/nd 第一/m 个/q 四/m 次/q 成为/v NBA/ws 得分王/n �
 凭借/p 《/wp 花样/n 年华/n 》/wp 在/p 第53/m 届/q 戛纳/ns 电影节/nt 荣获/v 最佳/a 男/b 主角/n 的/u 人/n 是/v 谁/r
 活期/b 存款/n 的/u 利息/n 是/v 多少/r
 凯瑟琳/nh 陛下/n 曾经/d 统治/v 哪个/r 国家/n
+金发/n 碧眼/n ，/wp 造型/n 无数/m 的/u 20/m 世纪/n 最/d 畅销/a 人偶/n 玩具/n 叫/v 什么/r 名字/n
+俄罗斯/ns 名城/n “/wp 斯大林格勒/nh ”/wp 现在/nt 叫/v 什么/r 名字/n
 儿歌/n 《/wp 种/v 太阳/n 》/wp 歌词/n “/wp 一个/m 送给/v ，/wp 送/v 南极/ns ，/wp 一个/m 送给/v ，/wp 送给/v 哪里/r ”/wp
 经典/n 名曲/n 《/wp 追梦人/n 》/wp 的/u 原唱者/n ，/wp 被/p 称为/v “/wp 帽子/n 天/n 后/nd ”/wp 的/u 已故/v 台湾/ns 女/b 歌手/n 是/v 谁/r
 《/wp 战争/n 与/c 和平/n 》/wp 是/v 俄国/ns 哪/r 位/q 作家/n 的/u 著作/n
@@ -347,6 +507,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 人/n 耳/n 一般/a 所/u 能/v 听到/v 的/u 声波/n 频率/n 是/v 多少/r
 谁/r 是/v 第一/m 个/q 美国/ns 总统/n
 灭亡/v 南宋/nt ，/wp 建立/v 了/u 幅员/n 辽阔/a 的/u 元朝/nt 的/u 皇帝/n 是/v 谁/r
+我国/n 自主/v 研制/v 并/c 发射/v 的/u 首/m 个/q 月球/n 探测器/n 叫/v 什么/r 名字/n
 历史/n 悠久/a ，/wp 极/d 具/v 影响力/n 的/u 《/wp 泰晤士报/n 》/wp 是/v 哪个/r 国家/n 的/u 报纸/n
 国际/n 上/nd 用/p “/wp K/ws ”/wp 表示/v 含金量/i ，/wp 18k/nt 金/nt 表示/v 含金量/n 百分比/n 为/v 百分之/m 多少/r
 《/wp 蓝/a 战士/n 2DJ/ws 》/wp 共/d 分为/v 多少/r 段/q
@@ -356,6 +517,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 《/wp 三国演义/nz 》/wp 中/nd 继承/v 了/u 诸葛亮志/nh ，/wp 带领/v 蜀军/n 伐魏/v 的/u 将领/n 是/v 谁/r
 与/p 柏林/ns 爱乐/nz 乐团/n 合作/v 长/a 达/v 34/m 年/q ，/wp 被/p 誉为/v “/wp 欧洲/ns 音乐/n 的/u 总指挥/n ”/wp 的/u 指挥家/n 是/v 谁/r
 “/wp 青春版/n ”/wp 昆曲/n 《/wp 牡丹亭/n 》/wp 是/v 由/p 哪/r 位/q 著名/a 作家/n 主持/v 制作/v 的/u
+托尼/nh 扮演/v 汤姆/nh 的/u 那个/r 连续剧/n 叫/v 什么/r 名字/n
 清朝/nt “/wp 太平天国/n ”/wp 运动/n 的/u 发起人/n ，/wp 后/nd 成为/v 太平天国/n 天王/n 的/u 人/n 是/v 谁/r
 著名/a 的/u 香榭丽舍/ns 大街/n （/wp 爱丽舍/ns 田园/n 大街/n ）/wp 是/v 位于/v 欧洲/ns 的/u 哪个/r 城市/n
 曾/d 塑造/v 多/m 个/q 枭雄/n 形象/n ，/wp 并/c 在/p 港剧/n 83/m 版/n 《/wp 射雕英雄传/nz 》/wp 中/nd 饰演/v 黄药师/n 的/u 是/v 谁/r
@@ -368,6 +530,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 我国/n 少数民族/n 最/d 多/a 的/u 省份/n 是/v
 上海/ns 座机区/n 号/n 加上/v 电话/n 号码/n 一共/d 是/v 多少/r 位/q
 “/wp 纳斯达克/nz 指数/n ”/wp 是/v 哪个/r 国家/n 股票/n 交易/n 的/u 重要/a 指数/n
+英国/ns 作家/n 托尔金/nh 所/u 著/v 系列/n 书籍/n ，/wp 并/c 被/p 改编/v 成/v 电影/n 的/u 《/wp 指环王/n 》/wp 第二/m 部/q 的/u 名字/n 是/v
 以/p 钟表/n 和/c 军刀/n 闻名于世/i 的/u 欧洲/ns 国家/n 是/v
 赵/nh 薇/nh 导演/n 的/u 电影/n 《/wp 致/v 青春/n 》/wp 改编/v 自/p 哪/r 位/q 作家/n 的/u 小说/n
 “/wp 明月/n 装饰/v 了/u 你/r 的/u 窗子/n ，/wp 你/r 装饰/v 了/u 别人/r 的/u 梦/n ”/wp 是/v 哪/r 位/q 诗人/n 的/u 作品/n
@@ -376,6 +539,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 吴门/ns 四/m 大/a 才子/n 俗称/v 江南/ns 四/m 大/a 才子/n 是/v 指/v 唐伯虎/nh ，/wp 文征明/nh ，/wp 徐祯卿/nh 和/c 谁/r
 著名/a 哲学家/n 黑格尔/nh 是/v 哪个/r 国家/n 的/u
 四/m 大/a 名著/n 中/nd 《/wp 三国演义/nz 》/wp 的/u 作者/n 是/v 谁/r
+近期/nt 上映/v 的/u 由/p 斯皮尔伯格/nh 导演/n ，/wp 以/c 一/m 战/n 为/v 背景/n 的/u 动物/n 题材/n 题片/n 叫/v 什么/r 名字/n
 十全街/ns 、/wp 金鸡湖/ns 都/d 是/v 江苏省/ns 哪/r 座/q 城市/n 的/u 著名/a 景点/n
 石油/n 输出国/n 组织/n “/wp 欧佩克/ni ”/wp 成员国/n 中/nd ，/wp 南盖州/ns 国家/n 除了/p 厄瓜多尔/ns 还有/v 哪个/r 国家/n
 艾崴/nh KK266PLUS/ws 主机板/n 可以/v 支持/v 到/v 多少/r 频率/n 与/p 型号/n 的/u 处理器/n
@@ -388,6 +552,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 中国/ns 最/d 早/a 实行/v 对外开放/i 的/u 四/m 个/q 经济特区/i 之一/r 也/d 是/v 福建省/ns 著名/a 旅游/v 圣地/n 的/u 是/v 哪/r 座/q 城市/n
 有/v “/wp 咖啡/n 王国/n ”/wp 之/u 称/n 的/u 是/v 南美洲/ns 的/u 哪个/r 国家/n
 早熟/v 黄瓜/n 的/u 瓜长/n 范围/n 是/v 多少/r
+日本/ns 动画片/n 《/wp 名/n 侦探/n 柯南/n 》/wp 中/nd 为/p 柯南/nh 设计/v 多种/m 道具/n 助/v 其/r 破案/v 的/u 博士/n 叫/v 什么/r 名字/n
 武则天/nh 时期/n 断案/v 如/v 神/n ，/wp 以/p “/wp 廉洁勤政/i ”/wp 着/u 称/v ，/wp 被/p 后人/n 称为/v “/wp 唐室砥柱/nh ”/wp 的/u 一代/n 贤臣/n 是/v 谁/r
 魔术师/nh 约翰逊/nh 曾经/d 上/v 过/u 哪/r 所/q 大学/n
 根据/p 抗美援朝/j 战地/n 事实/n 创作/v 的/u 报告文学/i 《/wp 谁/r 是/v 最/d 可爱/a 的/u 人/n 》/wp 是/v 哪/r 位/q 作家/n 的/u 代表作/n
@@ -404,6 +569,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 小说/n 《/wp 暗算/v 》/wp 和/c 《/wp 风声/n 》/wp 的/u 作者/n 是/v 谁/r
 中国/ns 最/d 热/a 的/u 地方/n 在/p 哪里/r
 2004年/nt 奥运会/j 双人/b 500/m 米/q 皮划艇/n 的/u 冠军/n 除了/p 杨文军/nh 还有/v 谁/r
+在/p 电影/n 《/wp 人/n 再/d 囧途/v 之/u 泰/j 囧/n 》/wp 中/nd ，/wp 徐朗/nh 和/c 宝宝/n 组成/v 的/u 组合/n 叫/v 什么/r 名字/n
 国家/n 或/c 地区/n 域名/n 中/nd ，/wp .CN/ws 代表/n 的/u 是/v 中国/ns ，/wp 哪/r .HK/wp 代表/v 哪个/r 地区/n
 北京/ns 奥运会/j 打破/v 男子/n 100/m 米/q 世界/n 记录/v 的/u 是/v 谁/r
 中国/ns 有/v 记载/v 的/u 古代史/n 从/p 哪年/nt 到/p 哪/r 年/q
@@ -423,13 +589,16 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 有/v “/wp 月都/n ”/wp 的/u 美称/n ，/wp 传说/n 中/nd 嫦娥/v 奔月/v 的/u 地方/n “/wp 明月山/ns ”/wp 位于/v 江西省/ns 哪/r 座/q 城市/n 境内/nl
 德国/ns 一级/b 方程式/n 车手/n ，/wp 获得/v 过/u 7/m 届/q F1/ws 世界/n 冠军/n 的/u F1/ws 之/u 王/n 是/v 谁/r
 “/wp 桃花潭/ns 水深千尺/n ，/wp 不及/v 汪伦/nh 送/v 我/r 情/n ”/wp 中/nd 的/u “/wp 我/r ”/wp 是/v 哪/r 位/q 诗人/n
+《/wp 皇家/n 赌城/n 》/wp 第六/m 任/q 007/m 的/u 扮演者/n 叫/v 什么/r 名字/n
 哥伦比亚/ns 的/u 人均收入/n 是/v 多少/r
+以/p 羊/n 为/v 原型/n 的/u 2012年/nt 伦敦/ns 奥运会/j 的/u 吉祥物/n 叫/v 什么/r 名字/n
 主演/v 《/wp 铁娘子/i 》/wp 《/wp 穿普拉达/nh 的/u 女/b 魔头/n 》/wp 等/u 经典/n 电影/n 的/u 好莱坞/ns 女/b 演员/n 是/v 谁/r
 惠普/nz 的/u 服务/v 热线/n 是/v 多少/r
 一/m 根/q 钢管/n 长/a 10/m 米/q ，/wp 第一/m 次/q 截/v 去/v 它/r 的/u 7/m //wp 第二/m 次/q 又/d 截/v 去/v 余下/v 的/u 1/还/m 剩/v 多少/r 米/n
 在/p 2012年/nt NBA/ws 总决赛/n 中/nd ，/wp 三/m 届/q 最/d 有/v 价值/n 球员/n 谁/r 终于/d 实现/v 了/u 职业/n 生涯/n 的/u 总/b 冠军/n 梦想/n
 有/v “/wp 桑巴军团/n ”/wp 之/u 称/n 足球/n 国家队/n 是/v 哪里/r
 在/p 电视剧/n 《/wp 还珠格格/nz 》/wp 中/nd ，/wp 金锁/nh 最后/nd 嫁/v 给/v 了/u 谁/r
+年/q 作为/p 央视/j 春节/nt 联欢/v 晚会/n 结尾曲/n 的/u 歌曲/n 叫/v 什么/r 名字/n
 胆汁/n 是/v 哪里/r 分泌/v 的/u
 阿富汗/ns 的/u 首都/n 是/v 哪/r 座/q 城市/n
 第一/m 个/q 在/p 奥运会/j 参赛/v 的/u 中国/ns 人/n 是/v 谁/r
@@ -437,6 +606,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 世界/n 最/d 深/a 的/u 洼地/n 在/p 哪里/r
 80/m 年代/n 著名/a 歌唱/v 组合/v “/wp 达明/a 一派/b ”/wp 中/nd ，/wp 明/nt 是/v 黄耀明/nh ，/wp 达/v 是/v 谁/r
 1945年/nt ，/wp 国共/j 两/m 党/n 在/p 哪个/r 城市/n 举行/v 和平谈判/i ，/wp 并/c 签署/v 《/wp 双十协定/n 》/wp
+资深/b 足球/n 评论员/n ，/wp 也/d 是/v 现任/b 北京/ns 国安/nz 副/b 董事长/n 的/u “/wp 张/nh 指导/n ”/wp 叫/v 什么/r 名字/n
 “/wp 弱冠/a 之/u 年/n ”/wp 是/v 古代/nt 社会/n 对/p 男子/n 满/a 多少/m 岁/q 时/n 的/u 年龄/n 称谓/v
 是/v 谁/r 在/p 著作/n 中/nd 首先/d 提到/v 了/u 勾股/n 定理/n
 金庸/nh 名著/n 《/wp 神雕侠女/n 》/wp 中/nd ，/wp “/wp 铁掌/n 莲花/n ”/wp 裘/nh 千/m 尺/q 的/u 女儿/n 是/v 谁/r
@@ -445,9 +615,11 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 排球/n 比赛/v 中/nd ，/wp 裁判/n 鸣哨/v 示意/v 发球/v 后/nd ，/wp 多少/r 秒/q 内/nd 必须/d 将/p 球/n 发出/v
 1986年/nt 世界杯/n 上演/v 了/u “/wp 上帝/n 之/u 手/n ”/wp 的/u 足球/n 运动员/n 是/v 谁/r
 2005年/nt 获得/v 劳伦斯/nh 新人奖/n 的/u 中国/ns 田径/n 运动员/n 是/v 谁/r
+在/p 欧洲杯/nz 上/nd 利用/v 单刀球/n 时间/n “/wp 思考/v 人生/n ”/wp 的/u “/wp 巴神/nz ”/wp 叫/v 什么/r 名字/n
 太阳/n 和/c 地球/n 之间/nd 的/u 距离/n 为/v 多少/r
 唯一/b 没有/d 被/p 明/d 太/d 祖罪/i 杀/v 并/c 被/p 追封/v 为/v “/wp 中山王/n ”/wp 的/u 明朝/nt 丞相/n 是/v 谁/r
 曾/d 被/p 网友/n 称为/v “/wp 校园/n 文学/n 第一/m 奇书/n ”/wp 的/u 《/wp 草样/n 年华/n 》/wp 的/u 作者/n 是/v 谁/r
+传说/n 中/nd 铸剑/v 大师/n 欧冶子/n 为/v 越/d 王所制/n 的/u ，/wp 可以/v 藏/v 在/p 鱼/n 肚子/n 中/nd 而/c 得名/v 的/u 剑/n 叫/v 什么/r 名字/n
 在/p 电视剧/n 《/wp 西游记/nz 》/wp 中/nd ，/wp 传说/v 吃/v 了/u 谁/r 的/u 肉/n 就/d 能/v 长生不老/i
 惠灵顿/ns 是/v 大洋洲/ns 哪个/r 国家/n 的/u 首都/n
 我们/r 通常/d 用/p “/wp 多少/r 不/d 笑/v 百/m 步/q ”/wp 比喻/v 没有/v 自知之明/i 的/u 人/n
@@ -464,6 +636,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 被/p 称为/v “/wp 狮王/n ”/wp 的/u 德国/ns ＊/wp ＊/wp 门将/n 是/v 谁/r
 被/p 称为/v “/wp 大郅/n ”/wp ，/wp 第一/m 个/q 参加/v NBA/ws 赛事/n 的/u 中国/ns 球员/n 是/v 谁/r
 那/r 片/q 森林/n 有/v 多少/r 公顷/q
+英国/ns 在/p 香港/ns 的/u 最后/nd 一/m 任/q 总督/n 叫/v 什么/r 名字/n
 1936年/nt 夏季/nt 奥运会/j 是/v 由/p 哪个/r 城市/n 举办/v 的/u
 代表作/n 有/v 《/wp 新/a 白蛇传/n 》/wp 《/wp 京华/ns 烟云/n 》/wp ，/wp 2008年/nt 与/p “/wp 谋/v 女郎/n ”/wp 董洁/nh 结婚/v 的/u 我国/n 男/b 明星/n 是/v 谁/r
 世界/n 知名/a 的/u 德国/ns 汽车/n 品牌/n 奔驰/nz 的/u 总部/n 设/v 在/p 哪个/r 城市/n
@@ -478,6 +651,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 因/c 在/p 奥运会/j 颁奖/n 典礼/n 上/nd 做出/v 可爱/a 表情/n 而/c 被/p 网友/n 戏称/v 为/v “/wp 孙萌萌/nh ”/wp 的/u 中国/ns 游泳/v 运动员/n 是/v 谁/r
 哈尔滨/ns 工业/n 大学/n 的/u 第一/m 任/q 校长/n 的/u 任期/n 是/v 从/p 哪年/nt 到/p 哪/r 年/q
 在/p 鸿门宴/n 上/nd 多次/m 示意/v 项/q 羽杀/v 掉/v 刘邦/nh ，/wp 又/c 指使/v 项庄舞剑/nh 进行/v 行刺/v 的/u 谋士/n 是/v 谁/r
+原/b 山东/ns 鲁能/nz 泰山/ns 足球队/n 领袖/n 队员/n ，/wp 现任/b 中乙/j 青岛/ns 海牛/nz 俱乐部队/n 主教练/n 的/u 人/n 叫/v 什么/r 名字/n
 国内/nl 畅销书/n 《/wp 厚黑学/n 》/wp 的/u 作者/n 是/v 谁/r
 人/n 耳/n 能/v 听到/v 的/u 声音/n 的/u 最/d 大/a 频率/n 是/v 多少/r
 电影/n 《/wp 指环王/n 》/wp 系列/n 中/nd ，/wp 霍比特人/nz 的/u 小/a 村庄/n 取景/v 在/p 哪个/r 国家/n
@@ -485,6 +659,7 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 湖南/ns 的/u 第二/m 大/a 城市/n ，/wp 被/p 称为/v “/wp 用/p 火车/n 拉/v 来/v 的/u 城市/n ”/wp 的/u 是/v 哪个/r 城市/n
 代表作/n 《/wp 玩/v 的/u 就/d 是/v 心跳/v 》/wp 、/wp 《/wp 顽/a 主/n 》/wp 等/u ，/wp 以/c 调侃/v 为/v 其/r 语言/n 最/d 大/a 特色/n 的/u 作家/n 是/v 谁/r
 男人/n 的/u 生育/v 年龄段/n 是/v 多少/r
+武侠小说/n 《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 中/nd 光明/a 右/nd 使/v 叫/v 什么/r 名字/n
 计算机/n 的/u 主频/n 是/v 多少/r
 电影/n 《/wp 贫民窟/n 的/u 百万富翁/n 》/wp 的/u 故事/n 发生/v 在/p 哪个/r 国家/n
 消费者/n 投诉/v 举报/v 专线/n 电话/n 号码/n 是/v 多少/r
@@ -510,9 +685,12 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 目前/nt 世界/n 上/nd 核电/n 利用率/n 最高/a 的/u 是/v 欧洲/ns 哪个/r 国家/n
 在/p 高希希版/n 的/u 电视剧/n 《/wp 新/a 三国/n 》/wp 中/nd ，/wp 诸葛亮/nh 的/u 扮演者/n 是/v 谁/r
 以/p 双子塔/n 为/v 地标/n 的/u 马来西亚/ns 首都/n 是/v 哪个/r 城市/n
+歌手/n 光良/nh 与/p 品冠/n 曾经/d 的/u 组合/n 叫/v 什么/r 名字/n
 进化论/n 的/u 奠基人/n ，/wp 物种/n 起源/n 的/u 作者/n 是/v 谁/r
 名著/n 《/wp 水浒传/n 》/wp 中/nd ，/wp 绰号/n 为/v “/wp 小/a 霸王/n ”/wp 的/u 好汉/n 是/v 谁/r
 世界/n 上/nd 最/d 大/a 的/u 佛像/n 雕塑/n 在/p 我国/n 四川/ns 哪个/r 城市/n
+由/p 明朝/nt 科学家/n 宋应星/nh 编纂/v ，/wp 世界/n 上/nd 第一/m 部/q 关于/p 农业/n 和/c 手工业/n 生产/v 的/u 综合性/n 著作/n 叫/v 什么/r 名字/n
+建立/v 了/u 隋朝/nt 的/u 隋文帝/nh 的/u 名字/n 是/v 什么/r
 内蒙古/ns 自治区/n 的/u 首府/n 是/v 哪/r 座/q 城市/n
 偶像剧/n 《/wp 微笑/v PASTA/ws 》/wp 插曲/n 《/wp 北极星/n 的/u 眼泪/n 》/wp 是/v 谁/r 的/u 歌曲/n
 世界/n 上/nd 最/d 深/a 的/u 淡水湖/n 贝加尔湖/ns 位于/v 哪个/r 国家/n 境内/nl
@@ -530,8 +708,10 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 目前/nt WTA/ws 排名/v 女子/n 单打/n 世界/n 第一/m 的/u 白俄罗斯/ns 运动员/n 是/v 谁/r
 冰岛/ns 的/u 人口/n 是/v 多少/r
 被/p 世人/n 尊称/n 为/v “/wp 足球/n 皇帝/n ”/wp 的/u 德国/ns 著名/a 球员/n 是/v 谁/r
+《/wp 红楼梦/nz 》/wp 中/nd ，/wp 甄士隐/v 被/p 拐/v 走/v 的/u 女儿/n 叫/v 什么/r 名字/n
 挪威/ns 的/u 首都/n 是/v 哪个/r 城市/n
 梁山/ns 首领/n ，/wp 外号/n “/wp 及时雨/n ”/wp 的/u 谁/r
+动画片/n 《/wp 宠物/n 小/a 精灵/n 》/wp 中小智/b 的/u 第一/m 只/q 神奇/a 宝贝/n 叫/v 什么/r 名字/n
 日本/ns 多少/r 人口/n
 《/wp 射雕英雄传/nz 》/wp 中/nd ，/wp 郭靖/nh 的/u 大师傅/n ，/wp 江南/ns 七怪/v 之/u 首/n 是/v 谁/r
 台湾/ns 歌手/n 张宇/nh 的/u 老婆/n ，/wp 《/wp 月亮/n 惹/v 的/u 祸/n 》/wp 《/wp 用心良苦/i 》/wp 的/u 词作者/n 是/v 谁/r
@@ -545,9 +725,11 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 今年/nt 欧洲杯/nz 的/u 举办/v 国家/n 是/v 乌克兰/ns 和/c 哪个/r 国家/n
 著名/a 的/u 后街/ns 男孩/n (/wp Back/ws street/ws Boys/ws )/wp 是/v 哪个/r 国家/n 的/u 男子/n 合唱团体/n
 被/p 称为/v “/wp 绵羊/n 之/u 国/n ”/wp 的/u 大洋洲/ns 国家/n 是/v 哪里/r
+歌手/n 范玮琪/nh 的/u 老公/n 叫/v 什么/r 名字/n
 童工指/n 未/d 满/a 多少/r 周岁/nt
 明朝/nt 历史/n 上/nd 仅/d 有/v 的/u 几/m 个/q 督师/n 之一/r ，/wp 带兵/v 取得/v “/wp 宁/c 远/a 大捷/n ”/wp 的/u 人/n 是/v 谁/r
 日本/ns 动漫/n 《/wp 火影忍者/n 》/wp 中/nd ，/wp 宇智波佐助/v 的/u 哥哥/n 是/v 谁/r
+成龙/nh 主演/v 的/u 电影/n 《/wp 醉拳2/n 》/wp 中/nd ，/wp 黄飞鸿/nh 家中/nl 所/u 开/v 的/u 医馆/n 叫/v 什么/r 名字/n
 中共/j 一/m 大/a 在/p 南湖/ns 的/u 一/m 艘/q 画舫/n 上/nd 圆满/a 结束/v ，/wp 问/v 南湖/ns 位于/v 哪个/r 城市/n
 宋代/nt 文豪/n 中/nd 的/u “/wp 三/m 苏/n ”/wp 是/v 指/v 苏洵/nh ，/wp 苏轼/nh 和/c 谁/r
 被/p 誉为/v 内地/nl 影视/b 圈/n “/wp 铁三角/n ”/wp 的/u 三/m 位/q 演员/n 是/v 张国立/nh 、/wp 王刚/nh 和/c 谁/r
@@ -567,11 +749,13 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 我国/n 四/m 个/q 直辖市/n 中/nd ，/wp 哪个/r 城市/n 是/v 最后/nd 一个/m 被/p 定/v 为/v 直辖市/n 的/u
 “/wp 南锣鼓巷/ns ”/wp 是/v 我国/n 哪个/r 城市/n 的/u 最/d 古老/a 的/u 特色/n 历史/n 文化/n 街区/n 之一/r
 奥运/j 火炬/n 是/v 纪念/v 谁/r
+《/wp 巴黎/ns 圣母院/n 》/wp 中/nd 被/p 敲钟人/n 卡西莫多/d 救起/v 的/u 吉普赛/n 少女/n 叫/v 什么/r 名字/n
 克林顿/nh 是/v 美国/ns 的/u 第几/m 任/q 总统/n
 中国/ns 第一/m 艘/q 航空母舰/n “/wp 辽宁号/nz ”/wp 的/u 舰长/n 是/v 谁/r
 好莱坞/ns 电影/n 《/wp 灵魂/n 战车/n 2/m 》/wp 中/nd ，/wp 饰演/v 成年/v 男/b 主角/n “/wp 强尼/a ”/wp 的/u 男/b 演员/n 是/v 谁/r
 哈工大/j 的/u 现任/b 校长/n 是/v 谁/r
 加利福尼亚/ns 的/u 首府/n 在/p 哪里/r
+“/wp 锄禾日/nt 当午/nt ，/wp 汗/n 滴/v 禾/n 下/v 土/n ”/wp 这/r 首/q 诗/n 的/u 名字/n 是/v 什么/r
 二战/j 时期/n ，/wp 法国/ns 实行/v “/wp 祸水东引/i ”/wp 政策/n 是/v 想/v 将/p 德国/ns 的/u 矛盾/a 引/v 向/p 当时/nt 的/u 哪个/r 国家/n
 在/p 电视剧/n 《/wp 西游记/nz 》/wp 中/nd ，/wp 传说/v 吃/v 了/u 谁/r 的/u 肉/n 就/d 能/v 长生不老/i
 人/n 平均/a 重/v 多少/r
@@ -595,7 +779,9 @@ NBA/ws 传奇/n 球星/n ，/wp 与/p 卡尔马龙/nh 搭档/n ，/wp 人称/n �
 “/wp 钢琴/n 诗人/n ”/wp 肖邦/nh 的/u 故居/n 位于/v 波兰/ns 的/u 哪个/r 城市/n
 哈尔滨/ns 有/v 多少/r 人口/n
 福利/n 彩票/n 双色球/n 中/nd ，/wp 蓝色/n 球/n 一共/d 有/v 多少/r 个/q 号/n
+金庸/nh 小说/n 《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 中/nd ，/wp 紫杉龙王/n 的/u 女儿/n 叫/v 什么/r 名字/n
 朝鲜/ns 战争/n 中/nd ，/wp 北朝鲜/ns 的/u 领导人/n 是/v 金日成/nh 将军/n ，/wp 那么/c 南/j 韩/j 的/u 领导人/n 是/v 谁/r
+王菲/nh 与/p 窦唯/nh 的/u 女儿/n 叫/v 什么/r 名字/n
 中国/ns 的/u 电脑/n 普及率/n 是/v 多少/r
 张家界/ns 风景区/n 位于/v 我国/n 的/u 哪个/r 省份/n
 被/p 誉为/v “/wp 人间/n 天使/n ”/wp 的/u 《/wp 罗马/ns 假日/n 》/wp 女/b 主角/n 是/v 谁/r
@@ -631,6 +817,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 南亚/ns 次大陆/n 最/d 大/a 的/u 国家/n ，/wp 佛教/nz 的/u 发源地/n ，/wp 也/d 是/v 当今/nt 金/b 砖/n 国家/n 之一/r 的/u 是/v 亚洲/ns 的/u 哪个/r 国家/n
 北京市/ns 的/u 火警/n 电话/n 是/v 多少/r
 哪/r 座/q 城市/n 是/v 法国/ns 第二/m 大/a 城市/n 并且/c 是/v 法国/ns 最/d 大/a 的/u 海港/n
+由/p 郭德纲/nh 创立/v 的/u 一个/m 相声/n 社团/n 叫/v 什么/r 名字/n
 彼得/nh 大帝/n 是/v 谁/r
 中国/ns 第三/m 大/a 城市/n ，/wp 也/d 是/v 我国/n 的/u 直辖市/n 的/u 城市/n 是/v
 谁/r 是/v 第一/m 位/q 在/p 日本/ns 东京/ns 武道馆/n 开唱/v 的/u 外籍/n 亚洲/ns 歌手/n 王/nh 菲/nh
@@ -639,6 +826,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 主演/v 电影/n 《/wp 千/m 里/q 走/v 单骑/n 》/wp 《/wp 追捕/v 》/wp 的/u 日本/ns 著名/a 男/b 演员/n 是/v 谁/r
 李尧棠/nh 是/v 我国/n 哪/r 位/q 著名/a 作家/n 的/u 的/u 本名/n
 哪个/r 城市/n 的/u 报纸/n 叫/v 《/wp 邮报/n 》/wp
+我国/n 古代/nt 传说/n 故事/n 中/nd ，/wp 努力/a 想/v 把/p 东海/ns 填平/v 的/u 那/r 只/q 鸟/n 叫/v 什么/r 名字/n
 小说/n 《/wp 三国演义/nz 》/wp 中/nd 诸葛亮/nh 的/u 老婆/n 是/v 谁/r
 《/wp 题临/v 安邸/n 》/wp 中/nd ，/wp “/wp 直/d 把/p 杭州/ns 作/v 汴州/ns ”/wp 中/nd 的/u 汴州/ns 指/v 中国/ns 现在/nt 河南/ns 的/u 哪/r 座/q 城市/n
 我国/n 云南/ns 的/u 省会/n 城市/n 是/v 哪里/r
@@ -654,6 +842,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 中/nd ，/wp 金毛狮/nh 王谢逊/nh 的/u 师傅/n 是/v 谁/r
 金刚石/n 的/u 熔点/n 是/v 多少/r
 清代/nt 著名/a 章回体/n 小说/n 《/wp 儒林外史/nz 》/wp 的/u 作者/n 是/v 谁/r
+张爱玲/nh 的/u 名著/n 《/wp 金锁记/n 》/wp 中/nd ，/wp 女/b 主角/n 叫/v 什么/r 名字/n
 一个/m 人/n 有/v 多少/r 块/q 骨头/n
 俄国/ns 十月革命/nz 的/u 领导者/n 是/v 谁/r
 2012年/nt 11月/nt 27日/nt ，/wp 我国/n 上证/j 综指/j 跌/v 破/v 多少/r 点/q 的/u 大关/n ，/wp 正式/a 进入/v /wp 1/m /wp 时代/n
@@ -673,6 +862,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 本科生/n 的/u 基本/a 工资/n 的/u 范围/n 是/v 多少/r
 “/wp 谁/r 言/v 寸/q 草心/n ，/wp 报/v 得/u 三春晖/n ”/wp 出自/v 唐朝/nt 诗人/n 孟郊/nh 的/u 哪/r 首/q 诗/n
 五/m 子/q 棋/n 段位制/n 最高/a 为/v 多少/r 段/q
+张学良/nh 第二/m 任/q 妻子/n 伴/v 他/r 72年/nt 的/u 妻子/n 叫/v 什么/r 名字/n
 我国/n 《/wp 道路/n 安全法/n 》/wp 规定/v ，/wp 在/p 道路/n 上/nd 驾驶/v 自行车/n ，/wp 三轮车/n 必须/d 年/n 满/a 多少/m 周岁/q
 奥匈帝国/nh 皇储/nh 斐迪/nh 南/nd 大公/n 在/p 哪/r 座/q 城市/n 遇刺/v ，/wp 从而/c 引发/v 了/u 第一/m 次/q 世界大战/i
 在/p 其/r 河畔/n 诞生/v 了/u 电影/n 团体/n “/wp 左岸派/n ”/wp 的/u 塞纳河/ns 是/v 欧洲/ns 哪个/r 国家/n 的/u 著名/a 河流/n
@@ -692,6 +882,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 香港/ns 著名/a 演员/n 米/n 雪/n 的/u 妹妹/n 是/v 谁/r
 金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd ，/wp 段/nh 正淳/nh 情妇/n 康敏/nh 的/u 丈夫/n ，/wp 丐帮/v 副/b 帮主/n 是/v 谁/r
 茶叶/n 生产/v 在/p 哪/r 一/m 地区/n 的/u 农业/n 中/nd 占有/v 重要/a 地位/n
+福楼/n 拜/v 的/u 小说/n 《/wp 包法利夫人/n 》/wp 中/nd 的/u 女/b 主人公/n 叫/v 什么/r 名字/n
 旧称/n “/wp 北平/ns ”/wp 是/v 现在/nt 中国/ns 的/u 哪/r 座/q 城市/n
 在/p 电视剧/n 《/wp 奋斗/v 》/wp 中/nd 饰演/v 米莱/nh ，/wp 在/p 《/wp 我/r 的/u 青春/n 谁/r 做主/v 》/wp 中/nd 饰演/v 钱/n 小样/n 的/u 女/b 演员/n 是/v
 火炮/n 的/u 口径/n 需/v 在/p 多少/r 毫米/q 以上/nd
@@ -700,6 +891,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 1949年/nt ，/wp 谁/r 当选/v 了/u 中华人民共和国/ns 第一/m 位/q 女/b 副/b 主席/n
 西藏/ns 湿地/n 面积/n 是/v 多少/r 万/m 公顷/q
 金庸/nh 小说/n 《/wp 射/v 雕/v 英雄传/n 》/wp 中/nd 郭靖幼/nh 时/n 的/u 玩伴/n ，/wp 托雷/v 的/u 妹妹/n 是/v 谁/r
+古代/nt 四/m 大/a 美男/n 之一/r ，/wp 屈原/nh 的/u 徒弟/n 叫/v 什么/r 名字/n
 智利/ns 的/u 官方/n 语言/n 是/v 什么/r
 宋氏/nh 三/m 姐妹/n 中/nd ，/wp 谁/r 嫁/v 给/v 了/u 富/a 甲天下/i 的/u 孔祥熙/nh
 本初/r 子午线/n 穿过/v 英国/ns 哪/r 座/q 城市/n
@@ -713,6 +905,8 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 比尔.盖茨/nh 的/u 房子/n 有/v 多少/r 平方英尺/q
 地球/n 总面积/n 大约/d 是/v 多少/r
 本届/r 欧洲杯/nz 举办国/n 之一/r 的/u 乌克兰/ns 的/u 首都/n 是/v 哪个/r 城市/n
+我国/n 首/m 位/q 升空/v 的/u 女/b 航天员/n 叫/v 什么/r 名字/n
+台湾/ns 女作家/n 三毛/nh 的/u 丈夫/n 叫/v 什么/r 名字/n
 中国/ns 加入/v 世贸/j 的/u 谈判/v 从/p 哪年/r 到/v 哪/r 年/q
 绿茶/n 精品/n “/wp 碧螺/n 春/nt ”/wp 原/d 产/v 自/p 江苏/ns 哪个/r 城市/n
 中国/ns 明代/nt 一/m 位/q 女子/n ，/wp 因/p 负心汉/n 李甲/nh 而/c 怒/v 沉百宝箱/n 的/u 是/v 谁/r
@@ -721,17 +915,21 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 《/wp 文化/n 苦旅/n 》/wp 是/v 哪个/r 作家/n 的/u 第一/m 本/q 散文集/n
 巧克力/n 中/nd 含有/v 多少/r 咖啡因/n
 1996年/nt 奥运会/j 在/p 美国/ns 的/u 哪个/r 城市/n 举行/v
+《/wp 射雕英雄传/nz 》/wp 中/nd ，/wp 杨铁心/nh 的/u 干/a 女儿/n 叫/v 什么/r 名字/n
 一/m 升/q 等于/v 多少/r 毫升/q
 台湾/ns 乐团/n 苏打绿/n 的/u 主唱/n 是/v 谁/r
 代表作/n 有/v 《/wp 百万/m 英镑/q 》/wp ，/wp 《/wp 汤姆索亚/nh 历险记/n 》/wp 的/u 美国/ns 著名/a 幽默/a 讽刺/v 作家/n 是/v 谁/r
 武则天/nh 称帝/v 后/nd ，/wp 将/p 都城/n 从/p 长安/ns 迁/v 到/v 了/u 哪里/r
+《/wp 三国演义/nz 》/wp 中/nd 关羽/nh 使用/v 的/u 武器/n 叫/v 什么/r 名字/n
 公认/v 为/v 四/m 大/a 时装周/n 之/u 首/n 的/u 时装周/n 在/p 哪个/r 城市/n 举办/v
 名著/n 《/wp 三国演义/nz 》/wp 中/nd ，/wp “/wp 死诸葛/d 吓/v 走/v 活仲达/a ”/wp 的/u 典故/n 中/nd “/wp 仲达/nz ”/wp 指/v 的/u 是/v 谁/r
 北京/ns 地区/n 的/u 最低/a 工资/n 范围/n 是/v 多少/r
 台湾/ns 组合/v SHE/ws 中/nd ，/wp 唯一/d 没有/d 结婚/v 的/u 成员/n 是/v 谁/r
 世界/n 七大/j 奇迹/n 之一/r 的/u 空中/nl 花园/n 是/v 古代/nt 哪个/r 国家/n 的/u
+《/wp 哈利·波特/nh 》/wp 中/nd ，/wp 魔法界/n 的/u 第一/m 大/a 报纸/n 叫/v 什么/r 名字/n
 潘帕斯/ns 平原/n 大部分/m 在/p 哪个/r 国家/n 境内/nl
 出演/v 过/u 《/wp 大笑江湖/n 》/wp ，/wp 朱孝天/nh 的/u 前/nd 女友/n ，/wp 并/c 在/p 2011年/nt 8月/nt 生/v 女/b 的/u 女星/n 是/v 谁/r
+金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd ，/wp 段誉/n 的/u 母亲/n 叫/v 什么/r 名字/n
 一个/m 正方体/n 它/r 的/u 棱长/n 是/v 2/m 米/q ，/wp 那么/c 它/r 的/u 体积/n 是/v 多少/r 立方米/q
 文艺复兴/i 时期/n 欧洲/ns 最/d 强大/a 的/u 国家/n 是/v 哪个/r 国家/n 西班牙/ns
 在/p 日常/b 生活/v 中/nd ，/wp 正常/a 情况/n 下/nd 小于/v 多少/r 分贝/q 的/u 声音/n 我们/r 人/n 耳/n 几乎/d 感觉/n 不/d 到/v
@@ -750,6 +948,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 “/wp 马头琴/n ”/wp 是/v 我国/n 哪个/r 少数民族/n 的/u 传统/n 乐器/n
 唐玄宗/nh 时期/n 哪/r 位/q 大/a 诗人/n 不畏/v 权贵/n ，/wp 让/v 高力士/n 为/p 其/r 脱靴/v
 电影/n 《/wp 爱情/n 呼叫/v 转移/v 》/wp 中/nd ，/wp 与/p 12/m 位/q 女/b 演员/n 配戏/v 的/u 男/b 演员/n 是/v 谁/r
+1999年/nt 获/v “/wp 亚洲/ns 最/d 有/v 价值/n 球员/n ”/wp 称号/n 的/u 前/nd 江苏/ns 南钢队/ni 篮球/n 球星/n 叫/v 什么/r 名字/n
 来自/v 于/p 莎士比亚/nh 戏剧/n 中/nd 人物/n ，/wp 我们/r 常/d 说/v “/wp 一千/m 个/q 读者/n 眼中/nl 就/d 有/v 一千/m 个/q 谁/r
 “/wp 肉食者鄙/i ，/wp 未能/v 远谋/v ”/wp 是/v 谁/r 说/v 的/u
 安东尼奥./nh 索洛.诺维罗/nh 是/v 谁/r
@@ -762,6 +961,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 每个/r 大学/n 教师/n 一个/m 月/n 能/v 拿/v 多少/r 薪水/n
 古巴人/n 的/u 识字率/n 是/v 多少/r
 2000年/nt 奥运会/j 中国/ns 得/v 了/u 多少/r 枚/q 金牌/n
+现/nt 效力/v 于/p NBA/ws 湖人队/ni 的/u 小/a 前锋/n “/wp 慈世平/a ”/wp 改名/v 之前/nd 叫/v 什么/r 名字/n
 江苏省/ns 的/u 最高峰/n “/wp 花果/n 山玉女峰/n ”/wp 位于/v 哪/r 座/q 城市/n
 著名/a 导演/n 希区/nh 柯克/nh 的/u 御用/a 女/b 演员/n ，/wp 之后/nd 又/d 成为/v 摩纳哥/ns 王妃/n 的/u 美国/ns 奥斯卡/nz 影后/n 是/v 谁/r
 《/wp 山海经/n 》/wp 中/nd 记载/v 的/u 中医/n 药物/n 有/v 多少/r 种/q
@@ -776,6 +976,7 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 流行歌曲/i 《/wp 蝴蝶泉/n 边/n 》/wp 中/nd 唱/v 到/v 的/u 蝴蝶泉/n 位于/v 云南/ns 的/u 哪/r 座/q 城市/n
 世界/n 人口/n 最/d 少/a 的/u 国家/n 的/u 人口/n 是/v 多少/r
 南京/ns 青奥会/j 将/d 于/p 哪年/nt 举行/v
+金庸/nh 名著/n 《/wp 射雕英雄传/nz 》/wp 中/nd 郭啸天/nh 之/u 妻/n ，/wp 郭靖/nh 之/u 母/n 叫/v 什么/r 名字/n
 绰号/n “/wp 白旋风/n ”/wp ，/wp 曾/d 获得/v 英国/ns 斯诺克/nz 锦标赛/n 冠军/n 的/u 运动员/n 是/v 谁/r
 著名/a 足球/n 解说员/n 黄健翔/nh 在/p 其/r “/wp 激情/n 解说/v ”/wp 中/nd 盛赞/v 的/u “/wp 伟大/a 的/u 意大利/ns 左/nd 后卫/n ”/wp 是/v 谁/r
 2011年/nt 10月/nt 31日/nt 全球/n 人口/n 已经/d 突破/v 多少/r 亿/m
@@ -783,13 +984,16 @@ NBA/ws 历史/n 上/nd 身材/n 最/d 矮/a 的/u 球员/n ，/wp 曾/d 效力/v
 谁/r 发现/v 的/u 哈雷彗星/n
 在/p 网球/n 比赛/v 中/nd ，/wp 每/r 一/m 局/q 的/u 第一/m 个/q 分球/n 的/u 分值/n 是/v 多少/r
 代表作/n 有/v 《/wp 那/r 片/q 海/n 》/wp 《/wp 天亮/v 了/u 》/wp 我国/n 内地/nl 实力派/n 女/b 歌手/n 是/v 谁/r
+张爱玲/nh 的/u 名著/n 《/wp 金锁记/n 》/wp 中/nd ，/wp 女/b 主角/n 叫/v 什么/r 名字/n
 1990年/nt ，/wp 陈道明/nh 版/n 《/wp 围城/n 》/wp 中/nd ，/wp 饰演/v 孙柔嘉/nh ，/wp 与/p 陈道明/nh 演/v 对手/n 戏/n 的/u 是/v 谁/r
 东北林/n 大/a 的/u 邮编/j 是/v 多少/r
+历史/n 上/nd 的/u 汉/j 高祖/n 叫/v 什么/r 名字/n
 纯/a 羊绒/n 的/u 含绒量/n 在/p 多少/r 以上/nd
 泰森/nh 身高/n 是/v 多少/r
 宝洁/nz 公司/n 的/u 美国/ns 总部/n 在/p 哪里/r
 澳大利亚/ns 首都/n 是/v 哪个/r 城市/n
 小说/n 《/wp 平凡/a 的/u 世界/n 》/wp 出自/v 我国/n 哪/r 位/q 著名/a 作家/n 之/u 手/n
+金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd 人/n 称/v “/wp 大/a 轮明王/n ”/wp 的/u 吐蕃/ns 国/n 国师/n 的/u 名字/n 是/v
 2013年/nt 1月/nt 1日/nt 起/nd 执行/v 的/u 新/a 交规法/n 规定/n ，/wp 驾驶员/n 不/d 系/v 安全带/n 除/p 罚款/v 100/m 元/q 外/nd ，/wp 还要/d 记/v 多少/r 分/q
 春秋/nt 五/m 霸/n 中/nd 的/u 齐国/ns 的/u 诸侯王/n 是/v 谁/r
 谁/r 获得/v 1987年/nt 的/u 诺贝尔/nh 文学奖/n
@@ -854,6 +1058,7 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 代表作/n 有/v 《/wp 那/r 片/q 海/n 》/wp 《/wp 天亮/v 了/u 》/wp 我国/n 内地/nl 实力派/n 女/b 歌手/n 是/v 谁/r
 著名/a 的/u 大三/j 巴/j 牌坊/ns 位于/v 我国/n 哪个/r 城市/n
 我国/n 著名/a 才女/n 作家/n 林徽因/nh 的/u 父亲/n 是/v 谁/r
+电视剧/n 《/wp 北京/ns 青年/n 》/wp 中/nd ，/wp 李晨/nh 饰演/v 的/u 角色/n 叫/v 什么/r 名字/n
 马琳/nh 与/p 谁/r 搭档/v ，/wp 在/p 04年/nt 雅典/ns 奥运会/j 上/nd 获得/v 了/u 男子/n 双打/n 冠军/n
 清朝/nt 的/u 政权/n 是/v 在/p 哪个/r 少数民族/n 的/u 统治/v 之下/nd
 “/wp 双流/ns 机场/n ”/wp 是/v 我国/n 哪个/r 城市/n 的/u 著名/a 机场/n
@@ -874,15 +1079,18 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 汉族/nz 约/d 占/v 全区/n 人口/n 的/u 2/3/m ，/wp 少数民族/n 人口/n 约/d 占/v 总人口/n 的/u 多少/r 1/3/m
 希腊/ns 神话/n 中/nd 阿/j 特柔斯/n 之/u 子/n ，/wp 特洛亚/ns 战争/n 中/nd 希腊/ns 方面/n 的/u 统帅/n 是/v 谁/r
 《/wp 水浒传/n 》/wp 中/nd 冒充/v 黑/a 旋风/n 李逵/nh 拦路/v 抢劫/v ，/wp 后/nd 被/p 李逵/nh 遇见/v 并/c 杀死/v 的/u 人/n 是/v 谁/r
+电视剧/n 《/wp 新/a 白娘子/n 传奇/n 》/wp 中/nd ，/wp 依照/p 画像/n 变成/v 白素贞/n 容貌/n 的/u 免子/n 精/a 叫/v 什么/r 名字/n
 光速/d 是/v 多少/r
 淮海战役/nz 又/d 称/v “/wp 徐蚌/nh 会战/v ”/wp ，/wp 其中/r “/wp 蚌/n ”/wp 指/v 的/u 是/v 安徽/ns 哪/r 座/q 城市/n
 被/p 称为/v “/wp 彭城/ns ”/wp 的/u 是/v 广东省/ns 的/u 哪个/r 城市/n
 在/p 鸿门宴/n 上/nd 多次/m 示意/v 项/q 羽杀/v 掉/v 刘邦/nh ，/wp 又/c 指使/v 项庄舞剑/nh 进行/v 行刺/v 的/u 谋士/n 是/v 谁/r
 使用/v 欧元/n 的/u 有/v 哪些/r 国家/n
+金庸/nh 小说/n 《/wp 射/v 雕/v 英雄传/n 》/wp 中/nd ，/wp 杨康/nh 的/u 生父/n 叫/v 什么/r 名字/n
 在/p 《/wp 封神演义/n 》/wp 中/nd ，/wp 其/r 母/n 怀胎/v 三/m 年/q 零/m 六/m 个/q 月/n 而/c 被/p 生/v 下/v 的/u 人/n 是/v 谁/r
 山顶洞人/n 被/p 发现/v 与/p 今天/nt 的/u 哪个/r 城市/n
 代表作/n 有/v 《/wp 爱/v 如/v 潮/n 水/n 》/wp 《/wp 过火/v 》/wp 等/u 歌曲/n 的/u 台湾/ns “/wp 情歌/n 王子/n ”/wp 是/v 谁/r
 因/p 主演/v 《/wp 蓝色/n 生死恋/n 》/wp 中/nd ，/wp 成年/v 版/n 的/u “/wp 恩熙/n ”/wp 一/m 角/n 而/c 红/a 的/u 韩国/ns 女星/n 是/v 谁/r
+在/p 徐克/nh 导演/n 的/u 电影/n 《/wp 黄/a 飞鸿/n 》/wp 中/nd ，/wp 黄飞鸿/nh 开/v 的/u 医馆/n 叫/v 什么/r 名字/n
 死海/ns 的/u 最低/a 海拔/n 为/v 多少/r
 名著/n 《/wp 三国演义/nz 》/wp 中/nd ，/wp 长坂坡/ns 之/u 战/n 七/m 进/v 七/m 出/q 的/u 蜀国/n 大将/n 是/v 谁/r
 康熙/nh 时期/n ，/wp 中国/ns 与/p 哪个/r 国家/n 签订/v 了/u 《/wp 尼布楚/ns 条约/n 》/wp
@@ -893,6 +1101,7 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 狼牙山/ns 五/m 壮士/n 的/u 五/m 个/q 人/n 是/v 谁/r
 代表作/n 有/v 《/wp 闲话/n 中国/ns 人/n 》/wp 、/wp 《/wp 读/v 城记/n 》/wp 的/u 我国/n 著名/a 作家/n 、/wp 学者/n 是/v 谁/r
 “/wp 汉/nt 初三杰/n ”/wp 之一/r ，/wp 受/v 了/u “/wp 胯/n 下/nd 之/u 辱/n ”/wp 的/u 军事家/n 是/v 谁/r
+韩/nh 寒/nh 所/u 写作/v 的/u 唯一/b 一/m 部/q “/wp 武侠小说/n ”/wp 叫/v 什么/r 名字/n
 曾经/d 在/p NBA/ws 底特律/n 活塞队/n 效力/n 的/u 有/v “/wp 大本钟/n ”/wp 称号/n 的/u 球员/n 是/v 谁/r
 清华/j 的/u 校址/n 是/v 多少/r
 四人帮/j 都/d 有/v 谁/r
@@ -901,6 +1110,8 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 歌德/nh 的/u 诗剧/n 《/wp 浮士德/nh 》/wp 中/nd ，/wp 浮士德/nh 与/p 谁/r 打赌/v ，/wp 出卖/v 了/u 灵魂/n
 中国/ns 第一/m 颗/q 原子弹/n 是/v 在/p 哪年/r 研制/v 成功/a 的/u
 被/p 称为/v “/wp 阿胶/n 之/u 乡/n ”/wp 的/u 东阿镇/ns 位于/v 山东省/ns 的/u 哪个/r 城市/n
+名著/n 《/wp 西游记/nz 》/wp 中/nd ，/wp 暂住/v “/wp 高老庄/a ”/wp ，/wp 由于/p 为非作歹/i 被/p 贬/v 下界/n 的/u 神仙/n 叫/v 什么/r 名字/n
+童话/n 故事/n 中/nd ，/wp 一/d 说/v 谎话/n 鼻子/n 就/d 会/v 变长/v 的/u 木偶/n 叫/v 什么/r 名字/n
 奥运会/j 田径/n 比赛场/n 的/u 跑道/n 设有/v 多少/r 道/n
 《/wp 西游记/nz 》/wp 中/nd ，/wp 红/a 孩儿/n 的/u 夫妻/n 是/v 谁/r
 济州岛/ns 位于/v 哪个/r 国家/n
@@ -915,6 +1126,7 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 于/p 2012年/nt 完婚/v 的/u SHE/ws 成员/n ELLA/ws 的/u 老公/n 是/v 谁/r
 有/v “/wp 交响乐/n 之/u 父/n ”/wp 称号/n ，/wp 维也纳/ns 古典/b 音乐派/n 第一/m 位/q 代表/n 人物/n 是/v 谁/r
 著名/a 的/u 烧酒/n 品牌/n “/wp 真露/n ”/wp 是/v 哪个/r 国家/n 特产/n 酒/n
+名著/n 《/wp 水浒传/n 》/wp 中/nd ，/wp 绰号/n “/wp 玉麒麟/n ”/wp 的/u 人/n 叫/v 什么/r 名字/n
 台湾/ns 第一/m 位/q 巡抚/v ，/wp 被/p 称为/v “/wp 台湾/ns 近代化/v 之/u 父/n ”/wp 的/u 是/v 谁/r
 中国/ns 汉族/nz 法定/b 结婚/v 年龄/n 男子/n 不得/v 早/a 于/p 多少/r 周岁/nt
 与/p 颜真卿/nh 并/c 称/v “/wp 颜/j 筋/n 柳/n 骨/n ”/wp 的/u 唐代/nt 著名/a 书法家/n 是/v 谁/r
@@ -923,6 +1135,7 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 四/m 大/a 文明/n 古国/n 分别/d 是/v 哪些/r 国家/n
 中国/ns 唯一/d 以/p 花/n 命名/v 的/u 城市/n 是/v 四川省/ns 的/u 哪/r 座/q 城市/n
 比喻/n 贪得无厌/i ，/wp 我们/r 常/d 说/v “/wp 得/v 陇/j 也/d 望/v 哪里/r ”/wp
+俄国/ns 作家/n 果戈里/nh 在/p 名著/n 《/wp 死魂灵/n 》/wp 中/nd 塑造/v 的/u 经典/n 吝啬鬼/n 人物/n ，/wp 叫/v 什么/r 名字/n
 德甲/j 豪门/n 拜仁/nz 慕尼黑/ns 足球队/n 现任/b 主教练/n 是/v 谁/r
 “/wp 鹅鹅鹅/n ，/wp 曲项/n 向/p 天歌/n ，/wp 白毛浮绿水/n ，/wp 红掌/n 拨清波/n ”/wp 是/v 出自/v 哪/r 位/q 诗人/n 之/u 手/n
 辅佐/v 齐桓公/nh 成为/v 春秋/nt 时期/n 的/u 第一/m 霸主/n 的/u 人/n 是/v 谁/r
@@ -945,11 +1158,13 @@ PC2100/ws (/wp DDR266/ws )/wp 内存/n 的/u 运行/v 频率/n 是/v 多少/r
 CBA/ws 新科/n 冠军/n 北京/ns 金隅队/ni 的/u 阵容/n 中/nd 有/v 两/m 名/q 外援/n ，/wp 他们/r 分别/d 是/v 马布里/nh 和/c 谁/r
 加拿大/ns 哪个/r 城市/n 人/n 最/d 多/a
 在/p 电影/n 《/wp 有/v 话/n 好好说/a 》/wp 中/nd ，/wp 帮/v 男/b 主角/n 在/p 楼下/nl 大/d 喊/v “/wp 安红/a ，/wp 我/r 想/v 你/r ”/wp 的/u 角色/n 是/v 由/p 谁/r 扮演/v 的/u
+电视剧/n 《/wp 北京/ns 青年/n 》/wp 中/nd ，/wp 李晨/nh 饰演/v 的/u 角色/n 叫/v 什么/r 名字/n
 “/wp 自由/a 女神像/n ”/wp 是/v 法国/ns 赠送/v 给/v 美国/ns 的/u “/wp 独立/v 多少/r 周年/q ”/wp 的/u 礼物/n
 “/wp 一人得道/i ，/wp 鸡犬升天/i ”/wp 是/v 讲/v 汉朝/nt 时/n 谁/r 的/u 故事/n
 击倒/v 多少/r 个/q 保龄球/n 才/d 可以/v 拿/v 满分/n
 在/p 抗美援朝/j 战争/n 中/nd ，/wp 时任/v 朝鲜/ns 的/u 领导人/n 是/v 谁/r
 在/p CBA/ws 联赛/n 中/nd ，/wp 以/p 东北虎/n 命名/v 的/u 是/v 我国/n 哪个/r 城市/n 的/u 篮球/n 俱乐部/n
+动画片/n 《/wp 灌篮/n 高手/n 》/wp 中/nd ，/wp 樱木/nh 花道/n 暗恋/v 的/u 女生/n 叫/v 什么/r 名字/n
 清洁/a 空气/n 中/nd 含有/v 氧/n 的/u 比例/n 是/v 多少/r
 克里姆林宫/ns 是/v 哪个/r 国家/n 的/u 标志性/n 建筑物/n
 电视剧/n 《/wp 金粉/n 世家/n 》/wp 改编/v 自/p 哪/r 位/q 作家/n 的/u 同名/v 小说/n
@@ -981,6 +1196,7 @@ CBA/ws 新科/n 冠军/n 北京/ns 金隅队/ni 的/u 阵容/n 中/nd 有/v 两/
 LINUX/ws 是/v 由/p 谁/r 发明/v 的/u
 80/m 年代/n 著名/a 的/u 童星/n ，/wp 因/p 饰演/v 了/u 琼瑶剧/n 《/wp 婉君/n 》/wp 中/nd 的/u “/wp 小/a 婉君/n ”/wp 而/c 一举成名/i 的/u 是/v 谁/r
 影星/n 李嘉欣/nh 是/v 中国/ns 和/c 哪个/r 国家/n 的/u 混血儿/n
+流行/v 乐团/n 五月天/nz 中/nd 的/u 鼓手/n 叫/v 什么/r 名字/n
 足球/n 世界杯/n 比赛/v 中/nd ，/wp 每支/r 队伍/n 规定/v 上场/v 的/u 球员/n 首发/v 人数/n 是/v 多少/r 名/q
 我国/n 历史/n 上/nd 结束/v 三/m 国/n 鼎立/v ，/wp 建立/v 西晋/nt 的/u 是/v 谁/r
 现代/nt 著名/a 学者/n 胡适/nh 曾/d 于/p 1946年/nt 担任/v 我国/n 哪/r 所/u 著名/a 高校/j 的/u 校长/n
@@ -1002,6 +1218,7 @@ NBA/ws 球队/n 的/u “/wp 76/m 人/n 队/n ”/wp 位于/v 美国/ns 的/u �
 在/p 医学/n 和/c 法律界/n 被/p 世界/n 通用/v 的/u 语言/n 是/v 什么/r
 在/p 2012年/nt 伦敦/ns 奥运会/j 上/nd 代表/v 西班牙/ns 出战/v 的/u NBA/ws 雷霆队/ni 球星/n 是/v 谁/r
 NBA/ws 现任/b 总裁/n 是/v 谁/r
+在/p 韩剧/n 《/wp 我/r 的/u 女孩/n 》/wp 中/nd 担任/v 女/b 主角/n 的/u 韩国/ns 女/b 演员/n 叫/v 什么/r 名字/n
 肯塔基州/ns 赛马会/n 的/u 马/n 平均/a 年龄/n 多少/r
 抵达/v 北极点/n 的/u 第一/m 人/n 是/v 谁/r
 火警/n 电话/n 是/v 多少/r
@@ -1011,12 +1228,14 @@ NBA/ws 现任/b 总裁/n 是/v 谁/r
 电视剧/n 《/wp 双面胶/n 》/wp 的/u 原著/n 作者/n 是/v 谁/r
 中央/n 电视台/n 著名/a 节目/n 《/wp 实话实说/i 》/wp 的/u 第一/m 任/q 主持人/n 是/v 谁/r
 《/wp 明朝/nt 那些/r 事/n 》/wp 原/b 书/n 作者/n 是/v 谁/r
+中国/ns 第一/m 部/q 彩色/b 故事片/n 叫/v 什么/r 名字/n
 素有/v “/wp 皮革/n 之/u 都/n ”/wp 之/u 称/n 的/u 是/v 我国/n 浙江省/ns 的/u 哪个/r 城市/n
 在/p 美国/ns 电影/n 《/wp 保镖/n 》/wp 中/nd ，/wp 饰演/v 女星/n “/wp 梅伦/nh ”/wp 一角/n 的/u 已故/v 黑人/n 女星/n 是/v 谁/r
 我国/n 每年/r 用电量/n 多少/r
 电阻/n 丝/n 熔断/v 电流/n 是/v 多少/r
 著名/a 的/u “/wp 荷兰/ns 三剑客/n ”/wp 之一/r ，/wp 有/v “/wp 芭蕾/n 王子/n ”/wp 之/u 称/n 的/u 著名/a 球星/n 是/v 谁/r
 美国/ns 哪/r 座/q 城市/n 被/p 称作/v “/wp 凤凰城/ns ”/wp
+《/wp 巴黎/ns 圣母院/n 》/wp 中/nd 被/p 敲钟人/n 卡西莫多/d 救起/v 的/u 吉普赛/n 少女/n 叫/v 什么/r 名字/n
 NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职业/n 生涯/n 最高分/n 是/v 多少/r
 北宋/nt 时期/n ，/wp 哪/r 位/q 著名/a 诗人/n 针对/p 当时/nt “/wp 积贫积弱/i ”/wp 的/u 社会/n 现实/n ，/wp 以/p “/wp 富国强兵/i ”/wp 为/v 目的/n 进行/v 了/u 改革/v
 以/p 西班牙/ns 内战/n 为/v 背景/n 的/u 小说/n 《/wp 丧钟/n 为/p 谁/r 而/c 鸣/v 》/wp 是/v 哪/r 位/q 美国/ns 著名/a 作家/n 的/u 长篇小说/i 之一/r
@@ -1030,23 +1249,31 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 2000年/nt 夏季/nt 奥运会/j 是/v 在/p 哪个/r 城市/n 举办/v 的/u
 中国/ns 共产党/n 创建/v 的/u 第一/m 个/q 全国性/n 政权/n ——/wp 中华/nz 苏维埃共和国/ns 临时/b 中央政府/n 在/p 哪个/r 城市/n
 俄罗斯/ns 最后/nd 一/m 位/q 沙皇/n 是/v 谁/r
+朝鲜/ns 现任/b 领导人/n 金/nh 正恩/nh 的/u 妻子/n 叫/v 什么/r 名字/n
 上海/ns 申花/nz 足球/n 俱乐部/n 的/u 投资人/n ，/wp 网络/n 公司/n “/wp 第九/m 城市/n ”/wp 的/u 董事长/n 是/v 谁/r
 词法/n 分析/v 是/v 编译/v 过程/n 中/nd 的/u 第几/m 步/q
 哥斯达黎加/ns 的/u 首都/n 是/v 哪/r 座/q 城市/n
 拥有/v 著名/a 的/u 帕提农/nz 神庙/n 的/u 卫城/n 坐落/v 于/p 希腊/ns 的/u 哪/r 座/q 城市/n
 在/p 诗句/n 中/nd 研究/v 用/p “/wp 推/v ”/wp 字/n 还是/c “/wp 敲/v ”/wp 字/n 从而/c 发明/v 了/u 推敲/v 一/m 词/n 的/u 是/v 哪/r 位/q 诗人/n
 国家/n 主席/n 的/u 联系/v 电话/n 是/v 多少/r
+贝蒂./nh 布普/nh 的/u 狗/n 叫/v 什么/r 名字/n
+诗句/n “/wp 望帝/n 春心/n 托/v 杜鹃/n ”/wp 中/nd 的/u 望帝/n 叫/v 什么/r 名字/n
+由/p 方文山/nh 作词/v ，/wp 周杰伦/nh 作曲/v 的/u 电影/n 《/wp 头/n 文字/n D/ws 》/wp 的/u 插曲/n 叫/v 什么/r 名字/n
 现/nt 效力/v 于/p 巴塞罗那队/ni ，/wp 绰号/n “/wp 小白/nz ”/wp 的/u 西班牙/ns 足球/n 男/b 明星/n 是/v 谁/r
+《/wp 陆小凤/nh 传奇/n 》/wp 中/nd 西门/n 吹/v 雪/n 的/u 老婆/n 叫/v 什么/r 名字/n
 《/wp 三国演义/nz 》/wp 中/nd 刘备/nh 手下/n 的/u 五/m 虎/n 将/p 之一/r ，/wp 以/p 老当益壮/i 、/wp 百步穿/i 杨/nh 着/u 称/v 的/u 是/v 谁/r
+明代/nt “/wp 土木/n 之/u 变/v ”/wp 中/nd 被/p 瓦剌军/n 俘虏/n 的/u 明英宗/n 叫/v 什么/r 名字/n
 开创/v “/wp 芸式/b 唱腔/n ”/wp ，/wp 代表作/n 有/v 《/wp 如果/c 云/n 知道/v 》/wp 等/u 歌曲/n 的/u 女/b 歌手/n 是/v 谁/r
 现任/b 朝鲜/ns 最高/a 领导人/n 是/v 谁/r
 非典/b 的/u 谋伏期/n 是/v 多少/r 天/q
+英国/ns 与/p 法国/ns 之间/nd 的/u 海峡/n 叫/v 什么/r 名字/n
 中国/ns 古代/nt 传说/n 中/nd 雷公/nh 的/u 妻子/n 是/v 谁/r
 目前/nt 我国/n 邮政/n 储蓄/v 异地/n 取款/v 手续费/n 的/u 最高/a 限额/n 是/v 多少/r 元/q
 出土/v 了/u 辛/nh 追/v 女尸/n 的/u 马王堆/ns 汉墓/ns 位于/v 我国/n 湖南省/ns 的/u 哪/r 座/q 城市/n
 所谓/v “/wp 巴/j 以/j 冲突/v ”/wp 指/v 的/u 是/v 以色列/ns 和/c 哪个/r 国家/n 之间/nd 的/u 冲突/v
 中国/ns 人均/j 保险/n 金额/n 的/u 变化/v 范围/n 是/v 多少/r
 与/p 姚晨/nh 搭档/nh 主演/v 《/wp 潜伏/v 》/wp ，/wp 公认为/v 的/u 演技派/n 男星/n 是/v 谁/r
+《/wp 红楼梦/nz 》/wp 中/nd ，/wp 林黛玉/nh 在/p 大观园/ns 中/nd 的/u 住所/n 的/u 名字/n 是/v 什么/r
 主演/v 过/u 电视剧/n 《/wp 粉红/n 女郎/n 》/wp ，/wp 曾/d 被/p 誉为/v “/wp 中国/ns 首席/n 男模/n ”/wp 的/u 艺人/n 是/v 谁/r
 获得/v 第18/m 届/q 国际/n 电影节/n 特别奖/n 的/u 电影/n 《/wp 卖/v 花/n 姑娘/n 》/wp 是/v 哪个/r 国家/n 的/u 影片/n
 绰号/n “/wp 文字/n 女巫/n ”/wp ，/wp 作品/n 有/v 《/wp 左耳/n 》/wp 等/u 小说/n 的/u 当代/nt 女作家/n 是/v 谁/r
@@ -1054,10 +1281,12 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 曼联/j 1993年/nt 在/p 球员/n 身上/nl 花/v 掉/v 多少/r 钱/n
 著名/a 旅游/v 景点/n “/wp 乔家/n 大院/n ”/wp 位于/v 我国/n 哪个/r 省份/n
 抗美援朝/j 中国/ns 人民/n 志愿军/n 司令员/n 是/v 谁/r
+位于/v 我国/n 新疆/ns 阿勒泰/ns 地区/n ，/wp 传说/v 有/v 湖怪/n 出没/v 的/u 著名/a 淡水湖/n 叫/v 什么/r 名字/n
 人/n 可以/v 躺/v 在/p 上面/nd 而/c 不/d 沉/v 下去/v 的/u 全世界/n 海拔/n 最低/a 的/u 琥珀/n 是/v 哪里/r
 在/p 名著/n 《/wp 红楼梦/nz 》/wp 中/nd ，/wp “/wp 心/n 比/p 天/n 高/a ，/wp 命/n 比/p 纸薄/n ”/wp 说/v 的/u 是/v 谁/r
 金庸/nh 小说/n 《/wp 鹿鼎记/n 》/wp 中/nd ，/wp 被/p 称为/v “/wp 延平/ns 郡王/n ”/wp ，/wp 郑成功/nh 的/u 长子/n 是/v 谁/r
 美人鱼/n 雕像/n 在/p 丹麦/ns 的/u 哪个/r 城市/n
+太平天国/n 时期/n ，/wp 被/p 洪秀全/nh 封/v 为/v 翼王/n 的/u 叫/v 什么/r 名字/n
 日语/nz 中/nd 的/u “/wp 欧吉桑/n ”/wp 是/v 对/p 谁/r 的/u 称呼/n
 创作/v 《/wp 勃兰登堡/ns 协奏曲/n 》/wp ，/wp 被/p 誉为/v “/wp 西方/nl 音乐/n 之/u 父/n ”/wp 的/u 是/v 谁/r
 《/wp 告别/v 薇安/nh 》/wp 《/wp 彼岸花/n 》/wp 是/v 国内/nl 哪/r 位/q 著名/a 作家/n 的/u 代表作/n
@@ -1066,6 +1295,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 著名/a 的/u 九寨沟/ns 风景/n 名胜区/n 位于/v 哪个/r 省份/n
 青海湖/ns 的/u 海拔/n 高度/n 是/v 多少/r
 因/c 出演/v 李安/nh 电影/n 《/wp 色戒/n 》/wp 的/u 女/b 主角/n 王佳芝/nh 而/c 一/m 夜/q 成名/v 的/u 内地/nl 女/b 演员/n 是/v 谁/r
+在/p 系列/n 电影/n 《/wp 暮光之城/nz 》/wp 中/nd ，/wp 由/p 罗伯特./nh 帕丁森/nh 饰演/v 的/u 吸血鬼/n 男/b 主角/n 叫/v 什么/r 名字/n
 “/wp 非洲/ns 屋脊/n ”/wp 是/v 哪个/r 国家/n 的/u 别称/n
 最近/nt 刚刚/d 去世/v 的/u “/wp 查韦斯/nh 总统/n ”/wp 是/v 哪个/r 国家/n 的/u 国家/n 元首/n
 9/m 的/u 立方/n 是/v 多少/r
@@ -1080,8 +1310,10 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 吃/v 多少/r 粗粮/n 有益/a 健康/a
 最/d 早/a 计算/v 出/v 圆周率/n 的/u 人/n 是/v 谁/r
 长沙/ns 的/u 区号/n 是/v 多少/r
+我国/n 首/m 位/q 升空/v 的/u 女/b 航天员/n 叫/v 什么/r 名字/n
 大于/v 多少/r 个/q 碳原子/n 的/u 烃常温/n 下/nd 就/d 是/v 固体/n 的/u
 第一/m 支/q 获得/v 女足/j 世界杯/n 冠军/n 的/u 亚洲/ns 国家/n 是/v 哪个/r 国家/n
+王/nh 菲/nh 和/c 李亚鹏/nh 的/u 亲生/b 女儿/n 叫/v 什么/r 名字/n
 与/p 金庸/n ，/wp 梁羽生/nh 并称/v 为/v 中国/ns 武侠小说/n 的/u 三/m 大/a 宗师/n 的/u 著名/a 武侠/n 作家/n 是/v 谁/r
 1982年/nt 发生/v 的/u 马尔维纳斯/ns 群岛/n 战役/n 是/v 英国/ns 和/c 哪个/r 国家/n 之间/nd 的/u 战役/n
 为/p 日本/ns 动画/n 《/wp 新/a 世纪/n 福音/n 战士/n 剧场/n 版/n 》/wp 演唱/v 主题歌/n 《/wp beautifulworld/ws 》/wp 的/u 女/b 歌手/n 是/v 谁/r
@@ -1090,6 +1322,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 我国/n 著名/a 铁路/n “/wp 陇海/nh -/wp 兰心/n ”/wp 线/n 中/nd 的/u “/wp 兰/n ”/wp 指/v 的/u 是/v 甘肃省/ns 的/u 哪个/r 城市/n
 现代/nt 原子钟/n 每/r 170万/m 年/q 只/d 有/v 多少/r 误差/n
 亚洲/ns 第一/m 个/q 举办/v 奥运会/j 的/u 是/v 哪个/r 国家/n
+由/p 杜琪峰/nh 执导/v ，/wp 刘德华/nh 和/c 郑秀文/nh 时隔/v 九/m 年/q 后/nd 第七/m 次/q 合作/v 主演/v 的/u 电影/n 叫/v 什么/r 名字/n
 代表作/n 有/v 《/wp 背影/n 》/wp 的/u 中国/ns 著名/a 文学家/n 是/v 谁/r
 现/nt 效力/v 于/p 西甲/ns 马德里/ns 竞技/n 队/n ，/wp 绰号/n “/wp 老虎/n ”/wp 的/u 哥伦比亚/ns 前锋/n 是/v 谁/r
 我国/n 有/v 多/m 个/q 少数民族/n 自治区/n ，/wp 请问/v 广西省/ns 是/v 哪个/r 少数民族/n 的/u 自治区/n
@@ -1108,6 +1341,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 标准/n 的/u 高尔夫球场/n 有/v 多少/r 个/q 球/n 洞/n
 中国/ns 国家/n 副/b 主席/n 都/d 有/v 谁/r
 在/p 美国/ns 境内/nl ，/wp 被/p 称为/v “/wp 汽车城/n ”/wp 的/u 是/v 哪/r 座/q 城市/n
+有/v “/wp 小/a 甜甜/a ”/wp 外号/n 的/u 美国/ns 流行/n 天后/n 叫/v 什么/r 名字/n
 年/q 北京/ns 奥运会/j 开幕式/n 和/c 闭幕式/n 的/u 总/b 导演/n 是/v 谁/r
 翻滚/v 的/u 翻字/v 由/p 多少/r 笔画/n 组成/v
 “/wp 我/r 一定/d 会/v 回来/v 的/u ！/wp ”/wp 是/v 动画片/n 《/wp 喜羊羊/n 与/c 灰太狼/n 》/wp 中/nd 谁/r 的/u 经典/n 台词/n
@@ -1117,6 +1351,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 新疆/ns 唯一/b 一个/m 以/p 石油/n 命名/v 的/u 是/v 哪个/r 城市/n
 、/wp 柬埔寨/ns 最/d 大/a 的/u 城市/n 是/v 哪/r 座/q 城市/n
 清朝/nt 唯一/b 一个/m 二品/n 大/a 太监/n ，/wp 常年/d 伺候/v 在/p 慈禧/nh 太后/n 身边/nl 的/u 人/n 是/v 谁/r
+111/m 图/n 中/nd 抗日战争/nz 时期/n 的/u 国际/n 友人/n 叫/v 什么/r 名字/n
 著名/a 的/u 长篇/b 诗剧/n 《/wp 浮士德/nh 》/wp 是/v 德国/ns 哪/r 位/q 作家/n 的/u 作品/n
 被/p 铁块/n 击中/v 腹部/n 仍/d 强/a 忍剧/n 痛/d 将/p 车/n 停稳/v 安全/a 疏散/v 乘客/n ，/wp 被/p 称为/v “/wp 杭州/ns 最/d 美/a 司机/n ”/wp 的/u 是/v 谁/r
 在/p 旧人/n 教版/n 英语/nz 课文/n 的/u 文本/n 中/nd 有/v 一/m 对/q 来自/v 美国/ns 的/u 可爱/a 双胞胎/n 姐妹/n ，/wp 她们/r 分别/d 是/v lucy/ws 和/c 谁/r
@@ -1135,6 +1370,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 抽烟者/n 比/p 不/d 抽烟者/n 患/v 肺癌/n 的/u 概率/n 大/a 多少/r
 电脑/n 的/u 标准/n 重量/n 是/v 多少/r
 国际/n 奥委会/j 正式/a 决定/v 从/p 第几/m 届/q 奥运会/j 开始/v 实现/v 火炬/n 传递/v
+金庸/nh 小说/n 《/wp 鹿鼎记/n 》/wp 中/nd ，/wp “/wp 天地会/n ”/wp 的/u 总/b 舵主/n 叫/v 什么/r 名字/n
 目前/nt 最新/a 的/u Fortran/ws 版本/n 为/v 多少/r
 我国/n 的/u 沪汉蓉/j 高速/b 铁路/n 正在/d 建设/v 中/nd ，/wp 其中/r 的/u “/wp 蓉/n ”/wp 指/v 的/u 是/v 哪/r 座/q 城市/n
 欧洲/ns 的/u 哪/r 座/q 城市/n 举行/v 了/u 世界/n 气候/n 变化/v 大会/n
@@ -1145,6 +1381,7 @@ NBA/ws 球员/n ，/wp 科比/nh ·/wp 布莱恩/nh 拿下/v 的/u 单场/n 职�
 NBA/ws 中/nd ，/wp 绰号/n “/wp 真理/n ”/wp ，/wp 现/nt 效力/v 于/p 凯尔特人队/ni ，/wp 身/n 披/v 34/m 号/q 球衣/n 的/u 著名/a 球星/n 是/v 谁/r
 有/v “/wp 风帆/n 之/u 都/n ”/wp 称号/n 的/u 新西兰/ns 第一/m 大/a 城市/n 是/v 哪/r 座/q 城市/n
 1982年/nt 上映/v 的/u 电影/n 《/wp 骆驼/n 祥子/nh 》/wp 中/nd 饰演/v 虎妞/nh 的/u 女/b 演员/n 是/v 谁/r
+罗马尼亚/ns 的/u 首都/n 叫/v 什么/r 名字/n
 电视/n 发明/v 于/p 本世纪/nt 的/u 多少/r 年代/n
 中国/ns 公民/n 应该/v 在/p 年满/v 多少/r 周岁/nt 之/u 日/n 起/nd 三/m 个/q 月/n 内/nd ，/wp 申领/v 居民/n 身份证/n
 世界杯/n 决赛/v 阶段/n 的/u 名额/n 目前/nt 是/v 多少/r 个/q
@@ -1159,6 +1396,7 @@ NBA/ws 中/nd ，/wp 绰号/n “/wp 真理/n ”/wp ，/wp 现/nt 效力/v 于/
 与/p 黄日华/nh 一同/d 主演/v 电视剧/n 《/wp 义不容情/n 》/wp 的/u 香港/ns 男/b 明星/n 是/v 谁/r
 日常/b 生活/v 中/nd 经常/d 使用/v 的/u 重量/n 单位/n ，/wp 一千克/nz 相当/v 于/p 多少/r 斤/q
 第一/m 个/q 获得/v 诺贝尔/nh 文学奖/n 的/u 美国/ns 黑人/n 是/v 谁/r
+我国/n 自主/v 研制/v 并/c 发射/v 的/u 首/m 个/q 月球/n 探测器/n 叫/v 什么/r 名字/n
 首/m 开/q 武举/n 选/v 拨/v 人才/n 的/u 女/b 皇帝/n 是/v 谁/r
 副/b 主席/n 每/r 届/q 任期/n 多少/m 年/q
 茅台/nz 酒/n 曾/d 在/p 哪些/r 年/q 获得/v 过/u 国家/n 金奖/n
@@ -1176,14 +1414,17 @@ NBA/ws 中/nd ，/wp 绰号/n “/wp 真理/n ”/wp ，/wp 现/nt 效力/v 于/
 和/p 中国/ns 足协/j 签署/v 价值/n 至少/d 5亿/m 元/q 三/m 年/q 合约/n 的/u 大连/ns 万达/nz 老板/n 是/v 谁/r
 被/p 称为/v “/wp 千古宦官/n 第一/m 人/n ”/wp ，/wp 唐玄宗/nh 和/c 杨/nh 贵妃/n 身边/nl 著名/a 的/u 宦官/n 是/v 谁/r
 被/p 誉为/v “/wp 购物者/n 的/u 天堂/n ”/wp 和/c “/wp 东方/nd 之/u 珠/n ”/wp 的/u 城市/n 是/v 哪个/r
+韩/nh 寒/nh 的/u 第一/m 本/q 杂文/n 、/wp 随笔/n 、/wp 小说/n 的/u 合集/n 叫/v 什么/r 名字/n
 我国/n “/wp 八一/nt 双/m 鹿/n 队/n ”/wp 现任/b 维吾尔族/nz 主教练/n ，/wp 被/p 誉为/v “/wp 篮球场/n 上/nd 的/u 魔术师/n ”/wp 的/u 是/v 谁/r
 世界/n 上/nd 第一/m 台/q 脑花/n 多少/r 钱/n
 一个/m 长方/n 体长/n 是/v 2/m 米/q ，/wp 宽/a 是/v 1/m 米/q ，/wp 高/a 2/m 米/q ，/wp 那么/c 它/r 的/u 体积/n 是/v 多少/r 立方米/q
 英国/ns 历史/n 上/nd 唯一/b 一/m 位/q 被/p 公开/a 处死/v 的/u 国王/n 是/v 谁/r
 新疆/ns 哪/r 一/m 座/q 城市/n 的/u 名字/n 在/p 古/a 准噶尔/ns 蒙古语/nz 中/nd 原意/n 是/v “/wp 美丽/a 的/u 牧场/n ”/wp
 古代/nt 欧洲/ns 文明/n 发源于/v 哪里/r
+秦始皇/nh 长子/n 叫/v 什么/r 名字/n
 谁/r 发现/v 了/u 南极/ns 大陆/n
 曾/d 获得/v 1994年/nt 诺贝尔/nh 和平奖/n ，/wp 巴勒斯坦/ns 人民/n 爱戴/v 的/u 政治家/n 是/v 谁/r
+由/p 明朝/nt 科学家/n 宋应星/nh 编纂/v ，/wp 世界/n 上/nd 第一/m 部/q 关于/p 农业/n 和/c 手工业/n 生产/v 的/u 综合性/n 著作/n 叫/v 什么/r 名字/n
 NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp 队/n 中/nd 的/u 主力/n 中锋/n ，/wp 外号/n “/wp 大/a 鲨鱼/n ”/wp 的/u 人/n 是/v 谁/r
 我们/r 通常/d 所/u 说/v 的/u 不惑之年/i 是/v 指/v 多少/r 岁/q
 美国/ns 被/p 称为/v “/wp 太空城/n ”/wp 的/u 是/v 哪/r 座/q 城市/n
@@ -1195,8 +1436,10 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 宋朝/nt 的/u 出现/v 了/u 程朱/nh 理学/n 中/nd 的/u “/wp 朱/a ”/wp 指/v 的/u 是/v 谁/r
 现代/nt 城市/n 人均/j 居住/v 面积/n 能/v 有/v 多少/r
 四/m 大/a 名著/n 中/nd 《/wp 西游记/nz 》/wp 的/u 作者/n 是/v 谁/r
+世界/n 上/nd 最/d 靠/v 北/nd 的/u 首都/n 叫/v 什么/r 名字/n
 去/v 巴厘岛/ns 旅游/v 应/v 办理/v 哪个/r 国家/n 的/u 签证/n
 “/wp 零点乐队/n ”/wp 的/u 主唱/n 并/c 出演/v 《/wp 奋斗/v 》/wp 中/nd “/wp 猪头/n ”/wp 一/m 角/n 的/u 是/v 谁/r
+333/m 这/r 首/q 歌曲/n 叫/v 什么/r 名字/n
 著名/a 散文/n 《/wp 春/nt 》/wp 的/u 作者/n 是/v 哪/r 一/m 位/q
 人/n 一般/d 有/v 多少/r 牙/n
 六/m 大/a 江南/ns 古镇/n 之一/r 的/u 西塘/ns 古镇/n 位于/v 浙江省/ns 的/u 哪个/r 城市/n
@@ -1221,9 +1464,11 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 最近/nt 赢得/v 俄罗斯/ns 总统/n 大选/v 的/u 是/v 谁/r
 “/wp 踏平/v 了/u 山路/n 唱/v 山歌/n ，/wp 撒/v 开/v 了/u 渔网/n 唱/v 渔歌/n ，/wp 唱/v 起/v 那/r 牧歌/n 牛/n 羊/n 多/a ，/wp 多/d 过/v 了/u 天上/nl 的/u 群/n 星座座/n 。/wp ”/wp 这/r 首/q 《/wp 大地/n 飞/v 歌/n 》/wp 是/v 由/p 谁/r 演唱/v 的/u
 被/p 称为/v “/wp 姚明/nh 接班人/n ”/wp ，/wp 现/nt 效力/v 于/p CBA/ws 福建队/n 的/u 年轻/a 中锋/n 是/v 谁/r
+小熊维尼/nh 的/u 好/a 朋友/n ，/wp 一/m 只/q 可爱/a 的/u 老虎/n 它/r 叫/v 什么/r 名字/n
 电视剧/n 《/wp 幸福/n 像/v 花儿/n 一样/u 》/wp 的/u 导演/n 是/v 谁/r
 “/wp 初出茅庐/i ”/wp 中/nd 茅庐/i 的/u 本意/n 指/v 谁/r 的/u 住处/n
 在/p 新加坡/ns 版/n 《/wp 神雕侠侣/n 》/wp 中/nd 饰演/v “/wp 小龙女/nh ”/wp 的/u 新加坡/ns 国宝级/b 女/b 演员/n 是/v 谁/r
+有/v “/wp 小/a 甜甜/a ”/wp 外号/n 的/u 美国/ns 流行/n 天后/n 叫/v 什么/r 名字/n
 冰岛/ns 的/u 第一/m 语言/n 是/v 什么/r
 日本/ns 的/u 现任/b 首相/n 是/v 野田佳彦/nh ，/wp 他/r 的/u 前任/b 是/v 谁/r
 福特/nz Fiesta/ws 汽车/n 一/m 加仑/q 汽油/n 能够/v 在/p 高速公路/n 上/nd 跑/v 多少/r 英里/q
@@ -1245,6 +1490,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 日本/ns 目前/nt 多少/r 人/n
 2012年/nt 伦敦/ns 奥运会/j 是/v 第几/m 届/q 夏季/nt 奥林匹克/nz 运动会/n
 钟表/n 上/nd 显示/v 的/u 时间/n 为/p 3点/nt 整/m ，/wp 时针/n 与/p 分钟/n 形成/v 的/u 夹角/n 为/v 多少/r 度/q
+梁羽生/nh 小说/n 《/wp 云海玉/n 弓缘/n 》/wp 中/nd 少年/n 时/n 就/d 被/p 世人/n 遗弃/v 的/u 男/b 主人公/n 叫/v 什么/r 名字/n
 人类/n 每天/r 平均/a 消耗/v 多少/r 能量/n
 世界/n 历史/n 上/nd 持续/v 时间/n 最/d 长/a 的/u 战争/n ，/wp 号称/v “/wp 百年/m 战争/n ”/wp ，/wp 是/v 发生/v 在/p 英国/ns 和/c 哪个/r 国家/n 之间/nd
 2012年/nt 伦敦/ns 奥运会/j 女子/n 200/m 米/q 蝶泳/n 决赛/v 中/nd 夺冠/v 的/u 中国/ns 运动员/n 是/v 谁/r
@@ -1285,6 +1531,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 2012年/nt 奥巴马/nh 竞选/v 的/u 美国/ns 总统/n 候选人/n 是/v 谁/r
 我国/n “/wp 八一/nt 双/m 鹿/n 队/n ”/wp 现任/b 维吾尔族/nz 主教练/n ，/wp 被/p 誉为/v “/wp 篮球场/n 上/nd 的/u 魔术师/n ”/wp 的/u 是/v 谁/r
 汉朝/nt 是/v 中国/ns 历史/n 上/nd 的/u 第几/m 个/q 朝代/n
+位于/v 湖南/ns 长沙/ns 湘江/ns 中央/n ，/wp 并/c 有/v 毛泽东/nh 诗词碑/n 等/u 景点/n 的/u 江心/n 小/a 岛/n 叫/v 什么/r 名字/n
 1990年/nt 10月/nt 8日/nt ，/wp 中国/ns 内地/nl 第一/m 家/q 麦当劳/nz 餐厅/n 在/p 广东省/ns 的/u 哪/r 座/q 城市/n 开业/v
 第二/m 次/q 世界大战/i 死/v 了/u 多少/r 士兵/n
 周/nh 星驰/nh 的/u 电影/n 《/wp 唐伯虎点/nh 秋香/nh 》/wp 中/nd ，/wp 唐伯虎/nh 在/p 华府/n 的/u 编号/n 是/v 多少/r
@@ -1310,6 +1557,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 哪/r 位/q 作家/n 在/p 首/m 届/q 《/wp 新/a 概念/n 作文/n 大赛/v 》/wp 中/nd 荣获/v 一等奖/n ，/wp 并/c 成为/v 了/u 职业赛/n 车手/n
 “/wp 堪羡优伶/v 有/v 福/n ，/wp 谁知/c 公子/n 无缘/v 。/wp ”/wp 是/v 《/wp 红楼梦/nz 》/wp 中/nd 对/p 谁/r 的/u 判词/n
 中国/ns 现任/b 国家/n 主席/n 是/v 谁/r
+西红柿/n 还有/v 什么/r 别的/r 名字/n
 社会保险/i 应付/v 多少/r
 美国/ns 奥斯卡奖/nz 历史/n 上/nd 只/d 有/v 一/m 人/n 连续/a 两/m 届/q 获得/v 最佳/z 男/b 演员/n 奖/n ，/wp 这个/r 人/n 是/v 谁/r
 上海/ns 地区/n 规定/v 最低/a 工资/n 范围/n 是/v 多少/r
@@ -1328,11 +1576,13 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 我国/n 首/m 次/q 世界/n 园艺/n 博览会/n 是/v 在/p 哪个/r 城市/n 举办/v 的/u
 英国/ns 历史/n 上/nd 唯一/b 一/m 位/q 被/p 公开/a 处死/v 的/u 国王/n 是/v 谁/r
 艾弗森/nh 上/nd 的/u 是/v 哪/r 所/q 大学/n
+南宋/nt 开国/b 皇帝/n ，/wp 也/d 就是/v 宋高宗/nh ，/wp 叫/v 什么/r 名字/n
 著名/a 的/u 网球/n 运动员/n ，/wp 斯齐亚沃尼/nh 是/v 哪个/r 国家/n 的/u
 俗话说/i ，/wp 多少/m 行/q ，/wp “/wp 行行/v 出/v 状元/n ”/wp
 、/wp 李/nh 安/nh 的/u 电影/n 《/wp 卧虎/n 藏龙/n 》/wp 是/v 改编/v 自/p 哪/r 位/q 作家/n 创作/v 的/u 同名/v 小说/n
 今年/nt 伦敦/ns 奥运会/j 上/nd ，/wp 获得/v 平衡木/n 冠军/n 的/u 我国/n 女子/n 体操队/n 队长/n 是/v 谁/r
 被/p 称为/v “/wp 天下/n 第一湾/ns ”/wp 的/u 亚龙湾/ns 在/p 海南省/ns 的/u 哪/r 座/q 城市/n
+话剧/n 《/wp 雷雨/n 》/wp 中/nd 侍女/n 四凤同母/n 异父/n 的/u 哥哥/n ，/wp 也/d 是/v 矿业/n 公司/n 的/u 工人/n 叫/v 什么/r 名字/n
 被/p 称为/v “/wp 欢乐/a 宝石/n ”/wp 的/u 度假/v 圣地/n “/wp 圣淘沙/n ”/wp 位于/v 东南亚/ns 的/u 哪个/r 国家/n
 有/v 唐三藏/nh 主持/v 建造/v 的/u 大雁塔/n 是/v 哪个/r 城市/n 的/u 著名/a 景点/n
 哪个/r 城市/n 的/u 报纸/n 被/p 称为/v 星报/nz
@@ -1349,6 +1599,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 中国/ns 公民/n 应该/v 在/p 年满/v 多少/r 周岁/nt 之/u 日/n 起/nd 三/m 个/q 月/n 内/nd ，/wp 申领/v 居民/n 身份证/n
 东方/nl 明珠/n 电视塔/n 在/p 哪里/r
 奥运/j 五环/n 是/v 谁/r 构思/v 设计/v 的/u
+美国/ns 国家/n 美式/b 足球/n 联盟/n 的/u 年度/n 冠军赛/n 叫/v 什么/r 名字/n
 郭晶晶/nh 的/u 公公/n ，/wp 霍/nh 启刚/nh 的/u 父亲/n 是/v 谁/r
 《/wp 格林/nh 童话/n 》/wp 中/nd ，/wp 小/a 红帽/n 是/v 在/p 看望/v 谁/r 的/u 时候/n 被/p 狼/n 吃/v 掉/v 的/u
 名著/n 《/wp 红楼梦/nz 》/wp 中/nd ，/wp “/wp 未/d 见/v 其/r 人/n ，/wp 先闻其声/n ”/wp 指/v 的/u 是/v 谁/r
@@ -1373,18 +1624,22 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 哥伦布/nh 航海/v 计划/n 得到/v 谁/r 的/u 支持/v 才/d 变成/v 现实/n
 号称/v “/wp 东北/nl 屋脊/n ”/wp 的/u 长白山/ns ，/wp 是/v 中国/ns 和/c 哪个/r 国家/n 的/u 界山/n
 共同社/ni 是/v 哪个/r 国家/n 的/u 通讯社/n
+周/nh 星驰/nh 电影/n 《/wp 唐伯虎点/nh 秋香/nh 》/wp 中/nd ，/wp 唐伯虎/nh 口中/nl 所/u 说/v 吃/v 了/u 之后/nd 不能/v 走路/v 和/c 面露/v 微笑/v 的/u 毒药/n 叫/v 什么/r 名字/n
 生活/v 中/nd 在/p 电视/n 遥控器/n 中/nd 使用/v 的/u 柱形/n 干电池/n 的/u 电压/n 是/v 多少/r 伏/v
+日本/ns 动漫/n 《/wp 圣斗士星矢/nz 》/wp 中/nd ，/wp 青铜/j 五/m 战士/n 中/nd 的/u 一/m 辉/n 的/u 弟弟/n 叫/v 什么/r 名字/n
 广州/ns 年薪/n 多少/r 算是/v 中等/b 水平/n
 经典/n 名歌/n 《/wp 乌苏里船/n 歌/n 》/wp 中/nd 唱/v 到/v 的/u 乌苏里江/ns ，/wp 是/v 中国/ns 和/c 哪个/r 国家/n 的/u 界河/n
 安徽/ns 合肥/ns 最/d 好/a 的/u 大学/n 是/v 哪/r 一/m 所/q
 新加坡/ns 奖学金/n 项目/n 中/nd 自己/r 承担/v 多少/r 费用/n
 《/wp 良友/n 》/wp 画报/n 1926年/nt 2月/nt 创刊/v ，/wp 第一/m 期/q 封面/n 照片/n 上/nd 的/u 女士/n 是/v 谁/r
 黑人/n 约/d 占/v 美国/ns 人口/n 的/u 比例/n 是/v 多少/r
+坐落/v 在/p 上海/ns 黄浦江/ns 畔/n 的/u 著名/a 电视塔/n ，/wp 叫做/v 什么/r 名字/n
 制作/v 木乃伊/nh 最/d 著名/a 的/u 古代/nt 国家/n 是/v 哪个/r
 北京大学/ni 的/u 邮编/j 是/v 多少/r ，/wp 我/r 要/v 寄/v 材料/n 为/p 考研/v 报名/v
 著名/a 的/u “/wp 无/v 岗/n 石窟/n ”/wp 位于/v 山西省/ns 的/u 哪个/r 城市/n
 曾/d 效力/v 于/p 尤文图斯队/ni ，/wp 号称/v “/wp 捷克/ns 铁人/n ”/wp 是/v 已/d 退役/v 球员/n 是/v 谁/r
 比尔盖茨/nh 有/v 多少/r 钱/n
+04-05/m 年/q 欧足联/j 最/d 具/v 价值/n 球员/n ，/wp 外号/n 为/v “/wp 中场/nl 心脏/n ”/wp 的/u 英超/j 利物浦队/ni 现任/b 队长/n 叫/v 什么/r 名字/n
 与/p 韩愈/nh 并/c 称为/v “/wp 韩柳/nh ”/wp 的/u 唐宋/nt 八/m 大家/r 之一/r 的/u 人/n 是/v 谁/r
 现/nt 效力/v 于/p CBA/ws 北京/ns 首钢/n 篮球队/n ，/wp 被/p 称为/v “/wp 独/a 狼/n ”/wp 的/u 前/nd NBA/ws 巨星/n 是/v 谁/r
 意大利/ns 民间/n 说/v 什么/r 语言/n
@@ -1392,6 +1647,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 曾/d 获得/v 2012年/nt 亚洲/ns 羽毛球/n 竞标赛/v 冠军/n 的/u 中国/ns 男子/n 羽毛球队/n 主力/n 单打/n 选手/n 是/v 谁/r
 中华/nz 文化/n 发源地/n 之一/r ，/wp 内蒙古/ns 第一/m 人口/n 大市/n 是/v 哪/r 座/q 城市/n
 哪/r 两/m 个/q 国家/n 围绕/v 着/u 切萨皮克/nh 海湾/n
+由/p 香港/ns 本土/n 漫画家/n 出品/v 的/u 卡通猪/n 形象/n 并/c 被/p 拍/v 成/v 了/u 系列/n 电影/n ，/wp 它/r 叫/v 什么/r 名字/n
 2002年/nt 男足/n 世界杯/n 获得/v 冠军/n 的/u 是/v 哪个/r 国家/n 的/u 球队/n
 二战/j 过后/nt ，/wp 审判/v 法西斯/nz 的/u 德国/ns 法庭/n 在/p 哪/r 一个/m 城市/n
 近期/nt 于/p 内地/nl 公映/v 的/u 《/wp 白鹿原/ns 》/wp 改编/v 自/p 哪/r 位/q 作家/n 的/u 小说/n
@@ -1399,14 +1655,17 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 政府/n 的/u 通信/v 地址/n 是/v 多少/r
 金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd ，/wp 意欲/v 复兴/v 燕国/ns ，/wp 文武双全/i 的/u 翩翩公子/n 是/v 谁/r
 我国/n 国酒/n 茅台/n 酒/n 出于/v 哪个/r 省份/n
+在/p 徐克/nh 导演/n 的/u 电影/n 《/wp 黄/a 飞鸿/n 》/wp 中/nd ，/wp 黄飞鸿/nh 开/v 的/u 医馆/n 叫/v 什么/r 名字/n
 著名/a 的/u 泰晤士桥/ns 在/p 哪个/r 国家/n
 避暑/v 胜地/n 庐山/ns 位于/v 江西省/ns 哪/r 座/q 城市/n
 年/n 的/u 北京/ns 奥运会/j ，/wp 中国/ns 代表队/n 一共/d 夺得/v 了/u 多少/r 枚/q 金牌/n
 在/p 97/m 版/q 电视剧/n 《/wp 天龙八部/n 》/wp 中/nd ，/wp 饰演/v 马大元/nh 的/u 妻子/n 康敏/nh 的/u 女/b 演员/n 是/v 谁/r
+绰号/n “/wp 纳豆/n ”/wp 的/u 西班牙/ns 男子/n 网球/n 明星/n 叫/v 什么/r 名字/n
 一个/m 世纪/n 是/v 多少/m 年/q
 名著/n 《/wp 红楼梦/nz 》/wp 中/nd ，/wp “/wp 潦倒/v 不/d 通/v 世务/n ，/wp 愚顽/a 怕/v 读/v 文章/n ”/wp 评价/v 的/u 是/v 谁/r
 斯多克/nh 台球/n 比赛/v 中/nd ，/wp 一/m 颗/q 蓝色/n 的/u 彩球/n 代表/n 多少/r 分/q
 法国/ns 的/u 凡尔赛宫/ns 是/v 由/p 谁/r 设计/v 的/u
+电影/n 《/wp 碟中谍/n 》/wp 男/b 主角/n 的/u 扮演者/n 叫/v 什么/r 名字/n
 非洲/ns 第一/m 高峰/n 乞力马扎罗山/ns 的/u 海拔/n 高度/n 是/v 多少/r
 在/p 1986年/nt 表演/v 穿越/v 万里长城/ns 的/u 美国/ns 著名/a 魔术师/n 是/v 谁/r
 中国/ns 男子/n 110/m 米/q 跨栏/n 项目/n 中/nd 有/v “/wp 南/nh 刘北史/nh ”/wp 的/u 说法/n ，/wp 南刘/ns 是/v 刘翔/nh ，/wp 北史/n 是/v 谁/r
@@ -1416,7 +1675,9 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 位于/v 伊比利亚/ns 半岛/n 东北部/nd ，/wp 濒临/v 地中海/ns ，/wp 西班牙/ns 第二/m 大/a 的/u 是/v 哪/r 座/q 城市/n
 号称/v “/wp 人/n 屠/v ”/wp 的/u 战国/nt 时期/n 秦国/ns 名将/n 是/v 谁/r
 在/p 我国/n 哪个/r 城市/n 需要/v 预先/d 摇号/v 才/d 能/v 获得/v 购买/v 小轿车/n 并且/c 上牌/v 的/u 资格/n
+名著/n 《/wp 西游记/nz 》/wp 中/nd ，/wp 铁扇/n 公主/n 的/u 宝扇/n 叫/v 什么/r 名字/n
 《/wp 洛神/nh 赋/n 图/n 》/wp 是/v 谁/r 的/u 作品/n
+台湾/ns 七十/m 年代/n 著名/a 女/b 演员/n ，/wp 著名/a 影星/n 成龙/nh 的/u 现任/b 妻子/n 叫/v 什么/r 名字/n
 因/p 《/wp 万物生/n 》/wp 一/m 曲/q 走红/v ，/wp 并/c 作为/v 中国/ns 首/m 位/q 被/p 格莱美/nh 邀请/v 的/u 女/b 歌手/n 是/v 谁/r
 被/p 称为/v “/wp 瓷都/n ”/wp 的/u 是/v 我国/n 哪/r 一/m 城市/n
 清朝/nt 道光/nz 年间/n ，/wp 在/p 虎门/ns 销/v 禁鸦片/n 的/u 民族英雄/i 是/v 谁/r
@@ -1428,6 +1689,7 @@ NBA/ws 球星/n 韦德/nh 在/p 06年/nt 获得/v 总/b 冠军/n 时/n ，/wp �
 与/p 宋霭龄/n ，/wp 宋庆龄/nh 并/c 称/v 为/v “/wp 宋氏/nh 三/m 姐妹/n ”/wp 并且/c 是/v 蒋介石/nh 第四/m 任/q 妻子/n 的/u 人/n 是/v 谁/r
 中国/ns 古代/nt 追赶/v 太阳/n 的/u 神话/n 人物/n 是/v 谁/r
 相传/v 秦始皇/nh 因为/c 渴望/v 长生不老/a ，/wp 派/v 谁/r 出海/v 寻找/v 仙药/n ，/wp 却/d 最终/d 一去不返/i
+话本/n 小说/n 《/wp 杨家将/n 演义/n 》/wp 中/nd ，/wp 佘/nh 老太/n 君/n 叫/v 什么/r 名字/n
 神话/n 传说/n 中/nd 谁/r 射/v 下/v 了/u 九/m 个/q 太阳/n
 法国/ns 大革命/n 推翻/v 的/u 波旁/nl 王朝/n 当时/nt 的/u 执政/v 君主/n 是/v 谁/r
 电影/n 画皮/n 的/u 主题曲/n 是/v 由/p 海豚/n 公主/n 称号/n 的/u 内地/nl 女/b 歌手/n 是/v 谁/r
@@ -1435,6 +1697,8 @@ NBA60/ws 年代/n 最/d 伟大/a 的/u 中锋/n 之一拉赛尔/r ，/wp 他/r �
 名著/n 《/wp 三国演义/nz 》/wp 中/nd 著名/a 的/u “/wp 夷陵/a 之/u 战/n ”/wp 是/v 谁/r 带领/v 东/nd 吴军/nh 击败/v 了/u 刘备/nh
 英国/ns 老牌/b 乐队/n “/wp 披头士/n ”/wp 的/u 已故/v 主唱/n 是/v 谁/r
 请问/v 现在/nt 中国/ns 乒乓球/n 男队/n 的/u 主教练/n 是/v 谁/r
+小说/n 《/wp 天龙八部/nz 》/wp 中/nd 乔峰/nh 的/u 亲生/b 父亲/n 叫/v 什么/r 名字/n
+热映/v 电影/n 《/wp 西游/v 降/v 魔片/n 》/wp 中/nd ，/wp 罗志祥/nh 扮演/v 的/u 角色/n 叫/v 什么/r 名字/n
 有限/a 责任/n 公司/n 发行/v 公司/n 债券/n ，/wp 其/r 净资产/n 额/n 最低/a 为/p 人民币/n 多少/r
 被/p 称为/v “/wp 中国/ns 男孩/n ”/wp 的/u 乌拉圭/ns 足球/n 运动员/n 是/v 谁/r
 被/p 称为/v “/wp 核弹头/n ”/wp 的/u 乌克兰/ns 足球/n 明星/n 是/v 谁/r
@@ -1463,6 +1727,7 @@ NBA60/ws 年代/n 最/d 伟大/a 的/u 中锋/n 之一拉赛尔/r ，/wp 他/r �
 秦国/ns 统一/v 六/m 国/n 的/u 顺序/n ，/wp 排/v 最后/nd 的/u 是/v 哪个/r 国家/n
 被/p 称为/v “/wp 枫叶/n 之/u 国/n ”/wp 的/u 是/v 哪个/r 国家/n
 我国/n 的/u “/wp 帆船/n 之/u 都/n ”/wp 是/v 山东省/ns 的/u 哪个/r 城市/n
+俄罗斯/ns 名城/n “/wp 斯大林格勒/nh ”/wp 现在/nt 叫/v 什么/r 名字/n
 国旗/n 中央/n 有/v 一/m 片/q 枫叶/n 的/u 是/v 哪个/r 国家/n 的/u 国旗/n
 温哥华/ns 是/v 哪个/r 国家/n 的/u 城市/n
 牛奶/n 中/nd 钙/n 的/u 比率/n 是/v 多少/r
@@ -1472,12 +1737,14 @@ NBA60/ws 年代/n 最/d 伟大/a 的/u 中锋/n 之一拉赛尔/r ，/wp 他/r �
 《/wp 红楼梦/nz 》/wp 中/nd ，/wp “/wp 巧姐儿/n ”/wp 是/v 贾琏/nh 和/c 谁/r 的/u 孩子/n
 宋朝/nt 的/u 开国/b 皇帝/n 是/v 谁/r
 金/b 的/u 原子量/n 是/v 多少/r
+金庸/nh 小说/n 《/wp 天龙八部/nz 》/wp 中/nd 慕容复/v 的/u 父亲/n 叫/v 什么/r 名字/n
 在/p 《/wp 奋斗/v 》/wp 中/nd 饰演/v 杨晓芸/nh ，/wp 近期/nt 被/p 男友/n 贾/nh 乃亮/nh 求婚/v 成功/a 的/u 女/b 明星/n 是/v 谁/r
 黑龙江/ns 的/u 省会/n 在/p 哪儿/r
 哈工大/j 一/m 校区/n 门牌号/n 多少/r
 意大利/ns 的/u 哪/r 座/q 城市/n ，/wp 承办/v 了/u 2006年/nt 冬季/nt 奥运会/j
 因/p 病毒性/n 胃炎/n 退出/v 2013年/nt 澳网/j 比赛/n 的/u 西班牙/ns 网球/n 名将/n 是/v 谁/r
 50/m 年代/n 以/p 被/p 风/n 吹/v 起/v 裙子/n 的/u 标志/n ，/wp 红/a 遍/v 世界/n 的/u 美国/ns 性感/a 女神/n 是/v 谁/r
+08/m 奥运会/j 篮球/n 比赛/v 场馆/n 的/u 名字/n 是/v
 孙燕姿/nh 的/u 歌曲/n 《/wp 第一/m 天/q 》/wp 的/u 词作者/n ，/wp 也/d 是/v 一/m 支/q 流行/n 天团/n 主唱/n 的/u 人/n 是/v 谁/r
 第70/m 届/q 美国/ns 电影/n 金球奖/nz 典礼/n 上/nd 凭借/p 《/wp 悲惨/a 世界/n 》/wp 一/m 片/q 获得/v 最佳/z 女/b 配角/n 的/u 美国/ns 女星/n 是/v 谁/r
 清朝/nt 在/p 位/n 皇帝/n 顺序/n 中/nd ，/wp 康熙/nh 前/nd 一/m 位/q 皇帝/n 是/v 谁/r
@@ -1485,6 +1752,7 @@ NBA60/ws 年代/n 最/d 伟大/a 的/u 中锋/n 之一拉赛尔/r ，/wp 他/r �
 世界/n 名曲/n 《/wp 欢乐/a 颂/v 》/wp 是/v 贝多芬/nh 第几/m 部/q 交响曲/n 中/nd 的/u 篇章/n
 在/p 几/m 何/r 学/v 中/nd ，/wp 钝角/n 是/v 大于/v 多少/r 度/q 的/u 角/n
 《/wp 射雕英雄传/nz 》/wp 中/nd ，/wp 梅超风/nh 的/u 师傅/n 是/v 谁/r
+始/v 于/p 清朝/nt 乾隆/nt 皇帝/n 年间/n 菜品/n 有/v 一百零八/m 种/q 的/u 宫廷/n 盛宴/n 叫/v 什么/r 名字/n
 在/p 2012年/nt 伦敦/ns 奥运会/j 开幕式/n 中/nd 压轴/v 登场/v 演唱/v 了/u 《/wp hey/ws jude/ws 》/wp 的/u 人/n 是/v 谁/r
 唐宋/nt 八/m 大家/r 之一/r ，/wp 也/d 是/v 北宋/nt 时期/n 最/d 伟大/a 的/u 改革家/n 是/v 谁/r
 现/nt 效力/v 于/p 西甲/nz 巴塞罗那队/ni ，/wp 被/p 称为/v 西班牙队/ni “/wp 中场/nl 大脑/n ”/wp 的/u 球员/n 是/v 谁/r
@@ -1492,6 +1760,7 @@ NBA60/ws 年代/n 最/d 伟大/a 的/u 中锋/n 之一拉赛尔/r ，/wp 他/r �
 外号/n “/wp 花/a 蝴蝶/n ”/wp 演唱/v 过/u 《/wp withoutyou/ws 》/wp 、/wp 《/wp Hero/ws 》/wp 等/u 歌曲/n 的/u 欧/j 美/j 天后/n 是/v 谁/r
 洋务/n 运动/v 时期/n ，/wp 洋务派/n 的/u 中央/n 代表/n 是/v 谁/r
 金庸/nh 小说/n 《/wp 神雕侠侣/n 》/wp 中/nd 是/v 谁/r 砍/v 断/v 了/u 杨/nh 过/u 的/u 右臂/n
+曼联/j 的/u 主赛场/n 叫/v 什么/r 名字/n
 大洋洲/ns 面积/n 第二/m 大/a 的/u 国家/n 是/v 哪个/r
 郭晶晶/nh 的/u 公公/n ，/wp 霍/nh 启刚/nh 的/u 父亲/n 是/v 谁/r
 内塔尼亚胡/nh 是/v 谁/r
@@ -1512,6 +1781,7 @@ PCS/ws 波段/n 的/u 实际/n 频率/n 是/v 多少/r
 李亚鹏/nh 版/n 《/wp 笑/v 傲/a 江湖/n 》/wp 中/nd ，/wp 饰演/v “/wp 采/v 花/n 大/a 盗/n ”/wp 田伯光/nh 的/u 演员/n 是/v 谁/r
 哪/r 座/q 城市/n 被/p 称为/v 通往/v 美国/ns 西部/nd 的/u 大门/n
 每次/r 射精/v 会/v 有/v 多少/r 精子/n
+NBA/ws 华盛顿/ns 奇才队/ni 在/p 2010年/nt 选中/v 的/u 状元/n 叫/v 什么/r 名字/n
 在/p 2010年/nt 南非/ns 世界杯/n 上/nd 获得/v 金球奖/nz 的/u 乌拉圭/ns 前锋/n 是/v 谁/r
 9/m 的/u 立方/n 是/v 多少/r
 快件/n 汇款/n 的/u 快件费/n 是/v 多少/r
@@ -1525,6 +1795,7 @@ PCS/ws 波段/n 的/u 实际/n 频率/n 是/v 多少/r
 女高音/n 的/u 声频/n 范围/n 是/v 多少/r
 一/m 节/q 五/m 号/q 电池/n 标准/n 电压/n 是/v 多少/r 伏/v
 嫦娥/nh 住/v 在/p 哪里/r
+从/p 太平洋/ns 紫杉/n 上/nd 提取/v 的/u 复合/v 抗癌/v 新药/n 叫/v 什么/r 名字/n
 《/wp 三国演义/nz 》/wp 中/nd 因为/p 骄傲/a 轻敌/v ，/wp 大意失荆州/ns 的/u 蔬果/n 将领/n 是/v 谁/r
 中国/ns 唯一/b 一个/m 因/p 皇帝/n 尊号/v 得/u 名/n 的/u 是/v 哪个/r 城市/n
 隋末/nt 天下/n 大/a 乱/a 时/n ，/wp 乘势/d 从/p 太原/ns 起兵/v ，/wp 攻占/v 长安/nz 并/c 成为/v 唐代/nt 开国/b 皇帝/n 的/u 人/n 是/v 谁/r
@@ -1533,6 +1804,7 @@ PCS/ws 波段/n 的/u 实际/n 频率/n 是/v 多少/r
 在/p 冯小刚/nh 的/u 电影/n 《/wp 1942/m 》/wp 中/nd ，/wp 蒋介石/nh 是/v 由/p 谁/r 饰演/v 的/u
 香港/ns 著名/a 影星/n 任达华/nh 的/u 妻子/n 是/v 谁/r
 “/wp 明十三陵/ns ”/wp 在/p 哪个/r 城市/n
+北宋/nt 苏黄/nh 米蔡/nh 四/m 大/a 书法家/n 之一/r ，/wp 同时/c 也/d 是/v 北宋/nt 四/m 大/a 奸臣/n 之一/r 的/u 叫/v 什么/r 名字/n
 兴凯湖/ns 是/v 哪/r 两/m 个/q 国家/n 共有/v
 地球/n 的/u 直径/n 是/v 多少/r
 仅次于/v 阿姆斯特丹/ns 和/c 鹿特丹/n ，/wp 荷兰/ns 的/u 第三/m 大/a 城市/n 是/v
@@ -1559,9 +1831,11 @@ PCS/ws 波段/n 的/u 实际/n 频率/n 是/v 多少/r
 我们/r 常/d 说/v 的/u “/wp 格林尼治/nz 国际/n 标准/n 时间/n ”/wp 中/nd 的/u “/wp 格林尼治/nz ”/wp 在/p 哪个/r 国家/n
 《/wp 倪焕之/nh 》/wp 是/v 我国/n 哪/r 位/q 著名/a 作家/n 的/u 长篇/b 代表/n 作品/n
 NBA/ws 中/nd 马刺队/ni 有/v 三/m 位/q 球星/n 合称/v “/wp GDP/ws ”/wp 其中/r 的/u D/ws 是/v 指/v 谁/r
+在/p 伦敦/ns 奥运会/j 上/nd 因/p 场地/n 湿/a 滑/a 导致/v 摔/v 伤/n 而/c 无缘/v 奖牌/n 的/u 中国/ns 女子/n 羽毛球队/n 选手/n 叫/v 什么/r 名字/n
 等/v 边/n 三角形/n 的/u 三/m 个/q 内角/n 都/d 是/v 多少/r 度/q
 苏格拉底/nh 是/v 谁/r
 LG/ws 公司/n 北京/ns 客服/j 的/u 电话/n 号码/n 是/v 多少/r
+与/p 郭德纲/nh 合作/v 时间/n 最/d 长/a 的/u 金牌/n 搭档/n 叫/v 什么/r 名字/n
 格林/nh 童话/n 《/wp 小/a 红帽/n 》/wp 中/nd 的/u 小/a 红帽/n 被/p 狼/n 吃/v 后/nd 最后/nd 是/v 谁/r 把/p 她/r 救/v 出来/v 的/u
 2002年/nt 韩/j 日/j 世界杯/n 上/nd ，/wp 德国队/ni 8：0/m 战胜/v 沙特队/ni 的/u 比赛/v 中/nd 一/m 人/n 打/v 进/v 5/m 球/n 的/u 球星/n 是/v 谁/r
 1999年/nt ，/wp 中国/ns 大陆/n 从/p 哪个/r 国家/n 手中/nl 收回/v 澳门/ns
@@ -1580,12 +1854,14 @@ LG/ws 公司/n 北京/ns 客服/j 的/u 电话/n 号码/n 是/v 多少/r
 著名/a 的/u 朱毛大军/n 中/nd ，/wp “/wp 毛/n ”/wp 指/v 的/u 是/v 毛泽东/nh ，/wp “/wp 朱/a ”/wp 指/v 的/u 是/v 谁/r
 20/m 世纪/n 80/m 年代/n 末/nd ，/wp 是/v 谁/r 在/p 网上/nl 散布/v 蠕虫/n 病毒/n
 康熙/nh 时期/n ，/wp 中国/ns 与/p 哪个/r 国家/n 签订/v 了/u 《/wp 尼布楚/ns 条约/n 》/wp
+小说/n 《/wp 天龙八部/nz 》/wp 中/nd 乔峰/nh 的/u 亲生/b 父亲/n 叫/v 什么/r 名字/n
 纵贯线/n 是/v 由/p 罗大佑/nh 、/wp 李宗盛/nh 、/wp 张震岳/nh 和/c 谁/r 组成/v 的/u
 “/wp 好莱坞/ns ”/wp 是/v 美国/ns 的/u 电影/n 圣地/n ，/wp 那么/c “/wp 宝莱坞/nz ”/wp 是/v 哪个/r 国家/n 的/u 电影/n 圣地/n
 曾/d 效力/v 于/p 意甲/n AC/ws 米兰/ns ，/wp 身/n 披/v 10/m 号/q 球衣/n 的/u 葡萄牙/ns “/wp 黄金/n 一代/n ”/wp 的/u 中场/nl 球员/n 是/v 谁/r
 11月/nt 27日/nt ，/wp 我国/n 上证/j 综指/j 跌/v 破/v 多少/r 点/q 的/u 大关/n ，/wp 正式/a 进入/v “/wp 1/m ”/wp 时代/n
 釜山/ns 、/wp 首尔/ns 、/wp 大邱/ns 是/v 哪个/r 国家/n 的/u 城市/n
 《/wp 三国演义/nz 》/wp 中/nd ，/wp 被/p 诸葛亮/nh 七擒七/m 纵/v 的/u 孟获/nh 的/u 老婆/n 是/v 谁/r
+《/wp 西游记/nz 》/wp 中/nd ，/wp 猪八戒/v 使用/v 的/u 武器/n 叫/v 什么/r 名字/n
 火警/n 的/u 号码/n 是/v 多少/r
 在/p 我国/n 统一/a 的/u 报警/v 求助/v 电话/n 是/v 多少/r
 桂林/ns 最/d 美/a 的/u 风景区/n 是/v 哪儿/r
@@ -1609,8 +1885,10 @@ CPU/ws 的/u 频率/n 最高/a 能/v 达到/v 多少/r
 水/n 占/v 人体/n 重量/n 的/u 百分之/m 多少/r
 “/wp 环/v 肥/a 燕瘦/n ”/wp 中/nd 的/u “/wp 燕/n ”/wp 指/v 的/u 是/v 谁/r
 中国/ns 是/v 世界/n 第几/m 大/a 国家/n
+中国/ns 自行/d 研制/v 的/u 全球/n 卫星/n 定位/v 与/c 通信/v 系统/n 叫/v 什么/r 名字/n
 曾/d 获得/v 1990年/nt 诺贝尔/nh 和平奖/n ，/wp 苏联/ns 最后/nd 一/m 任/q 总书记/n 是/v 谁/r
 俄罗斯/ns 的/u 面积/n 是/v 多少/r
+西晋/nt 开国/b 皇帝/n 司马炎/nh 的/u 父亲/n 叫/v 什么/r 名字/n
 收看/v 奥运会/j 比赛/v 中/nd ，/wp 在/p 运动员/n 名字/n 后面/nd 写/v 有/v “/wp AUS/ws ”/wp 表示/v 该/r 运动员/n 是/v 来自/v 哪个/r 国家/n
 奥运会/j 传统/n 比赛/v 项目/n “/wp 赛艇/n ”/wp 起源/v 于/p 欧洲/ns 哪个/r 国家/n
 人眼/n 能/v 看到/v 的/u 光/n 的/u 最/d 大/a 频率/n 是/v 多少/r
@@ -1619,9 +1897,11 @@ CPU/ws 的/u 频率/n 最高/a 能/v 达到/v 多少/r
 世界/n 上/nd 第一/m 例/q 试管婴儿/n 哪年/nt 出生/v
 歌词/n “/wp 多少/r 人/n 曾/d 爱慕/v 你/r 年轻/a 时/n 的/u 容颜/n ，/wp 可知/v 谁/r 愿/v 岁月/n 的/u 变迁/v ”/wp 出自/v 哪/r 位/q 内地/nl 组合/v 的/u 歌曲/n 《/wp 一生/n 有/v 你/r 》/wp
 中国/ns 花样/n 滑冰队/n 著名/a 的/u 夫妻/n 档/n 运动员/n ，/wp 丈夫/n 是/v 赵宏博/nh ，/wp 妻子/n 是/v 谁/r
+《/wp 哈利波特/nh 》/wp 系列/n 中/nd ，/wp 主人公/n 哈利波特/nh 的/u 宠物/n 猫头鹰/n 的/u 名字/n 是/v
 青年/n 时期/n 是/v 人生/n 中/nd 的/u 第几/m 个/q 时期/n
 “/wp 其实/d 地上/nl 本/d 没有/v 路/n ，/wp 走/v 的/u 人/n 多/v 了/u ，/wp 也/d 便/d 成/v 了/u 路/n ”/wp 是/v 哪/r 位/q 作家/n 说/v 的/u
 谁/r 发明/v 了/u 造纸术/n
+陈忠实/nh 的/u 长篇小说/i 《/wp 白鹿原/ns 》/wp 中/nd 白嘉轩/n 的/u 长子/n 叫/v 什么/r 名字/n
 夏普/nz 电器/n 是/v 哪个/r 国家/n 的/u 品牌/n
 美国/ns 钢铁/n 工业/n 的/u 中心/n ，/wp 有/v “/wp 世界/n 钢铁/n 之/u 都/n ”/wp 之/u 称/n 的/u 是/v 哪/r 座/q 城市/n
 珠穆朗玛峰/ns 位于/v 我国/n 与/p 哪个/r 国家/n 的/u 交界处/n
@@ -1654,6 +1934,7 @@ CPU/ws 的/u 频率/n 最高/a 能/v 达到/v 多少/r
 因/c 7/m 夺/v 法网/n 冠军/n 而/c 成为/v 史/n 上/nd 拿下/v 法网/n 冠军/n 最/d 多/a 的/u 球员/n 是/v 谁/r
 中国/ns 面积/n 第二/m 大/a 的/u 城市/n 是/v 哪个/r 城市/n
 朱基/nh 从/p 哪年/nt 到/p 哪/r 年/q 在/p 清华大学/ni 学习/v
+曾/d 炮击/v 冬宫/ns 宣告/v 十月革命/nz 开始/v 的/u 巡洋舰/n 叫/v 什么/r 名字/n
 在/p 冯小刚/nh 电影/n 《/wp 非诚勿扰/i 》/wp 中/nd 饰演/v 梁笑笑/v 一角/n ，/wp 以/c 性感/a 丰唇/n 闻名/v 的/u 台湾/ns 女星/n 是/v 谁/r
 我/r 平时/nt 说/v 的/u 9月/nt 中旬/nt ，/wp “/wp 旬/n ”/wp 一般/a 为/v 多少/r 天/q
 太阳/n 和/c 地球/n 的/u 距离/n 是/v 多少/r
@@ -1676,11 +1957,13 @@ CPU/ws 的/u 频率/n 最高/a 能/v 达到/v 多少/r
 战国/nt 时期/n ，/wp 曾/d 与/p 孙膑/nh 一同/d 师从/v 鬼谷子/n ，/wp 并且/c 设计/v 陷害/v 孙膑/nh 的/u 魏国/n 将领/n 是/v 谁/r
 “/wp 人生/n 自古/d 谁/r 无/v 死/a ，/wp 留/v 取/v 丹心/n 照/v 汗青/n ”/wp 这/r 句/q 话/n 是/v 谁/r 说/v 的/u
 微缩/v 景观/n “/wp 锦绣/b 中华/nz ”/wp 位于/v 我国/n 哪个/r 城市/n
+金庸/nh 小说/n 《/wp 倚/v 天/n 屠/v 龙/n 记/n 》/wp 中/nd ，/wp 金毛/n 狮王/n 叫/v 什么/r 名字/n
 黄瓜/n 的/u 内部/nd 比/p 外面/nd 的/u 空气/n 低/a 多少/m 度/q
 世界/n 上/nd 哪个/r 国家/n 的/u 人口/n 最/d 少/a
 罗马/ns 法/n 用/p 什么/r 语言/n 记载/v
 Keck/ws 望远镜/n 在/p 哪里/r
 传统/a 文化/n 中/nd ，/wp 某人/r 比/p 别人/r 大/a “/wp 一/m 轮/q ”/wp 是/v 大/a 多少/r 岁/q
+梦工厂/nz 公司/n 出品/v 的/u 绿色/n 怪物/n 和/c 公主费/n 欧娜/nh 的/u 爱情/n 故事/n 系列/n 动画/n 电影/n ，/wp 叫/v 什么/r 名字/n
 名著/n 《/wp 三国演义/nz 》/wp 中/nd ，/wp “/wp 辕门/ns 射戟/v ”/wp 的/u 武将/n 是/v 谁/r
 谁/r 是/v 莫奈/nh
 曾/d 获得/v 1990年/nt 诺贝尔/nh 和平奖/n ，/wp 为/p 结束/v “/wp 冷战/n ”/wp 做出/v 重大/a 贡献/n 的/u 人/n 是/v 谁/r
@@ -1703,9 +1986,11 @@ Keck/ws 望远镜/n 在/p 哪里/r
 代表作/n 是/v 《/wp 天/n 黑/a 黑/a 》/wp 《/wp 遇见/v 》/wp 《/wp 神奇/a 》/wp 的/u 新加坡/ns 国宝级/b 女/b 歌手/n 是/v 谁/r
 赤道几内亚/ns 的/u 首都/n 是/v 哪/r 座/q 城市/n
 法国/ns 的/u 旅游/v 胜地/n 哪里/r 是/v 世界/n 著名/a 的/u 薰衣草/n 产地/n 之一/r
+111/m 这/r 棵/q 黄山/ns 上/nd 标志性/n 的/u 松树/n 叫/v 什么/r 名字/n
 在/p 希腊/ns 神话/n 中/nd ，/wp 因/p 冒犯/v 雅典娜/nz ，/wp 头发/n 变成/v 毒蛇/n 的/u 女妖/n 是/v 谁/r
 克罗地亚/ns 的/u 首都/n 是/v 哪个/r 城市/n
 中国/ns 人口/n 最/d 多/a 的/u 城市/n 多少/r 人/n
+《/wp 红楼梦/nz 》/wp 中/nd ，/wp 甄士隐/v 被/p 拐/v 走/v 的/u 女儿/n 叫/v 什么/r 名字/n
 白俄罗斯/ns 的/u 首都/n 是/v 哪个/r 城市/n
 主演/v 了/u 电视剧/n 《/wp 我/r 叫/v 金三顺/nh 》/wp ，/wp 电影/n 《/wp 晚秋/nt 》/wp 的/u 韩国/ns 著名/a 男/b 明星/n 是/v 谁/r
 大米/n 的/u 价格/n 指数/n 是/v 多少/r
@@ -1762,11 +2047,15 @@ F1/ws 史/n 上/nd 第一/m 位/q 黑人/n 车手/n ，/wp 也/d 是/v F1/ws 史
 电机/n 的/u 工作/v 频率/n 应选/v 在/p 多少/r 赫兹/nh
 被/p 誉为/v 乐圣/n 音乐家/n 的/u 是/v 谁/r
 台湾/ns 歌手/n 张宇/nh 的/u 老婆/n ，/wp 《/wp 月亮/n 惹/v 的/u 祸/n 》/wp 《/wp 用心良苦/i 》/wp 的/u 词作者/n 是/v 谁/r
+合理/v 波特/nz 系列/n 电影/n 的/u 第一/m 部/q 叫/v 什么/r 名字/n
+《/wp 赌神/n 3/m 》/wp 中/nd 的/u 插曲/n 叫/v 什么/r 名字/n
 《/wp 西游记/nz 》/wp 中/nd 孙悟空/nh 的/u 金箍棒/n 是/v 向/p 谁/r 借/v 的/u
+陈奕迅/nh 的/u 经典/n 国语/n 歌曲/n 《/wp 爱情/n 转移/v 》/wp 的/u 同曲/n 粤语/nz 歌曲/n 叫/v 什么/r 名字/n
 代表作/n 有/v 《/wp 恭喜发财/i 》/wp 的/u 第一/m 届/q “/wp 中国/ns 娃娃/n ”/wp 组合/n 是/v 来自/v 于/p 哪个/r 国家/n
 出演/v 了/u 《/wp 断背山/nz 》/wp 《/wp 一/m 天/q 》/wp 《/wp 公主/n 日记/n 》/wp 的/u 美国/ns 著名/a 女/b 影星/n 是/v 谁/r
 “/wp 水浒/nz 108/m 将/n ”/wp 中/nd ，/wp “/wp 镇/n 三山/nz ”/wp 是/v 谁/r 的/u 绰号/n
 家里/nl 住房/n 面积/n 达到/v 多少/r ，/wp 才/c 能/v 享受/v 房屋/n 拆迁/v 保底/v 政策/n
+由/p 管虎/nh 导演/n ，/wp 黄渤/nh 扮演/v 牛结实/a 这/r 一/m 角色/n 的/u 悬疑/a 喜剧/n 电影/n 的/u 名字/n 是/v
 商品房/n 共有/v 建筑/n 面积/n 应/v 摊/v 多少/r
 旧金山/ns 位于/v 美国/ns 的/u 哪个/r 地区/n
 “/wp 现代/nt 奥林匹克/nz 之/u 父/n ”/wp 是/v 谁/r
@@ -1790,20 +2079,26 @@ F1/ws 史/n 上/nd 第一/m 位/q 黑人/n 车手/n ，/wp 也/d 是/v F1/ws 史
 谁/r 是/v 查尔斯.琳德伯格/nh
 南/j 澳大利亚/ns 首府/n ，/wp 也/d 是/v 澳大利亚/ns 工商业/j 中心/n 之一/r 的/u 城市/n 是/v 哪/r 座/q 城市/n
 唐宋/nt 八/m 大家/r 之一/r ，/wp 也/d 是/v 北宋/nt 时期/n 最/d 伟大/a 的/u 改革家/n 是/v 谁/r
+金庸/nh 小说/n 《/wp 射/v 雕/v 英雄传/n 》/wp 中/nd ，/wp 大理/ns 段氏/nh 的/u 绝学/n 也/d 是/v 欧阳锋/nh 蛤蟆功/nh 的/u 克星/n 招式/n 叫/v 什么/r 名字/n
 2006年/nt 以/p 19/m 个/q 冠军/n 头衔/n 超越/v 邓亚萍/nh 的/u 成为/v 中国/ns 获得/v 世界/n 冠军/n 最/d 多/a 的/u 乒乓球/n 选手/n 是/v 谁/r
 哪/r 座/q 城市/n 是/v 乌干达/ns 的/u 首都/n
 世界/n 上/nd 迄今为止/i 最高/a 风速/n 是/v 多少/r
+被/p 号称/v “/wp 台湾/ns 第一/m 美女/n 主播/n ”/wp 曾经/d 是/v 周杰伦/nh 的/u 女友/n 的/u 主持人/n 叫/v 什么/r 名字/n
 执导/v 电影/n 《/wp 这个/r 杀手/n 不/d 太/d 冷/a 》/wp 《/wp 第五/m 元素/n 》/wp 的/u 法国/ns 导演/n 是/v 谁/r
 电影/n 《/wp 肖申克/nh 的/u 救赎/n 》/wp 原著/n 作者/n 是/v 谁/r
 四/m 大/a 名著/n 中/nd 《/wp 西游记/nz 》/wp 的/u 作者/n 是/v 谁/r
+内地/nl 著名/a 演员/n 佟大为/nh 的/u 老婆/n 叫/v 什么/r 名字/n
 “/wp 云中鹤/n ”/wp 是/v 我国/n 近代/nt “/wp 新月派/n ”/wp 哪/r 位/q 著名/a 作家/n 的/u 笔名/n
+金庸/nh 的/u 小说/n 《/wp 神雕侠侣/n 》/wp 中/nd ，/wp 郭芙/nh 的/u 丈夫/n 也/d 是/v 丐帮/v 帮主/n 叫/v 什么/r 名字/n
 哪个/r 国家/n 举办/v 了/u 000年/nt 奥运会/j
 现任/b 中超/j 北京/ns 国安/nz 足球队/n 的/u 主教练/n 是/v 谁/r
 可/d 申请/v 使用/v 的/u 民用/b 频段/n 是/v 多少/r
+中国/ns 自行/d 研制/v 的/u 全球/n 卫星/n 定位/v 与/c 通信/v 系统/n 叫/v 什么/r 名字/n
 BT/ws 一般/a 下载/v 速度/n 是/v 多少/r 啊/u
 以/p 双子塔/n 为/v 地标/n 的/u 马来西亚/ns 首都/n 是/v 哪个/r 城市/n
 峨眉山/ns 位于/v 我国/n 哪个/r 省份/n
 牛顿/nh 是/v 谁/r
+清朝/nt 皇帝/n 康熙/nh 的/u 名字/n 是/v 什么/r
 有/v 谜幻/n 王子/n 之/u 称/n ，/wp 代表作/n 有/v 《/wp 说谎/v 》/wp 《/wp 你/r 是/v 我/r 的/u 眼/n 》/wp 的/u 台湾/ns 新生代人/n 气/n 歌手/n 是/v 谁/r
 发明/v 了/u 电话/n 的/u 科学家/n 是/v 谁/r
 海底/n 最低/a 温度/n 可能/v 达到/v 多少/r
@@ -1812,180 +2107,86 @@ BT/ws 一般/a 下载/v 速度/n 是/v 多少/r 啊/u
 中国/ns 工商/n 银行/n 的/u 不良/a 贷款/n 比率/n 是/v 多少/r
 有/v “/wp AC/ws 米兰/ns 王子/n ”/wp 和/c “/wp 红/a 黑/a 之/u 魂/n ”/wp 称号/n 的/u 前/nd AC/ws 米兰队/ni 队长/n 是/v 谁/r
 2008年/nt 春季/nt 奥运会/j 由/p 哪个/r 国家/n 举办/v
+金庸/nh 名著/n 《/wp 射雕英雄传/nz 》/wp 中/nd 郭啸天/nh 之/u 妻/n ，/wp 郭靖/nh 之/u 母/n 叫/v 什么/r 名字/n
 我国/n 国歌/n 《/wp 义勇军/n 进行曲/n 》/wp 的/u 词作者/n 是/v 谁/r
 在/p NBA/ws 明尼苏达/ns 森林狼队/ni 有着/v “/wp 金童/n ”/wp 之/u 称/v 的/u 西班牙/ns 球星/n 是/v 谁/r
 欧洲/ns 第二/m 大港/n ，/wp 也/d 是/v 世界/n 上/nd 最/d 大/a 钻石/n 加/v 工地/n 的/u 是/v 比利时/ns 哪/r 座/q 城市/n
+首先/c 讨论/v 黑洞/n 的/u 一/m 位/q 剑桥/ns 人/n 叫/v 什么/r 名字/n
 近日/nt 转会/v 至/p NBA/ws 湖人队/ni 的/u 控球/n 后卫/n 纳什/nh 是/v 哪个/r 国家/n 的/u 运动员/n
 等/v 腰直角/n 三角形/n 的/u 两/m 个/q 底角/n 是/v 多少/r 度/q
 有/v “/wp MagicCity/ws ”/wp 之/u 称/n ，/wp 意/n 为/v 魔幻/a 都市/n 的/u 魔都/n 是/v 指/v 我国/n 哪/r 座/q 城市/n
-澳大利亚/ns 是/v 南半球/n 面积/n 第几/m 大/a 的/u 国家/n ？/wp
-阿根廷/ns 国家/n 足球队/n 赢得/v 过/u 多少/r 次/q 美洲杯/nz 冠军/n ？/wp
-中国/ns 历史/n 上/nd 最/d 杰出/a 的/u 浪漫主义/n 诗人/n 是/v ？/wp
-《/wp 华英/nz 字典/n 》/wp 的/u 作者/n 是/v ？/wp
-《/wp 资治通鉴/nz 》/wp 的/u 撰写/v 一共/d 耗时/v 多少/r 年/q ？/wp
-最后/nd 宣布/v 废除/v 奴隶/n 制度/n 的/u 行政/n 地区/n 是/v ？/wp
-国际/n 海洋法/n 法庭/n 的/u 总部/n 位于/v 哪个/r 国家/n ？/wp
-《/wp 苏德/nh 互不/d 侵犯/v 条约/n 》/wp 的/u 签订/v 地点/n 是/v ？/wp
-元谋人/n 化石/n 发现/v 于/p 中国/ns 的/u 哪/r 一/m 省份/n ？/wp
-“/wp 中华民族/n ”/wp 一/m 词/n 最/d 早/a 由/p 谁/r 提出/v ？/wp
-欧洲/ns 的/u 第一/m 所/q 大学/n 是/v ？/wp
-图书馆/n 学/v 最/d 早/a 由/p 谁/r 提出/v ？/wp
-约翰纳什/nh 的/u 博士/n 学位/n 是/v 在/p 哪/r 所/q 大学/n 获得/v 的/u ？/wp
-世界/n 上/nd 唯一/d 拥有/v 三/m 个/q 首都/n 的/u 国家/n 是/v ？/wp
-中国/ns 近代/nt 第一/m 所/q 国立/b 综合性/n 大学/n 是/v ？/wp
-到/p 2012年/nt 为止/v ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-北京/ns 奥运会/j 上/nd 点燃/v 主/a 火炬/n 的/u 人/n 一共/d 获得/v 过/u 多少/r 个/q 世界/n 冠军/n ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
-澳大利亚/ns 是/v 南半球/n 面积/n 第几/m 大/a 的/u 国家/n ？/wp
-阿根廷/ns 国家/n 足球队/n 赢得/v 过/u 多少/r 次/q 美洲杯/nz 冠军/n ？/wp
-中国/ns 历史/n 上/nd 最/d 杰出/a 的/u 浪漫主义/n 诗人/n 是/v ？/wp
-《/wp 华英/nz 字典/n 》/wp 的/u 作者/n 是/v ？/wp
-《/wp 资治通鉴/nz 》/wp 的/u 撰写/v 一共/d 耗时/v 多少/r 年/q ？/wp
-最后/nd 宣布/v 废除/v 奴隶/n 制度/n 的/u 行政/n 地区/n 是/v ？/wp
-国际/n 海洋法/n 法庭/n 的/u 总部/n 位于/v 哪个/r 国家/n ？/wp
-《/wp 苏德/nh 互不/d 侵犯/v 条约/n 》/wp 的/u 签订/v 地点/n 是/v ？/wp
-元谋人/n 化石/n 发现/v 于/p 中国/ns 的/u 哪/r 一/m 省份/n ？/wp
-“/wp 中华民族/n ”/wp 一/m 词/n 最/d 早/a 由/p 谁/r 提出/v ？/wp
-欧洲/ns 的/u 第一/m 所/q 大学/n 是/v ？/wp
-图书馆/n 学/v 最/d 早/a 由/p 谁/r 提出/v ？/wp
-约翰纳什/nh 的/u 博士/n 学位/n 是/v 在/p 哪/r 所/q 大学/n 获得/v 的/u ？/wp
-世界/n 上/nd 唯一/d 拥有/v 三/m 个/q 首都/n 的/u 国家/n 是/v ？/wp
-中国/ns 近代/nt 第一/m 所/q 国立/b 综合性/n 大学/n 是/v ？/wp
-到/p 2012年/nt 为止/v ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-北京/ns 奥运会/j 上/nd 点燃/v 主/a 火炬/n 的/u 人/n 一共/d 获得/v 过/u 多少/r 个/q 世界/n 冠军/n ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
-澳大利亚/ns 是/v 南半球/n 面积/n 第几/m 大/a 的/u 国家/n ？/wp
-阿根廷/ns 国家/n 足球队/n 赢得/v 过/u 多少/r 次/q 美洲杯/nz 冠军/n ？/wp
-中国/ns 历史/n 上/nd 最/d 杰出/a 的/u 浪漫主义/n 诗人/n 是/v ？/wp
-《/wp 华英/nz 字典/n 》/wp 的/u 作者/n 是/v ？/wp
-《/wp 资治通鉴/nz 》/wp 的/u 撰写/v 一共/d 耗时/v 多少/r 年/q ？/wp
-最后/nd 宣布/v 废除/v 奴隶/n 制度/n 的/u 行政/n 地区/n 是/v ？/wp
-国际/n 海洋法/n 法庭/n 的/u 总部/n 位于/v 哪个/r 国家/n ？/wp
-《/wp 苏德/nh 互不/d 侵犯/v 条约/n 》/wp 的/u 签订/v 地点/n 是/v ？/wp
-元谋人/n 化石/n 发现/v 于/p 中国/ns 的/u 哪/r 一/m 省份/n ？/wp
-“/wp 中华民族/n ”/wp 一/m 词/n 最/d 早/a 由/p 谁/r 提出/v ？/wp
-欧洲/ns 的/u 第一/m 所/q 大学/n 是/v ？/wp
-图书馆/n 学/v 最/d 早/a 由/p 谁/r 提出/v ？/wp
-约翰纳什/nh 的/u 博士/n 学位/n 是/v 在/p 哪/r 所/q 大学/n 获得/v 的/u ？/wp
-世界/n 上/nd 唯一/d 拥有/v 三/m 个/q 首都/n 的/u 国家/n 是/v ？/wp
-中国/ns 近代/nt 第一/m 所/q 国立/b 综合性/n 大学/n 是/v ？/wp
-到/p 2012年/nt 为止/v ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-北京/ns 奥运会/j 上/nd 点燃/v 主/a 火炬/n 的/u 人/n 一共/d 获得/v 过/u 多少/r 个/q 世界/n 冠军/n ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
-1945-1950/m 年间/n 收藏/v 清明上河图/n 的/u 博物馆/n 位于/v 哪/r 一/m 座/q 城市/n ？/wp
-巩俐/nh 获得/v 香港/ns 电影/n 金像奖/nz 最佳/a 女/b 主角/n 的/u 影片/n 导演/n 是/v 谁/r ？/wp
-美国/ns 第一/m 颗/q 实验性/n 原子弹/n 在/p 哪里/r 试/v 爆/v 成功/a ？/wp
-拥有/v 世界/n 前/nd 两/m 位/q 的/u 母语/n 使用者/n 的/u 语言/n 是/v ？/wp
-世界/n 上/nd 人口/n 密度/n 前/nd 两/m 位/q 的/u 国家/n 是/v ？/wp
-任天堂/nh 的/u 首/m 间/q 零售/v 商店/n 位于/v 哪个/r 城市/n ？/wp
-中国/ns 四/m 大/a 佛教/nz 名山/n 之/u 首/n 位于/v 哪/r 一个/m 省份/n ？/wp
-历史/n 上/nd 共有/v 多少/r 个/q 朝代/n 在/p 西安/ns 建都/v ？/wp
-1916年/nt 至/p 1927年/nt ，/wp 北京大学/ni 的/u 校长/n 是/v ？/wp
-中国/ns 象棋/n 双方/n 各/r 有/v 多少/r 枚/q 棋子/n ？/wp
-截止/v 到/v 2012年/nt ，/wp 联合国/ni 共有/v 多少/r 个/q 成员国/n ？/wp
-文艺复兴/i 的/u 发源于/v 意大利/ns 的/u 哪个/r 城市/n ？/wp
-西班牙/ns 国家/n 德比/j 的/u 两/m 支/q 球队/n 一共/d 夺得/v 过/u 多少/r 次/q 西甲/nz 冠军/n ？/wp
-莱昂纳多/nh 第一/m 次/q 获得/v 奥斯卡/nz 提名/v 是/v 多少/r 岁/q ？/wp
-光学/n 显微镜/n 最高/a 能/v 放大/v 多少/r 倍/q ？/wp
-目前/nt 市面/n 上/nd 流通/v 的/u 主要/b 人民币/n 是/v 第几/m 套/q ？/wp
-中国/ns 人口/n 最/d 多/a 的/u 少数民族/n 是/v ？/wp
-《/wp 难忘/v 今宵/nt 》/wp 是/v 为/p 第几/m 届/q 春晚/j 创作/n 的/u ？/wp
-世界/n 第二/m 高峰/n 的/u 海拔/n 是/v ？/wp
-Python/ws 的/u 官方/n 解释器/n 采用/v 什么/r 语言/n 编写/v ？/wp
+伊朗/ns 的/u 官方/n 语言/n 是/v 波斯语/n
+位于/v 尼罗河/ns 三角洲/n 顶端/n 的/u 城市/n 是/v 开罗/ns
+有/v “/wp 东方/nd 瑞士/ns ”/wp 之/u 称/v 的/u 城市/n 是/v 大理/ns
+少年儿童/i 每日/r 的/u 正常/a 睡眠/v 时间/n 应/v 是/v 多少/r 小时/n 9/m ～/wp 10/m
+亚洲/ns 耕地/n 面积/n 最/d 大/a 的/u 国家/n 是/v 印度/ns
+《/wp 风俗论/n 》/wp 的/u 作者/n 是/v 伏尔泰/nh
+世界/n 上/nd 采煤/v 最/d 早/a 的/u 国家/n 是/v 英国/ns
+不足/v 2/m 千/m 米/q ，/wp 世界/n 上/nd 面积/n 第二/m 小/a 国家/n 的/u 是/v 摩纳哥/ns
+非洲/ns 石油/n 产量/n 最/d 多/a 的/u 国家/n 是/v 尼日利亚/ns
+兴凯湖/ns 是/v 哪/r 两/m 个/q 国家/n 共有/v 中/j 俄/j
+我国/n 戏剧/n 史/n 上/nd 最/d 早/a 、/wp 最/d 杰出/a 的/u 现实主义/n 戏曲/n 作家/n 是/v 王实甫/nh
+长江/ns 中下游/n 地区/n 是/v 中国/ns 稻米/n 和/c 淡水鱼/n 主要/b 产区/n ，/wp 所以/c 有/v “/wp 鱼米之乡/i ”/wp 的/u 美称/n
+摇篮曲/n 的/u 作者/n 是/v 舒伯特/nh
+一日/nt 之中/nd ，/wp 海潮/n 有/v 两/m 个/q 涨落/n 周期/n ，/wp 落差/n 一般/d 在/p 多少/m 米/q 之间/nd 3/m —/wp 5/m 米/q
+古代/nt 著名/a 的/u 水利工程/i 都江堰/ns 是/v 谁/r 设计/v 的/u 李冰/nh 父子/n
+张骞/nh 第一/m 次/q 出使/v 西域/n 到达/v 大月氏/n 时/n ，/wp 大月氏/nh 已/d 占有/v 哪里/r ，/wp 从而/c 已/d 成为/v 中亚/ns 一/m 大/a 强国/n 。/wp
+有/v “/wp 绿城/nz ”/wp 之/u 称/v 的/u 城市/n 是/v 郑州/ns
+有/v “/wp 白金/n 之/u 国/n ”/wp 别称/v 的/u 国家/n 是/v 乌兹别克斯坦/ns
+亚洲/ns 第一/m 个/q 主办/v 夏季/nt 奥运会/j 的/u 城市/n 是/v 汉城/ns
+在/p 我国/n ，/wp 被/p 誉为/v “/wp 数学/n 诗人/n ”/wp 的/u 是/v 陈/nh 中伟/nh
+《/wp 天演论/n 》/wp 的/u 作者/n 是/v 贾仪/nh
+中国/ns 名山/n 北岳/ns 恒山/ns 在/p 哪里/r 山西/ns 浑源/ns
+哪个/r 年龄/n 的/u 人/n 话/n 最/d 多/a 6/m ～/wp 12/m 岁/q 儿童/n
+世界/n 上/nd 最/d 早/a 种植/v 棉花/n 的/u 国家/n 是/v 印度/ns
+在/p 我国/n ，/wp 自古/d 就/d 有/v “/wp 天府/n 之/u 国/n ”/wp 美誉/n 的/u 地区/n 是/v 四川/ns 盆地/n
+“/wp 息壤/n ”/wp 是/v 谁/r 用/v 来/v 治水/v 的/u 法宝/n
+世界/n 名画/n 《/wp 和平鸽/n 》/wp 的/u 作者/n 是/v 凡/d 高/a
+建立/v 北魏/nt 的/u 少数民族/n 是/v 鲜卑/n
+第一/m 个/q 实施/v 三/m 权/n 分立/v 的/u 国家/n 是/v 美国/ns
+《/wp 局外人/n 》/wp 作者/n 是/v 加缪/nh
+《/wp 历史/n 研究/v 》/wp 的/u 作者/n 是/v 汤/n 因/c 比/p
+我国/n 面积/n 最/d 大/a 、/wp 陆地/n 边境线/n 最/d 长/a 、/wp 毗邻/v 国家/n 最/d 多/a 的/u 是/v 河北/ns 省级/b 行政区/n
+古代/nt 被/p 称为/v 大食/n 的/u 国家/n 是/v 阿拉伯/ns
+苏伊士/ns 运河/n 是/v 哪个/r 国家/n 的/u 埃及/ns
+喜马拉雅山/ns 的/u 主峰/n 珠穆朗玛峰/ns 耸立/v 在/p 中国/ns 与/p 尼泊尔/ns 边境/nl 上/nd ，/wp 海拔/n 8848/m 米/q ，/wp 是/v 世界/n 第一/m 高峰/n
+“/wp 四月八/nt ，/wp 黑/a 霜杀/n ”/wp 是/v 我国/n 哪个/r 地区/n 气象/n 俗语/n 西北/nl
+柴达木/ns 盆地/n 平均/a 海拔/n 在/p 3000/m 米/q 左右/m ，/wp 是/v 中国/ns 地势/n 最高/a 的/u 盆地/n 盆地/n 里/nd 盐矿/n 丰富/a ，/wp 据/p 初步/d 估计/v ，/wp 足够/v 全世界/n 的/u 人/n 食用/v 1万/m 年/q
+以下/nd 哪个/r 国家/n 建/v 有/v 消防/b 博物馆/n 罗马尼亚/ns
+中亚/ns 地/u 跨/v 亚/j 欧/j 两/m 洲/n 的/u 国家/n 是/v 哈萨克斯坦/ns
+我国/n 自古/d 就/d 有/v “/wp 天府/n 之/u 国/n ”/wp 美誉/n 的/u 地区/n 是/v 四川/ns 盆地/n
+明朝/nt “/wp 脸/n 涂/v 胡椒粉/n 被/p 仆役/n 抬/v 着/u 四处/d 走/v ”/wp 的/u 是/v 谁/r 杨慎/nh
+《/wp 静静的/z 顿河/ns 》/wp 的/u 作者/n 是/v 高尔基/nh
+现在/nt 美国/ns 国旗/n 星条旗/n 上/nd 有/v 多少/r 颗/q 星/n 50/m 颗/q
+世界/n 上/nd 铁路/n 最/d 多/a 的/u 国家/n 是/v 美国/ns
+我国/n 最/d 早/a 的/u 正规/a 大学/n 是/v “/wp 长安太学/n ”/wp
+目前/nt 世界/n 上/nd 原煤/n 产量/n 最/d 多/a 的/u 国家/n 是/v 中国/ns
+“/wp 长三角/nz ”/wp 地区/n 指/v 的/u 是/v 上海/ns 、/wp 江苏/ns 和/c 四川省/ns
+领土/n 面积/n 居/v 世界/n 前/nd 四/m 位/q 的/u 国家/n 是/v 俄罗斯/ns 、/wp 中国/ns 、/wp 加拿大/ns 、/wp 美国/ns
+我国/n 夏季/nt “/wp 早/a 穿/v 皮袄/n 晚/nt 穿/v 纱/n ，/wp 抱/v 着/u 火炉/n 吃/v 西瓜/n ”/wp 的/u 地区/n 是/v 西北/nl 内陆/nl
+瓯绣/n ”/wp 是/v 哪里/r 出产/v 的/u 刺绣品/n 温州/ns
+素有/v “/wp 锡都/n ”/wp 之/u 称/v 的/u 城市/n 是/v 哪/r 一/m 城市/n 个/q 旧/a
+发动/v 第二/m 次/q 鸦片战争/nz 的/u 国家/n 是/v 美/j 、/wp 俄/j
+19/m 世纪/n 六七十/m 年代/n ，/wp 出兵/v 侵略/v 我国/n 台湾/ns 的/u 国家/n 是/v 美国/ns 和/c 日本/ns
+世界/n 上年/nt 降雨量/n 最/d 少/a 的/u 城市/n 是/v 拉萨/ns
+水能/n 资源/n 最/d 丰富/a 的/u 地区/n 是/v 西南/nl 地区/n
+哪个/r 国家/n 有/v “/wp 千/m 湖/n 国/n ”/wp 的/u 称号/n 芬兰/ns
+《/wp 论语/nz 》/wp 的/u 作者/n 是/v 孔子/nh
+《/wp 背影/n 》/wp 的/u 作者/n 是/v 朱自清/nh
+发射/v 第一/m 颗/q 人造卫星/n 的/u 国家/n 是/v 前/nd 苏联/ns
+以/p 北京/ns 天津/ns 唐山/ns 为/v 中心/n 的/u 京/j 津/j 唐/j 地区/n 是/v 中国/ns 北方/nd 最/d 大/a 的/u 综合性/n 工业/n 基地/n
+窗户/n 最/d 早/a 的/u 名字/n 是/v 风/n 的/u 眼睛/n
+被/p 称为/v “/wp 国际/n 会议/n 之/u 都/n ”/wp 的/u 城市/n 是/v 日内瓦/ns
+慕田峪/ns 长城/ns 是/v 谁/r 在/p 北齐/nt 长城/ns 遗址/n 上/nd 督造/v 而/c 成/v 徐达/nh
+古巴/ns 的/u 官方/n 语言/n 是/v 西班牙语/nz
+喜马拉雅山/ns 位于/v 中国/ns 西藏/ns 同/p 印度/ns 尼泊尔/ns 等/u 国/n 的/u 边境/nl 上/nd ，/wp 主脉/n 平均/a 海拔/n 超过/v 6000/m 米/q ，/wp 是/v 世界/n 上/nd 最/d 雄伟/a 的/u 山脉/n
+我国/n 蓝宝石/n 的/u 主要/b 产地/n 在/p 哪里/r 山东/ns
+长城/ns 横跨/v 我国/n 多少/r 省/n （/wp 包括/v 直辖市/n 和/c 自治区/n ）/wp 7/m 个/q
+我国/n 第一/m 艘/q 航母/n 名字/n 是/v 以/p 河北省/ns 命名/v 的/u
+下列/b 地形/n 湖泊/n 与/c 分布/v 地区/n 不/d 正确/a 的/u 是/v 死海—北非/i
+《/wp 新/a 五代史/n 》/wp 的/u 作家/n 是/v 欧阳修/nh
+“/wp 反者/n 道/n 之/u 动/n ”/wp 是/v 谁/r 提出/v 的/u 命题/n 老子/n
+世界/n 上/nd 华人/n 、/wp 华侨/n 最/d 集中/a 的/u 地区/n 是/v 东南亚/ns
+地处/v 长江/ns 入海口/n ，/wp 水陆/n 交通/n 便利/a 的/u 沪/j （/wp 上海/ns ）/wp 宁/j （/wp 宁波/ns ）/wp 杭/j （/wp 杭州/ns ）/wp 地区/n 是/v 中国/ns 最/d 大/a 的/u 综合性/n 工业/n 中心/n
+我国/n 第一/m 位/q 女/b 诗人/n 是/v 李清照/nh
+《/wp 第九/m 交响曲/n 》/wp (/wp 即/v 《/wp 合唱/v 交响曲/n 》/wp )/wp 的/u 作者/n 是/v 贝多芬/nh

@@ -72,12 +72,13 @@ clf_rules_cent_words = {
 }
 
 clf_rules_cent_word_pos = {
-    "nr": "Q_person",
+    "nh": "Q_person",
     "ns": "Q_place",
-    "nt": "Q_organization",
-    "t": "Q_time",
+    "nl": "Q_place",
+    "ni": "Q_organization",
+    "m": "Q_number",
+    "nt": "Q_time",
     "nz": "Q_other",
-    "nl": "Q_other",
 }
 
 def build_w2n_mapping():
@@ -309,7 +310,8 @@ def main():
     clfs = train_clf()
 
 #    process(clfs, "questions/debug_question.txt")
-    process(clfs, "questions/q_facts_segged.txt")
+#    process(clfs, "questions/q_facts_segged.txt")
+    process(clfs, "questions/q_yesno_segged.txt")
 
 if __name__ == "__main__":
     main()
