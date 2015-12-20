@@ -44,14 +44,17 @@ def main():
             L = len(line)
             s = 0
             for s in range(L):
-                if line[s:].startswith("最佳答案:"):
+                if line[s:].startswith("最佳答案:") or line[s:].startswith("[专业]答案"):
                     break
-            s += 14
+            if line[s:].startswith("最佳答案"):
+                s += 14
+            elif line[s:].startswith("[专业]答案:"):
+                s += 15
             if s < L and flag == 0:
                 t = s + 1
                 while t < L and line[t:].startswith("更多") == False:
                     t += 1
-                if s < t and t-s < 100 and t-s > 1:
+                if s < t and t-s < 200 and t-s > 1:
                     fans.write("%d\t%s\n" % (qid, line[s:t].rstrip(".。 ?？，,")))
                     flag = 1
 #            words = segmentor.segment(line)
