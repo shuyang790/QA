@@ -7,4 +7,4 @@ questions/*.swp
 data_stage1/.DS_Store
 wikis/*
 *.pyc
-ltp_data
+ltp_data*
