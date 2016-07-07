@@ -32,3 +32,7 @@ A Chinese Question and Answer System
 - Answer Ranking
     - Rank (answer, passage) pairs
     - Produce final answer(s)
+   
+## Remarks
+
+This is only part of the code we wrote.
